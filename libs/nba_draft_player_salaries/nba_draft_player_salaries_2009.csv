@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,LAC *Traded to DET,Blake Griffin,PF,"6' 10""",250,United States,Oklahoma,2,"$10,340,710","$4,983,430",2009
+2,MEM *Traded to DET,Hasheem Thabeet,C,,,,Connecticut,2,"$9,252,120","$4,458,840",2009
+3,OKC *Traded to HOU,James Harden,SG,"6' 5""",220,United States,Arizona State,2,"$4,762,108","$4,004,160",2009
+4,SAC *Traded to IND,Tyreke Evans,SG,"6' 6""",220,United States,Memphis,2,"$7,491,000","$3,610,080",2009
+5,MIN *Traded to UTH,Ricky Rubio,PG,"6' 4""",190,Spain,,2,"$7,006,619",-,2009
+6,MIN *Traded to DET,Jonny Flynn,PG,,,0,Syracuse,2,"$6,161,280","$2,969,280",2009
+7,GSW ,Stephen Curry,PG,"6' 3""",190,United States,Davidson,2,"$5,624,400","$2,710,560",2009
+8,NYK *Traded to MIN,Jordan Hill,C,"6' 10""",240,United States,Arizona,2,"$5,152,800","$2,483,280",2009
+9,TOR *Traded to SAS,DeMar DeRozan,SG,"6' 7""",220,United States,Southern California,2,"$4,736,520","$2,282,640",2009
+10,MIL ,Brandon Jennings,PG,"6' 1""",170,United States,,2,"$4,499,640","$2,168,520",2009
+11,NJN *Traded to BOS,Terrence Williams,SG,,,,Louisville,2,"$4,274,520",-,2009
+12,CHA *Traded to PHI,Gerald Henderson,SG,"6' 5""",215,United States,Duke,2,"$4,060,920","$1,957,080",2009
+13,IND *Traded to CHA,Tyler Hansbrough,PF,"6' 9""",250,United States,North Carolina,2,"$3,857,760","$1,859,160",2009
+14,PHX *Traded to BKN,Earl Clark,SF,,,,Louisville,2,"$3,665,040","$1,766,280",2009
+15,DET *Traded to CLE,Austin Daye,PF,"6' 11""",220,,Gonzaga,2,"$3,481,560","$1,677,840",2009
+16,CHI *Traded to MIA,James Johnson,PF,"6' 8""",240,United States,Wake Forest,2,"$3,307,680","$1,594,080",2009
+17,PHI *Traded to NOP,Jrue Holiday,PG,"6' 4""",205,United States,California-Los Angeles,2,"$3,141,570","$1,514,280",2009
+18,MIN *Traded to WAS,Ty Lawson,PG,"5' 11""",195,United States,North Carolina,2,"$2,985,240","$1,438,680",2009
+19,ATL *Traded to MIN,Jeff Teague,PG,"6' 2""",195,United States,Wake Forest,2,"$2,850,720","$1,373,880",2009
+20,UTH *Traded to PHI,Eric Maynor,PG,,,,Virginia Commonwealth,2,"$2,736,720",-,2009
+21,NOH *Traded to IND,Darren Collison,PG,"6' 0""",175,United States,California-Los Angeles,2,"$2,627,160","$1,266,120",2009
+22,POR *Traded to DEN,Victor Claver,SF,,,,,3,"$4,000,000",-,2009
+23,SAC *Traded to MEM,Omri Casspi,SF,"6' 9""",225,Israel,,2,"$2,421,480","$1,167,000",2009
+24,DAL *Traded to PHI,B.J. Mullens,PF,,,United States,Ohio State,2,"$2,492,400","$1,120,200",2009
+25,OKC *Traded to DAL,Rodrigue Beaubois,PG,,,0,,2,"$2,231,520","$1,075,440",2009
+26,CHI *Traded to MIN,Taj Gibson,PF,"6' 9""",232,United States,Southern California,2,"$2,157,480","$1,039,800",2009
+27,MEM *Traded to BKN,DeMarre Carroll,SF,"6' 8""",215,United States,Missouri,2,"$2,095,080","$1,009,680",2009
+28,MIN *Traded to MIA,Wayne Ellington,SG,"6' 5""",200,United States,North Carolina,2,"$2,082,360","$1,003,560",2009
+29,LAL *Traded to MEM,Toney Douglas,SG,"6' 2""",195,,Florida State,2,"$2,067,240","$996,240",2009
+30,CLE *Traded to ORL,Christian Eyenga,PG,,,0,,2,"$2,120,000",-,2009
+31,SAC *Traded to LAC,Jeff Ayres,PF,"6' 9""",250,United States,Arizona State,3,"$2,104,076","$457,588",2009
+32,WAS *Traded to CLE,Jermaine Taylor,SG,,,0,Central Florida,3,"$2,390,164","$725,000",2009
+33,POR *Traded to SAS,Dante Cunningham,PF,"6' 8""",230,United States,Villanova,2,"$1,219,783","$457,588",2009
+34,DEN ,Sergio Llull,PG,,,Spain,,,-,-,2009
+35,DET *Traded to NYK,DaJuan Summers,PF,"6' 8""",240,United States,Georgetown,2,"$1,220,000",-,2009
+36,MEM *Traded to SAS,Sam Young,SF,,,,Pittsburgh,3,"$2,658,000","$824,200",2009
+37,SAS *Traded to PHX,DeJaun Blair,C,"6' 7""",270,United States,Pittsburgh,4,"$3,415,588","$457,588",2009
+38,POR *Traded to HOU,Jon Brockman,SF,,,,Washington,1,"$457,588","$457,588",2009
+39,DET *Traded to GSW,Jonas Jerebko,PF,"6' 10""",231,Sweden,,2,"$1,219,783","$457,588",2009
+40,CHA *Traded to SAS,Derrick Brown,PG,,,,Xavier,2,"$1,194,008","$457,588",2009
+41,MIL ,Jodie Meeks,SG,"6' 4""",210,United States,Kentucky,3,"$2,104,076","$457,588",2009
+42,LAL ,Patrick Beverley,PG,"6' 1""",185,United States,,,-,-,2009
+43,MIA *Traded to BKN,Marcus Thornton,SG,"6' 4""",205,United States,Louisiana State,2,"$1,219,783","$457,588",2009
+44,DET *Traded to BKN,Chase Budinger,SF,"6' 7""",215,United States,Arizona,2,"$1,508,000","$725,000",2009
+45,MIN *Traded to MEM,Nick Calathes,SG,,,United States,Florida,2,"$1,306,662",-,2009
+46,CLE *Traded to TOR,Danny Green,SG,"6' 6""",215,United States,North Carolina,2,"$1,219,783","$457,588",2009
+47,MIN ,Henk Norel,C,"6' 11""",230,Netherlands,,,-,-,2009
+48,PHX *Traded to CHA,Taylor Griffin,PF,"6' 8""",235,United States,Oklahoma,1,"$457,588","$457,588",2009
+49,CLE ,Sergey Gladyr,SG,,,,,,-,-,2009
+50,UTH ,Goran Suton,C,"6' 8""",245,Bosnia and Herzegovina,Michigan State,,-,-,2009
+51,SAS , ,,,,,,,-,-,2009
+52,IND *Traded to PHX,A.J. Price,PG,,,United States,Connecticut,3,"$2,104,076","$457,588",2009
+53,SAS *Traded to TOR,Nando De Colo,PG,,,,,2,"$2,863,000",-,2009
+54,CHA *Traded to SAS,Robert Vaden,SG,,,,Alabama-Birmingham,1,"$457,588","$457,588",2009
+55,POR *Traded to SAS,Patrick Mills,PG,"6' 0""",185,Australia,Saint Mary's,1,"$457,588",-,2009
+56,DAL ,Ahmad Nivins,PF,,,0,Saint Joseph's,,-,-,2009
+57,PHX ,Emir Preldzic,SF,,,,,,-,-,2009
+58,BOS *Traded to LAC,Lester Hudson,PG,,,,Tennessee-Martin,2,"$1,219,783","$457,588",2009
+59,LAL ,Chinemelu Elonu,SF,,,0,Texas A&M,,-,-,2009
+60,MIA ,Robert Dozier,PF,,,0,Memphis,1,"$473,604",-,2009

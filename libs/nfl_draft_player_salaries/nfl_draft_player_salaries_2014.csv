@@ -1,0 +1,257 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2014 Cap,year
+1  ,HOU , Jadeveon Clowney ,OLB,21,South Carolina,4,"$22,272,998","$14,518,544","$4,049,636",2014
+2  ,STL  from WAS, Greg Robinson ,LT,21,Auburn,4,"$21,284,098","$13,799,344","$3,869,836",2014
+3  ,JAC , Blake Bortles ,QB,22,Central Florida,4,"$20,654,810","$13,341,680","$3,755,420",2014
+4  ,BUF  from CLE, Sammy Watkins ,WR,20,Clemson,4,"$19,935,603","$12,818,620","$3,624,655",2014
+5  ,OAK , Khalil Mack ,OLB,23,Buffalo,4,"$18,676,999","$11,903,272","$3,395,818",2014
+6  ,ATL , Jake Matthews ,LT,22,Texas A&M,4,"$16,429,501","$10,268,728","$2,987,182",2014
+7  ,TB , Mike Evans ,WR,20,Texas A&M,4,"$14,631,502","$8,961,092","$2,660,273",2014
+8  ,CLE  from MIN, Justin Gilbert ,CB,22,Oklahoma State,4,"$12,833,502","$7,653,456","$2,333,364",2014
+9  ,MIN  from BUF via CLE, Anthony Barr ,OLB,22,California-Los Angeles,4,"$12,743,500","$7,588,000","$2,317,000",2014
+10  ,DET , Eric Ebron ,TE,21,North Carolina,4,"$12,249,149","$7,228,472","$2,227,118",2014
+11  ,TEN , Taylor Lewan ,LT,22,Michigan,4,"$11,485,004","$6,672,730","$2,088,183",2014
+12  ,NYG ," Odell Beckham, Jr. ",WR,21,Louisiana State,4,"$10,406,198","$5,888,144","$1,892,036",2014
+13  ,STL , Aaron Donald ,DE,22,Pittsburgh,4,"$10,136,500","$5,692,000","$1,843,000",2014
+14  ,CHI , Kyle Fuller ,CB,22,Virginia Tech,4,"$9,687,002","$5,365,092","$1,761,273",2014
+15  ,PIT , Ryan Shazier ,ILB,21,Ohio State,4,"$9,507,212","$5,234,336","$1,728,584",2014
+16  ,DAL , Zack Martin ,G,23,Notre Dame,4,"$8,967,800","$4,842,036","$1,630,509",2014
+17  ,BAL , C.J. Mosley ,ILB,21,Alabama,4,"$8,788,002","$4,711,272","$1,597,818",2014
+18  ,NYJ , Calvin Pryor ,FS,21,Louisville,4,"$8,563,253","$4,547,820","$1,556,955",2014
+19  ,MIA , Ja'Wuan James ,RT,21,Tennessee,4,"$8,428,398","$4,449,744","$1,532,436",2014
+20  ,NO  from ARI, Brandin Cooks ,WR,20,Oregon State,4,"$8,383,452","$4,417,056","$1,524,264",2014
+21  ,GB , HaHa Clinton-Dix ,FS,21,Alabama,4,"$8,338,501","$4,384,364","$1,516,091",2014
+22  ,CLE  from PHI, Johnny Manziel ,QB,21,Texas A&M,4,"$8,248,596","$4,318,980","$1,499,745",2014
+23  ,KC , Dee Ford ,OLB,23,Auburn,4,"$8,158,700","$4,253,600","$1,483,400",2014
+24  ,CIN , Darqueze Dennard ,CB,22,Michigan State,4,"$7,978,898","$4,122,835","$1,450,708",2014
+25  ,SD , Jason Verrett ,CB,22,Texas Christian,4,"$7,889,002","$4,057,456","$1,434,364",2014
+26  ,PHI  from IND via CLE, Marcus Smith ,DE,22,Louisville,4,"$7,799,088","$3,992,064","$1,418,016",2014
+27  ,ARI  from NO, Deone Bucannon ,OLB,21,Washington State,4,"$7,709,202","$3,926,692","$1,401,673",2014
+28  ,CAR , Kelvin Benjamin ,WR,23,Florida State,4,"$7,664,250","$3,894,000","$1,393,500",2014
+29  ,NE , Dominique Easley ,DT,21,Florida,4,"$7,303,549","$3,631,672","$1,327,918",2014
+30  ,SF , Jimmie Ward ,CB,22,Northern Illinois,4,"$7,112,534","$3,492,752","$1,293,188",2014
+31  ,DEN , Bradley Roby ,CB,22,Ohio State,4,"$6,952,528","$3,376,384","$1,264,096",2014
+32  ,MIN  from SEA, Teddy Bridgewater ,QB,22,Louisville,4,"$6,849,502","$3,301,456","$1,245,364",2014
+33  ,HOU , Xavier Su'a-Filo ,G,23,California-Los Angeles,4,"$5,551,601","$2,357,528","$1,009,382",2014
+34  ,DAL  from WAS, DeMarcus Lawrence ,DE,22,Boise State,4,"$5,506,650","$2,324,836","$1,001,209",2014
+35  ,CLE , Joel Bitonio ,LT,22,Nevada,4,"$5,461,698","$2,292,144","$993,036",2014
+36  ,OAK , Derek Carr ,QB,23,Fresno State,4,"$5,371,801","$2,226,764","$976,691",2014
+37  ,ATL , Ra'Shede Hageman ,DE,23,Minnesota,4,"$5,335,842","$2,200,612","$970,153",2014
+38  ,TB , Austin Seferian-Jenkins ,TE,21,Washington,4,"$5,254,920","$2,141,760","$955,440",2014
+39  ,JAC , Marqise Lee ,WR,22,Southern California,4,"$5,174,022","$2,082,924","$940,731",2014
+40  ,DET  from MIN via SEA, Kyle Van Noy ,ILB,23,Brigham Young,4,"$5,102,097","$2,030,616","$927,654",2014
+41  ,STL  from BUF, LaMarcus Joyner ,FS,23,Florida State,4,"$5,030,179","$1,978,312","$914,578",2014
+42  ,PHI  from TEN, Jordan Matthews ,WR,21,Vanderbilt,4,"$4,949,269","$1,919,468","$899,867",2014
+43  ,NYG , Weston Richburg ,C,22,Colorado State,4,"$4,877,351","$1,867,164","$886,791",2014
+44  ,BUF  from STL, Cyrus Kouandjio ,RT,20,Alabama,4,"$4,808,821","$1,817,324","$874,331",2014
+45  ,SEA  from DET, Paul Richardson ,WR,22,Colorado,4,"$4,712,835","$1,747,516","$856,879",2014
+46  ,PIT , Stephon Tuitt ,DE,20,Notre Dame,4,"$4,609,446","$1,672,324","$838,081",2014
+47  ,WAS  from DAL, Trent Murphy ,DE,23,Stanford,4,"$4,472,798","$1,572,944","$813,236",2014
+48  ,BAL , Timmy Jernigan ,DT,21,Florida State,4,"$4,382,517","$1,507,564","$796,891",2014
+49  ,NYJ , Jace Amaro ,TE,21,Texas Tech,4,"$4,292,992","$1,442,176","$780,544",2014
+50  ,SD  from MIA, Jeremiah Attaochu ,OLB,21,Georgia Tech,4,"$4,203,100","$1,376,800","$764,200",2014
+51  ,CHI , Ego Ferguson ,DT,22,Louisiana State,4,"$4,113,203","$1,311,420","$747,855",2014
+52  ,ARI , Troy Niklas ,TE,21,Notre Dame,4,"$4,023,300","$1,246,036","$731,509",2014
+53  ,GB , Davante Adams ,WR,21,Fresno State,4,"$3,933,402","$1,180,656","$715,164",2014
+54  ,TEN  from PHI, Bishop Sankey ,RB,21,Washington,4,"$3,843,446","$1,115,272","$698,818",2014
+55  ,CIN , Jeremy Hill ,RB,21,Louisiana State,4,"$3,753,602","$1,049,892","$682,473",2014
+56  ,DEN  from KC via SF, Cody Latimer ,WR,21,Indiana,4,"$3,708,650","$1,017,200","$674,300",2014
+57  ,SF  from SD via MIA, Carlos Hyde ,RB,22,Ohio State,4,"$3,681,678","$997,584","$669,396",2014
+58  ,NO , Stanley Jean-Baptiste ,CB,24,Nebraska,4,"$3,636,732","$964,896","$661,224",2014
+59  ,IND , Jack Mewhort ,G,22,Ohio State,4,"$3,573,801","$919,128","$649,782",2014
+60  ,CAR , Kony Ealy ,DT,22,Missouri,4,"$3,546,829","$899,512","$644,878",2014
+61  ,JAC  from SF, Allen Robinson ,WR,20,Penn State,4,"$3,510,870","$873,360","$638,340",2014
+62  ,NE , Jimmy Garoppolo ,QB,22,Eastern Illinois,4,"$3,483,898","$853,744","$633,436",2014
+63  ,MIA  from DEN via SF, Jarvis Landry ,WR,21,Louisiana State,4,"$3,474,911","$847,208","$631,802",2014
+64  ,SEA , Justin Britt ,C,22,Missouri,4,"$3,546,930","$834,132","$628,533",2014
+65  ,HOU , C.J. Fiedorowicz ,TE,22,Iowa,4,"$3,195,116","$703,304","$595,826",2014
+66  ,WAS , Morgan Moses ,RT,23,Virginia,4,"$3,172,576","$697,576","$573,747",2014
+67  ,MIA  from OAK, Billy Turner ,G,22,North Dakota State,4,"$3,146,500","$697,000","$594,250",2014
+68  ,ATL , Dezmen Southward ,CB,23,Wisconsin,4,"$3,125,000","$690,832","$592,708",2014
+69  ,TB , Charles Sims ,RB,23,West Virginia,4,"$3,073,320","$684,092","$535,964",2014
+70  ,SF  from JAC, Marcus Martin ,G,20,Southern California,4,"$3,069,248","$671,248","$587,812",2014
+71  ,CLE , Christian Kirksey ,ILB,21,Iowa,4,"$3,040,000","$662,500","$585,625",2014
+72  ,MIN , Scott Crichton ,DE,22,Oregon State,4,"$3,020,500","$656,324","$584,081",2014
+73  ,BUF , Preston Brown ,ILB,21,Louisville,4,"$3,005,750","$648,000","$582,000",2014
+74  ,NYG , Jay Bromley ,DT,21,Syracuse,4,"$3,003,610","$643,876","$580,969",2014
+75  ,STL , Tre Mason ,RB,20,Auburn,4,"$2,980,938","$637,500","$579,375",2014
+76  ,DET , Travis Swanson ,C,23,Arkansas,4,"$2,956,972","$619,472","$574,868",2014
+77  ,SF  from TEN, Chris Borland ,OLB,23,Wisconsin,4,"$2,927,436","$617,436","$574,359",2014
+78  ,WAS  from DAL, Spencer Long ,C,23,Nebraska,4,"$2,863,800","$613,800","$573,450",2014
+79  ,BAL , Terrence Brooks ,FS,22,Florida State,4,"$2,871,376","$606,376","$557,829",2014
+80  ,NYJ , Dexter McDougle ,CB,23,Maryland,4,"$2,863,876","$598,876","$452,719",2014
+81  ,OAK  from MIA, Gabe Jackson ,G,22,Mississippi,4,"$2,952,789","$591,376","$567,844",2014
+82  ,CHI , Will Sutton ,DT,22,Arizona State,4,"$2,851,068","$586,068","$566,517",2014
+83  ,HOU  from PIT via CLE via PHI, Louis Nix ,DT,22,Notre Dame,4,"$2,852,252","$575,252","$467,460",2014
+84  ,ARI , Kareem Martin ,OLB,22,North Carolina,4,"$2,843,560","$567,560","$561,890",2014
+85  ,GB , Khyri Thornton ,DT,24,Southern Mississippi,4,"$2,854,252","$563,252","$443,813",2014
+86  ,PHI , Josh Huff ,WR,22,Oregon,4,"$2,820,944","$555,944","$558,986",2014
+87  ,KC , Phillip Gaines ,CB,23,Rice,4,"$2,824,112","$549,112","$557,278",2014
+88  ,CIN , Will Clarke ,DE,23,West Virginia,4,"$2,820,380","$545,380","$556,345",2014
+89  ,SD , Chris Watt ,C,23,Notre Dame,4,"$2,816,640","$544,140","$556,035",2014
+90  ,IND , Donte Moncrief ,WR,20,Mississippi,4,"$2,808,520","$543,520","$555,880",2014
+91  ,ARI  from NO, John Brown ,WR,24,Pittsburgh State,4,"$2,798,900","$542,900","$555,725",2014
+92  ,CAR , Trai Turner ,G,20,Louisiana State,4,"$2,791,176","$539,800","$554,950",2014
+93  ,JAC  from NE, Brandon Linder ,C,22,Miami (FL),4,"$2,789,600","$533,600","$553,400",2014
+94  ,CLE  from SF, Terrance West ,RB,23,Towson,4,"$2,783,400","$527,400","$551,850",2014
+95  ,DEN , Michael Schofield ,G,23,Michigan,4,"$2,777,200","$521,200","$550,300",2014
+96  ,MIN  from SEA, Jerick McKinnon ,RB,22,Georgia Southern,4,"$2,765,000","$515,000","$521,221",2014
+97 (C) ,PIT , Dri Archer ,RB,22,Kent State,4,"$2,748,016","$506,016","$546,504",2014
+98 (C) ,GB , Richard Rodgers ,TE,22,California,4,"$2,761,016","$506,016","$546,504",2014
+99 (C) ,BAL , Crockett Gillmore ,T,22,Colorado State,4,"$2,726,016","$506,016","$546,504",2014
+100 (C) ,SF , Brandon Thomas ,G,23,Clemson,4,"$2,726,106","$506,016","$546,504",2014
+101  ,PHI  from HOU, Jaylen Watkins ,S,21,Florida,4,"$2,717,028","$497,028","$544,257",2014
+102  ,WAS , Bashaud Breeland ,CB,22,Clemson,4,"$2,706,000","$486,000","$541,500",2014
+103  ,ATL , Devonta Freeman ,RB,22,Florida State,4,"$2,704,424","$484,424","$541,106",2014
+104  ,NYJ  from TB, Jalen Saunders ,WR,21,Oklahoma,4,"$2,701,448","$481,448","$540,362",2014
+105  ,NE  from JAC, Bryan Stork ,C,23,Florida State,4,"$2,697,000","$477,000","$539,250",2014
+106  ,SF  from CLE, Bruce Ellington ,WR,22,South Carolina,4,"$2,694,428","$474,428","$538,607",2014
+107  ,OAK , Justin Ellis ,DT,23,Louisiana Tech,4,"$2,692,688","$472,688","$538,172",2014
+108  ,SEA  from MIN, Cassius Marsh ,OLB,21,California-Los Angeles,4,"$2,690,252","$470,252","$461,857",2014
+109  ,BUF  from BUF, Ross Cockrell ,CB,22,Duke,4,"$2,687,552","$467,552","$536,888",2014
+110  ,STL , Maurice Alexander ,SS,24,Utah State,4,"$2,684,260","$464,260","$536,065",2014
+111  ,CIN  from DET via SEA, Russell Bodine ,C,21,North Carolina,4,"$2,676,456","$456,456","$534,114",2014
+112  ,TEN , DaQuan Jones ,DE,22,Penn State,4,"$2,675,400","$455,400","$533,850",2014
+113  ,NYG , Andre Williams ,RB,21,Boston College,4,"$2,673,600","$453,600","$533,400",2014
+114  ,JAC  from BAL, Aaron Colvin ,CB,22,Oklahoma,4,"$2,673,152","$453,152","$464,464",2014
+115  ,NYJ , Shaquelle Evans ,WR,23,California-Los Angeles,4,"$2,670,900","$450,900","$415,725",2014
+116  ,OAK  from MIA, Keith McGill ,S,25,Utah,4,"$2,665,200","$445,200","$531,300",2014
+117  ,CHI , Ka'Deem Carey ,RB,21,Arizona,4,"$2,663,380","$443,380","$530,845",2014
+118  ,PIT , Martavis Bryant ,WR,22,Clemson,4,"$2,659,220","$439,220","$529,805",2014
+119  ,DAL , Anthony Hitchens ,ILB,21,Iowa,4,"$2,654,864","$434,864","$528,716",2014
+120  ,ARI , Logan Thomas ,TE,22,Virginia Tech,4,"$2,652,092","$432,092","$528,023",2014
+121  ,GB , Carl Bradford ,OLB,21,Arizona State,4,"$2,649,300","$429,300","$527,325",2014
+122  ,TEN  from PHI, Marqueston Huff ,FS,22,Wyoming,4,"$2,645,204","$425,204","$526,301",2014
+123  ,SEA  from CIN, Kevin Norwood ,WR,24,Alabama,4,"$2,640,108","$420,108","$525,027",2014
+124  ,KC , De'Anthony Thomas ,WR,21,Oregon,4,"$2,665,108","$420,108","$525,027",2014
+125  ,MIA  from SD, Walt Aikens ,FS,22,Liberty,4,"$2,635,908","$415,908","$523,977",2014
+126  ,NO , Khairi Fortt ,OLB,22,California,4,"$2,632,560","$412,560","$420,000",2014
+127  ,CLE  from IND, Pierre Desir ,CB,23,Lindenwood,4,"$2,627,612","$407,612","$521,903",2014
+128  ,CAR , Tre Boston ,FS,21,North Carolina,4,"$2,625,468","$405,468","$521,367",2014
+129  ,SF , Dontae Johnson ,CB,22,North Carolina State,4,"$2,620,544","$400,544","$520,136",2014
+130  ,NE , James White ,RB,22,Wisconsin,4,"$2,617,088","$397,088","$519,272",2014
+131  ,CHI  from DEN, Brock Vereen ,FS,21,Minnesota,4,"$2,661,878","$391,500","$517,875",2014
+132  ,SEA , Kevin Pierre-Louis ,OLB,20,Boston College,4,"$2,605,652","$385,652","$399,413",2014
+133 (C) ,DET , Nevin Lawson ,CB,23,Utah State,4,"$2,520,584","$300,584","$391,911",2014
+134 (C) ,BAL , Brent Urban ,DE,23,Virginia,4,"$2,520,584","$300,584","$378,146",2014
+135 (C) ,HOU , Tom Savage ,QB,24,Pittsburgh,4,"$2,520,584","$300,584","$495,146",2014
+136 (C) ,DET , Larry Webster ,DE,24,Bloomsburg,4,"$2,520,584","$300,584","$495,146",2014
+137 (C) ,NYJ , Dakota Dozier ,G,23,Furman,4,"$2,520,584","$300,584","$495,146",2014
+138 (C) ,BAL , Lorenzo Taliaferro ,RB,22,Coastal Carolina,4,"$2,520,584","$300,584","$481,381",2014
+139 (C) ,ATL , Prince Shembo ,ILB,22,Notre Dame,4,"$2,520,584","$300,584","$495,146",2014
+140 (C) ,NE , Cameron Fleming ,T,21,Stanford,4,"$2,520,584","$300,584","$495,146",2014
+141  ,PHI  from HOU, Taylor Hart ,T,23,Oregon,4,"$2,510,658","$215,512","$473,878",2014
+142  ,WAS , Ryan Grant ,WR,23,Tulane,-,-,-,-,2014
+143  ,TB , Kadeem Edwards ,G,23,Tennessee State,4,"$2,432,000","$212,000","$356,000",2014
+144  ,JAC , Telvin Smith ,OLB,23,Florida State,4,"$2,431,052","$211,052","$472,763",2014
+145  ,MIN  from CLE, David Yankey ,G,22,Stanford,4,"$2,426,900","$206,900","$471,725",2014
+146  ,DAL  from OAK via SEA via DET, Devin Street ,WR,23,Pittsburgh,4,"$2,421,972","$201,972","$470,493",2014
+147  ,ATL , Ricardo Allen ,FS,22,Purdue,4,"$2,420,500","$200,500","$470,125",2014
+148  ,CAR  from MIN, Bene Benwikere ,CB,22,San Jose State,4,"$2,419,000","$199,000","$469,750",2014
+149  ,TB  from BUF, Kevin Pamphile ,G,23,Purdue,4,"$2,418,500","$198,500","$469,625",2014
+150  ,SF  from DET via JAC, Aaron Lynch ,DE,21,South Florida,4,"$2,418,000","$198,000","$469,500",2014
+151  ,TEN , Avery Williamson ,ILB,22,Kentucky,4,"$2,414,452","$194,452","$468,613",2014
+152  ,NYG , Nat Berhe ,SS,22,San Diego State,4,"$2,412,800","$192,800","$468,200",2014
+153  ,BUF  from STL, Cyril Richardson ,G,23,Baylor,4,"$2,412,000","$192,000","$468,000",2014
+154  ,NYJ , Jeremiah George ,ILB,22,Iowa State,4,"$2,411,752","$191,752","$467,938",2014
+155  ,MIA , Arthur Lynch ,TE,23,Georgia,4,"$2,411,300","$191,300","$350,825",2014
+156  ,DEN  from CHI, Lamin Barrow ,ILB,23,Louisiana State,4,"$2,411,160","$191,160","$467,790",2014
+157  ,PIT , Shaquille Richardson ,CB,22,Arizona,4,"$2,410,052","$190,052","$467,513",2014
+158  ,DET  from DAL, Caraun Reid ,DE,22,Princeton,4,"$2,408,880","$188,880","$467,220",2014
+159  ,JAC  from BAL, Chris Smith ,DE,26,Arkansas,4,"$2,407,252","$187,252","$247,059",2014
+160  ,ARI , Ed Stinson ,DE,24,Alabama,4,"$2,406,740","$186,740","$452,920",2014
+161  ,GB , Corey Linsley ,C,22,Ohio State,4,"$2,405,000","$185,000","$466,250",2014
+162  ,PHI , Ed Reynolds ,FS,22,Stanford,4,"$2,404,192","$184,192","$466,048",2014
+163  ,KC , Aaron Murray ,QB,23,Georgia,4,"$2,402,424","$182,424","$465,606",2014
+164  ,CIN , A.J. McCarron ,QB,23,Alabama,4,"$2,401,652","$181,652","$369,060",2014
+165  ,SD , Ryan Carrethers ,DT,23,Arkansas State,4,"$2,398,532","$178,532","$464,633",2014
+166  ,IND , Jonathan Newsome ,OLB,23,Ball State,4,"$2,398,108","$178,108","$464,527",2014
+167  ,NO , Vinnie Sunseri ,SS,20,Alabama,4,"$2,396,500","$176,500","$464,125",2014
+168  ,ATL  from CAR via MIN, Marquis Spruill ,ILB,22,Syracuse,4,"$2,391,480","$171,480","$345,870",2014
+169  ,NO  from NE via PHI, Ronald Powell ,OLB,22,Florida,4,"$2,388,860","$168,860","$462,215",2014
+170  ,SF , Keith Reaser ,CB,22,Florida Atlantic,4,"$2,384,800","$164,800","$461,200",2014
+171  ,MIA  from DEN via SF, Jordan Tripp ,ILB,23,Montana,4,"$2,382,800","$162,800","$460,700",2014
+172  ,SEA , Jimmy Staten ,DT,23,Middle Tennessee State,4,"$2,380,300","$160,300","$460,075",2014
+173 (C) ,PIT , Wesley Johnson ,C,23,Vanderbilt,4,"$2,364,560","$144,560","$271,764",2014
+174 (C) ,NYG , Devon Kennard ,OLB,22,Southern California,4,"$2,364,560","$144,560","$456,140",2014
+175 (C) ,BAL , John Urschel ,G,22,Penn State,4,"$2,364,560","$144,560","$456,140",2014
+176 (C) ,GB , Jared Abbrederis ,WR,23,Wisconsin,4,"$2,364,560","$144,560","$339,140",2014
+177  ,HOU , Jeoffrey Pagan ,DE,20,Alabama,4,"$2,348,820","$128,820","$452,205",2014
+178  ,TEN  from WAS, Zach Mettenberger ,QB,22,Louisiana State,4,"$2,345,116","$125,116","$451,279",2014
+179  ,NE  from JAC, Jon Halapio ,C,22,Florida,4,"$2,343,100","$123,100","$450,775",2014
+180  ,SF  from CLE, Kenneth Acker ,CB,22,Southern Methodist,4,"$2,340,600","$120,600","$333,150",2014
+181  ,HOU  from OAK, Alfred Blue ,RB,23,Louisiana State,4,"$2,337,932","$117,932","$449,483",2014
+182  ,MIN  from ATL, Antone Exum ,FS,23,Virginia Tech,4,"$2,335,788","$115,788","$448,947",2014
+183  ,CHI  from TB, David Fales ,QB,23,San Jose State,4,"$2,334,424","$114,424","$448,606",2014
+184  ,MIN , Kendall James ,CB,22,Maine,4,"$2,333,452","$113,452","$448,363",2014
+185  ,TB  from BUF, Robert Herron ,WR,21,Wyoming,4,"$2,332,000","$112,000","$448,000",2014
+186  ,WAS  from TEN, Lache Seastrunk ,RB,22,Baylor,4,"$2,330,500","$110,500","$447,625",2014
+187  ,NYG , Bennett Jackson ,SS,22,Notre Dame,4,"$2,330,060","$110,060","$447,515",2014
+188  ,STL , E.J. Gaines ,CB,22,Missouri,4,"$2,327,672","$107,672","$446,918",2014
+189  ,DET , TJ Jones ,WR,21,Notre Dame,4,"$2,326,200","$106,200","$363,962",2014
+190  ,MIA , Matt Hazel ,WR,22,Coastal Carolina,4,"$2,325,800","$105,800","$446,450",2014
+191  ,CHI , Pat O'Donnell ,P,23,Miami (FL),4,"$2,325,308","$105,308","$446,327",2014
+192  ,PIT , Jordan Zumwalt ,ILB,22,California-Los Angeles,4,"$2,324,852","$104,852","$329,213",2014
+193  ,KC  from DAL, Zach Fulton ,G,22,Tennessee,4,"$2,349,220","$104,220","$446,055",2014
+194  ,BAL , Keith Wenning ,QB,23,Ball State,4,"$2,324,072","$104,072","$446,018",2014
+195  ,NYJ , Brandon Dixon ,CB,24,Northwest Missouri State,4,"$2,323,864","$103,864","$445,966",2014
+196  ,ARI , Walter Powell ,WR,22,Murray State,4,"$2,323,788","$103,788","$420,000",2014
+197  ,GB , Demetri Goodson ,CB,24,Baylor,4,"$2,323,152","$103,152","$445,788",2014
+198  ,NE  from PHI, Zach Moore ,DE,23,Concordia,4,"$2,322,200","$102,200","$445,550",2014
+199  ,SEA  from CIN, Garrett Scott ,LT,22,Marshall,4,"$2,321,672","$101,672","$298,171",2014
+200  ,KC , Laurent Duvernay-Tardif ,G,23,McGill,4,"$2,345,300","$100,300","$445,075",2014
+201  ,SD , Marion Grice ,RB,23,Arizona State,4,"$2,318,896","$98,896","$444,724",2014
+202  ,NO , Tavon Rooks ,LT,24,Kansas State,4,"$2,317,432","$97,432","$444,358",2014
+203  ,IND , Andrew Jackson ,ILB,26,Western Kentucky,4,"$2,317,000","$97,000","$444,250",2014
+204  ,CAR , Tyler Gaffney ,RB,23,Stanford,4,"$2,316,600","$96,600","$303,000",2014
+205  ,JAC  from SF, Luke Bowanko ,C,22,Virginia,4,"$2,314,052","$94,052","$443,513",2014
+206  ,NE , Jemea Thomas ,CB,24,Georgia Tech,4,"$2,312,512","$92,512","$247,058",2014
+207  ,DEN , Matt Paradis ,C,24,Boise State,4,"$2,311,000","$91,000","$442,750",2014
+208  ,SEA , Eric Pinkins ,SS,22,San Diego State,4,"$2,308,232","$88,232","$442,058",2014
+209 (C) ,NYJ , Quincy Enunwa ,WR,21,Nebraska,4,"$2,298,680","$78,680","$439,670",2014
+210 (C) ,NYJ , IK Enemkpali ,OLB,22,Louisiana Tech,4,"$2,298,680","$78,680","$439,670",2014
+211 (C) ,HOU , Jay Prosch ,FB,21,Auburn,4,"$2,298,680","$78,680","$439,670",2014
+212 (C) ,CIN , Marquis Flowers ,OLB,22,Arizona,4,"$2,298,680","$78,680","$439,670",2014
+213 (C) ,NYJ , Tajh Boyd ,QB,23,Clemson,4,"$2,298,680","$78,680","$439,670",2014
+214 (C) ,STL , Garrett Gilbert ,QB,22,Southern Methodist,4,"$2,298,680","$38,680","$439,670",2014
+215 (C) ,PIT , Daniel McCullers ,DT,21,Tennessee,4,"$2,298,680","$78,680","$439,670",2014
+216  ,HOU , Andre Hal ,FS,21,Vanderbilt,4,"$2,289,124","$69,124","$437,281",2014
+217  ,WAS , Ted Bolser ,TE,23,Indiana,4,"$2,288,900","$68,900","$437,225",2014
+218  ,BAL  from CLE, Michael Campanaro ,WR,23,Wake Forest,4,"$2,287,500","$67,500","$436,875",2014
+219  ,OAK , Travis Carrie ,CB,23,Ohio,4,"$2,286,964","$66,964","$436,741",2014
+220  ,MIN  from ATL, Shamar Stephen ,DT,23,Connecticut,4,"$2,285,148","$65,148","$436,287",2014
+221  ,BUF  from TB, Randell Johnson ,OLB,23,Florida Atlantic,4,"$2,283,732","$63,732","$435,933",2014
+222  ,JAC , Storm Johnson ,RB,21,Central Florida,4,"$2,282,728","$62,728","$435,682",2014
+223  ,MIN , Brandon Watts ,OLB,23,Georgia Tech,4,"$2,282,448","$62,448","$435,612",2014
+224  ,PHI  from BUF, Beau Allen ,DT,22,Wisconsin,4,"$2,282,248","$62,248","$435,562",2014
+225  ,MIN  from NYG via CAR, Jabari Price ,CB,21,North Carolina,4,"$2,281,820","$61,820","$435,455",2014
+226  ,STL , Mitchell Van Dyk ,LT,23,Portland State,4,"$2,280,600","$60,600","$435,150",2014
+227  ,SEA  from DET, Kiero Small ,FB,25,Arkansas,4,"$2,280,256","$60,256","$435,064",2014
+228  ,WAS  from TEN, Zach Hocker ,K,22,Arkansas,4,"$2,280,248","$60,248","$435,062",2014
+229  ,DET  from CHI via DAL, Nate Freese ,K,23,Boston College,4,"$2,279,424","$59,424","$434,856",2014
+230  ,PIT , Rob Blanchflower ,TE,23,Massachusetts,4,"$2,279,400","$59,400","$434,850",2014
+231  ,DAL , Ben Gardner ,DE,23,Stanford,4,"$2,279,175","$59,175","$317,793",2014
+232  ,IND  from BAL, Ulrick John ,LT,21,Georgia State,4,"$2,277,848","$57,848","$317,462",2014
+233  ,NYJ , Trevor Reilly ,OLB,26,Utah,4,"$2,276,848","$56,848","$434,212",2014
+234  ,MIA , Terrence Fede ,DE,22,Marist,4,"$2,275,952","$55,952","$433,988",2014
+235  ,OAK  from ARI, Shelby Harris ,DE,22,Illinois State,4,"$2,273,612","$53,612","$433,403",2014
+236  ,GB , Jeff Janis ,WR,22,Saginaw Valley State,4,"$2,271,392","$51,392","$432,848",2014
+237  ,BUF  from PHI, Seantrel Henderson ,RT,22,Miami (FL),4,"$2,270,880","$50,880","$432,720",2014
+238  ,DAL  from KC, Will Smith ,OLB,22,Texas Tech,4,"$2,270,352","$50,352","$432,588",2014
+239  ,CIN , James Wright ,WR,22,Louisiana State,4,"$2,269,824","$49,824","$432,456",2014
+240  ,SD , Tevin Reese ,WR,23,Baylor,4,"$2,269,432","$49,432","$432,358",2014
+241  ,STL  from IND, Christian Bryant ,FS,22,Ohio State,4,"$2,269,000","$49,000","$432,250",2014
+242  ,DEN  from NO via SF, Corey Nelson ,ILB,22,Oklahoma,4,"$2,268,600","$48,600","$432,150",2014
+243  ,SF  from CAR, Kaleb Ramsey ,DT,24,Boston College,4,"$2,268,200","$48,200","$335,697",2014
+244  ,NE , Jeremy Gallon ,WR,24,Michigan,4,"$2,267,592","$47,592","$431,898",2014
+245  ,SF , Trey Millard ,FB,22,Oklahoma,4,"$2,267,148","$47,148","$431,787",2014
+246  ,CHI  from DEN, Charles Leno ,LT,22,Boise State,4,"$2,266,512","$46,512","$431,628",2014
+247  ,OAK  from SEA, Jonathan Dowling ,FS,22,Western Kentucky,4,"$2,265,896","$45,896","$403,945",2014
+248 (C) ,DAL , Ahmad Dixon ,S,22,Baylor,4,"$2,265,896","$45,896","$431,474",2014
+249 (C) ,STL , Michael Sam ,DE,24,Missouri,4,"$2,265,896","$45,896","$431,474",2014
+250 (C) ,STL , Demetrius Rhaney ,C,21,Tennessee State,4,"$2,265,896","$45,896","$314,474",2014
+251 (C) ,DAL , Ken Bishop ,DT,23,Northern Illinois,4,"$2,265,896","$45,896","$431,474",2014
+252 (C) ,CIN , Lavelle Westbrooks ,CB,22,Georgia Southern,4,"$2,265,896","$45,896","$314,474",2014
+253 (C) ,ATL , Yawin Smallwood ,ILB,22,Connecticut,4,"$2,265,896","$45,896","$431,474",2014
+254 (C) ,DAL , Terrance Mitchell ,CB,21,Oregon,4,"$2,265,896","$45,896","$271,764",2014
+255 (C) ,ATL , Tyler Starr ,OLB,23,South Dakota,4,"$2,265,896","$45,896","$431,474",2014
+256 (C) ,HOU , Lonnie Ballentine ,FS,21,Memphis,4,"$2,265,896","$45,896","$314,474",2014

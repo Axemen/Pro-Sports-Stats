@@ -1,0 +1,257 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2010 Cap,year
+1  ,STL , Sam Bradford ,QB,22,Oklahoma,6,"$78,045,000","$17,975,000","$3,200,000",2010
+2  ,DET , Ndamukong Suh ,DT,23,Nebraska,5,"$63,502,000",-,"$3,100,000",2010
+3  ,TB , Gerald McCoy ,DT,22,Oklahoma,5,"$55,000,000","$3,600,000","$15,087,500",2010
+4  ,WAS , Trent Williams ,LT,21,Oklahoma,6,"$60,000,000","$3,000,000","$2,898,000",2010
+5  ,KC , Eric Berry ,SS,21,Tennessee,5,"$50,044,300",-,"$4,157,000",2010
+6  ,SEA , Russell Okung ,LT,22,Oklahoma State,6,"$48,500,000","$1,680,000","$2,600,000",2010
+7  ,CLE , Joe Haden ,CB,21,Florida,5,"$40,056,742","$12,000,000","$3,092,000",2010
+8  ,OAK , Rolando McClain ,ILB,20,Alabama,5,"$40,000,000",-,"$2,260,000",2010
+9  ,BUF , C.J. Spiller ,RB,22,Clemson,5,"$25,672,087","$2,000,000","$2,123,333",2010
+10  ,JAC , Tyson Alualu ,DE,22,California,5,"$21,899,000","$1,770,000","$1,935,000",2010
+11  ,SF  from CHI via DEN, Anthony Davis ,RT,20,Rutgers,5,"$26,500,000","$1,000,000","$3,908,567",2010
+12  ,SD  from MIA, Ryan Mathews ,RB,22,Fresno State,4,"$18,920,000","$3,000,000","$1,731,000",2010
+13  ,PHI  from SF via DEN, Brandon Graham ,DE,22,Michigan,5,"$16,908,000",-,"$1,690,000",2010
+14  ,SEA  from DEN, Earl Thomas ,FS,20,Texas,5,"$18,300,000","$500,000","$1,600,000",2010
+15  ,NYG , Jason Pierre-Paul ,DE,21,South Florida,5,"$16,084,000","$900,000","$1,575,000",2010
+16  ,TEN , Derrick Morgan ,OLB,24,Georgia Tech,5,"$15,395,010","$1,000,010","$1,446,668",2010
+17  ,SF  from CAR, Mike Iupati ,G,22,Idaho,5,"$15,110,625","$1,200,000","$5,116,962",2010
+18  ,PIT , Maurkice Pouncey ,C,20,Florida,5,"$14,807,250",-,"$1,444,500",2010
+19  ,ATL , Sean Weatherspoon ,ILB,22,Missouri,5,"$13,982,500","$500,000","$1,425,000",2010
+20  ,HOU , Kareem Jackson ,CB,22,Alabama,5,"$13,100,000","$875,000","$1,430,000",2010
+21  ,CIN , Jermaine Gresham ,TE,21,Oklahoma,5,"$14,095,000",-,"$1,146,000",2010
+22  ,DEN  from NE, Demaryius Thomas ,WR,22,Georgia Tech,5,"$15,500,000","$6,375,000","$1,310,000",2010
+23  ,GB , Bryan Bulaga ,RT,21,Iowa,5,"$12,210,000","$880,000","$1,360,000",2010
+24  ,DAL  from PHI via DEN via NE, Dez Bryant ,WR,21,Oklahoma State,5,"$11,800,000","$1,950,000","$1,280,000",2010
+25  ,DEN  from BAL, Tim Tebow ,QB,22,Florida,5,"$11,250,000",-,"$1,767,500",2010
+26  ,ARI , Dan Williams ,DT,22,Tennessee,5,"$8,985,000","$500,000","$1,260,000",2010
+27  ,NE  from DAL, Devin McCourty ,FS,22,Rutgers,5,"$10,000,000","$1,500,000","$1,300,000",2010
+28  ,MIA  from SD, Jared Odrick ,DE,22,Penn State,5,"$13,071,939","$1,147,744","$1,281,804",2010
+29  ,NYJ , Kyle Wilson ,CB,22,Boise State,5,"$9,905,000","$1,112,000","$1,250,400",2010
+30  ,DET  from MIN, Jahvid Best ,RB,21,California,5,"$9,800,000","$1,640,000","$1,270,000",2010
+31  ,IND , Jerry Hughes ,DE,21,Texas Christian,5,"$12,000,000","$1,400,000","$1,225,000",2010
+32  ,NO , Patrick Robinson ,CB,22,Florida State,5,"$9,409,500","$2,210,000","$1,237,000",2010
+33  ,STL , Rodger Saffold ,G,21,Indiana,-,-,-,-,2010
+34  ,MIN  from DET, Chris Cook ,CB,23,Virginia,4,"$5,370,000","$2,300,000","$895,000",2010
+35  ,TB , Brian Price ,DT,21,California-Los Angeles,4,"$5,350,000","$2,720,000","$1,000,000",2010
+36  ,KC , Dexter McCluster ,RB,21,Mississippi,4,"$5,150,000","$2,240,000","$880,000",2010
+37  ,PHI  from WAS, Nate Allen ,FS,22,South Florida,4,"$5,133,000","$2,400,000","$920,000",2010
+38  ,CLE , T.J. Ward ,SS,23,Oregon,4,"$4,027,000","$2,075,000","$820,750",2010
+39  ,TB  from OAK, Arrelious Benn ,WR,21,Illinois,4,"$4,640,000","$2,100,000","$845,000",2010
+40  ,MIA  from SEA via SD, Koa Misi ,OLB,23,Utah,4,"$4,664,905","$1,870,000","$787,500",2010
+41  ,BUF , Torell Troup ,DT,21,Central Florida,4,"$4,610,000","$1,805,000","$771,250",2010
+42  ,NE  from CHI via TB via OAK, Rob Gronkowski ,TE,20,Arizona,4,"$4,440,000","$1,760,000","$760,000",2010
+43  ,BAL  from MIA via DEN, Sergio Kindle ,LB,22,Texas,1,"$320,000",-,"$320,000",2010
+44  ,OAK  from JAC via NE, Lamarr Houston ,OLB,22,Texas,4,"$4,480,000","$1,675,000","$773,750",2010
+45  ,DEN , Zane Beadles ,G,23,Utah,4,"$4,321,000","$1,720,000","$750,000",2010
+46  ,NYG , Linval Joseph ,DT,21,East Carolina,4,"$4,310,500","$1,528,000","$1,544,500",2010
+47  ,ARI  from TEN via NE, Daryl Washington ,ILB,23,Texas Christian,4,"$4,170,000","$1,675,000","$738,750",2010
+48  ,CAR , Jimmy Clausen ,QB,22,Notre Dame,4,"$3,230,000","$1,290,000","$642,500",2010
+49  ,SF , Taylor Mays ,SS,22,Southern California,4,"$3,910,000","$1,508,000","$409,000",2010
+50  ,KC  from ATL, Javier Arenas ,CB,22,Alabama,4,"$3,798,416","$1,435,000","$678,750",2010
+51  ,MIN  from HOU, Toby Gerhart ,RB,23,Stanford,4,"$3,767,000","$1,484,000","$691,000",2010
+52  ,PIT , Jason Worilds ,OLB,22,Virginia Tech,4,"$3,825,000","$1,420,000","$675,000",2010
+53  ,NE , Jermaine Cunningham ,DE,21,Florida,4,"$3,635,000","$1,237,500","$629,375",2010
+54  ,CIN , Carlos Dunlap ,DE,21,Florida,4,"$3,659,000","$1,228,000","$627,000",2010
+55  ,DAL  from PHI, Sean Lee ,OLB,23,Penn State,4,"$3,490,000","$1,200,000","$620,000",2010
+56  ,GB , Michael Neal ,OLB,22,Purdue,4,"$2,950,000","$1,160,000","$610,000",2010
+57  ,BAL , Terrence Cody ,DT,21,Alabama,4,"$3,384,500","$1,120,000","$600,000",2010
+58  ,HOU  from ARI via NE, Ben Tate ,RB,21,Auburn,4,"$2,922,000","$1,077,000","$1,159,250",2010
+59  ,CLE  from DAL via PHI, Montario Hardesty ,RB,23,Tennessee,4,"$2,799,000","$1,000,000","$570,000",2010
+60  ,SEA  from SD, Golden Tate ,WR,21,Notre Dame,4,"$3,411,500","$1,000,000","$570,000",2010
+61  ,NYJ , Vladimir Ducasse ,G,22,Massachusetts,4,"$2,965,000","$1,025,000","$576,250",2010
+62  ,NE  from MIN via HOU, Brandon Spikes ,ILB,22,Florida,4,"$3,200,000","$960,000","$484,705",2010
+63  ,IND , Patrick Angerer ,ILB,23,Iowa,4,"$3,140,000","$1,010,000","$562,500",2010
+64  ,NO , Charles Brown ,LT,23,Southern California,4,"$3,100,000","$1,000,000","$565,000",2010
+65  ,STL , Jerome Murphy ,CB,23,South Florida,4,"$2,727,739","$937,739","$554,434",2010
+66  ,DET , Amari Spievey ,S,22,Iowa,3,"$1,912,000","$697,000","$552,333",2010
+67  ,TB , Myron Lewis ,CB,22,Vanderbilt,4,"$2,720,100","$930,100","$552,525",2010
+68  ,KC , Jon Asamoah ,G,21,Illinois,4,"$2,702,120","$912,120","$548,030",2010
+69  ,OAK , Jared Veldheer ,RT,22,Hillsdale,4,"$3,528,000","$895,000","$543,750",2010
+70  ,BAL  from SEA via PHI via DEN, Ed Dickson ,TE,22,Oregon,3,"$1,877,500","$662,500","$540,833",2010
+71  ,GB  from CLE via PHI, Morgan Burnett ,SS,21,Georgia Tech,4,"$2,665,100","$875,100","$538,775",2010
+72  ,BUF , Alex Carrington ,DT,22,Arkansas State,4,"$2,804,000","$864,000","$536,000",2010
+73  ,MIA , John Jerry ,G,23,Mississippi,4,"$2,648,500","$858,500","$534,625",2010
+74  ,JAC , D'Anthony Smith ,DT,21,Louisiana State,4,"$2,640,000","$850,000","$437,500",2010
+75  ,CHI , Major Wright ,S,21,Florida,4,"$2,634,700","$679,300","$489,825",2010
+76  ,NYG , Chad Jones ,S,21,Louisiana State,4,"$2,616,000","$825,965","$526,491",2010
+77  ,TEN , Damian Williams ,WR,21,Southern California,4,"$2,613,250","$823,250","$525,812",2010
+78  ,CAR , Brandon LaFell ,WR,23,Louisiana State,4,"$3,478,400","$818,400","$524,600",2010
+79  ,SD  from SF, Donald Butler ,ILB,21,Washington,4,"$3,346,500","$808,500","$427,125",2010
+80  ,DEN , J.D. Walton ,C,23,Baylor,4,"$2,588,500","$798,500","$519,625",2010
+81  ,HOU , Earl Mitchell ,DT,22,Arizona,4,"$2,728,500","$788,500","$517,125",2010
+82  ,PIT , Emmanuel Sanders ,WR,23,Southern Methodist,3,"$1,801,000","$586,069","$515,356",2010
+83  ,ATL , Corey Peters ,DT,21,Kentucky,4,"$3,400,000","$767,000","$511,750",2010
+84  ,CIN , Jordan Shipley ,WR,24,Texas,4,"$2,546,746","$756,746","$509,186",2010
+85  ,CLE  from NE via OAK, Colt McCoy ,QB,23,Texas,4,"$5,000,000","$751,000","$577,750",2010
+86  ,PHI  from GB, Daniel Te'o-Nesheim ,DE,22,Washington,4,"$2,530,000","$741,258","$505,314",2010
+87  ,DEN  from PHI, Eric Decker ,WR,23,Minnesota,4,"$2,522,150","$732,150","$503,037",2010
+88  ,ARI  from BAL, Andre Roberts ,WR,22,Citadel,4,"$2,668,200","$724,200","$501,050",2010
+89  ,CAR  from ARI via NE, Armanti Edwards ,WR,22,Appalachian State,4,"$2,558,840","$713,840","$498,460",2010
+90  ,NE  from DAL, Taylor Price ,WR,22,Ohio,4,"$2,495,000","$704,600","$496,150",2010
+91  ,SF  from SD, Navorro Bowman ,ILB,21,Penn State,4,"$2,492,248","$702,248","$495,562",2010
+92  ,CLE  from NYJ, Shawn Lauvao ,G,22,Arizona State,4,"$2,847,000","$697,000","$494,250",2010
+93  ,KC  from MIN via HOU, Tony Moeaki ,TE,22,Iowa,4,"$2,476,650",-,"$491,662",2010
+94  ,IND , Kevin Thomas ,CB,23,Southern California,4,"$2,465,472","$675,472","$488,868",2010
+95  ,NO , Jimmy Graham ,TE,23,Miami (FL),4,"$2,455,140","$665,140","$486,285",2010
+96 (C) ,CIN , Brandon Ghee ,CB,22,Wake Forest,4,"$2,443,100","$653,100","$388,275",2010
+97 (C) ,TEN , Rennie Curran ,LB,21,Georgia,4,"$2,435,000","$644,440","$481,110",2010
+98 (C) ,ATL , Mike Johnson ,RT,23,Alabama,4,"$2,582,215","$642,215","$480,553",2010
+99  ,STL , Mardy Gilyard ,WR,23,Cincinnati,4,"$2,342,000","$552,255","$458,063",2010
+100  ,MIN  from DET, Everson Griffen ,DE,22,Southern California,4,"$2,330,000","$540,000","$455,000",2010
+101  ,TB , Mike Williams ,WR,22,Syracuse,4,"$2,328,250","$538,248","$454,562",2010
+102  ,HOU  from KC, Darryl Sharpton ,ILB,22,Miami (FL),4,"$2,324,940","$534,940","$453,735",2010
+103  ,WAS , Perry Riley ,ILB,21,Louisiana State,4,"$3,163,000","$530,000","$452,500",2010
+104  ,TEN  from SEA, Alterraun Verner ,CB,21,California-Los Angeles,4,"$3,160,140","$527,140","$451,785",2010
+105  ,PHI  from CLE, Trevard Lindley ,CB,24,Kentucky,4,"$2,310,000","$525,211","$451,302",2010
+106  ,OAK , Bruce Campbell ,RT,21,Maryland,4,"$2,462,500","$522,500","$450,625",2010
+107  ,BUF , Marcus Easley ,WR,22,Connecticut,4,"$2,309,500","$519,500","$449,875",2010
+108  ,OAK  from JAC, Jacoby Ford ,WR,22,Clemson,4,"$3,148,845","$515,485","$448,871",2010
+109  ,CHI , Corey Wootton ,DT,22,Northwestern,4,"$3,140,072","$507,172","$446,793",2010
+110  ,SD  from MIA, Darrell Stuckey ,FS,22,Kansas,4,"$2,446,000","$506,000","$446,500",2010
+111  ,SEA  from TEN, Walter Thurmond ,FS,22,Oregon,4,"$2,443,500","$503,500","$445,875",2010
+112  ,NYJ  from CAR, Joe McKnight ,RB,22,Southern California,4,"$2,291,000","$501,000","$445,250",2010
+113  ,NE  from SF via DEN, Aaron Hernandez ,TE,20,Florida,4,"$2,378,000","$200,000","$446,000",2010
+114  ,BAL  from DEN, Dennis Pitta ,TE,24,Brigham Young,3,"$1,586,000","$371,000","$443,667",2010
+115  ,NYG , Phillip Dillard ,ILB,23,Nebraska,4,"$2,283,000","$492,640","$443,160",2010
+116  ,SF , Thaddeus Gibson ,DE,22,Ohio State,3,"$1,581,000","$366,015","$320,000",2010
+117  ,ATL , Joe Hawley ,C,21,Nevada-Las Vegas,4,"$2,423,180","$483,180","$440,795",2010
+118  ,HOU , Garrett Graham ,TE,23,Wisconsin,4,"$2,270,000","$480,100","$440,025",2010
+119  ,MIA  from NE via DAL, A.J. Edds ,OLB,22,Iowa,4,"$2,267,000","$477,000","$439,250",2010
+120  ,CIN , Geno Atkins ,DT,22,Georgia,4,"$2,262,450","$472,450","$438,112",2010
+121  ,PHI , Keenan Clayton ,OLB,22,Oklahoma,4,"$2,257,000","$466,786","$436,696",2010
+122  ,PHI  from GB, Mike Kafka ,QB,22,Northwestern,4,"$2,256,786","$466,786","$436,696",2010
+123  ,NO  from BAL via ARI, Al Woods ,DT,23,Louisiana State,4,"$2,252,120","$462,120","$435,530",2010
+124  ,CAR  from ARI via NYJ, Eric Norwood ,LB,21,South Carolina,4,"$2,248,000","$458,400","$434,600",2010
+125  ,PHI  from DAL, Clay Harbor ,TE,22,Missouri State,4,"$2,242,900","$452,900","$433,225",2010
+126  ,DAL  from SD via MIA, Akwasi Owusu-Ansah ,S,22,Indiana (PA),4,"$2,240,000","$450,522","$432,630",2010
+127  ,SEA  from NYJ via PHI, E.J. Wilson ,DE,22,North Carolina,4,"$2,235,050","$445,050","$431,262",2010
+128  ,DET  from MIN, Jason Fox ,RT,21,Miami (FL),3,"$1,546,000","$330,907","$430,302",2010
+129  ,IND , Jacques McClendon ,C,22,Tennessee,4,"$2,225,000","$435,000","$428,750",2010
+130  ,ARI  from NO, O'Brien Schofield ,OLB,23,Wisconsin,4,"$3,061,500","$428,500","$427,125",2010
+131 (C) ,CIN , Roddrick Muckelroy ,ILB,23,Texas,4,"$2,213,574","$423,580","$425,895",2010
+132  ,STL , Michael Hoomanawanui ,TE,21,Illinois,4,"$2,005,000","$215,512","$373,878",2010
+133  ,SEA  from DET, Kam Chancellor ,SS,22,Virginia Tech,4,"$2,003,610","$213,610","$373,402",2010
+134  ,PHI  from TB via CLE, Ricky Sapp ,OLB,23,Clemson,4,"$2,000,000","$212,000","$373,000",2010
+135  ,ATL  from WAS via STL, Dominique Franks ,CB,22,Oklahoma,4,"$2,001,050","$211,050","$372,762",2010
+136  ,KC , Kendrick Lewis ,FS,23,Ole Miss,4,"$1,996,900","$206,900","$371,725",2010
+137  ,DEN  from CLE via PHI, Perrish Cox ,CB,23,Oklahoma State,4,"$1,990,000","$202,000","$370,500",2010
+138  ,OAK , Walter McFadden ,CB,23,Auburn,4,"$1,990,000","$200,000","$370,000",2010
+139  ,NYJ  from SEA, John Conner ,FB,22,Kentucky,4,"$1,989,000","$199,000","$377,870",2010
+140  ,BUF , Ed Wang ,LT,23,Virginia Tech,4,"$1,989,000","$198,500","$369,625",2010
+141  ,CHI , Joshua Moore ,CB,21,Kansas State,4,"$1,988,000","$198,000","$369,500",2010
+142  ,KC  from MIA, Cameron Sheffield ,LB,22,Troy,4,"$1,984,450","$194,450","$368,612",2010
+143  ,JAC , Larry Hart ,LB,22,Central Arkansas,4,"$1,983,000","$192,800","$368,200",2010
+144  ,MIA  from CAR via KC, Sherrick McManis ,CB,22,Northwestern,4,"$2,132,000","$192,000","$368,000",2010
+145  ,MIA  from SF, Nolan Carroll ,CB,23,Maryland,4,"$1,987,500","$191,750","$367,937",2010
+146  ,SD  from DEN via DET via CLE via PHI, Cam Thomas ,DT,23,North Carolina,4,"$2,824,300","$191,300","$367,825",2010
+147  ,NYG , Mitch Petrus ,G,22,Arkansas,4,"$1,981,000","$191,160","$367,790",2010
+148  ,TEN , Robert Johnson ,S,23,Utah,4,"$1,980,000","$190,050","$367,512",2010
+149  ,STL  from ATL, Hall Davis ,DE,23,Louisiana-Lafayette,3,"$1,215,000","$188,881","$367,220",2010
+150  ,NE  from HOU, Zoltan Mesko ,P,24,Michigan,4,"$1,977,250","$187,250","$366,812",2010
+151  ,PIT , Chris Scott ,G,22,Tennessee,3,"$1,355,000","$140,056","$366,686",2010
+152  ,CIN , Otis Hudson ,G,23,Eastern Illinois,4,"$1,975,000","$185,000","$320,000",2010
+153  ,JAC  from NE via TB via OAK, Austen Lane ,DE,22,Murray State,4,"$2,124,196","$184,196","$366,049",2010
+154  ,GB , Andrew Quarless ,TE,21,Penn State,4,"$1,972,000","$182,425","$365,606",2010
+155  ,ARI  from PHI via NYJ via PIT, John Skelton ,QB,22,Fordham,4,"$1,972,000","$181,650","$365,412",2010
+156  ,BAL , David Reed ,WR,23,Utah,3,"$1,348,900","$133,900","$364,633",2010
+157  ,BAL  from ARI, Arthur Jones ,DT,23,Syracuse,3,"$1,348,580","$133,500","$364,500",2010
+158  ,NO  from DAL via DEN via NE via OAK via JAC, Matt Tennant ,G,23,Boston College,4,"$1,966,500","$176,500","$364,125",2010
+159  ,PHI  from SD, Riley Cooper ,WR,22,Florida,4,"$2,111,478","$171,484","$362,871",2010
+160  ,CLE  from NYJ, Larry Asante ,SS,22,Nebraska,4,"$1,958,850","$168,860","$320,000",2010
+161  ,MIN , Chris DeGeare ,LT,23,Wake Forest,4,"$1,955,000","$164,800","$361,200",2010
+162  ,IND , Brody Eldridge ,TE,23,Oklahoma,4,"$1,953,000","$162,800","$360,700",2010
+163  ,MIA  from NO via PHI via STL via WAS, Reshad Jones ,SS,22,Georgia,4,"$1,950,300","$160,300","$360,075",2010
+164 (C) ,PIT , Crezdon Butler ,CB,22,Clemson,3,"$1,334,000","$119,170","$359,724",2010
+165 (C) ,ATL , Kerry Meier ,WR,23,Kansas,4,"$1,947,000","$157,004","$264,251",2010
+166 (C) ,PIT , Stevenson Sylvester ,ILB,21,Utah,3,"$1,332,000","$116,560","$358,853",2010
+167 (C) ,MIN , Nathan Triplett ,LB,23,Minnesota,4,"$1,942,213","$152,213","$320,000",2010
+168 (C) ,SD , Jonathan Crompton ,QB,22,Tennessee,4,"$1,940,936","$150,936","$357,734",2010
+169 (C) ,GB , Marshall Newhouse ,RT,21,Texas Christian,4,"$1,939,850","$149,850","$427,462",2010
+170  ,STL , Fendi Onobun ,TE,23,Houston,4,"$1,910,000","$129,000","$352,250",2010
+171  ,ATL  from DET, Shann Schillinger ,S,23,Montana,4,"$2,065,114","$125,114","$351,280",2010
+172  ,TB , Brent Bowden ,P,22,Virginia Tech,4,"$1,913,000","$123,000","$350,750",2010
+173  ,SF  from KC via MIA via SD, Anthony Dixon ,RB,22,Mississippi State,4,"$2,060,600","$120,600","$350,150",2010
+174  ,WAS  from WAS via MIA, Dennis Morris ,TE,23,Louisiana Tech,4,"$1,907,928","$117,928","$349,482",2010
+175  ,CAR  from OAK, Greg Hardy ,DE,21,Mississippi,4,"$2,775,784","$115,786","$348,946",2010
+176  ,TEN  from SEA, Rusty Smith ,QB,23,Florida Atlantic,4,"$1,904,225","$114,225","$348,556",2010
+177  ,CLE , Carlton Mitchell ,WR,22,South Florida,4,"$1,903,000","$113,450","$348,362",2010
+178  ,BUF , Arthur Moats ,OLB,22,James Madison,4,"$1,902,000","$112,000","$348,000",2010
+179  ,DAL  from MIA, Sam Young ,LT,22,Notre Dame,4,"$1,900,500","$110,500","$347,625",2010
+180  ,JAC , Deji Karim ,RB,23,Southern Illinois,4,"$1,900,000","$110,000","$347,500",2010
+181  ,CHI , Dan LeFevour ,QB,23,Central Michigan,4,"$1,790,000","$107,673","$320,000",2010
+182  ,SF , Nate Byham ,TE,21,Pittsburgh,4,"$1,896,000","$106,200","$346,550",2010
+183  ,DEN , Eric Olsen ,C,21,Notre Dame,4,"$1,896,000","$106,000","$421,500",2010
+184  ,NYG , Adrian Tracy ,DE,23,William & Mary,4,"$1,895,000","$105,307","$421,326",2010
+185  ,SEA  from TEN, Anthony McCoy ,TE,22,Southern California,4,"$2,044,850","$104,850","$346,212",2010
+186  ,CLE  from CAR, Clifton Geathers ,DE,22,Southern California,4,"$1,894,000","$104,220","$320,000",2010
+187  ,HOU , Shelley Smith ,G,22,Colorado State,4,"$1,894,000","$104,070","$88,400",2010
+188  ,PIT , Jonathan Dwyer ,RB,20,Georgia Tech,3,"$1,293,000","$77,840","$345,946",2010
+189  ,STL  from ATL, Eugene Sims ,DE,24,West Texas A&M,4,"$1,893,865","$103,300","$345,825",2010
+190  ,OAK  from NE, Travis Goethel ,LB,22,Arizona State,4,"$1,893,000","$103,148","$345,787",2010
+191  ,CIN , Dezmon Briscoe ,WR,20,Kansas,4,"$1,892,500","$102,500","$94,117",2010
+192  ,BUF  from PHI, Dan Batten ,DE,22,South Dakota State,4,"$1,891,668","$101,668","$345,417",2010
+193  ,GB , James Starks ,RB,24,Buffalo,4,"$1,890,000","$100,300","$345,075",2010
+194  ,BAL , Ramon Harewood ,G,23,Morehouse,3,"$1,289,171","$74,171","$344,723",2010
+195  ,PIT  from ARI, Antonio Brown ,WR,21,Central Michigan,3,"$1,288,075","$73,075","$344,358",2010
+196  ,DAL , Jamar Wall ,CB,22,Texas Tech,4,"$1,887,000","$97,000","$320,000",2010
+197  ,HOU  from SD, Trindon Holliday ,KR,23,Louisiana State,4,"$1,886,000","$96,000","$419,000",2010
+198  ,CAR  from NYJ, David Gettis ,WR,22,Baylor,4,"$1,984,048","$94,048","$343,512",2010
+199  ,MIN , Joe Webb ,QB,23,Alabama-Birmingham,4,"$1,882,515","$92,515","$343,128",2010
+200  ,PHI  from IND, Charles Scott ,RB,21,Louisiana Tech,4,"$1,881,000","$91,000","$320,000",2010
+201  ,ARI  from NO, Jorrick Calvin ,CB,22,Troy,4,"$1,878,000","$88,235","$320,000",2010
+202 (C) ,CAR , Jordan Pugh ,S,22,Texas A&M,4,"$1,873,275","$83,275","$340,818",2010
+203 (C) ,JAC , Scotty McGee ,KR,23,James Madison,4,"$1,870,000","$80,000","$340,000",2010
+204 (C) ,CAR , Tony Pike ,QB,24,Cincinnati,4,"$1,871,000","$81,145","$340,286",2010
+205 (C) ,NE , Ted Larsen ,G,22,North Carolina State,4,"$2,713,600","$80,300","$320,000",2010
+206 (C) ,SF , Kyle Williams ,WR,21,Arizona State,4,"$1,869,000","$79,350","$339,850",2010
+207 (C) ,TEN , Myron Rolle ,CB,23,Florida State,4,"$1,868,200","$78,200","$339,550",2010
+208  ,NE  from STL via WAS, Thomas Welch ,RT,22,Vanderbilt,4,"$1,859,000","$69,127","$75,294",2010
+209  ,BUF  from DET, Levi Brown ,QB,23,Troy,4,"$1,859,000","$69,000","$263,529",2010
+210  ,TB , Cody Grimm ,S,23,Virginia Tech,4,"$1,857,500","$67,500","$406,875",2010
+211  ,STL  from WAS, Marquis Johnson ,CB,21,Alabama,4,"$1,856,766","$66,966","$320,000",2010
+212  ,MIA  from KC, Chris McCoy ,OLB,23,Middle Tennessee State,4,"$1,855,150","$65,150","$336,287",2010
+213  ,DET  from SEA, Willie Young ,OLB,24,North Carolina State,3,"$1,263,000","$48,000","$336,000",2010
+214  ,MIN  from CLE via DET, Mickey Shuler ,TE,23,Penn State,4,"$1,850,000","$60,000","$320,000",2010
+215  ,OAK , Jeremy Ware ,CB,23,Michigan State,4,"$1,852,000","$62,000","$335,500",2010
+216  ,BUF , Kyle Calloway ,T,22,Iowa,4,"$1,852,250","$62,250","$335,562",2010
+217  ,TB  from JAC, Dekoda Watson ,OLB,22,Florida State,4,"$2,001,820","$61,820","$335,455",2010
+218  ,CHI , J'Marcus Webb ,RT,21,West Texas A&M,4,"$1,851,000","$60,612","$335,153",2010
+219  ,WAS  from MIA, Terrence Austin ,WR,21,California-Los Angeles,4,"$1,850,257","$60,257","$335,064",2010
+220  ,PHI  from DEN via DET, Jamar Chaney ,ILB,23,Mississippi State,4,"$1,850,000","$60,250","$335,064",2010
+221  ,NYG , Matt Dodge ,P,22,East Carolina,4,"$1,764,000","$59,425","$309,856",2010
+222  ,TEN , Marc Mariani ,WR,22,Montana,4,"$1,999,400","$59,400","$334,850",2010
+223  ,CAR , R.J. Stanford ,CB,21,Utah,4,"$1,849,175","$59,175","$334,793",2010
+224  ,SF , Phillip Adams ,CB,21,South Carolina State,4,"$1,848,000","$57,848","$334,462",2010
+225  ,DEN  from PIT via TB, Syd'Quan Thompson ,CB,23,California,4,"$1,846,850","$56,850","$334,212",2010
+226  ,STL  from ATL, George Selvie ,DE,23,South Florida,4,"$1,849,555","$55,955","$333,988",2010
+227  ,HOU , Dorin Dickerson ,TE,22,Pittsburgh,4,"$1,843,165","$53,615","$333,403",2010
+228  ,CIN , Reggie Stephens ,C,22,Iowa State,4,"$1,840,000","$51,392","$332,848",2010
+229  ,WAS  from NE, Erik Cook ,C,22,New Mexico,4,"$1,840,880","$50,880","$333,000",2010
+230  ,GB  from GB via NYJ, C.J. Wilson ,DT,23,East Carolina,4,"$1,840,000","$50,354","$332,590",2010
+231  ,WAS  from PHI via NE via DEN via NE, Selvish Capers ,G,23,West Virginia,4,"$1,839,825","$49,825","$332,456",2010
+232  ,DEN  from BAL via TB, Jammie Kirlew ,DE,22,Indiana,4,"$1,839,400","$49,400","$332,350",2010
+233  ,ARI , Jim Dray ,TE,23,Stanford,4,"$1,989,000","$49,000","$332,250",2010
+234  ,DAL , Sean Lissemore ,DT,22,William & Mary,4,"$1,839,000","$48,600","$237,150",2010
+235  ,SD , Dedrick Epps ,TE,21,Miami (FL),4,"$1,838,000","$48,200","$332,050",2010
+236  ,SEA  from NYJ, Dexter Davis ,DE,23,Arizona State,4,"$1,837,595","$47,595","$331,898",2010
+237  ,MIN , Ryan D'Imperio ,LB,22,Rutgers,4,"$1,837,000","$47,150","$331,787",2010
+238  ,IND , Ricardo Mathews ,DT,22,Cincinnati,4,"$1,836,000","$46,513","$331,628",2010
+239  ,NO , Sean Canfield ,QB,23,Oregon State,4,"$1,835,900","$45,900","$331,475",2010
+240 (C) ,IND , Kavell Conner ,ILB,23,Clemson,4,"$1,835,000","$45,238","$331,309",2010
+241 (C) ,TEN , David Howard ,DT,22,Brown,4,"$1,834,884","$44,884","$331,221",2010
+242 (C) ,PIT , Doug Worthington ,DE,22,Ohio State,3,"$1,248,315","$33,315","$18,823",2010
+243 (C) ,PHI , Jeff Owens ,DT,23,Georgia,4,"$1,834,000","$44,000","$331,000",2010
+244 (C) ,PHI , Kurt Coleman ,FS,21,Ohio State,4,"$2,453,368","$43,368","$330,842",2010
+245 (C) ,SEA , Jameson Konz ,OLB,23,Kent State,4,"$1,833,000","$42,950","$330,737",2010
+246 (C) ,IND , Ray Fisher ,CB,22,Indiana,4,"$1,831,500","$41,564","$330,391",2010
+247 (C) ,NE , Brandon Deaderick ,DT,22,Alabama,4,"$1,830,300","$40,300","$330,075",2010
+248 (C) ,NE , Kade Weston ,DT,23,Georgia,4,"$1,830,000","$40,000","$330,000",2010
+249 (C) ,CAR , Robert McClain ,CB,21,Connecticut,4,"$1,829,000","$39,000","$329,750",2010
+250 (C) ,NE , Zac Robinson ,QB,23,Oklahoma State,4,"$1,828,000","$38,000","$329,500",2010
+251 (C) ,OAK , Stevie Brown ,SS,22,Michigan,4,"$1,820,000","$37,750","$329,437",2010
+252 (C) ,MIA , Austin Spitler ,ILB,23,Ohio State,4,"$1,827,000","$36,475","$263,529",2010
+253 (C) ,TB , Erik Lorig ,FB,23,Stanford,4,"$2,310,000","$35,603","$398,900",2010
+254  (S),STL , Josh Hull ,ILB,22,Penn State,4,"$1,825,553","$35,553","$328,888",2010
+255  (S),DET , Tim Toone ,WR,25,Weber State,3,"$1,241,000","$26,140","$328,667",2010
+

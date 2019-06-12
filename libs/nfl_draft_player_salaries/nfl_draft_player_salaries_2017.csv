@@ -1,0 +1,256 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2017 Cap,year
+1  ,CLE , Myles Garrett ,DE,21,Texas A&M,4,"$30,412,255","$20,258,004","$5,529,501",2017
+2  ,CHI  from SF, Mitchell Trubisky ,QB,22,North Carolina,4,"$29,032,424","$19,254,490","$5,278,622",2017
+3  ,SF  from CHI, Solomon Thomas ,DE,21,Stanford,4,"$28,154,366","$18,615,903","$5,118,975",2017
+4  ,JAC , Leonard Fournette ,RB,22,Louisiana State,4,"$27,150,842","$17,886,067","$4,936,516",2017
+5  ,TEN  from LA, Corey Davis ,WR,22,Western Michigan,4,"$25,394,688","$16,608,864","$4,617,216",2017
+6  ,NYJ , Jamal Adams ,SS,21,Louisiana State,4,"$22,258,738","$14,328,154","$4,047,038",2017
+7  ,LAC , Mike Williams ,WR,22,Clemson,4,"$19,749,928","$12,503,584","$3,590,896",2017
+8  ,CAR , Christian McCaffrey ,RB,20,Stanford,4,"$17,241,304","$10,679,128","$3,134,782",2017
+9  ,CIN , John Ross ,WR,22,Washington,4,"$17,115,863","$10,587,900","$3,084,444",2017
+10  ,KC  from BUF, Patrick Mahomes ,QB,21,Texas Tech,4,"$16,425,786","$10,086,026","$2,986,506",2017
+11  ,NO , Marshon Lattimore ,CB,20,Ohio State,4,"$15,359,563","$9,310,591","$2,792,647",2017
+12  ,HOU  from PHI via CLE, Deshaun Watson ,QB,21,Clemson,4,"$13,854,281","$8,215,841","$2,457,014",2017
+13  ,ARI , Haason Reddick ,OLB,22,Temple,4,"$13,477,966","$7,942,157","$2,450,539",2017
+14  ,PHI  from MIN, Derek Barnett ,DE,20,Tennessee,4,"$12,850,772","$7,486,016","$2,336,504",2017
+15  ,IND , Malik Hooker ,S,21,Ohio State,4,"$12,599,908","$2,290,892","$2,222,063",2017
+16  ,BAL , Marlon Humphrey ,CB,20,Alabama,4,"$11,847,480","$6,756,348","$2,154,087",2017
+17  ,WAS , Jonathan Allen ,DE,22,Alabama,4,"$11,596,377","$6,573,728","$2,032,726",2017
+18  ,TEN , Adoree' Jackson ,CB,21,Southern California,4,"$11,282,783","$6,345,661","$2,051,415",2017
+19  ,TB , O.J. Howard ,TE,22,Alabama,4,"$11,094,618","$6,208,813","$2,003,438",2017
+20  ,DEN , Garett Bolles ,LT,24,Utah,4,"$11,031,904","$6,163,203","$2,005,800",2017
+21  ,DET , Jarrad Davis ,ILB,22,Florida,4,"$10,969,183","$6,117,587","$1,994,396",2017
+22  ,MIA , Charles Harris ,DE,22,Missouri,4,"$10,843,739","$6,026,356","$1,971,589",2017
+23  ,NYG , Evan Engram ,TE,22,Mississippi,4,"$10,718,304","$5,935,130","$1,948,782",2017
+24  ,OAK , Gareon Conley ,CB,21,Ohio State,4,"$10,467,424","$5,752,672","$1,854,992",2017
+25  ,CLE  from HOU, Jabrill Peppers ,S,21,Michigan,4,"$10,341,989","$5,661,446","$1,880,361",2017
+26  ,ATL  from SEA, Takkarist McKinley ,DE,21,California-Los Angeles,4,"$10,216,530","$5,570,204","$1,857,551",2017
+27  ,BUF  from KC, Tre'Davious White ,CB,22,Louisiana State,4,"$10,091,110","$5,478,989","$1,834,747",2017
+28  ,DAL , Taco Charlton ,DE,22,Michigan,4,"$10,028,388","$5,433,373","$1,823,343",2017
+29  ,CLE  from GB, David Njoku ,TE,20,Miami (FL),4,"$9,525,095","$5,067,342","$1,731,835",2017
+30  ,PIT , T.J. Watt ,OLB,22,Wisconsin,4,"$9,258,568","$4,873,504","$1,683,376",2017
+31  ,SF  from ATL via SEA, Reuben Foster ,ILB,23,Alabama,4,"$9,035,309","$4,711,320","$1,642,830",2017
+32  ,NO  from NE, Ryan Ramczyk ,RT,23,Wisconsin,4,"$8,891,554","$4,606,585","$1,616,646",2017
+33  ,GB  from CLE, Kevin King ,CB,21,Washington,4,"$7,080,884","$3,289,734","$1,259,902",2017
+34  ,JAC  from SF via SEA, Cam Robinson ,LT,21,Alabama,4,"$7,018,163","$3,244,118","$1,276,029",2017
+35  ,SEA  from JAC, Malik McDowell ,DT,20,Michigan State,-,"$6,955,441","$3,198,503","$1,264,626",2017
+36  ,ARI  from CHI, Budda Baker ,SS,21,Washington,4,"$6,830,005","$3,107,277","$1,241,819",2017
+37  ,BUF  from LA, Zay Jones ,WR,22,East Carolina,4,"$6,779,831","$3,070,786","$1,232,696",2017
+38  ,LAC , Forrest Lamp ,G,23,Western Kentucky,4,"$6,666,920","$2,988,669","$1,095,167",2017
+39  ,NYJ , Marcus Maye ,FS,23,Florida,4,"$6,554,039","$2,906,574","$1,191,643",2017
+40  ,CAR , Curtis Samuel ,WR,20,Ohio State,4,"$6,453,683","$2,833,588","$1,132,100",2017
+41  ,MIN  from CIN, Dalvin Cook ,RB,21,Florida State,4,"$6,353,334","$2,760,607","$1,065,680",2017
+42  ,NO , Marcus Williams ,FS,20,Utah,4,"$6,240,438","$2,678,501","$1,134,625",2017
+43  ,PHI , Sidney Jones ,CB,20,Washington,4,"$6,140,090","$2,605,520","$1,116,380",2017
+44  ,LA  from BUF, Gerald Everett ,TE,22,South Alabama,4,"$6,044,469","$2,535,977","$1,098,994",2017
+45  ,CHI  from ARI, Adam Shaheen ,TE,23,Ashland,4,"$5,910,537","$2,438,573","$1,074,643",2017
+46  ,IND , Quincy Wilson ,CB,21,Florida,4,"$5,766,277","$2,333,656","$1,048,414",2017
+47  ,BAL , Tyus Bowser ,OLB,21,Houston,4,"$5,575,610","$2,194,989","$1,013,747",2017
+48  ,CIN  from MIN, Joe Mixon ,RB,20,Oklahoma,4,"$5,450,174","$2,103,763","$990,940",2017
+49  ,WAS , Ryan Anderson ,OLB,22,Alabama,4,"$5,324,723","$2,012,526","$968,131",2017
+50  ,TB , Justin Evans ,S,21,Texas A&M,4,"$5,199,295","$1,921,306","$931,561",2017
+51  ,DEN , DeMarcus Walker ,DE,22,Florida State,4,"$5,073,859","$1,830,080","$922,520",2017
+52  ,CLE  from TEN, DeShone Kizer ,QB,21,Notre Dame,4,"$4,948,416","$1,738,848","$899,712",2017
+53  ,DET , Jalen Tabor ,CB,21,Florida,4,"$4,822,980","$1,647,622","$876,905",2017
+54  ,MIA , Raekwon McMillan ,ILB,20,Ohio State,4,"$4,697,537","$1,556,390","$737,098",2017
+55  ,NYG , Dalvin Tomlinson ,DT,23,Alabama,4,"$4,572,101","$1,465,164","$831,291",2017
+56  ,OAK , Obi Melifonwu ,S,23,Connecticut,4,"$4,509,379","$1,419,549","$764,824",2017
+57  ,HOU , Zach Cunningham ,ILB,22,Vanderbilt,4,"$4,471,745","$1,392,178","$813,044",2017
+58  ,SEA , Ethan Pocic ,G,21,Louisiana State,4,"$4,409,031","$1,346,568","$801,642",2017
+59  ,KC , Tanoh Kpassagnon ,DE,22,Villanova,4,"$4,321,222","$1,282,707","$785,676",2017
+60  ,DAL , Chidobe Awuzie ,CB,21,Colorado,4,"$4,283,588","$1,255,336","$778,834",2017
+61  ,GB , Josh Jones ,S,22,North Carolina State,4,"$4,233,413","$1,218,846","$769,711",2017
+62  ,PIT , JuJu Smith-Schuster ,WR,20,Southern California,4,"$4,195,779","$1,191,475","$735,516",2017
+63  ,BUF  from ATL, Dion Dawkins ,LT,23,Temple,4,"$4,183,239","$1,182,356","$760,589",2017
+64  ,CAR  from NE, Taylor Moton ,LT,22,Western Michigan,4,"$4,158,152","$1,164,110","$756,028",2017
+65  ,CLE , Larry Ogunjobi ,DT,22,Charlotte,4,"$3,907,264","$981,564","$710,391",2017
+66  ,SF , Ahkello Witherspoon ,CB,22,Colorado,4,"$3,884,665","$973,572","$708,393",2017
+67  ,NO  from CHI via SF, Alvin Kamara ,RB,21,Tennessee,4,"$3,857,772","$972,772","$708,193",2017
+68  ,JAC , Dawuane Smoot ,DE,22,Illinois,4,"$3,846,263","$964,160","$706,040",2017
+69  ,LA , Cooper Kupp ,WR,23,Eastern Washington,4,"$3,831,760","$954,760","$703,690",2017
+70  ,MIN  from NYJ, Pat Elflein ,C,22,Ohio State,4,"$3,747,840","$936,840","$699,210",2017
+71  ,LAC , Dan Feeney ,G,22,Indiana,4,"$3,731,632","$924,632","$696,158",2017
+72  ,TEN  from CAR via NE, Taywan Taylor ,WR,22,Western Kentucky,4,"$3,681,012","$916,012","$694,003",2017
+73  ,CIN , Jordan Willis ,DE,21,Kansas State,4,"$3,617,400","$904,400","$691,100",2017
+74  ,BAL  from PHI, Chris Wormley ,DT,23,Michigan,4,"$3,559,643","$898,643","$689,660",2017
+75  ,ATL  from BUF, Duke Riley ,OLB,22,Louisiana State,4,"$3,517,752","$889,752","$687,438",2017
+76  ,NO , Alex Anzalone ,OLB,22,Florida,4,"$3,465,592","$864,592","$591,677",2017
+77  ,CAR  from ARI, Daeshon Hall ,DE,21,Texas A&M,4,"$3,261,752","$861,752","$590,960",2017
+78  ,BAL , Tim Williams ,OLB,23,Alabama,4,"$3,396,680","$856,680","$679,170",2017
+79  ,NYJ  from MIN, ArDarius Stewart ,WR,23,Alabama,4,"$3,376,574","$846,324","$676,581",2017
+80  ,IND , Tarell Basham ,OLB,23,Ohio,4,"$3,355,856","$835,856","$673,964",2017
+81  ,WAS , Fabian Moreau ,CB,23,California-Los Angeles,4,"$3,339,392","$825,392","$671,348",2017
+82  ,DEN , Carlos Henderson ,WR,22,Louisiana Tech,4,"$3,325,984","$817,984","$552,496",2017
+83  ,NE  from TEN, Derek Rivers ,OLB,21,Youngstown State,4,"$3,304,896","$802,896","$548,724",2017
+84  ,TB , Chris Godwin ,WR,21,Penn State,4,"$3,284,164","$792,164","$663,041",2017
+85  ,NE  from DET, Antonio Garcia ,T,23,Troy,4,"$3,286,152","$786,152","$544,538",2017
+86  ,KC  from MIA via MIN, Kareem Hunt ,RB,21,Toledo,4,"$3,285,722","$775,952","$658,988",2017
+87  ,NYG , Davis Webb ,QB,22,California,4,"$3,536,920","$766,420","$656,605",2017
+88  ,OAK , Eddie Vanderdoes ,DT,22,California-Los Angeles,4,"$3,263,212","$761,212","$655,303",2017
+89  ,HOU , D'Onta Foreman ,RB,21,Texas,4,"$3,259,984","$759,484","$613,574",2017
+90  ,SEA , Shaquill Griffin ,CB,21,Central Florida,4,"$3,258,620","$758,620","$654,655",2017
+91  ,LA  from KC via BUF, John Johnson ,SS,22,Boston College,4,"$3,258,752","$757,752","$654,438",2017
+92  ,DAL , Jourdan Lewis ,CB,21,Michigan,4,"$3,248,428","$753,428","$653,357",2017
+93  ,GB , Montravius Adams ,DT,21,Auburn,4,"$3,276,776","$744,776","$666,194",2017
+94  ,PIT , Cameron Sutton ,CB,22,Tennessee,4,"$3,217,128","$736,128","$573,320",2017
+95  ,SEA  from ATL, Delano Hill ,S,21,Michigan,4,"$3,206,726","$727,476","$646,869",2017
+96  ,DET  from NE, Kenny Golladay ,WR,23,Northern Illinois,4,"$3,196,324","$718,824","$644,706",2017
+97 (C) ,MIA , Cordrea Tankersley ,CB,23,Clemson,4,"$3,176,288","$706,288","$641,572",2017
+98 (C) ,ARI  from CAR, Chad Williams ,WR,22,Grambling State,4,"$3,176,288","$706,288","$641,572",2017
+99 (C) ,PHI  from BAL, Rasul Douglas ,CB,21,West Virginia,4,"$3,176,038","$706,288","$641,572",2017
+100 (C) ,TEN  from LA, Jonnu Smith ,TE,21,Florida International,4,"$3,106,288","$706,288","$641,572",2017
+101 (C) ,DEN , Brendan Langley ,CB,22,Lamar University,4,"$3,175,268","$706,288","$641,572",2017
+102 (C) ,SEA , Nazair Jones ,DT,22,North Carolina,4,"$3,175,663","$706,288","$641,572",2017
+103 (C) ,NO  from CLE via NE, Trey Hendrickson ,DE,22,Florida Atlantic,4,"$3,175,788","$706,288","$641,572",2017
+104 (C) ,SF  from KC via MIN, C.J. Beathard ,QB,23,Iowa,4,"$3,528,646","$706,288","$641,572",2017
+105 (C) ,PIT , James Conner ,RB,21,Pittsburgh,4,"$3,161,523","$706,288","$627,807",2017
+106 (C) ,SEA , Amara Darboh ,WR,23,Michigan,4,"$3,175,288","$706,288","$641,572",2017
+107 (C) ,TB  from NYJ, Kendell Beckwith ,OLB,22,Louisiana State,4,"$3,175,288","$706,288","$641,572",2017
+108  ,GB  from CLE, Vince Biegel ,OLB,23,Wisconsin,4,"$3,093,743","$693,743","$583,372",2017
+109  ,MIN  from SF, Jaleel Johnson ,DT,22,Iowa,4,"$3,078,355","$678,355","$634,588",2017
+110  ,JAC , Dede Westbrook ,WR,23,Oklahoma,4,"$3,076,156","$676,156","$551,981",2017
+111  ,SEA  from CHI via SF, Tedric Thompson ,S,22,Colorado,4,"$3,072,004","$672,004","$633,001",2017
+112  ,CHI  from LA, Eddie Jackson ,S,24,Alabama,4,"$3,065,797","$665,797","$631,449",2017
+113  ,LAC , Rayshawn Jenkins ,S,23,Miami (FL),4,"$3,062,209","$662,209","$630,552",2017
+114  ,WAS  from NYJ, Samaje Perine ,RB,21,Oklahoma,4,"$3,059,781","$659,781","$629,945",2017
+115  ,ARI  from CAR, Dorian Johnson ,G,22,Pittsburgh,4,"$3,056,382","$656,382","$629,095",2017
+116  ,CIN , Carl Lawson ,OLB,21,Auburn,4,"$3,052,614","$652,614","$628,153",2017
+117  ,LA  from BUF via CHI, Josh Reynolds ,WR,22,Texas A&M,4,"$3,048,021","$648,021","$627,005",2017
+118  ,PHI , Mack Hollins ,WR,23,North Carolina,4,"$3,035,668","$635,668","$623,917",2017
+119  ,CHI  from ARI, Tarik Cohen ,RB,21,North Carolina A&T,4,"$3,035,658","$635,658","$623,914",2017
+120  ,MIN , Ben Gedeon ,OLB,22,Michigan,4,"$3,033,147","$633,147","$623,286",2017
+121  ,SF  from IND, Joe Williams ,RB,23,Utah,4,"$3,029,384","$629,384","$505,346",2017
+122  ,BAL , Nico Siragusa ,G,22,San Diego State,4,"$3,029,379","$629,379","$505,344",2017
+123  ,WAS , Montae Nicholson ,S,21,Michigan State,4,"$3,018,892","$618,892","$605,958",2017
+124  ,DET  from TEN via NE, Jalen Reeves-Maybin ,OLB,22,Tennessee,4,"$3,018,887","$618,887","$619,721",2017
+125  ,LA  from TB via NYJ, Samson Ebukam ,OLB,21,Eastern Washington,4,"$3,013,082","$613,082","$618,270",2017
+126  ,CLE  from DEN, Howard Wilson ,CB,21,Houston,4,"$3,007,004","$607,004","$499,751",2017
+127  ,DET , Michael Roberts ,TE,22,Toledo,4,"$3,003,136","$603,136","$615,784",2017
+128  ,CIN  from MIA via MIN, Josh Malone ,WR,21,Tennessee,4,"$2,999,241","$599,241","$614,810",2017
+129  ,OAK , David Sharpe ,T,21,Florida,4,"$2,986,415","$586,415","$611,603",2017
+130  ,HOU , Julie'n Davenport ,LT,22,Bucknell,4,"$2,986,420","$586,420","$611,605",2017
+131  ,NE  from SEA, Deatrich Wise ,DE,22,Arkansas,4,"$2,980,560","$575,880","$610,140",2017
+132  ,PHI  from KC via MIN, Donnel Pumphrey ,RB,22,San Diego State,4,"$2,975,888","$575,888","$498,845",2017
+133  ,DAL , Ryan Switzer ,WR,22,North Carolina,4,"$2,965,987","$565,987","$606,496",2017
+134  ,GB , Jamaal Williams ,RB,22,Brigham Young,4,"$2,965,992","$565,992","$606,498",2017
+135  ,PIT , Joshua Dobbs ,QB,22,Tennessee,4,"$2,999,124","$599,124","$614,781",2017
+136  ,ATL , Sean Harlow ,G,22,Oregon State,4,"$2,954,304","$554,304","$603,576",2017
+137  ,IND  from NE, Zach Banner ,T,23,Southern California,4,"$2,938,338","$538,338","$465,000",2017
+138 (C) ,CIN , Ryan Glasgow ,DT,23,Michigan,4,"$2,819,648","$419,648","$569,912",2017
+139 (C) ,KC  from CLE via PHI via MIN, Jehu Chesson ,WR,23,Michigan,4,"$2,819,648","$419,648","$569,912",2017
+140  ,NYG , Wayne Gallman ,RB,22,Clemson,4,"$2,819,648","$419,648","$569,912",2017
+141 (C) ,NYJ  from LA, Chad Hansen ,WR,22,California,4,"$2,819,648","$419,648","$569,912",2017
+142 (C) ,HOU  from CLE, Carlos Watkins ,DT,23,Clemson,4,"$2,819,648","$419,648","$569,912",2017
+143 (C) ,IND  from SF, Marlon Mack ,RB,21,South Florida,4,"$2,819,648","$419,648","$569,912",2017
+144 (C) ,IND , Grover Stewart ,DT,23,Albany State,4,"$2,819,648","$419,648","$569,912",2017
+145  ,DEN  from CLE, Jake Butt ,TE,21,Michigan,4,"$2,700,938","$300,938","$423,234",2017
+146  ,SF , George Kittle ,TE,23,Iowa,4,"$2,698,287","$298,287","$539,571",2017
+147  ,CHI , Jordan Morgan ,G,22,Kutztown,4,"$2,696,038","$296,038","$422,009",2017
+148  ,JAC , Blair Brown ,OLB,22,Ohio,4,"$2,694,715","$294,715","$538,678",2017
+149  ,ATL  from LA via BUF, Damontae Kazee ,S,23,San Diego State,4,"$2,688,922","$288,922","$537,230",2017
+150  ,NYJ , Jordan Leggett ,TE,22,Clemson,4,"$2,682,045","$282,045","$473,565",2017
+151  ,LAC , Desmond King ,S,22,Iowa,4,"$2,679,992","$279,992","$534,998",2017
+152  ,CAR , Corn Elder ,CB,22,Miami (FL),4,"$2,677,899","$277,899","$417,474",2017
+153  ,CIN , Jake Elliott ,K,22,Memphis,4,"$2,677,201","$277,201","$534,300",2017
+154  ,WAS  from NO, Jeremy Sprinkle ,TE,22,Arkansas,4,"$2,676,503","$276,503","$534,125",2017
+155  ,TEN  from PHI, Jayon Brown ,ILB,22,California-Los Angeles,4,"$2,671,553","$271,553","$532,888",2017
+156  ,ATL  from BUF, Brian Hill ,RB,21,Wyoming,4,"$2,669,248","$269,248","$532,312",2017
+157  ,ARI , Will Holden ,T,23,Vanderbilt,4,"$2,668,131","$268,131","$532,032",2017
+158  ,IND , Nate Hairston ,CB,22,Temple,4,"$2,667,785","$267,785","$531,946",2017
+159  ,BAL , Jermaine Eluemunor ,G,22,Texas A&M,4,"$2,667,155","$267,155","$531,788",2017
+160  ,CLE  from MIN via NYJ, Roderick Johnson ,T,21,Florida State,4,"$2,666,959","$266,959","$414,739",2017
+161  ,IND  from WAS via SF, Anthony Walker Jr. ,ILB,21,Northwestern,4,"$2,665,413","$265,413","$531,353",2017
+162  ,TB , Jeremy McNichols ,RB,21,Boise State,4,"$2,663,778","$263,778","$530,944",2017
+163  ,BUF  from DEN via NE, Matt Milano ,OLB,22,Boston College,4,"$2,661,506","$2,615,062","$530,376",2017
+164  ,MIA  from TEN via PHI, Isaac Asiata ,G,24,Utah,4,"$2,660,792","$260,792","$530,198",2017
+165  ,DET , Jamal Agnew ,CB,22,San Diego,4,"$2,658,364","$258,364","$529,591",2017
+166  ,PHI  from MIA, Shelton Gibson ,WR,22,West Virginia,4,"$2,657,237","$257,237","$529,309",2017
+167  ,NYG , Avery Moss ,DE,22,Youngstown State,4,"$2,654,770","$254,770","$528,692",2017
+168  ,OAK , Marquel Lee ,ILB,21,Wake Forest,4,"$2,653,693","$253,693","$528,423",2017
+169  ,HOU , Treston Decoud ,S,23,Oregon State,4,"$2,649,348","$249,348","$527,337",2017
+170  ,MIN  from KC, Rodney Adams ,WR,22,South Florida,4,"$2,646,504","$246,504","$526,626",2017
+171  ,BUF  from DAL, Nathan Peterman ,QB,22,Pittsburgh,4,"$2,639,499","$239,499","$524,874",2017
+172  ,DEN  from GB, Isaiah McKenzie ,WR,22,Georgia,4,"$2,635,844","$235,844","$523,961",2017
+173  ,PIT , Brian Allen ,CB,23,Utah,4,"$2,630,179","$230,179","$522,544",2017
+174  ,ATL , Eric Saubert ,TE,22,Drake,4,"$2,627,388","$227,388","$521,847",2017
+175  ,GB  from NE via CLE via DEN, DeAngelo Yancey ,WR,22,Purdue,4,"$2,623,900","$223,900","$520,975",2017
+176 (C) ,CIN , J.J. Dielman ,C,23,Utah,4,"$2,601,937","$201,937","$465,000",2017
+177 (C) ,SF  from DEN, Trent Taylor ,WR,22,Louisiana Tech,4,"$2,601,937","$201,937","$515,484",2017
+178 (C) ,MIA , Davon Godchaux ,DT,22,Louisiana State,4,"$2,601,937","$201,937","$515,484",2017
+179 (C) ,ARI , T.J. Logan ,RB,22,North Carolina,4,"$2,601,937","$201,937","$398,484",2017
+180 (C) ,MIN  from KC, Danny Isidora ,G,22,Miami (FL),4,"$2,601,937","$201,937","$515,484",2017
+181 (C) ,NYJ  from CLE, Dylan Donahue ,OLB,24,West Georgia,4,"$2,601,937","$201,937","$426,013",2017
+182 (C) ,GB , Aaron Jones ,RB,22,Texas El-Paso,4,"$2,601,937","$201,937","$515,484",2017
+183 (C) ,KC  from NE, Ukeme Eligwe ,ILB,23,Georgia Southern,4,"$2,601,937","$201,937","$515,484",2017
+184 (C) ,PHI  from MIA, Nate Gerry ,OLB,22,Nebraska,4,"$2,601,937","$201,937","$515,484",2017
+185  ,CLE , Caleb Brantley ,DT,22,Florida,4,"$2,579,975","$179,975","$509,993",2017
+186  ,BAL  from SF, Chuck Clark ,S,22,Virginia Tech,4,"$2,574,807","$174,807","$508,701",2017
+187  ,SEA  from JAC, Michael Tyson ,CB,23,Cincinnati,4,"$2,571,994","$171,994","$507,998",2017
+188  ,NYJ  from CHI via HOU via CLE, Elijah McGuire ,RB,22,Louisiana-Lafayette,4,"$2,568,505","$168,505","$507,126",2017
+189  ,LA , Tanzel Smart ,DT,22,Tulane,4,"$2,564,783","$164,783","$506,195",2017
+190  ,LAC , Sam Tevi ,T,22,Utah,4,"$2,561,791","$161,791","$505,447",2017
+191  ,DAL  from NYJ, Xavier Woods ,SS,21,Louisiana Tech,4,"$2,559,888","$159,888","$504,972",2017
+192  ,CAR , Alex Armah ,FB,22,West Georgia,4,"$2,558,532","$158,532","$504,633",2017
+193  ,CIN , Jordan Evans ,OLB,22,Oklahoma,4,"$2,556,506","$156,506","$504,126",2017
+194  ,MIA  from PHI, Vincent Taylor ,DT,23,Oklahoma State,4,"$2,554,413","$154,413","$503,603",2017
+195  ,BUF , Tanner Vallejo ,OLB,22,Boise State,4,"$2,553,799","$153,799","$503,449",2017
+196  ,NO , Al-Quadin Muhammad ,DE,22,Miami (FL),4,"$2,550,467","$150,467","$502,616",2017
+197  ,NYJ  from ARI via CHI via LA, Jeremy Clark ,CB,22,Michigan,4,"$2,548,413","$148,413","$412,625",2017
+198  ,SF  from BAL, D.J. Jones ,DT,22,Mississippi,4,"$2,547,855","$147,855","$501,963",2017
+199  ,WAS  from WAS, Chase Roullier ,C,23,Wyoming,4,"$2,547,168","$147,168","$501,792",2017
+200  ,NYG  from IND via NE via TEN, Adam Bisnowaty ,T,23,Pittsburgh,4,"$2,546,532","$146,532","$501,633",2017
+201  ,MIN  from WAS, Bucky Hodges ,TE,21,Virginia Tech,4,"$2,545,650","$145,650","$384,412",2017
+202  ,SF  from DEN, Pita Taumoepenu ,OLB,23,Utah,4,"$2,545,444","$145,444","$501,361",2017
+203  ,DEN  from TEN, De'Angelo Henderson ,RB,24,Coastal Carolina,4,"$2,545,153","$145,153","$501,288",2017
+204  ,NYJ  from TB, Derrick Jones ,CB,20,Mississippi,4,"$2,545,047","$145,047","$501,261",2017
+205  ,DET , Jeremiah Ledbetter ,DT,22,Arkansas,4,"$2,544,160","$144,160","$501,040",2017
+206  ,LA  from MIA, Sam Rogers ,FB,22,Virginia Tech,4,"$2,542,832","$142,832","$500,708",2017
+207  ,CIN  from NYG via TEN, Brandon Wilson ,RB,22,Houston,4,"$2,542,095","$142,095","$500,523",2017
+208  ,ARI  from OAK, Johnathan Ford ,S,22,Auburn,4,"$2,540,181","$140,181","$472,514",2017
+209  ,WAS  from HOU, Robert Davis ,WR,22,Georgia State,4,"$2,538,221","$138,221","$499,555",2017
+210  ,SEA , Justin Senior ,T,22,Mississippi State,4,"$2,536,179","$136,179","$382,044",2017
+211  ,NE  from DAL, Conor McDermott ,T,24,California-Los Angeles,4,"$2,535,018","$135,018","$465,000",2017
+212  ,GB , Kofi Amichia ,C,22,South Florida,4,"$2,531,463","$131,463","$497,865",2017
+213  ,PIT , Colin Holba ,LS,22,Louisville,4,"$2,529,314","$129,314","$497,328",2017
+214  ,PHI  from ATL via TEN, Elijah Qualls ,DT,22,Washington,4,"$2,527,204","$127,204","$496,801",2017
+215  ,DET  from NE, Brad Kaaya ,QB,21,Miami (FL),4,"$2,523,342","$123,342","$300,883",2017
+216 (C) ,DAL  from KC via NE, Marquez White ,CB,22,Florida State,4,"$2,510,014","$110,014","$492,503",2017
+217 (C) ,TEN  from CIN, Corey Levin ,G,22,Tennessee-Chattanooga,4,"$2,510,014","$110,014","$492,503",2017
+218 (C) ,KC , Leon McQuay III ,S,22,Southern California,4,"$2,510,014","$110,014","$492,503",2017
+219  ,MIN  from CLE via SF, Stacy Coley ,WR,22,Miami (FL),4,"$2,496,680","$96,680","$489,170",2017
+220  ,MIN  from SF via WAS, Ifeadi Odenigbo ,DE,23,Northwestern,4,"$2,496,380","$96,380","$489,095",2017
+221  ,OAK  from CHI via ARI, Shalom Luani ,S,22,Washington State,4,"$2,494,414","$94,414","$488,603",2017
+222  ,JAC , Jalen Myrick ,CB,22,Minnesota,4,"$2,493,666","$93,666","$488,416",2017
+223  ,TB  from LA via MIA, Stevie Tu'ikolovatu ,DT,25,Southern California,4,"$2,491,132","$91,132","$370,783",2017
+224  ,CLE  from NYJ, Zane Gonzalez ,K,21,Arizona State,4,"$2,489,156","$89,156","$487,289",2017
+225  ,LAC , Isaac Rochell ,DT,22,Notre Dame,4,"$2,487,756","$87,756","$486,939",2017
+226  ,SEA  from CAR, David Moore ,WR,22,East Central,4,"$2,487,365","$87,365","$486,841",2017
+227  ,TEN  from CIN, Josh Carraway ,OLB,23,Texas Christian,4,"$2,487,086","$87,086","$486,771",2017
+228  ,DAL  from BUF, Joey Ivie ,DT,22,Florida,4,"$2,486,489","$86,489","$486,622",2017
+229  ,SF  from NO, Adrian Colbert ,FS,23,Miami (FL),4,"$2,484,786","$84,786","$486,196",2017
+230  ,WAS  from PHI via MIN, Josh Harvey-Clemons ,ILB,23,Louisville,4,"$2,484,306","$84,306","$486,076",2017
+231  ,OAK  from ARI, Jylan Ware ,T,23,Alabama State,4,"$2,484,295","$84,295","$486,073",2017
+232  ,MIN , Elijah Lee ,OLB,21,Kansas State,4,"$2,483,145","$83,145","$485,786",2017
+233  ,CAR  from IND via CLE, Harrison Butker ,K,21,Georgia Tech,4,"$2,483,112","$83,112","$485,778",2017
+234  ,LA  from BAL, Ejuan Price ,OLB,24,Pittsburgh,4,"$2,482,799","$82,799","$485,699",2017
+235  ,WAS , Joshua Holsey ,CB,22,Auburn,4,"$2,480,946","$80,946","$485,236",2017
+236  ,TEN , Brad Seaton ,T,23,Villanova,4,"$2,479,551","$79,551","$484,887",2017
+237  ,MIA  from TB, Isaiah Ford ,WR,21,Virginia Tech,4,"$2,478,301","$78,301","$367,575",2017
+238  ,GB  from DEN, Devante Mays ,RB,22,Utah State,4,"$2,475,036","$75,036","$483,759",2017
+239  ,DAL  from DET via NE, Noah Brown ,WR,21,Ohio State,4,"$2,471,938","$71,938","$482,984",2017
+240  ,JAC , Marquez Williams ,FB,22,Miami (FL),4,"$2,471,236","$71,236","$365,809",2017
+241  ,TEN  from NYG, Khalfani Muhammad ,RB,22,California,4,"$2,470,487","$70,487","$482,621",2017
+242  ,OAK , Elijah Hood ,RB,21,North Carolina,4,"$2,469,750","$69,750","$482,437",2017
+243  ,HOU , Kyle Fuller ,C,23,Baylor,4,"$2,469,216","$69,216","$482,304",2017
+244  ,OAK  from SEA, Treyvon Hester ,DT,24,Toledo,4,"$2,468,601","$68,601","$482,150",2017
+245  ,MIN  from KC, Jack Tocho ,CB,21,North Carolina State,4,"$2,468,043","$68,043","$482,010",2017
+246  ,DAL , Jordan Carrell ,DT,22,Colorado,4,"$2,467,484","$67,484","$481,871",2017
+247  ,GB , Malachi Dupre ,WR,21,Louisiana State,4,"$2,466,636","$66,636","$481,659",2017
+248  ,PIT , Keion Adams ,OLB,21,Western Michigan,4,"$2,466,017","$66,017","$364,504",2017
+249  ,SEA  from ATL via ATL, Christopher Carson ,RB,22,Oklahoma State,4,"$2,465,129","$65,129","$391,811",2017
+250  ,DET  from NE, Pat O'Connor ,DE,23,Eastern Michigan,4,"$2,464,270","$64,270","$481,067",2017
+251 (C) ,CIN , Mason Schreck ,TE,23,Buffalo,4,"$2,464,270","$64,270","$364,067",2017
+252 (C) ,CLE  from DEN, Matt Dayes ,RB,22,North Carolina State,4,"$2,464,270","$64,270","$481,067",2017
+253 (C) ,DEN , Chad Kelly ,QB,23,Mississippi,4,"$2,464,270","$64,270","$364,067",2017
+,,,,,,,,,,2017
+

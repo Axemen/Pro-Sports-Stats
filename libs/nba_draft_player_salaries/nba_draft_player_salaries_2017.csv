@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,PHI  from BKN via BOS,Markelle Fultz,PG,"6' 4""",200,United States,Washington,2,"$15,366,120","$7,026,240",2017
+2,LAL ,Lonzo Ball,PG,"6' 6""",190,United States,California-Los Angeles,2,"$13,748,520","$6,286,560",2017
+3,BOS  from SAC via PHI,Jayson Tatum,SF,"6' 8""",208,United States,Duke,2,"$12,346,200","$5,645,400",2017
+4,PHX ,Josh Jackson,SF,,,United States,Kansas,2,"$11,131,560","$5,090,040",2017
+5,SAC  from PHI,De'Aaron Fox,PG,"6' 3""",175,United States,Kentucky,2,"$10,080,120","$4,609,200",2017
+6,ORL ,Jonathan Isaac,PF,"6' 10""",210,United States,Florida State,2,"$9,155,400","$4,186,320",2017
+7,MIN *Traded to CHI,Lauri Markkanen,PF,"7' 0""",240,Finland,Arizona,2,"$8,357,760","$3,821,640",2017
+8,NYK ,Frank Ntilikina,PG,"6' 6""",200,France,,2,"$7,656,840","$3,501,120",2017
+9,DAL ,Dennis Smith Jr.,PG,"6' 3""",195,United States,North Carolina State,2,"$7,038,240","$3,218,280",2017
+10,SAC  from NOP*Traded to POR,Zach Collins,C,"7' 0""",235,United States,Gonzaga,2,"$6,686,160","$3,057,240",2017
+11,CHA ,Malik Monk,SG,"6' 3""",200,United States,Kentucky,2,"$6,351,960","$2,904,480",2017
+12,DET ,Luke Kennard,SG,"6' 5""",206,United States,Duke,2,"$6,034,560","$2,759,280",2017
+13,DEN *Traded to UTH,Donovan Mitchell,SG,"6' 3""",215,United States,Louisville,2,"$5,732,760","$2,621,280",2017
+14,MIA ,Edrice Adebayo,C,"6' 10""",255,United States,Kentucky,2,"$5,446,200","$2,490,360",2017
+15,POR *Traded to SAC,Justin Jackson,SF,"6' 8""",210,United States,North Carolina,2,"$5,173,440","$2,365,560",2017
+16,CHI *Traded to PHI,Justin Patton,C,"7' 0""",241,United States,Creighton,2,"$4,915,080","$2,247,480",2017
+17,MIL ,DJ Wilson,PF,"6' 10""",231,United States,Michigan,2,"$4,669,320","$2,135,040",2017
+18,IND ,TJ Leaf,PF,"6' 10""",225,Israel,California-Los Angeles,2,"$4,435,920","$2,028,360",2017
+19,ATL ,John Collins,PF,"6' 10""",235,United States,Wake Forest,2,"$4,236,000","$1,936,920",2017
+20,POR  from DEN via MEM*Traded to SAC,Harry Giles,PF,"6' 10""",240,United States,Duke,2,"$4,066,440","$1,859,400",2017
+21,OKC ,Terrance Ferguson,SG,"6' 7""",190,United States,,2,"$3,903,840","$1,785,000",2017
+22,BKN  from WAS,Jarrett Allen,C,"6' 11""",237,United States,Texas,2,"$3,747,840","$1,713,720",2017
+23,TOR ,OG Anunoby,SF,"6' 8""",232,United Kingdom,Indiana,2,"$3,597,960","$1,645,200",2017
+24,DEN ,Tyler Lydon,PF,"6' 10""",225,United States,Syracuse,2,"$3,454,080","$1,579,440",2017
+25,ORL  from TOR via LAC,Anzejs Pasecniks,C,"7' 1""",200,Latvia,,2,"$3,315,840","$1,516,200",2017
+26,POR  from CLE,Caleb Swanigan,PF,"6' 9""",250,United States,Purdue,2,"$3,205,920","$1,465,920",2017
+27,LAL  from BOS via BKN,Kyle Kuzma,PF,"6' 9""",220,United States,Utah,2,"$3,113,400","$1,423,560",2017
+28,LAL  from HOU*Traded to UTH,Tony Bradley,C,"6' 11""",250,United States,North Carolina,2,"$3,094,440","$1,414,920",2017
+29,SAS ,Derrick White,PG,"6' 4""",190,United States,Colorado,2,"$3,071,760","$1,404,600",2017
+30,UTH  from GSW*Traded to LAL,Josh Hart,SG,"6' 5""",215,United States,Villanova,2,"$3,049,680","$1,394,520",2017
+31,CHA  from BKN via ATL*Traded to NOP,Frank Jackson,PG,"6' 3""",205,United States,Duke,3,"$3,812,377","$815,615",2017
+32,PHX *Traded to IND,Davon Reed,SG,"6' 6""",210,United States,Miami,4,"$5,565,327","$815,615",2017
+33,ORL  from LAL,Wesley Iwundu,SF,"6' 7""",195,United States,Kansas State,3,"$4,046,762","$1,050,000",2017
+34,SAC  from PHI via NOP,Frank Mason,PG,"6' 0""",189,United States,Kansas,3,"$4,181,147","$1,184,385",2017
+35,ORL *Traded to MEM,Ivan Rabb,PF,"6' 10""",220,United States,California,2,"$2,328,242","$950,000",2017
+36,PHI  from NYK via UTH,Jonah Bolden,SF,"6' 10""",220,Australia,,4,"$7,000,000",-,2017
+37,BOS  from MIN via PHX,Semi Ojeleye,PF,"6' 7""",241,United States,Southern Methodist,4,"$6,041,604","$1,291,892",2017
+38,CHI  from SAC*Traded to GSW,Jordan Bell,C,"6' 9""",224,United States,Oregon,2,"$2,193,857","$815,615",2017
+39,PHI  from DAL*Traded to PHX,Jawun Evans,PG,"6' 0""",190,United States,Oklahoma State,2,"$2,193,857","$815,615",2017
+40,NOP *Traded to CHA,Dwayne Bacon,SF,"6' 7""",221,United States,Florida State,3,"$3,812,377","$815,615",2017
+41,ATL  from CHA,Tyler Dorsey,SG,"6' 5""",183,Greece,Oregon,2,"$2,193,857","$815,615",2017
+42,UTH  from DET*Traded to WAS,Thomas Bryant,C,"6' 11""",248,United States,Indiana,2,"$2,193,857","$815,615",2017
+43,HOU  from DEN,Isaiah Hartenstein,PF,"7' 0""",249,Germany,,3,"$3,919,177",-,2017
+44,NYK  from CHI,Damyean Dotson,SG,"6' 6""",205,United States,Houston,3,"$4,096,762","$1,100,000",2017
+45,HOU  from MIA*Traded to MEM,Dillon Brooks,SF,"6' 6""",220,Canada,Oregon,3,"$3,812,377","$815,615",2017
+46,PHI  from POR*Traded to MIL,Sterling Brown,SG,"6' 6""",232,United States,Southern Methodist,3,"$3,812,377","$815,615",2017
+47,IND ,Ike Anigbogu,C,"6' 10""",250,United States,California-Los Angeles,3,"$3,946,762","$950,000",2017
+48,MIL *Traded to LAC,Sindarius Thornwell,SG,"6' 5""",212,United States,South Carolina,3,"$3,812,377","$815,615",2017
+49,DEN  from MEM,Vlatko Cancar,SF,"6' 8""",200,Slovenia,,,-,-,2017
+50,PHI  from ATL,Mathias Lessort,SF,"6' 9""",230,France,,,-,-,2017
+51,DEN  from OKC,Monte Morris,PG,"6' 3""",175,United States,Iowa State,-,-,-,2017
+52,NOP  from NOP,Edmond Sumner,PG,"6' 6""",176,United States,Xavier,-,-,-,2017
+53,BOS  from CLE,Kadeem Allen,SG,"6' 3""",215,United States,Arizona,,-,-,2017
+54,PHX  from TOR,Alec Peters,SF,"6' 9""",232,United States,Valparaiso,,-,-,2017
+55,UTH ,Nigel Williams-Goss,PF,"6' 3""",190,United States,Gonzaga,,-,-,2017
+56,BOS  from LAC,Jabari Bird,SG,"6' 6""",198,United States,California,,-,-,2017
+57,BKN  from BOS,Aleksandar Vezenkov,SF,"6' 8""",200,Bulgaria,,,-,-,2017
+58,NYK  from HOU,Ognjen Jaramaz,PF,"6' 4""",194,Serbia,,,-,-,2017
+59,SAS ,Jaron Blossomgame,SF,"6' 7""",219,United States,Clemson,,-,-,2017
+60,ATL  from GSW,Alpha Kaba,PF,"6' 10""",225,France,,,-,-,2017

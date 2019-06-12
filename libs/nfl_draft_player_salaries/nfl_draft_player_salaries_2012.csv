@@ -1,0 +1,255 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2012 Cap,year
+1  ,IND , Andrew Luck ,QB,22,Stanford,4,"$22,107,998","$14,518,544","$4,019,636",2012
+2  ,WAS  from STL, Robert Griffin III ,QB,22,Baylor,4,"$21,119,098","$13,799,344","$3,839,836",2012
+3  ,CLE  from MIN, Trent Richardson ,RB,21,Alabama,4,"$20,489,796","$13,341,000","$3,725,250",2012
+4  ,MIN  from CLE, Matt Kalil ,LT,22,Southern California,4,"$19,770,598","$12,818,620","$3,594,655",2012
+5  ,JAC  from TB, Justin Blackmon ,WR,22,Oklahoma State,4,"$18,512,010","$11,903,272","$3,365,818",2012
+6  ,DAL  from WAS via STL, Morris Claiborne ,CB,22,Louisiana State,4,"$16,264,502","$10,268,728","$2,957,182",2012
+7  ,TB  from JAC, Mark Barron ,ILB,22,Alabama,4,"$14,465,000","$8,961,092","$2,630,273",2012
+8  ,MIA , Ryan Tannehill ,QB,23,Texas A&M,4,"$12,668,843","$7,653,456","$2,303,364",2012
+9  ,CAR , Luke Kuechly ,ILB,21,Boston College,4,"$12,578,602","$7,588,072","$2,287,018",2012
+10  ,BUF , Stephon Gilmore ,CB,21,South Carolina,4,"$12,084,150","$7,228,480","$2,197,120",2012
+11  ,KC , Dontari Poe ,DT,21,Memphis,4,"$11,320,006","$6,672,730","$2,058,182",2012
+12  ,PHI  from SEA, Fletcher Cox ,DT,21,Mississippi State,4,"$10,241,198","$5,888,144","$1,862,036",2012
+13  ,ARI , Michael Floyd ,WR,22,Notre Dame,4,"$9,971,500","$5,692,000","$1,813,000",2012
+14  ,STL  from DAL, Michael Brockers ,DT,21,Louisiana Tech,4,"$9,522,000","$5,365,088","$1,731,272",2012
+15  ,SEA  from PHI, Bruce Irvin ,DE,25,West Virginia,4,"$9,342,198","$4,926,428","$1,698,582",2012
+16  ,NYJ , Quinton Coples ,OLB,21,North Carolina,4,"$8,802,794","$4,842,032","$1,600,508",2012
+17  ,CIN  from OAK, Dre Kirkpatrick ,CB,22,Alabama,4,"$8,622,796","$4,711,272","$1,567,818",2012
+18  ,SD , Melvin Ingram ,OLB,23,South Carolina,4,"$8,398,236","$4,547,808","$1,526,952",2012
+19  ,CHI , Shea McClellin ,OLB,22,Boise State,4,"$8,263,398","$4,449,744","$1,502,436",2012
+20  ,TEN , Kendall Wright ,WR,22,Baylor,4,"$8,218,452","$4,417,056","$1,494,264",2012
+21  ,NE  from CIN, Chandler Jones ,DE,22,Syracuse,4,"$8,172,552","$4,384,364","$1,486,091",2012
+22  ,CLE  from ATL, Brandon Weeden ,QB,28,Oklahoma State,4,"$8,081,436","$4,318,000","$1,469,745",2012
+23  ,DET , Riley Reiff ,LT,23,Iowa,4,"$7,993,700","$4,250,000","$1,453,400",2012
+24  ,PIT , David DeCastro ,G,22,Stanford,4,"$7,813,898","$4,122,836","$1,420,709",2012
+25  ,NE  from DEN, Dont'a Hightower ,ILB,22,Alabama,4,"$7,724,002","$4,057,456","$1,404,364",2012
+26  ,HOU , Whitney Mercilus ,OLB,21,Illinois,4,"$7,634,088","$3,992,064","$1,388,016",2012
+27  ,CIN  from NO via NE, Kevin Zeitler ,G,22,Wisconsin,4,"$7,544,200","$3,926,692","$1,371,673",2012
+28  ,GB , Nick Perry ,OLB,22,Southern California,4,"$7,499,250","$3,894,000","$1,363,500",2012
+29  ,MIN  from BAL, Harrison Smith ,FS,23,Notre Dame,4,"$7,138,546","$3,631,672","$1,297,918",2012
+30  ,SF , A.J.  Jenkins ,WR,22,Illinois,4,"$6,947,533","$3,492,752","$1,263,188",2012
+31  ,TB  from NE via DEN, Doug Martin ,RB,23,Boise State,4,"$6,787,816","$3,376,384","$1,234,096",2012
+32  ,NYG , David Wilson ,RB,20,Virginia Tech,4,"$6,684,502","$3,301,456","$1,215,364",2012
+33  ,STL , Brian Quick ,WR,22,Appalachian State,4,"$5,386,599","$2,357,528","$979,382",2012
+34  ,IND , Coby Fleener ,TE,23,Stanford,4,"$5,341,648","$2,324,836","$971,209",2012
+35  ,BAL  from MIN, Courtney Upshaw ,DT,22,Alabama,4,"$5,296,698","$2,292,144","$963,036",2012
+36  ,DEN  from TB, Derek Wolfe ,DE,22,Cincinnati,4,"$5,206,800","$2,226,764","$946,691",2012
+37  ,CLE , Mitchell Schwartz ,RT,22,California,4,"$5,170,840","$2,200,612","$940,153",2012
+38  ,JAC , Andre Branch ,DE,22,Clemson,4,"$5,089,934","$2,141,768","$925,442",2012
+39  ,STL  from WAS, Janoris Jenkins ,CB,23,North Alabama,4,"$4,990,139","$2,069,324","$907,331",2012
+40  ,CAR , Amini Silatolu ,G,23,Midwestern State,4,"$4,937,104","$2,030,620","$897,655",2012
+41  ,BUF , Cordy Glenn ,LT,22,Georgia,4,"$4,865,180","$1,978,312","$884,578",2012
+42  ,MIA , Jonathan Martin ,RT,22,Stanford,4,"$4,784,267","$1,919,468","$869,867",2012
+43  ,NYJ  from SEA, Stephen Hill ,WR,21,Georgia Tech,4,"$4,712,345","$1,867,164","$856,791",2012
+44  ,KC , Jeff Allen ,G,22,Illinois,4,"$4,643,822","$1,817,324","$844,331",2012
+45  ,CHI  from DAL via STL, Alshon Jeffery ,WR,22,South Carolina,4,"$4,547,830","$1,747,516","$826,879",2012
+46  ,PHI , Mychal Kendricks ,OLB,21,California,4,"$4,444,444","$1,672,324","$808,081",2012
+47  ,SEA  from NYJ, Bobby Wagner ,ILB,21,Utah State,4,"$4,307,798","$1,572,944","$783,236",2012
+48  ,NE  from OAK, Tavon Wilson ,SS,22,Illinois,4,"$4,208,382","$1,507,564","$766,891",2012
+49  ,SD , Kendall Reyes ,DE,22,Connecticut,4,"$4,127,992","$1,442,180","$750,545",2012
+50  ,STL  from CHI, Isaiah Pead ,RB,22,Cincinnati,4,"$4,038,100","$1,376,800","$734,200",2012
+51  ,GB  from ARI via PHI, Jerel Worthy ,DT,21,Michigan State,4,"$3,948,203","$1,311,420","$717,855",2012
+52  ,TEN , Zach Brown ,ILB,22,North Carolina,4,"$3,858,298","$1,246,036","$701,509",2012
+53  ,CIN , Devon Still ,DT,22,Penn State,4,"$3,768,402","$1,180,656","$735,164",2012
+54  ,DET , Ryan Broyles ,WR,24,Oklahoma,4,"$3,678,500","$1,115,272","$668,818",2012
+55  ,ATL , Peter Konz ,C,22,Wisconsin,4,"$3,588,600","$1,049,892","$652,473",2012
+56  ,PIT , Mike Adams ,LT,22,Ohio State,4,"$3,543,650","$1,017,200","$644,300",2012
+57  ,DEN , Brock Osweiler ,QB,21,Arizona State,4,"$3,516,678","$997,584","$639,396",2012
+58  ,TB  from HOU, Lavonte David ,OLB,22,Nebraska,4,"$3,596,732","$964,896","$631,224",2012
+59  ,PHI  from GB, Vinny Curry ,DE,23,Marshall,4,"$3,381,832","$899,512","$614,878",2012
+60  ,BAL , Kelechi Osemele ,G,22,Iowa State,4,"$3,345,870","$873,360","$608,340",2012
+61  ,SF , LaMichael James ,RB,22,Oregon,4,"$3,318,898","$853,744","$603,436",2012
+62  ,GB  from NE, Casey Hayward ,CB,22,Vanderbilt,4,"$3,309,912","$847,208","$601,802",2012
+63  ,NYG , Rueben Randle ,WR,20,Louisiana Tech,4,"$3,291,930","$834,132","$598,533",2012
+64  ,IND , Dwayne Allen ,TE,22,Clemson,4,"$3,080,000","$703,304","$565,826",2012
+65  ,STL , Trumaine Johnson ,CB,22,Montana,4,"$3,040,676","$671,176","$557,794",2012
+66  ,MIN , Josh Robinson ,CB,21,Central Florida,4,"$3,015,000","$697,000","$574,250",2012
+67  ,DEN  from CLE, Ronnie Hillman ,RB,20,San Diego State,4,"$3,000,832","$690,832","$562,708",2012
+68  ,HOU  from TB, DeVier Posey ,WR,22,Ohio State,4,"$2,962,092","$684,092","$561,023",2012
+69  ,BUF  from WAS, T.J. Graham ,WR,22,North Carolina State,4,"$2,901,252","$671,252","$557,813",2012
+70  ,JAC , Bryan Anger ,P,23,California,4,"$2,877,166","$662,500","$555,625",2012
+71  ,WAS  from BUF, Josh LeRibeus ,C,22,Southern Methodist,4,"$2,856,324","$656,324","$554,081",2012
+72  ,MIA , Olivier Vernon ,OLB,21,Miami (FL),4,"$2,848,080","$638,080","$549,520",2012
+73  ,SD  from CAR via CHI via MIA, Brandon Taylor ,S,22,Louisiana Tech,4,"$2,766,376","$643,876","$550,969",2012
+74  ,KC , Donald Stephenson ,LT,23,Oklahoma,4,"$2,812,500","$637,500","$549,375",2012
+75  ,SEA , Russell Wilson ,QB,23,Wisconsin,4,"$2,996,702","$619,400","$544,868",2012
+76  ,HOU  from PHI, Brandon Brooks ,G,22,Miami (OH),4,"$2,800,000","$617,436","$544,359",2012
+77  ,NYJ , Demario Davis ,OLB,23,Arkansas State,4,"$2,817,960","$577,960","$534,490",2012
+78  ,MIA  from SD, Michael Egnew ,TE,22,Missouri,4,"$2,776,456","$588,956","$537,239",2012
+79  ,CHI , Brandon Hardin ,S,22,Oregon State,4,"$2,721,000","$591,376","$537,844",2012
+80  ,ARI , Jamell Fleming ,S,22,Oklahoma,4,"$2,731,068","$586,068","$45,882",2012
+81  ,DAL , Tyrone Crawford ,DE,22,Boise State,4,"$2,740,252","$575,252","$533,813",2012
+82  ,TEN , Mike Martin ,DT,21,Michigan,4,"$2,727,560","$567,560","$531,890",2012
+83  ,CIN , Mohamed Sanu ,WR,22,Rutgers,4,"$2,713,252","$563,252","$530,813",2012
+84  ,BAL  from ATL, Bernard Pierce ,RB,21,Temple,4,"$2,655,944","$555,944","$528,986",2012
+85  ,DET , Bill Bentley ,CB,22,Louisiana-Lafayette,4,"$2,709,112","$549,112","$527,278",2012
+86  ,PIT , Sean Spence ,ILB,21,Miami (FL),4,"$2,705,380","$545,380","$526,345",2012
+87  ,CLE  from DEN, John Hughes ,DT,24,Cincinnati,4,"$2,644,140","$544,140","$526,035",2012
+88  ,PHI  from HOU, Nick Foles ,QB,23,Arizona,4,"$2,768,520","$543,250","$525,880",2012
+89  ,NO , Akiem Hicks ,DE,22,Regina,4,"$2,680,400","$542,000","$525,725",2012
+90  ,NE  from GB, Jake Bequette ,DE,23,Arkansas,4,"$2,659,800","$539,800","$524,950",2012
+91  ,ATL  from BAL, Lamar Holmes ,RT,22,Southern Mississippi,4,"$2,633,600","$533,600","$523,400",2012
+92  ,IND  from SF, T.Y. Hilton ,WR,22,Florida International,4,"$2,642,000","$527,400","$521,850",2012
+93  ,CIN  from NE, Brandon Thompson ,DT,22,Clemson,4,"$2,691,200","$521,200","$520,300",2012
+94  ,NYG , Jayron Hosley ,CB,21,Virginia Tech,4,"$2,637,500","$515,000","$518,750",2012
+95 (C) ,OAK , Tony Bergstrom ,C,25,Utah,4,"$2,606,016","$506,016","$516,504",2012
+96  ,STL , Chris Givens ,WR,22,Wake Forest,4,"$2,597,028","$497,028","$514,257",2012
+97  ,MIA  from IND via SF, Lamar Miller ,RB,21,Miami (FL),4,"$2,586,000","$486,000","$511,500",2012
+98  ,BAL  from MIN, Gino Gradkowski ,C,23,Delaware,4,"$2,584,424","$484,424","$511,106",2012
+99  ,HOU  from TB via PHI, Ben Jones ,C,22,Georgia,4,"$2,581,448","$481,448","$510,362",2012
+100  ,CLE , Travis Benjamin ,WR,22,Miami (FL),4,"$2,577,000","$477,000","$509,250",2012
+101  ,DEN  from JAC via TB, Omar Bolden ,FS,23,Arizona State,4,"$2,574,428","$474,428","$508,607",2012
+102  ,WAS , Kirk Cousins ,QB,23,Michigan State,4,"$2,572,688","$472,688","$508,172",2012
+103  ,CAR  from MIA via SF, Frank Alexander ,DE,22,Oklahoma,4,"$2,570,252","$470,252","$507,563",2012
+104  ,CAR , Joe Adams ,WR,22,Arkansas,4,"$2,567,552","$467,552","$506,888",2012
+105  ,BUF , Nigel Bradham ,OLB,22,Florida State,4,"$2,564,424","$457,424","$504,356",2012
+106  ,SEA , Robert Turbin ,RB,22,Utah State,4,"$2,556,456","$456,456","$504,114",2012
+107  ,KC , Devon Wylie ,WR,23,Fresno State,4,"$2,555,400","$455,400","$503,850",2012
+108  ,DEN  from NYJ, Philip Blake ,G,26,Baylor,4,"$2,478,600","$453,600","$308,400",2012
+109  ,PIT  from OAK via WAS, Alameda Ta'amu ,DT,21,Washington,4,"$2,565,312","$433,312","$452,516",2012
+110  ,SD , Ladarius Green ,TE,21,Louisiana-Lafayette,4,"$2,550,900","$450,900","$502,725",2012
+111  ,CHI , Evan Rodriguez ,FB,23,Temple,4,"$2,545,200","$445,200","$501,300",2012
+112  ,ARI , Bobby Massie ,RT,22,Mississippi,4,"$2,543,380","$443,380","$500,845",2012
+113  ,DAL , Kyle Wilber ,OLB,23,Wake Forest,4,"$2,539,220","$439,220","$499,805",2012
+114  ,SEA  from PHI, Jaye Howard ,DE,23,Florida,4,"$2,534,864","$434,864","$498,716",2012
+115  ,TEN , Coty Sensabaugh ,CB,23,Clemson,4,"$2,532,092","$432,092","$498,023",2012
+116  ,CIN , Orson Charles ,FB,21,Georgia,4,"$2,529,300","$429,300","$497,325",2012
+117  ,SF  from DET, Joe Looney ,G,21,Wake Forest,4,"$2,525,204","$425,204","$496,301",2012
+118  ,MIN  from ATL via CLE, Jarius Wright ,WR,22,Arkansas,4,"$2,520,108","$420,108","$495,027",2012
+119  ,WAS  from PIT, Keenan Robinson ,OLB,22,Texas,4,"$2,520,108","$420,108","$300,027",2012
+120  ,CLE  from DEN, James-Michael Johnson ,OLB,22,Nevada,4,"$2,515,908","$415,908","$493,977",2012
+121  ,HOU , Keshawn Martin ,WR,22,Michigan State,4,"$2,512,560","$412,560","$493,140",2012
+122  ,NO , Nick Toon ,WR,23,Wisconsin,4,"$2,507,612","$407,612","$296,903",2012
+123  ,PHI  from GB, Brandon Boykin ,CB,21,Georgia,4,"$2,505,468","$405,468","$491,367",2012
+124  ,BUF  from BAL, Ron Brooks ,CB,23,Louisiana Tech,4,"$2,500,540","$400,540","$490,135",2012
+125  ,DET  from SF, Ronnell Lewis ,DE,21,Oklahoma,4,"$2,497,088","$397,088","$489,272",2012
+126  ,HOU  from NE via DEN via TB, Jared Crick ,DE,22,Nebraska,4,"$2,491,500","$391,500","$487,875",2012
+127  ,NYG , Adrien Robinson ,TE,23,Cincinnati,4,"$2,485,652","$385,652","$486,413",2012
+128 (C) ,MIN , Rhett Ellison ,TE,23,Southern California,4,"$2,400,584","$300,584","$465,146",2012
+129 (C) ,OAK , Miles Burris ,ILB,23,San Diego State,4,"$2,400,584","$300,584","$465,146",2012
+130 (C) ,BAL , Christian Thompson ,S,21,South Carolina State,4,"$2,400,584","$300,584","$348,146",2012
+131 (C) ,NYG , Brandon Mosley ,G,23,Auburn,4,"$2,400,584","$300,584","$465,146",2012
+132 (C) ,GB , Mike Daniels ,DE,22,Iowa,4,"$2,400,584","$300,584","$465,146",2012
+133 (C) ,GB , Jerron McMillian ,S,23,Maine,4,"$2,400,584","$300,584","$465,146",2012
+134 (C) ,MIN , Greg Childs ,WR,22,Arkansas,4,"$2,400,584","$300,584","$465,146",2012
+135 (C) ,DAL , Matt Johnson ,S,22,Eastern Washington,4,"$2,400,584","$300,584","$465,146",2012
+136  ,IND , Josh Chapman ,DT,22,Alabama,4,"$2,150,512","$215,512","$443,878",2012
+137  ,DEN  from STL, Malik Jackson ,DT,22,Tennessee,4,"$2,313,612","$213,612","$443,403",2012
+138  ,DET  from MIN, Tahir Whitehead ,OLB,22,Temple,4,"$2,312,000","$212,000","$443,000",2012
+139  ,MIN  from CLE, Robert Blanton ,SS,22,Notre Dame,4,"$2,311,052","$211,052","$442,763",2012
+140  ,TB , Najee Goode ,OLB,22,West Virginia,4,"$2,306,900","$206,900","$441,725",2012
+141  ,WAS , Adam Gettis ,G,23,Iowa,4,"$2,301,972","$201,972","$440,493",2012
+142  ,JAC , Brandon Marshall ,ILB,22,Nevada,4,"$2,300,500","$200,500","$390,000",2012
+143  ,CAR , Josh Norman ,CB,24,Coastal Carolina,4,"$2,210,000","$199,000","$439,750",2012
+144  ,BUF , Zebrie Sanders ,RT,22,Florida State,4,"$2,298,500","$198,500","$322,625",2012
+145  ,TEN  from MIA, Taylor Thompson ,TE,22,Southern Methodist,4,"$2,298,000","$198,000","$439,500",2012
+146  ,KC , De'Quan Menzie ,CB,22,Alabama,4,"$2,294,452","$194,452","$438,613",2012
+147  ,BUF  from SEA, Tank Carder ,ILB,23,Texas Christian,4,"$2,292,800","$192,800","$390,000",2012
+148  ,DET  from OAK, Chris Greenwood ,CB,22,Albion,4,"$2,292,000","$192,000","$438,000",2012
+149  ,SD , Johnnie Troutman ,G,24,Penn State,4,"$2,291,752","$191,752","$437,938",2012
+150  ,STL  from CHI, Rokevious Watkins ,G,23,South Carolina,4,"$2,291,300","$191,300","$437,825",2012
+151  ,ARI , Senio Kelemete ,G,21,Washington,4,"$2,291,600","$191,600","$437,900",2012
+152  ,DAL , Danny Coale ,WR,23,Virginia Tech,4,"$2,290,052","$190,052","$390,000",2012
+153  ,PHI , Dennis Kelly ,RT,22,Purdue,4,"$2,288,800","$188,800","$437,200",2012
+154  ,SEA  from NYJ, Korey Toomer ,ILB,23,Idaho,4,"$2,288,000","$188,000","$390,000",2012
+155  ,MIA  from TEN, Josh Kaddu ,OLB,22,Oregon,4,"$2,286,740","$186,740","$390,000",2012
+156  ,CIN , Shaun Prater ,CB,22,Iowa,4,"$2,212,000","$185,000","$319,250",2012
+157  ,ATL , Bradie Ewing ,FB,22,Wisconsin,4,"$2,209,192","$184,192","$319,048",2012
+158  ,OAK  from DET, Jack Crawford ,DT,23,Penn State,4,"$2,282,484","$182,484","$435,606",2012
+159  ,PIT , Chris Rainey ,RB,24,Florida,4,"$2,281,652","$181,652","$435,413",2012
+160  ,CLE  from DEN, Ryan Miller ,RT,22,Colorado,4,"$2,278,532","$178,532","$434,633",2012
+161  ,HOU , Randy Bullock ,K,22,Texas A&M,4,"$2,203,108","$178,108","$434,527",2012
+162  ,NO , Corey White ,CB,21,Samford,4,"$2,276,500","$176,500","$434,125",2012
+163  ,GB  from GB via NE, Terrell Manning ,ILB,22,North Carolina State,4,"$2,271,480","$171,480","$432,870",2012
+164  ,ATL  from BAL, Jonathan Massaquoi ,DE,23,Troy,4,"$2,268,860","$168,860","$432,215",2012
+165  ,SF , Darius Fleming ,OLB,22,Notre Dame,4,"$2,264,800","$164,800","$431,200",2012
+166  ,CIN  from NE, Marvin Jones ,WR,22,California,4,"$2,262,800","$162,800","$430,700",2012
+167  ,CIN  from NYG, George Iloka ,FS,22,Boise State,4,"$2,260,300","$160,300","$430,075",2012
+168 (C) ,OAK , Juron Criner ,WR,22,Arizona,4,"$2,244,560","$144,560","$426,140",2012
+169 (C) ,BAL , Asa Jackson ,CB,22,Cal Poly,4,"$2,244,560","$144,560","$426,140",2012
+170 (C) ,IND , Vick Ballard ,RB,21,Mississippi State,4,"$2,244,560","$144,560","$426,140",2012
+171  ,STL , Greg Zuerlein ,K,24,MIssouri Western State,4,"$2,275,473","$128,820","$422,205",2012
+172  ,SEA  from IND via PHI, Jeremy Lane ,CB,21,Northwestern State,4,"$2,225,116","$125,116","$421,279",2012
+173  ,WAS  from MIN, Alfred Morris ,RB,23,Florida Atlantic,4,"$2,223,100","$123,100","$420,775",2012
+174  ,TB , Keith Tandy ,FS,23,West Virginia,4,"$2,220,600","$120,600","$420,150",2012
+175  ,MIN  from CLE, Blair Walsh ,K,22,Georgia,4,"$2,217,932","$117,932","$419,483",2012
+176  ,JAC , Mike Harris ,CB,23,Florida State,4,"$2,215,788","$115,788","$418,947",2012
+177  ,ARI  from WAS, Justin Bethel ,CB,21,Presbyterian,4,"$2,214,224","$114,224","$418,556",2012
+178  ,BUF , Mark Asper ,LT,26,Oregon,4,"$2,213,452","$113,452","$390,000",2012
+179  ,NO  from MIA, Andrew Tiller ,G,21,Syracuse,4,"$2,212,000","$112,000","$418,000",2012
+180  ,SF  from CAR, Trenton Robinson ,FS,22,Michigan State,4,"$2,210,500","$110,500","$417,625",2012
+181  ,SEA , Winston Guy ,FS,22,Kentucky,4,"$2,210,060","$110,060","$417,515",2012
+182  ,KC , Cyrus Gray ,RB,22,Texas A&M,4,"$2,232,672","$107,672","$424,918",2012
+183  ,MIA  from SD, B.J Cunningham ,WR,22,Michigan State,4,"$2,206,200","$106,200","$390,000",2012
+184  ,CHI , Isaiah Frey ,CB,22,Nevada,4,"$2,219,025","$119,025","$416,450",2012
+185  ,ARI , Ryan Lindley ,QB,22,San Diego State,4,"$2,205,308","$105,308","$416,327",2012
+186  ,DAL , James Hanna ,TE,22,Oklahoma,4,"$2,204,852","$104,852","$416,213",2012
+187  ,NYJ  from PHI via IND, Josh Bush ,SS,23,Wake Forest,4,"$2,204,000","$104,220","$416,055",2012
+188  ,DEN  from NYJ, Danny Trevathan ,ILB,22,Kentucky,4,"$2,204,072","$104,072","$416,018",2012
+189  ,OAK , Christo Bilukidi ,DT,22,Georgia State,4,"$2,203,864","$103,864","$415,966",2012
+190  ,TEN , Markelle Martin ,S,21,Oklahoma State,4,"$2,203,788","$103,788","$415,947",2012
+191  ,CIN , Dan Herron ,RB,23,Ohio State,4,"$2,203,152","$103,152","$390,000",2012
+192  ,ATL , Charles Mitchell ,S,22,Mississippi State,4,"$2,201,672","$101,672","$415,418",2012
+193  ,WAS  from PIT, Tom Compton ,G,22,South Dakota,4,"$2,200,000","$101,000","$390,000",2012
+194  ,PHI  from DEN, Marvin McNutt ,WR,23,Iowa,4,"$2,198,892","$98,892","$390,000",2012
+195  ,HOU , Nick Mondek ,LT,23,Purdue,4,"$2,197,000","$97,432","$414,358",2012
+196  ,DET  from NO via MIA via SF, Jonte Green ,CB,22,New Mexico State,4,"$2,195,800","$97,000","$414,250",2012
+197  ,NE  from GB, Nate Ebner ,FS,22,Ohio State,4,"$2,196,600","$96,600","$414,150",2012
+198  ,BAL , Tommy Streeter ,WR,22,Miami (FL),4,"$2,194,052","$94,502","$413,513",2012
+199  ,SF , Jason Slowey ,C,23,Western Oregon,4,"$2,192,512","$92,512","$413,128",2012
+200  ,PHI  from NE, Brandon Washington ,RT,23,Miami (FL),4,"$2,191,000","$91,000","$390,000",2012
+201  ,NYG , Matt McCants ,RT,22,Alabama-Birmingham,4,"$2,188,232","$88,232","$390,000",2012
+202 (C) ,NYJ , Terrance Ganaway ,RB,23,Baylor,4,"$2,178,680","$78,680","$390,000",2012
+203 (C) ,NYJ , Robert T. Griffin ,G,22,Baylor,4,"$2,178,680","$78,680","$390,000",2012
+204 (C) ,CLE , Emmanuel Acho ,ILB,21,Texas,4,"$2,178,680","$78,680","$409,670",2012
+205 (C) ,CLE , Billy Winn ,DE,23,Boise State,4,"$2,178,860","$78,680","$409,670",2012
+206 (C) ,IND , LaVon Brazill ,WR,23,Ohio,4,"$2,178,680","$78,680","$408,513",2012
+207 (C) ,CAR , Brad Nortman ,P,22,Wisconsin,4,"$2,178,680","$78,680","$409,670",2012
+208  ,IND , Justin Anderson ,RT,24,Georgia,4,"$2,169,000","$69,000","$390,000",2012
+209  ,STL , Aaron Brown ,LB,23,Hawaii,4,"$2,168,900","$68,900","$390,000",2012
+210  ,MIN , Audie Cole ,ILB,22,North Carolina State,4,"$2,167,500","$67,500","$406,875",2012
+211  ,TEN  from CLE via MIN, Scott Solomon ,OLB,23,Rice,4,"$2,166,964","$66,964","$406,741",2012
+212  ,TB , Michael Smith ,RB,23,Utah State,4,"$2,165,148","$65,148","$406,287",2012
+213  ,WAS , Richard Crawford ,CB,21,Southern Methodist,4,"$2,163,732","$63,732","$405,933",2012
+214  ,IND  from JAC via NYJ, Tim Fugger ,OLB,22,Vanderbilt,4,"$2,162,728","$62,728","$405,682",2012
+215  ,MIA , Kheeston Randall ,DT,22,Texas,4,"$2,162,448","$62,448","$405,612",2012
+216  ,CAR , D.J. Campbell ,S,22,California,4,"$2,162,248","$62,248","$405,562",2012
+217  ,WAS  from BUF, Jordan Bernstine ,S,22,Iowa,4,"$2,161,820","$61,820","$405,455",2012
+218  ,KC , Jerome Long ,DE,22,San Diego State,4,"$2,161,000","$61,000","$390,000",2012
+219  ,MIN  from SEA via DET, Trevor Guyton ,DE,22,California,4,"$2,167,788","$67,788","$406,947",2012
+220  ,CHI , Greg McCoy ,CB,23,Texas Christian,4,"$2,160,500","$60,500","$405,125",2012
+221  ,ARI , Nate Potter ,LT,23,Boise State,4,"$2,159,424","$59,424","$404,856",2012
+222  ,DAL , Caleb McSurdy ,ILB,22,Montana,4,"$2,159,400","$59,400","$404,850",2012
+223  ,DET  from PHI via NE via MIN, Travis Lewis ,ILB,24,Oklahoma,4,"$2,159,172","$59,172","$404,793",2012
+224  ,NE  from NYJ via GB, Alfonzo Dennard ,CB,22,Nebraska,4,"$2,157,848","$57,848","$404,462",2012
+225  ,SEA  from OAK, J.R. Sweezy ,G,23,North Carolina State,4,"$2,156,848","$56,848","$404,212",2012
+226  ,SD , David Molk ,C,23,Michigan,4,"$2,155,952","$55,952","$403,988",2012
+227  ,MIA  from TEN, Rishard Matthews ,WR,22,Nevada,4,"$2,153,612","$53,612","$403,403",2012
+228  ,JAC  from CIN, Jeris Pendleton ,DT,28,Ashland,4,"$2,150,884","$50,884","$402,721",2012
+229  ,PHI  from ATL, Bryce Brown ,RB,20,Kansas State,4,"$2,150,880","$50,880","$402,720",2012
+230  ,OAK  from DET, Nathan Stupar ,OLB,24,Penn State,4,"$2,150,352","$50,352","$390,000",2012
+231  ,PIT , Toney Clemons ,WR,23,Colorado,4,"$2,149,824","$49,824","$390,000",2012
+232  ,SEA  from DEN via NYJ, Greg Scruggs ,DE,21,Louisville,4,"$2,149,432","$49,432","$402,358",2012
+233  ,TB  from HOU, Drake Dunsmore ,TE,23,Northwestern,4,"$2,149,000","$49,000","$390,000",2012
+234  ,NO , Marcel Jones ,RT,23,Nebraska,4,"$2,208,600","$48,600","$402,150",2012
+235  ,NE  from GB, Jeremy Ebert ,WR,23,Northwestern,4,"$2,148,200","$48,200","$390,000",2012
+236  ,BAL , Deangelo Tyson ,DE,23,Georgia,4,"$2,147,592","$47,592","$401,898",2012
+237  ,SF , Cam Johnson ,OLB,21,Virginia,4,"$2,146,836","$47,148","$390,000",2012
+238  ,KC  from NE, Junior Hemingway ,WR,23,Michigan,4,"$2,147,000","$47,000","$390,000",2012
+239  ,NYG , Markus Kuhn ,DT,25,North Carolina State,4,"$2,145,896","$45,896","$401,474",2012
+240 (C) ,PIT , David Paulson ,TE,23,Oregon,4,"$2,145,896","$45,896","$401,474",2012
+241 (C) ,GB , Andrew Datko ,LT,21,Florida State,4,"$2,145,896","$45,896","$390,000",2012
+242 (C) ,NYJ , Antonio Allen ,CB,23,South Carolina,4,"$2,145,896","$45,896","$303,794",2012
+243 (C) ,GB , B.J. Coleman ,QB,23,Tennessee-Chattanooga,4,"$2,145,896","$45,896","$390,000",2012
+244 (C) ,NYJ , Jordan White ,WR,23,Western Michigan,4,"$2,145,896","$45,896","$390,000",2012
+245 (C) ,CLE , Trevin Wade ,CB,22,Arizona,4,"$2,145,896","$45,896","$401,472",2012
+246 (C) ,PIT , Terrence Frederick ,CB,22,Texas A&M,4,"$2,145,896","$45,896","$390,000",2012
+247 (C) ,CLE , Brad Smelley ,TE,23,Alabama,4,"$2,145,890","$45,890","$390,000",2012
+248 (C) ,PIT , Kelvin Beachum ,LT,22,Southern Methodist,4,"$2,145,896","$45,896","$401,474",2012
+249 (C) ,ATL , Travian Robertson ,DT,23,South Carolina,4,"$2,145,896","$45,896","$401,474",2012
+250 (C) ,SD , Edwin Baker ,RB,20,Michigan State,4,"$2,145,896","$45,896","$390,000",2012
+251 (C) ,BUF , John Potter ,K,22,Western Michigan,4,"$2,145,896","$45,896","$401,474",2012
+252  (S),STL , Daryl Richardson ,RB,22,Abilene Christian,4,"$2,145,896","$45,896","$401,474",2012
+253  (S),IND , Chandler Harnish ,QB,23,Northern Illinois,4,"$2,145,896","$45,896","$390,000",2012
+

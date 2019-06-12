@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,MIN ,Karl-Anthony Towns,C,"7' 0""",248,United States,Kentucky,2,"$11,663,760","$5,703,600",2015
+2,LAL *Traded to BKN,D'Angelo Russell,PG,"6' 5""",198,United States,Ohio State,2,"$10,435,920","$5,103,120",2015
+3,PHI *Traded to NOP,Jahlil Okafor,C,"6' 11""",275,United States,Duke,2,"$9,371,520","$4,582,680",2015
+4,NYK *Traded to DAL,Kristaps Porzingis,PF,"7' 3""",240,Latvia,,2,"$8,449,440","$4,131,720",2015
+5,ORL *Traded to NYK,Mario Hezonja,SG,"6' 8""",225,Croatia,,2,"$7,651,320","$3,741,480",2015
+6,SAC ,Willie Cauley-Stein,C,"7' 0""",240,United States,Kentucky,2,"$6,949,440","$3,398,280",2015
+7,DEN *Traded to NYK,Emmanuel Mudiay,PG,"6' 5""",200,Dominican Republic,,2,"$6,344,040","$3,102,240",2015
+8,DET *Traded to NOP,Stanley Johnson,SF,"6' 7""",245,United States,Arizona,2,"$5,811,840","$2,841,960",2015
+9,CHA ,Frank Kaminsky,PF,"7' 0""",242,United States,Wisconsin,2,"$5,342,520","$2,612,520",2015
+10,MIA ,Justise Winslow,SF,"6' 7""",225,United States,Duke,2,"$5,075,160","$2,481,720",2015
+11,IND ,Myles Turner,C,"6' 11""",250,United States,Texas,2,"$4,821,600","$2,357,760",2015
+12,UTH *Traded to DEN,Trey Lyles,PF,"6' 10""",234,United States,Kentucky,2,"$4,580,400","$2,239,800",2015
+13,PHX ,Devin Booker,SG,"6' 6""",210,United States,Kentucky,2,"$4,351,440","$2,127,840",2015
+14,OKC *Traded to CLE,Cameron Payne,PG,"6' 3""",190,United States,Murray State,2,"$4,134,000","$2,021,520",2015
+15,ATL *Traded to PHX,Kelly Oubre Jr.,SF,"6' 7""",205,United States,Kansas,2,"$3,926,880","$1,920,240",2015
+16,BOS ,Terry Rozier,PG,"6' 1""",190,United States,Louisville,2,"$3,730,800","$1,824,360",2015
+17,MIL *Traded to DAL,Rashad Vaughn,SG,"6' 6""",210,United States,Nevada-Las Vegas,2,"$5,464,000","$1,733,040",2015
+18,HOU *Traded to WAS,Sam Dekker,SF,"6' 9""",230,United States,Wisconsin,2,"$3,366,960","$1,646,400",2015
+19,ATL *Traded to ORL,Jerian Grant,PG,"6' 4""",205,United States,Notre Dame,2,"$3,215,400","$1,572,360",2015
+20,TOR *Traded to MEM,Delon Wright,PG,"6' 5""",183,United States,Utah,2,"$3,086,640","$1,509,360",2015
+21,DAL *Traded to ATL,Justin Anderson,SG,"6' 6""",230,United States,Virginia,2,"$2,963,160","$1,449,000",2015
+22,CHI *Traded to WAS,Bobby Portis,PF,"6' 11""",250,United States,Arkansas,2,"$2,844,840","$1,391,160",2015
+23,POR *Traded to BKN,Rondae Hollis-Jefferson,SF,"6' 7""",217,United States,Arizona,2,"$2,731,080","$1,335,480",2015
+24,CLE *Traded to MIN,Tyus Jones,PG,"6' 2""",196,United States,Duke,2,"$2,621,760","$1,282,080",2015
+25,MEM *Traded to ORL,Jarell Martin,PF,"6' 10""",239,United States,Louisiana State,2,"$2,517,000","$1,230,840",2015
+26,SAS ,Nikola Milutinov,C,"7' 0""",230,Serbia,,2,-,"$1,189,920",2015
+27,LAL *Traded to CLE,Larry Nance Jr.,PF,"6' 9""",230,United States,Wyoming,2,"$2,363,280","$1,155,600",2015
+28,BOS ,R.J. Hunter,SG,"6' 5""",185,United States,Georgia State,2,"$2,348,880","$1,148,640",2015
+29,BKN *Traded to DET,Chris McCullough,PF,"6' 11""",200,United States,Syracuse,2,"$2,331,720","$1,140,240",2015
+30,GSW ,Kevon Looney,C,"6' 9""",220,United States,California-Los Angeles,2,"$2,314,800","$1,131,960",2015
+31,MIN *Traded to CLE,Cedi Osman,SF,"6' 8""",215,"Macedonia, The Former Yugoslav Republic of",,3,"$8,300,000",-,2015
+32,HOU *Traded to LAC,Montrezl Harrell,PF,"6' 8""",240,United States,Louisville,3,"$3,135,000",-,2015
+33,BOS *Traded to MIA,Jordan Mickey,PF,"6' 8""",235,United States,Louisiana State,3,"$3,670,959","$1,170,960",2015
+34,LAL *Traded to PHI,Anthony Brown,SF,"6' 7""",224,United States,Stanford,3,"$2,589,382","$700,000",2015
+35,PHI *Traded to CHA,Willy Hernangomez,C,"6' 11""",240,Spain,,4,"$5,864,500",-,2015
+36,CLE *Traded to IND,Rakeem Christmas,PF,"6' 9""",250,United States,Syracuse,3,"$3,157,026","$1,007,026",2015
+37,PHI *Traded to PHX,Richaun Holmes,PF,"6' 10""",235,United States,Bowling Green,3,"$3,114,746","$1,074,169",2015
+38,DET *Traded to SAS,Darrun Hilliard II,SG,"6' 6""",220,United States,Villanova,3,"$2,489,382","$600,000",2015
+39,CHA ,Juan Vaulet,SF,,,Argentina,,,-,-,2015
+40,MIA ,Josh Richardson,SF,"6' 6""",200,Canada,Tennessee,3,"$2,414,475","$525,093",2015
+41,BKN *Traded to MIL,Pat Connaughton,SG,"6' 4""",209,United States,Notre Dame,3,"$2,514,475","$625,093",2015
+42,UTH ,Olivier Hanlan,SG,"6' 4""",190,United States,Boston College,,-,-,2015
+43,IND ,Joseph Young,PG,"6' 2""",180,United States,Oregon,3,"$3,530,750","$1,007,026",2015
+44,PHX *Traded to NOP,Andrew Harrison,SG,"6' 6""",213,United States,Kentucky,3,"$2,982,807",-,2015
+45,BOS ,Marcus Thornton,SG,"6' 4""",205,United States,William & Mary,,-,-,2015
+46,MIL *Traded to TOR,Norman Powell,SG,"6' 4""",215,United States,California-Los Angeles,3,"$2,539,382","$650,000",2015
+47,PHI ,Arturas Gudaitis,C,,,Lithuania,,,-,-,2015
+48,OKC *Traded to MEM,Dakari Johnson,C,,,United States,Kentucky,2,"$2,193,857",-,2015
+49,WAS ,Aaron White,PF,,,United States,Iowa,,-,-,2015
+50,ATL ,Marcus Eriksson,SG,,,Spain,,,-,-,2015
+51,ORL ,Tyler Harvey,SG,,,United States,Eastern Washington,,-,-,2015
+52,DAL ,Satnam Singh Bhamara,C,,,India,,,-,-,2015
+53,CLE ,Sir'Dominic Pointer,SF,,,United States,St. John's,,-,-,2015
+54,UTH ,Daniel Diez,SF,"6' 8""",215,Spain,,,-,-,2015
+55,SAS ,Cady Lalanne,PF,"6' 9""",242,United States,Massachusetts,,-,-,2015
+56,NOP *Traded to ORL,Brandon Dawson,SF,"6' 6""",225,United States,Michigan State,2,"$1,399,729","$525,093",2015
+57,DEN ,Nikola Radicevic,PG,,,Serbia,,,-,-,2015
+58,PHI *Traded to NYK,J.P. Tokoto,SG,"6' 6""",200,United States,North Carolina,1,"$525,093",-,2015
+59,ATL ,Dimitrios Agravanis,PF,,,Greece,,,-,-,2015
+60,PHI ,Luka Mitrovic,SF,,,Serbia,,,-,-,2015

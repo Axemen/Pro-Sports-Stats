@@ -1,0 +1,256 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2011 Cap,year
+1  ,CAR , Cam Newton ,QB,21,Auburn,4,"$22,025,498","$14,518,544","$4,004,636",2011
+2  ,DEN , Von Miller ,OLB,22,Texas A&M,4,"$21,000,380","$13,773,004","$3,818,251",2011
+3  ,BUF , Marcell Dareus ,DT,21,Alabama,4,"$20,400,000","$13,341,672","$3,710,418",2011
+4  ,CIN , A.J. Green ,WR,22,Georgia,4,"$19,688,098","$12,818,620","$3,579,655",2011
+5  ,ARI , Patrick Peterson ,CB,20,Louisiana State,4,"$18,429,500","$11,903,272","$3,350,818",2011
+6  ,ATL  from CLE, Julio Jones ,WR,22,Alabama,4,"$16,183,750","$10,270,000","$2,957,500",2011
+7  ,SF , Aldon Smith ,OLB,21,Missouri,4,"$14,384,000","$8,961,092","$2,615,273",2011
+8  ,TEN , Jake Locker ,QB,22,Washington,4,"$12,586,002","$7,653,456","$2,288,364",2011
+9  ,DAL , Tyron Smith ,LT,20,Southern California,4,"$12,500,000","$7,588,072","$2,272,018",2011
+10  ,JAC  from WAS, Blaine Gabbert ,QB,21,Missouri,4,"$12,001,646","$7,228,472","$2,182,118",2011
+11  ,HOU , J.J. Watt ,DE,22,Wisconsin,4,"$11,230,000","$6,672,728","$2,043,182",2011
+12  ,MIN , Christian Ponder ,QB,23,Florida State,4,"$10,158,698","$5,888,144","$1,847,036",2011
+13  ,DET , Nick Fairley ,DT,23,Auburn,4,"$9,889,000","$5,692,000","$1,798,000",2011
+14  ,STL , Robert Quinn ,DE,20,North Carolina,4,"$9,436,053","$5,362,585","$1,715,646",2011
+15  ,MIA , Mike Pouncey ,C,21,Florida,4,"$9,200,000","$5,234,325","$1,683,581",2011
+16  ,WAS  from JAC, Ryan Kerrigan ,OLB,22,Purdue,4,"$8,720,294","$4,842,032","$1,585,508",2011
+17  ,NE  from OAK, Nate Solder ,LT,23,Colorado,4,"$8,540,492","$4,711,268","$1,552,817",2011
+18  ,SD , Corey Liuget ,DT,21,Illinois,4,"$8,315,000","$4,547,816","$1,511,954",2011
+19  ,NYG , Prince Amukamara ,CB,21,Nebraska,4,"$8,180,898","$4,449,744","$1,487,436",2011
+20  ,TB , Adrian Clayborn ,DE,22,Iowa,4,"$8,210,166","$4,471,032","$1,492,758",2011
+21  ,CLE  from KC, Phil Taylor ,DT,23,Baylor,4,"$8,093,250","$4,386,000","$1,471,500",2011
+22  ,IND , Anthony Castonzo ,LT,22,Boston College,4,"$8,000,000","$4,318,980","$1,454,745",2011
+23  ,PHI , Danny Watkins ,G,26,Baylor,4,"$7,935,950","$4,271,600","$1,442,900",2011
+24  ,NO , Cameron Jordan ,DE,21,California,4,"$7,730,000","$4,122,836","$1,405,709",2011
+25  ,SEA , James Carpenter ,G,22,Alabama,4,"$7,641,502","$4,057,456","$1,389,364",2011
+26  ,KC  from ATL via CLE, Jonathan Baldwin ,WR,21,Pittsburgh,4,"$7,551,602","$3,992,072","$1,373,018",2011
+27  ,BAL , Jimmy Smith ,CB,22,Colorado,4,"$7,461,696","$3,926,688","$1,356,672",2011
+28  ,NO  from NE, Mark Ingram ,RB,21,Alabama,4,"$7,416,750","$3,984,000","$1,348,500",2011
+29  ,CHI , Gabe Carimi ,G,22,Wisconsin,4,"$7,056,046","$3,631,672","$1,282,918",2011
+30  ,NYJ , Muhammad Wilkerson ,DE,21,Temple,4,"$6,875,000","$3,500,000","$1,250,000",2011
+31  ,PIT , Cameron Heyward ,DE,21,Ohio State,4,"$6,705,028","$3,376,384","$1,219,096",2011
+32  ,GB , Derek Sherrod ,RT,22,Mississippi State,4,"$6,600,000","$3,301,456","$1,200,364",2011
+33  ,NE  from CAR, Ras-I Dowling ,CB,22,Virginia,4,"$5,304,098","$2,357,528","$964,382",2011
+34  ,BUF , Aaron Williams ,SS,21,Texas,4,"$5,200,000","$2,324,836","$901,896",2011
+35  ,CIN , Andy Dalton ,QB,23,Texas Christian,4,"$5,214,198","$2,292,144","$948,036",2011
+36  ,SF  from DEN, Colin Kaepernick ,QB,23,Nevada,4,"$5,220,000","$2,226,764","$931,691",2011
+37  ,CLE , Jabaal Sheard ,OLB,21,Pittsburgh,4,"$5,090,000","$2,202,000","$925,500",2011
+38  ,ARI , Ryan Williams ,RB,21,Virginia Tech,4,"$5,007,432","$2,141,768","$910,442",2011
+39  ,TEN , Akeem Ayers ,OLB,21,California-Los Angeles,4,"$4,926,516","$2,082,924","$895,731",2011
+40  ,DAL , Bruce Carter ,ILB,23,North Carolina,4,"$4,850,000","$2,030,616","$882,654",2011
+41  ,WAS , Jarvis Jenkins ,DE,23,Clemson,4,"$4,782,680","$1,978,312","$840,483",2011
+42  ,HOU , Brooks Reed ,DE,24,Arizona,4,"$4,701,764","$1,191,468","$854,867",2011
+43  ,MIN , Kyle Rudolph ,TE,21,Notre Dame,4,"$3,907,164","$1,867,164","$841,791",2011
+44  ,DET , Titus Young ,WR,21,Boise State,4,"$4,561,321","$1,817,324","$829,331",2011
+45  ,DEN  from SF, Rahim Moore ,FS,21,California-Los Angeles,4,"$4,448,000","$1,735,000","$808,750",2011
+46  ,DEN  from MIA, Orlando Franklin ,G,23,Miami (FL),4,"$4,350,000","$1,668,000","$792,000",2011
+47  ,STL , Lance Kendricks ,TE,23,Wisconsin,4,"$4,226,105","$1,573,751","$768,437",2011
+48  ,OAK , Stefen Wisniewski ,C,22,Penn State,4,"$4,135,402","$1,507,564","$751,891",2011
+49  ,IND  from JAC via WAS, Benjamin Ijalana ,RT,21,Villanova,4,"$4,040,000","$1,442,180","$735,545",2011
+50  ,SD , Marcus Gilchrist ,SS,22,Clemson,4,"$3,955,600","$1,376,800","$719,200",2011
+51  ,TB , Da'Quan Bowers ,DT,21,Clemson,4,"$3,855,636","$1,304,100","$701,025",2011
+52  ,NYG , Marvin Austin ,DT,22,North Carolina,4,"$3,775,798","$1,246,036","$686,509",2011
+53  ,CHI  from IND via WAS, Stephen Paea ,DT,22,Oregon State,4,"$3,685,902","$1,180,656","$670,164",2011
+54  ,PHI , Jaiquawn Jarrett ,FS,21,Temple,4,"$3,598,750","$1,117,272","$654,318",2011
+55  ,KC , Rodney Hudson ,C,21,Florida State,4,"$3,506,100","$1,049,892","$637,473",2011
+56  ,NE  from NO, Shane Vereen ,RB,21,California,4,"$3,461,150","$1,017,200","$629,300",2011
+57  ,DET  from SEA, Mikel Leshoure ,RB,23,Illinois,4,"$3,434,178","$997,584","$624,396",2011
+58  ,BAL , Torrey Smith ,WR,22,Maryland,4,"$3,389,232","$964,896","$616,224",2011
+59  ,CLE  from ATL, Greg Little ,WR,21,North Carolina,4,"$3,327,500","$920,000","$605,000",2011
+60  ,HOU  from NE, Brandon Harris ,CB,21,Miami (FL),4,"$3,299,326","$899,512","$599,878",2011
+61  ,SD  from NYJ, Jonas Mouton ,ILB,23,Michigan,4,"$3,209,502","$873,360","$593,340",2011
+62  ,MIA  from CHI via WAS, Daniel Thomas ,RB,23,Kansas State,4,"$3,236,387","$853,740","$588,435",2011
+63  ,PIT , Marcus Gilbert ,RT,23,Florida,4,"$3,227,414","$847,208","$586,802",2011
+64  ,GB , Randall Cobb ,WR,20,Kentucky,4,"$3,209,430","$834,124","$583,531",2011
+65  ,CAR , Terrell McClain ,DT,22,South Florida,4,"$2,843,304","$703,304","$550,826",2011
+66  ,CIN , Dontay Moch ,DE,22,Nevada,4,"$3,021,664","$697,576","$549,394",2011
+67  ,DEN , Nate Irving ,ILB,22,North Carolina State,4,"$2,735,000","$695,000","$548,750",2011
+68  ,BUF , Kelvin Sheppard ,ILB,23,Louisiana State,4,"$3,000,000","$690,832","$577,708",2011
+69  ,ARI , Robert Housler ,TE,23,Florida Atlantic,4,"$2,994,092","$684,092","$571,023",2011
+70  ,KC  from CLE, Justin Houston ,OLB,22,Georgia,4,"$2,786,248","$671,248","$542,812",2011
+71  ,DAL , DeMarco Murray ,RB,23,Oklahoma,4,"$2,970,000","$662,500","$565,625",2011
+72  ,NO  from WAS, Martez Wilson ,OLB,22,Illinois,4,"$2,878,324","$656,324","$539,081",2011
+73  ,NE  from HOU, Stevan Ridley ,RB,22,Louisiana State,4,"$2,953,500","$648,000","$537,000",2011
+74  ,NE  from MIN, Ryan Mallett ,QB,22,Arkansas,4,"$2,947,828","$643,876","$535,969",2011
+75  ,SEA  from DET, John Moffitt ,G,24,Wisconsin,4,"$2,895,000","$637,500","$534,375",2011
+76  ,JAC  from SF, Will Rackley ,G,21,Lehigh,4,"$2,914,274","$619,472","$529,868",2011
+77  ,TEN , Jurrell Casey ,DT,21,Southern California,4,"$2,732,436","$617,436","$529,359",2011
+78  ,STL , Austin Pettis ,WR,22,Boise State,4,"$2,729,416","$614,416","$519,567",2011
+79  ,WAS  from MIA, Leonard Hankerson ,WR,22,Miami (FL),4,"$2,721,376","$606,376","$526,594",2011
+80  ,SF  from JAC, Chris Culliver ,CB,22,South Carolina,4,"$2,638,876","$598,876","$524,719",2011
+81  ,OAK , DeMarcus Van Dyke ,CB,22,Miami (FL),4,"$2,631,376","$591,376","$522,844",2011
+82  ,SD , Vincent Brown ,WR,22,San Diego State,4,"$2,626,068","$586,068","$521,517",2011
+83  ,NYG , Jerrel Jernigan ,WR,21,Troy,4,"$2,690,252","$575,252","$518,813",2011
+84  ,TB , Mason Foster ,ILB,22,Washington,4,"$2,784,372","$525,000","$506,250",2011
+85  ,BAL  from PHI, Jah Reid ,RT,22,Central Florida,4,"$2,603,240","$563,240","$515,810",2011
+86  ,KC , Allen Bailey ,DE,22,Miami (FL),4,"$2,670,944","$555,944","$513,986",2011
+87  ,IND , Drake Nevis ,DE,21,Louisiana State,4,"$2,634,112","$549,112","$512,278",2011
+88  ,NO , Johnny Patrick ,CB,22,Louisville,4,"$2,727,380","$545,380","$511,250",2011
+89  ,SD  from SEA, Shareece Wright ,CB,24,Southern California,4,"$2,584,140","$544,140","$511,035",2011
+90  ,PHI  from BAL, Curtis Marsh ,CB,23,Utah State,4,"$3,239,160","$543,520","$510,880",2011
+91  ,ATL , Akeem Dent ,ILB,23,Georgia,4,"$2,767,900","$542,900","$510,725",2011
+92  ,OAK  from NE, Joe Barksdale ,RT,22,Louisiana State,4,"$2,579,800","$539,800","$509,950",2011
+93  ,CHI , Christopher Conte ,FS,22,California,4,"$2,603,600","$533,600","$508,400",2011
+94  ,NYJ , Kenrick Ellis ,DT,23,Hampton,4,"$2,622,500","$450,000","$487,500",2011
+95  ,PIT , Curtis Brown ,CB,22,Texas,4,"$2,561,200","$521,200","$505,300",2011
+96  ,GB , Alexander Green ,RB,22,Hawaii,4,"$2,577,500","$515,000","$503,750",2011
+97 (C) ,CAR , Sione Fua ,DT,22,Stanford,4,"$2,546,016","$506,016","$501,504",2011
+98  ,CAR , Brandon Hogan ,CB,23,West Virginia,4,"$2,537,028","$497,028","$499,257",2011
+99  ,SEA  from DEN via NE, K.J. Wright ,OLB,21,Mississippi State,4,"$2,520,000","$486,000","$496,500",2011
+100  ,BUF , Da'Norris Searcy ,SS,22,North Carolina,4,"$2,524,424","$484,424","$496,106",2011
+101  ,CIN , Clint Boling ,G,21,Georgia,4,"$2,514,480","$481,448","$495,362",2011
+102  ,CLE , Jordan Cameron ,TE,22,Southern California,4,"$2,517,400","$477,400","$494,350",2011
+103  ,ARI , Sam Acho ,OLB,22,Texas,4,"$2,514,428","$474,428","$493,607",2011
+104  ,TB  from WAS via PHI, Luke Stocker ,TE,22,Tennessee,4,"$2,512,688","$472,688","$493,172",2011
+105  ,WAS  from HOU, Roy Helu ,RB,22,Nebraska,4,"$2,510,252","$470,252","$492,563",2011
+106  ,MIN , Christian Ballard ,DT,22,Iowa,4,"$2,447,552","$407,552","$476,888",2011
+107  ,SEA  from DET, Kris Durham ,WR,23,Georgia,4,"$2,504,260","$464,260","$491,065",2011
+108  ,DEN  from SF, Quinton Carter ,S,22,Oklahoma,4,"$2,490,000","$455,000","$488,750",2011
+109  ,TEN , Colin McCarthy ,ILB,22,Miami (FL),2,"$2,495,400","$455,400","$488,850",2011
+110  ,DAL , David Arkin ,G,23,Missouri State,4,"$2,578,600","$453,600","$488,400",2011
+111  ,MIA , Edmond Gates ,WR,24,Abilene Christian,4,"$2,493,148","$453,148","$488,287",2011
+112  ,STL , Greg Salas ,WR,22,Hawaii,4,"$2,491,154","$451,154","$487,788",2011
+113  ,OAK , Chimdi Chekwa ,CB,22,Ohio State,4,"$2,485,200","$445,200","$486,300",2011
+114  ,JAC , Cecil Shorts ,WR,23,Mount Union,4,"$2,672,146","$443,380","$485,845",2011
+115  ,SF  from SD, Kendall Hunter ,RB,22,Oklahoma State,4,"$2,479,000","$439,220","$484,805",2011
+116  ,PHI  from TB, Casey Matthews ,ILB,22,Oregon,4,"$2,479,864","$434,864","$483,716",2011
+117  ,NYG , James Brewer ,G,23,Indiana,4,"$2,477,092","$432,092","$483,023",2011
+118  ,KC , Jalil Brown ,CB,23,Colorado,4,"$2,529,300","$429,300","$482,325",2011
+119  ,IND , Delone Carter ,RB,23,Syracuse,4,"$2,465,000","$425,204","$481,301",2011
+120  ,PHI , Alex Henery ,K,23,Nebraska,4,"$2,490,115","$420,108","$480,027",2011
+121  ,JAC  from NO, Chris Prosinski ,SS,24,Wyoming,4,"$2,640,144","$420,108","$480,027",2011
+122  ,BUF  from SEA, Chris Hairston ,LT,22,Clemson,4,"$2,455,900","$415,908","$478,977",2011
+123  ,BAL , Tandon Doss ,WR,21,Indiana,4,"$2,452,560","$412,560","$478,140",2011
+124  ,CLE  from ATL, Owen Marecic ,FB,22,Stanford,4,"$2,440,000","$408,000","$477,000",2011
+125  ,OAK  from NE, Taiwan Jones ,RB,22,Eastern Washington,4,"$2,445,000","$405,000","$476,250",2011
+126  ,NYJ , Bilal Powell ,RB,22,Louisville,4,"$2,440,500","$400,500","$475,125",2011
+127  ,HOU  from CHI via WAS, Rashad Carmichael ,CB,22,Virginia Tech,4,"$2,430,000","$397,088","$357,272",2011
+128  ,PIT , Cortez Allen ,CB,22,Citadel,4,"$2,431,500","$391,500","$472,875",2011
+129  ,DEN  from GB, Julius Thomas ,TE,22,Portland State,4,"$1,683,000","$384,000","$471,000",2011
+130 (C) ,TEN , Jamie Harper ,RB,21,Clemson,4,"$2,340,580","$300,580","$450,145",2011
+131 (C) ,GB , Davon House ,CB,21,New Mexico State,4,"$2,340,580","$300,580","$450,145",2011
+132  ,CAR , Kealoha Pilares ,WR,23,Hawaii,4,"$2,406,672","$215,512","$428,878",2011
+133  ,BUF , Johnny White ,RB,23,North Carolina,4,"$2,253,600","$213,600","$428,400",2011
+134  ,CIN , Robert Sands ,S,21,West Virginia,4,"$2,250,000","$212,000","$428,000",2011
+135  ,KC , Ricky Stanzi ,QB,23,Iowa,4,"$2,286,052","$211,052","$427,763",2011
+136  ,ARI , Anthony Sherman ,FB,22,Connecticut,4,"$2,246,900","$206,900","$426,725",2011
+137  ,CLE , Buster Skrine ,CB,22,Tennessee-Chattanooga,4,"$2,242,000","$202,000","$425,500",2011
+138  ,NE , Marcus Cannon ,RT,22,Texas Christian,4,"$2,338,186","$200,500","$425,125",2011
+139  ,MIN , Brandon Burton ,CB,21,Utah,4,"$2,209,000","$199,000","$417,250",2011
+140  ,KC , Gabe Miller ,TE,23,Oregon State,4,"$2,238,500","$198,500","$424,625",2011
+141  ,GB , D.J. Williams ,TE,22,Arkansas,4,"$2,238,000","$198,000","$424,500",2011
+142  ,TEN , Karl Klug ,DT,23,Iowa,4,"$2,234,452","$194,452","$423,613",2011
+143  ,DAL , Joshua Thomas ,CB,21,Buffalo,4,"$2,208,950","$192,800","$375,000",2011
+144  ,HOU , Shiloh Keo ,SS,23,Idaho,4,"$2,232,000","$192,000","$375,000",2011
+145  ,ATL , Jacquizz Rodgers ,RB,21,Oregon State,4,"$2,231,000","$191,000","$422,750",2011
+146  ,WAS , Dejon Gomes ,S,21,Nebraska,4,"$2,231,300","$191,300","$422,825",2011
+147  ,JAC , Roderick Issac ,CB,22,Middle Tennessee State,4,"$2,325,342","$191,160","$305,490",2011
+148  ,OAK , Denarius Moore ,WR,22,Tennessee,4,"$2,230,052","$190,052","$422,513",2011
+149  ,PHI , Dion Lewis ,RB,20,Pittsburgh,4,"$2,228,880","$188,880","$422,220",2011
+150  ,CLE , Jason Pinkston ,G,23,Pittsburgh,4,"$2,280,000","$188,000","$422,000",2011
+151  ,TB , Ahmad Black ,S,21,Florida,4,"$2,226,740","$186,740","$43,938",2011
+152  ,HOU , T.J. Yates ,QB,23,North Carolina,4,"$2,250,000","$185,000","$421,250",2011
+153  ,NYJ , Jeremy Kerley ,WR,22,Texas Christian,4,"$2,224,250","$184,250","$421,062",2011
+154  ,SEA , Richard Sherman ,CB,23,Stanford,4,"$2,222,424","$182,424","$420,606",2011
+155  ,WAS , Niles Paul ,TE,21,Nebraska,4,"$2,221,652","$181,652","$420,413",2011
+156  ,SEA , Mark LeGree ,S,21,Appalachian State,4,"$2,218,000","$178,532",-,2011
+157  ,DET , Douglas Hogue ,OLB,22,Syracuse,4,"$2,220,000","$178,108","$419,527",2011
+158  ,STL , Jermale Hines ,S,23,Ohio State,4,"$2,160,000","$120,000",-,2011
+159  ,NE , Lee Smith ,TE,23,Marshall,4,"$2,298,282","$171,480","$375,000",2011
+160  ,CHI , Nathan Enderle ,QB,23,Idaho,4,"$2,208,860","$168,860","$417,215",2011
+161  ,PHI , Julian Vandervelde ,C,23,Iowa,4,"$2,204,800","$164,800","$416,200",2011
+162  ,PIT , Chris Carter ,ILB,22,Fresno State,4,"$2,204,000","$162,800","$415,700",2011
+163  ,SF , Daniel Kilgore ,C,23,Appalachian State,4,"$2,200,300","$160,300","$415,075",2011
+164 (C) ,BAL , Chykie Brown ,CB,24,Texas,4,"$2,184,560","$144,560","$411,140",2011
+165 (C) ,BAL , Pernell McPhee ,OLB,22,Mississippi State,4,"$2,184,560","$144,560","$411,140",2011
+166  ,CAR , Lawrence Wilson ,ILB,23,Connecticut,4,"$2,168,820","$128,820","$407,205",2011
+167  ,CIN , Ryan Whalen ,WR,21,Stanford,4,"$2,153,000","$125,114","$406,278",2011
+168  ,MIN , DeMarcus Love ,LT,23,Arkansas,4,"$2,140,000","$103,100","$400,775",2011
+169  ,BUF , Chris White ,ILB,22,Mississippi State,4,"$2,160,000","$120,600","$405,150",2011
+170  ,MIN , Mistral Raymond ,S,23,South Florida,4,"$2,157,932","$97,932","$399,483",2011
+171  ,ARI , Quan Sturdivant ,ILB,22,North Carolina,4,"$2,155,788","$115,788","$403,947",2011
+172  ,MIN , Brandon Fusco ,G,22,Slippery Rock,4,"$2,154,224","$94,224","$398,556",2011
+173  ,SEA , Byron Maxwell ,CB,23,Clemson,4,"$2,150,000","$113,452","$403,363",2011
+174  ,MIA , Charles Clay ,TE,22,Tulsa,4,"$2,152,000","$112,000","$403,000",2011
+175  ,TEN , Byron Stingily ,RT,22,Louisville,4,"$2,150,500","$110,500","$402,625",2011
+176  ,DAL , Dwayne Harris ,WR,23,East Carolina,4,"$2,180,060","$110,600","$375,000",2011
+177  ,WAS , Evan Royster ,RB,23,Penn State,4,"$2,147,672","$107,672","$96,900",2011
+178  ,WAS , Aldrick Robinson ,WR,22,Southern Methodist,4,"$2,146,200","$106,200","$375,000",2011
+179  ,GB , Caleb Schlauderaff ,C,23,Utah,4,"$2,040,000","$105,800","$401,450",2011
+180  ,BAL , Tyrod Taylor ,QB,21,Virginia Tech,4,"$2,145,308","$105,308","$401,327",2011
+181  ,OAK , Richard Gordon ,TE,23,Miami (FL),4,"$2,144,852","$104,852","$401,213",2011
+182  ,SF , Ronald Johnson ,WR,22,Southern California,4,"$2,144,220","$104,220","$375,000",2011
+183  ,SD , Jordan Todman ,RB,21,Connecticut,4,"$2,210,792","$104,072","$195,500",2011
+184  ,ARI , David Carter ,DT,23,California-Los Angeles,4,"$2,143,864","$103,864","$400,966",2011
+185  ,NYG , Greg Jones ,ILB,22,Michigan State,4,"$2,240,264","$207,576","$426,894",2011
+186  ,GB , D.J. Smith ,ILB,22,Appalachian State,4,"$2,143,000","$103,152","$400,788",2011
+187  ,TB , Allen Bradford ,ILB,22,Southern California,4,"$2,138,100","$98,100","$375,000",2011
+188  ,IND , Chris Rucker ,CB,22,Michigan State,4,"$2,141,672","$101,672","$400,418",2011
+189  ,DEN , Mike Mohamed ,ILB,23,California,4,"$2,200,000","$16,200","$375,000",2011
+190  ,SF , Colin Jones ,FS,23,Texas Christian,4,"$2,138,986","$98,896","$375,000",2011
+191  ,PHI , Jason Kelce ,C,23,Cincinnati,4,"$2,137,482","$97,432","$399,385",2011
+192  ,ATL , Matt Bosher ,P,23,Miami (FL),4,"$2,135,800","$95,800","$398,950",2011
+193  ,PHI , Brian Rolle ,ILB,22,Ohio State,4,"$2,136,600","$96,600","$399,150",2011
+194  ,NE , Markell Carter ,DE,21,Central Arkansas,4,"$2,191,820","$94,052","$398,513",2011
+195  ,CHI , J.T. Thomas ,OLB,22,West Virginia,4,"$1,982,516","$92,516","$398,129",2011
+196  ,PIT , Keith Williams ,G,23,Nebraska,4,"$2,132,000","$91,000","$397,750",2011
+197  ,GB , Ricky Elmore ,OLB,23,Arizona,4,"$2,218,000","$88,236","$397,059",2011
+198 (C) ,NYG , Tyler Sash ,S,22,Iowa,4,"$2,370,776","$79,040","$394,760",2011
+199 (C) ,KC , Jerrell Powe ,DT,24,Ole Miss,4,"$2,249,474","$78,680","$394,670",2011
+200 (C) ,MIN , Ross Homan ,LB,24,Ohio State,4,"$2,105,680","$65,680","$391,420",2011
+201 (C) ,SD , Steve Schilling ,G,22,Michigan,4,"$2,110,000","$78,680","$220,588",2011
+202 (C) ,NYG , Jacquian Williams ,OLB,22,South Florida,4,"$2,118,680","$78,680","$394,670",2011
+203 (C) ,CAR , Zachary Williams ,G,22,Washington State,4,"$1,878,680","$78,680","$394,670",2011
+204  ,DEN , Virgil Green ,TE,22,Nevada,4,"$2,104,944","$64,944","$391,236",2011
+205  ,SEA , Lazarius Levingston ,DT,23,Louisiana State,4,"$2,108,900","$68,900","$375,000",2011
+206  ,BUF , Justin Rogers ,CB,23,Richmond,4,"$2,107,500","$67,500","$391,875",2011
+207  ,CIN , Korey Lindsey ,CB,22,Southern Illinois,4,"$2,106,966","$66,966","$375,000",2011
+208  ,NYJ , Greg McElroy ,QB,22,Alabama,4,"$2,105,152","$65,152","$391,288",2011
+209  ,DET , Johnny Culbreath ,T,22,South Carolina State,4,"$2,200,000","$63,800","$390,950",2011
+210  ,ATL , Andrew Jackson ,G,22,Fresno State,4,"$2,145,000","$61,500",-,2011
+211  ,SF , Bruce Miller ,FB,23,Central Florida,4,"$2,102,452","$62,452","$390,613",2011
+212  ,TEN , Zach Clayton ,DT,23,Auburn,4,"$2,150,000","$110,000","$402,500",2011
+213  ,WAS , Brandyn Thompson ,CB,21,Boise State,4,"$2,086,860","$60,604","$96,900",2011
+214  ,HOU , Derek Newton ,RT,23,Arkansas State,4,"$2,100,256","$60,256","$390,064",2011
+215  ,MIN , D'Aundre Reed ,DE,23,Arizona,4,"$2,090,252","$50,252","$387,563",2011
+216  ,STL , Mikail Baker ,CB,23,Baylor,4,"$2,099,492","$59,492","$389,873",2011
+217  ,WAS , Maurice Hurt ,G,23,Florida,4,"$2,099,775","$59,775","$375,000",2011
+218  ,GB , Ryan Taylor ,TE,23,North Carolina,4,"$2,099,000","$59,176","$389,794",2011
+219  ,NE , Malcolm Williams ,CB,23,Texas Christian,4,"$2,112,038","$24,000","$389,462",2011
+220  ,DAL , Shaun Chapas ,TE,22,Georgia,4,"$2,096,852","$56,852","$375,000",2011
+221  ,NYG , Da'Rel Scott ,RB,22,Maryland,4,"$2,095,952","$55,952","$388,988",2011
+222  ,TB , Anthony Gaitor ,CB,22,Florida International,4,"$2,093,616","$53,616","$388,404",2011
+223  ,KC , Shane Bannon ,RB,22,Yale,4,"$2,116,392","$51,392","$375,000",2011
+224  ,WAS , Markus White ,DE,23,Florida State,4,"$2,090,884","$50,884","$387,721",2011
+225  ,BAL , Anthony Allen ,RB,22,Georgia Tech,4,"$2,090,000","$50,500","$387,625",2011
+226  ,NO , Greg Romeus ,DE,23,Pittsburgh,4,"$2,089,824","$49,824","$387,456",2011
+227  ,NYJ , Scotty McKnight ,WR,23,Colorado,4,"$2,109,000","$49,000","$387,250",2011
+228  ,STL , Jabara Williams ,OLB,21,Stephen F. Austin,4,"$2,089,094","$49,094","$375,000",2011
+229  ,STL , Jonathan Nelson ,CB,22,Oklahoma,4,"$2,089,094","$49,094","$375,000",2011
+230  ,ATL , Cliff Matthews ,DE,21,South Carolina,4,"$2,087,000","$47,000","$386,750",2011
+231  ,MIA , Frank Kearse ,DE,22,Alabama A&M,4,"$2,087,150","$47,150","$386,787",2011
+232  ,PIT , Baron Batch ,RB,23,Texas Tech,4,"$2,086,512","$46,512","$386,628",2011
+233  ,GB , Lawrence Guy ,DE,21,Arizona State,4,"$2,086,000","$45,900","$269,475",2011
+234 (C) ,SD , Andrew Gachkar ,OLB,22,Missouri,4,"$2,085,900","$45,900","$386,475",2011
+235 (C) ,MIA , Jimmy Wilson ,SS,24,Montana,4,"$2,085,900","$45,900","$386,475",2011
+236 (C) ,MIN , Stephen Burton ,WR,21,West Texas A&M,4,"$2,040,000","$35,900","$258,000",2011
+237 (C) ,PHI , Greg Lloyd ,LB,22,Connecticut,4,"$2,069,900","$29,900","$110,294",2011
+238 (C) ,TB , Daniel Hardy ,TE,23,Idaho,4,"$2,085,900","$45,900","$375,000",2011
+239 (C) ,SF , Michael Person ,G,22,Montana State,4,"$2,085,900","$45,900","$386,475",2011
+240 (C) ,PHI , Stanley Havili ,FB,23,Southern California,4,"$2,084,000","$45,900","$385,475",2011
+241 (C) ,OAK , David Ausberry ,TE,23,Southern California,4,"$2,085,900","$45,900","$386,475",2011
+242 (C) ,SEA , Malcolm Smith ,OLB,21,Southern California,4,"$2,085,900","$45,900","$386,475",2011
+243 (C) ,NO , Nathan Bussey ,LB,22,Illinois,4,"$2,085,900","$45,900","$386,475",2011
+244  (S),CAR , Lee Ziemba ,G,22,Auburn,4,"$2,089,500","$45,900","$184,413",2011
+245  (S),BUF , Michael Jasper ,G,24,Bethel (TN),4,"$2,154,000","$114,000","$392,212",2011
+246  (S),CIN , Jay Finley ,RB,22,Baylor,4,"$2,085,982","$45,895","$375,000",2011
+247  (S),DEN , Jeremy Beal ,DE,23,Oklahoma,4,"$2,125,000","$45,900",-,2011
+248  (S),CLE , Eric Hagg ,S,21,Nebraska,4,"$2,085,000","$40,400","$385,100",2011
+249  (S),ARI , Demarco Sampson ,WR,25,San Diego State,4,"$2,085,900","$45,900","$386,475",2011
+250  (S),SF , Curtis Holcomb ,CB,22,Florida A&M,4,"$2,085,900","$45,900","$386,475",2011
+251  (S),TEN , Tommie Campbell ,CB,23,California (PA),4,"$2,085,896","$45,896","$386,474",2011
+252  (S),DAL , Bill Nagy ,G,23,Wisconsin,4,"$2,085,900","$45,900","$386,475",2011
+253  (S),WAS , Chris Neild ,DT,23,West Virginia,4,"$2,085,900","$45,900","$386,475",2011
+254  (S),HOU , Cheta Ozougwu ,DE,22,Rice,4,"$2,085,900","$45,900","$386,475",2011
+

@@ -1,0 +1,257 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2007 Cap,year
+1  ,OAK , JaMarcus Russell ,QB,21,Louisiana State,6,"$61,000,000",-,"$2,976,320",2007
+2  ,DET , Calvin Johnson ,WR,21,Georgia Tech,6,"$55,500,000","$14,000,000","$9,961,437",2007
+3  ,CLE , Joe Thomas ,LT,22,Wisconsin,5,"$42,500,000","$6,360,000","$2,700,000",2007
+4  ,TB , Gaines Adams ,DE,23,Clemson,6,"$45,325,000",-,"$2,385,000",2007
+5  ,ARI , Levi Brown ,LT,23,Penn State,6,"$34,797,500",-,"$2,210,000",2007
+6  ,WAS , LaRon Landry ,S,22,Louisiana State,5,"$41,500,000","$5,000,000","$2,163,333",2007
+7  ,MIN , Adrian Peterson ,RB,22,Oklahoma,5,"$40,500,000","$3,000,000","$4,490,000",2007
+8  ,ATL , Jamaal Anderson ,DE,21,Arkansas,5,"$30,900,000","$2,220,000","$2,029,000",2007
+9  ,MIA , Ted Ginn Jr. ,WR,22,Ohio State,5,"$17,027,086","$1,970,000","$4,660,000",2007
+10  ,HOU , Amobi Okoye ,DT,19,Louisville,6,"$15,400,000",-,"$1,630,000",2007
+11  ,SF , Patrick Willis ,ILB,22,Mississippi,5,"$16,700,000","$3,000,000","$1,650,000",2007
+12  ,BUF , Marshawn Lynch ,RB,21,California,6,"$18,935,000","$3,006,150","$3,279,875",2007
+13  ,WAS , Adam Carriker ,DE,22,Nebraska,5,"$12,800,000",-,"$1,400,000",2007
+14  ,NYJ , Darrelle Revis ,CB,21,Pittsburgh,6,"$30,000,000","$4,700,500","$1,401,916",2007
+15  ,PIT , Lawrence Timmons ,ILB,20,Florida State,5,"$12,000,000",-,"$1,399,000",2007
+16  ,GB , Justin Harrell ,DT,23,Tennessee,6,-,-,-,2007
+17  ,DEN , Jarvis Moss ,DE,22,Florida,5,"$15,000,000","$500,000","$1,300,000",2007
+18  ,CIN , Leon Hall ,CB,22,Michigan,5,"$13,600,000",-,"$1,250,000",2007
+19  ,TEN , Michael Griffin ,FS,22,Texas,5,"$11,500,000","$850,010","$3,315,002",2007
+20  ,NYG , Aaron Ross ,CB,24,Texas,5,"$13,500,000","$1,015,000","$3,070,000",2007
+21  ,JAC , Reggie Nelson ,FS,23,Florida,5,"$9,550,000","$3,110,000","$907,000",2007
+22  ,CLE , Brady Quinn ,QB,22,Notre Dame,5,"$9,250,000",-,"$1,147,000",2007
+23  ,KC , Dwayne Bowe ,WR,22,Louisiana State,5,"$9,000,000","$1,400,000","$2,880,000",2007
+24  ,NE , Brandon Meriweather ,SS,23,Miami (FL),5,"$8,765,000","$500,000","$1,140,000",2007
+25  ,CAR , Jon Beason ,ILB,22,Miami (FL),5,"$8,758,800","$3,000,000","$1,090,000",2007
+26  ,DAL , Anthony Spencer ,OLB,23,Purdue,5,"$7,453,000","$4,475,000","$1,480,000",2007
+27  ,NO , Robert Meachem ,WR,22,Tennessee,5,"$11,300,000","$1,300,000","$990,000",2007
+28  ,SF , Joe Staley ,LT,22,Central Michigan,5,"$8,000,000","$1,100,000","$1,020,000",2007
+29  ,BAL , Ben Grubbs ,G,23,Auburn,5,"$7,900,000","$1,000,000","$1,965,000",2007
+30  ,SD , Buster Davis ,WR,21,Louisiana State,5,"$7,830,000","$1,905,000","$2,091,000",2007
+31  ,CHI , Greg Olsen ,TE,22,Miami (FL),5,"$7,744,500","$250,000","$1,055,000",2007
+32  ,IND , Anthony Gonzalez ,WR,22,Ohio State,5,"$7,500,000","$500,000","$1,550,000",2007
+33  ,ARI , Alan Branch ,DT,22,Michigan,4,"$5,590,000","$2,000,000","$785,000",2007
+34  ,BUF , Paul Posluszny ,OLB,22,Penn State,4,"$4,750,000","$1,468,000","$767,000",2007
+35  ,TB , Arron Sears ,G,22,Tennessee,4,"$3,665,000","$2,000,000","$1,375,000",2007
+36  ,PHI , Kevin Kolb ,QB,22,Houston,4,"$4,320,000","$300,000","$1,378,500",2007
+37  ,SD , Eric Weddle ,FS,22,Utah,4,"$4,165,000","$1,810,000","$1,427,500",2007
+38  ,OAK , Zach Miller ,TE,21,Arizona State,4,"$5,152,000","$965,000","$526,250",2007
+39  ,ATL , Justin Blalock ,G,23,Texas,4,"$3,967,000","$1,692,000","$1,318,000",2007
+40  ,MIA , John Beck ,QB,25,Brigham Young,4,"$4,096,700","$400,000","$1,116,500",2007
+41  ,ATL , Chris Houston ,CB,22,Arkansas,4,"$4,250,000","$1,571,000","$677,750",2007
+42  ,IND , Tony Ugoh ,T,23,Arkansas,4,"$3,985,000",-,"$650,000",2007
+43  ,DET , Drew Stanton ,QB,22,Michigan State,4,"$3,918,900",-,"$1,141,900",2007
+44  ,MIN , Sidney Rice ,WR,20,South Carolina,4,"$3,707,500","$1,316,000","$614,000",2007
+45  ,CAR , Dwayne Jarrett ,WR,20,Southern California,4,"$3,825,000","$1,400,000","$1,170,000",2007
+46  ,PIT , LaMarr Woodley ,OLB,22,Michigan,4,"$3,530,000","$1,400,000","$1,100,000",2007
+47  ,NYJ , David Harris ,ILB,23,Michigan,4,"$3,460,000","$1,400,000","$635,000",2007
+48  ,JAC , Justin Durant ,OLB,21,Hampton,4,"$3,385,440","$1,302,000","$610,500",2007
+49  ,CIN , Kenny Irons ,RB,23,Auburn,4,"$3,365,000","$1,280,000","$605,000",2007
+50  ,TEN , Chris Henry ,RB,21,Arizona,4,"$3,307,500","$1,230,000","$592,500",2007
+51  ,NYG , Steve Smith ,WR,21,Southern California,4,"$3,275,000","$1,100,000","$1,070,000",2007
+52  ,STL ,   ,,,,-,-,-,-,2007
+53  ,CLE , Eric Wright ,CB,21,Nevada-Las Vegas,4,"$3,220,000","$1,160,000","$613,000",2007
+54  ,KC , Turk McBride ,DE,21,Tennessee,4,"$3,125,000","$1,140,000","$890,000",2007
+55  ,SEA , Josh Wilson ,CB,22,Maryland,4,"$3,084,000","$880,000","$505,000",2007
+56  ,DEN , Tim Crowder ,DE,21,Texas,4,"$3,036,000","$1,037,000","$878,250",2007
+57  ,PHI , Victor Abiamiri ,DE,21,Notre Dame,4,"$3,200,000","$800,000","$485,000",2007
+58  ,DET , Ikaika Alama-Francis ,DE,22,Hawaii,4,"$1,915,000","$840,000","$965,833",2007
+59  ,CAR , Ryan Kalil ,C,22,Southern California,4,"$3,119,000","$930,000","$517,500",2007
+60  ,MIA , Samson Satele ,C,22,Hawaii,4,"$2,890,000","$820,000","$490,000",2007
+61  ,DET , Gerald Alexander ,S,22,Boise State,4,"$2,867,000","$780,000","$902,000",2007
+62  ,CHI , Dan Bazuin ,DE,23,Central Michigan,4,"$2,850,000","$764,000","$897,000",2007
+63  ,GB , Brandon Jackson ,RB,21,Nebraska,4,"$2,805,000","$760,000","$475,000",2007
+64  ,TB , Sabby Piscitelli ,S,23,Oregon State,4,"$2,770,000","$800,000","$485,000",2007
+65  ,OAK , Quentin Moses ,DE,23,Georgia,4,"$2,275,000","$610,000","$285,000",2007
+66  ,NO , Usama Young ,S,21,Kent State,3,"$1,763,000","$621,000","$492,000",2007
+67  ,DAL , James Marten ,T,23,Boston College,4,"$2,500,000","$650,000","$622,500",2007
+68  ,TB , Quincy Black ,LB,23,New Mexico,4,"$2,490,000","$825,000","$491,250",2007
+69  ,ARI , Buster Davis ,LB,23,Florida State,3,"$1,725,000","$610,000","$285,000",2007
+70  ,DEN , Ryan Harris ,LT,22,Notre Dame,4,"$2,750,000","$805,000","$486,250",2007
+71  ,MIA , Lorenzo Booker ,RB,22,Florida State,4,"$2,100,000","$435,000","$393,750",2007
+72  ,MIN , Marcus McCauley ,CB,23,Fresno State,4,"$2,451,000","$786,000","$481,500",2007
+73  ,HOU , Jacoby Jones ,WR,22,Lane,4,"$2,442,111","$777,111","$479,277",2007
+74  ,BAL , Yamon Figurs ,WR,25,Kansas State,3,"$1,639,500","$578,500","$477,833",2007
+75  ,ATL , Laurent Robinson ,WR,21,Illinois State,4,"$2,430,000","$761,400","$475,350",2007
+76  ,SF , Jason Hill ,WR,22,Washington State,4,"$2,418,818","$753,818","$473,454",2007
+77  ,PIT , Matt Spaeth ,TE,23,Minnesota,3,"$1,718,000","$564,190","$473,063",2007
+78  ,GB , James Jones ,WR,23,San Jose State,4,"$2,407,250","$742,250","$495,562",2007
+79  ,JAC , Mike Sims-Walker ,WR,22,Central Florida,4,"$2,403,513","$738,513","$374,628",2007
+80  ,TEN , Paul Williams ,WR,23,Fresno State,4,"$2,392,000","$727,000","$466,750",2007
+81  ,NYG , Jay Alford ,DT,23,Penn State,4,"$2,383,000","$718,000","$464,500",2007
+82  ,KC , Tank Tyler ,DT,22,North Carolina State,3,"$1,640,000","$525,000","$460,000",2007
+83  ,CAR , Charles Johnson ,DE,20,Georgia,4,"$2,375,000","$710,000","$462,500",2007
+84  ,STL , Jonathan Wade ,CB,23,Tennessee,3,"$1,631,375","$516,375","$457,125",2007
+85  ,SEA , Brandon Mebane ,DT,22,California,4,"$2,346,000","$681,000",-,2007
+86  ,BAL , Marshal Yanda ,G,22,Iowa,3,"$1,617,700","$502,700","$452,566",2007
+87  ,PHI , Stewart Bradley ,ILB,23,Nebraska,4,"$2,350,000","$660,000","$450,000",2007
+88  ,NO , Andy Alleman ,C,23,Akron,3,"$1,604,000","$489,000","$448,000",2007
+89  ,GB , Aaron Rouse ,S,23,Virginia Tech,4,"$2,314,500","$649,500","$447,375",2007
+90  ,PHI , Tony Hunt ,RB,21,Penn State,4,"$2,295,000","$630,000","$442,500",2007
+91  ,OAK , Mario Henderson ,T,22,Florida State,4,"$2,299,000","$634,000","$443,500",2007
+92  ,BUF , Trent Edwards ,QB,23,Stanford,4,"$2,296,000","$631,000","$442,750",2007
+93  ,CHI , Garrett Wolfe ,RB,22,Northern Illinois,4,"$2,287,500","$622,500","$440,625",2007
+94  ,CHI , Michael Okwo ,LB,22,Stanford,4,"$2,245,000","$617,500","$439,375",2007
+95  ,IND , Dante Hughes ,CB,21,California,4,"$2,275,000","$610,000","$437,500",2007
+96 (C) ,SD , Anthony Waters ,LB,22,Clemson,4,-,-,-,2007
+97 (C) ,SF , Ray McDonald ,DT,22,Florida,4,"$2,200,000","$592,500","$433,125",2007
+98 (C) ,IND , Quinn PItcock ,DT,23,Ohio State,3,"$1,551,500","$436,500","$430,500",2007
+99 (C) ,OAK , Johnnie Lee Higgins ,WR,23,Texas-El Paso,4,"$2,245,000","$580,000","$440,000",2007
+100  ,OAK , Michael Bush ,RB,22,Louisville,4,"$2,165,000","$500,000","$410,000",2007
+101  ,JAC , Adam Podlesh ,P,23,Maryland,4,"$2,150,000","$484,000","$406,000",2007
+102  ,MIN , Brian Robison ,DE,24,Texas,4,"$2,149,000","$484,000","$406,000",2007
+103  ,DAL , Isaiah Stanback ,TE,22,Washington,4,"$2,147,500","$482,500","$405,625",2007
+104  ,SF , Jay Moore ,LB,23,Nebraska,4,"$2,145,000","$480,000","$310,000",2007
+105  ,DET , A.J. Davis ,CB,23,North Carolina State,3,"$1,474,850","$359,850","$285,000",2007
+106  ,TB , Tanard Jackson ,S,21,Syracuse,4,"$2,142,000","$477,000","$404,250",2007
+107  ,NO , Antonio Pittman ,RB,21,Ohio State,3,"$1,470,170","$355,170","$285,000",2007
+108  ,MIA , Paul Soliai ,DT,23,Utah,4,"$2,135,000","$470,000","$402,500",2007
+109  ,ATL , Stephen Nicholas ,OLB,23,South Florida,4,"$2,132,500","$467,500","$401,875",2007
+110  ,OAK , John Bowie ,CB,22,Cincinnati,4,"$2,130,000","$465,000","$401,250",2007
+111  ,BUF , Dwayne Wright ,RB,23,Fresno State,4,"$2,126,000","$461,000","$400,250",2007
+112  ,PIT , Daniel Sepulveda ,P,23,Baylor,3,"$1,460,000","$345,000","$400,000",2007
+113  ,JAC , Brian Smith ,DE,23,Missouri,4,"$2,115,000","$450,000","$397,500",2007
+114  ,CIN , Marvin White ,S,23,Texas Christian,4,"$2,112,500","$447,500","$396,875",2007
+115  ,TEN , Leroy Harris ,C,22,North Carolina State,4,"$2,110,000","$445,000","$396,250",2007
+116  ,NYG , Zak DeOssie ,LS,22,Brown,4,"$2,107,500","$442,500","$395,625",2007
+117  ,DET , Manuel Ramirez ,G,24,Texas Tech,3,"$1,446,000","$331,000","$395,333",2007
+118  ,CAR , Ryne Robinson ,WR,22,Miami (OH),4,"$2,103,305","$438,305","$394,576",2007
+119  ,GB , Allen Barbre ,G,22,Missouri Southern State,4,"$2,101,000","$436,000","$394,000",2007
+120  ,SEA , Baraka Atkins ,OLB,22,Miami (FL),4,"$2,097,500","$432,500","$393,125",2007
+121  ,DEN , Marcus Thomas ,DT,21,Florida,4,"$2,093,000","$428,000","$392,000",2007
+122  ,DAL , Doug Free ,RT,23,Northern Illinois,4,"$2,090,000","$425,000","$391,250",2007
+123  ,HOU , Fred Bennett ,CB,23,South Carolina,4,"$2,085,250","$420,250","$390,062",2007
+124  ,SEA , Mansfield Wrotto ,G,22,Georgia Tech,4,"$2,082,000","$417,000","$389,250",2007
+125  ,NO , Jermon Bushrod ,G,22,Towson,3,"$1,425,860","$310,860","$388,620",2007
+126  ,SF , Dashon Goldson ,FS,22,Washington,4,"$2,078,000","$412,878","$388,219",2007
+127  ,NE , Kareem Brown ,DT,23,Miami (FL),4,"$2,074,500","$409,500","$285,000",2007
+128  ,TEN ,   ,,,,-,-,-,-,2007
+129  ,SD , Scott Chandler ,TE,21,Iowa,4,"$2,063,500","$398,500","$384,625",2007
+130  ,CHI , Josh Beekman ,G,23,Boston College,4,"$2,057,500","$392,500","$383,125",2007
+131  ,IND , Brannon Condren ,S,23,Troy,4,"$2,053,000","$388,000","$382,000",2007
+132 (C) ,PIT , Ryan McBean ,DE,23,Oklahoma State,3,"$1,409,687","$294,687","$50,294",2007
+133 (C) ,ATL , Martrez Milner ,TE,22,Georgia,4,"$2,051,300","$386,300","$381,575",2007
+134 (C) ,BAL , Antwan Barnes ,OLB,22,Florida International,3,"$1,402,000","$287,000","$380,667",2007
+135 (C) ,SF , Joe Cohen ,DT,22,Florida,4,"$2,038,000","$373,000","$283,250",2007
+136 (C) ,IND , Clint Session ,LB,22,Pittsburgh,4,"$2,035,000","$370,000","$377,500",2007
+137 (C) ,BAL , LeRon McClain ,FB,22,Alabama,3,"$1,394,000","$279,000","$378,000",2007
+138  ,OAK , Jay Richardson ,DE,23,Ohio State,4,-,-,-,2007
+139  ,STL , Dustin Fry ,C,23,Clemson,3,"$1,260,200","$145,200","$285,000",2007
+140  ,CLE , Brandon McDonald ,CB,21,Memphis,4,"$1,858,000","$193,000","$333,250",2007
+141  ,TB , Greg Peterson ,DT,23,North Carolina Central,4,"$1,857,000","$192,000","$333,000",2007
+142  ,ARI , Steve Breaston ,WR,23,Michigan,3,"$1,256,250","$141,250","$332,083",2007
+143  ,WAS , Dallas Sartz ,LB,23,Southern California,4,"$1,845,850","$183,500","$330,875",2007
+144  ,HOU , Brandon Harrison ,CB,22,Stanford,4,"$1,847,125","$182,125","$330,531",2007
+145  ,NO , David Jones ,CB,21,Wingate,3,"$1,250,320","$135,320","$285,000",2007
+146  ,MIN , Aundrae Allison ,WR,22,East Carolina,4,"$1,844,500","$179,500","$329,875",2007
+147  ,SF , Tarell Brown ,CB,22,Texas,3,"$9,112,502","$177,000","$329,250",2007
+148  ,KC , Kolby Smith ,RB,22,Louisville,3,"$1,247,875","$132,875","$329,291",2007
+149  ,JAC , Uche Nwaneri ,G,23,Purdue,4,"$1,840,600","$175,600","$328,900",2007
+150  ,JAC , Josh Gattis ,CB,23,Wake Forest,4,"$1,839,800","$174,800","$285,000",2007
+151  ,CIN , Jeff Rowe ,QB,23,Nevada,4,"$1,839,000","$174,000","$328,500",2007
+152  ,TEN , Antonio Johnson ,DT,22,Mississippi State,4,"$1,838,450","$173,450","$233,362",2007
+153  ,NYG , Kevin Boss ,TE,23,Western Oregon,4,"$1,838,360","$173,360","$328,340",2007
+154  ,STL , Clifton Ryan ,T,23,Michigan State,3,"$1,244,000","$129,000","$328,000",2007
+155  ,CAR , Dante Rosario ,TE,22,Oregon,4,"$1,836,000","$171,000","$327,750",2007
+156  ,PIT , Cameron Stephenson ,G,23,Rutgers,3,"$1,241,000","$126,000","$285,000",2007
+157  ,GB , David Clowney ,WR,21,Virginia Tech,4,"$1,835,000","$170,000","$285,000",2007
+158  ,DET , Johnny Baldwin ,LB,23,Arkansas A&M,3,"$1,240,500","$125,500","$285,000",2007
+159  ,PHI , Christian Gaddis ,C,22,Clemson,4,"$1,831,731","$5,000","$117,352",2007
+160  ,KC , Justin Medlock ,K,23,California-Los Angeles,3,"$1,238,690","$123,690","$285,000",2007
+161  ,SEA , Will Herring ,LB,23,Auburn,4,"$1,822,810","$163,100","$325,775",2007
+162  ,PHI , Brent Celek ,TE,22,Cincinnati,4,"$1,827,000","$162,180","$330,450",2007
+163  ,HOU , Brandon Frye ,T,24,Virginia Tech,4,"$1,825,400","$160,400","$285,000",2007
+164  ,CAR , Tim Shaw ,OLB,23,Penn State,4,-,-,-,2007
+165  ,OAK , Eric Frampton ,S,23,Washington State,3,"$1,232,000","$117,000","$285,000",2007
+166  ,JAC , Derek Landri ,DT,23,Notre Dame,4,"$1,185,000","$155,000","$323,750",2007
+167  ,CHI , Kevin Payne ,S,23,Louisiana-Monroe,4,"$1,815,000","$150,000","$322,500",2007
+168  ,CHI , Corey Graham ,FS,21,New Hampshire,4,"$1,814,500","$149,500","$322,375",2007
+169  ,IND , Roy Hall ,WR,23,Ohio State,4,"$1,811,750","$146,750","$321,687",2007
+170 (C) ,PIT , William Gay ,CB,22,Louisville,3,"$1,221,000","$106,400","$320,466",2007
+171 (C) ,NE , Clint Oldenburg ,T,23,Colorado State,4,-,-,-,2007
+172 (C) ,SD , Legedu Naanee ,WR,23,Boise State,4,"$1,806,000","$141,000","$320,250",2007
+173 (C) ,IND ,   ,,,,-,-,-,-,2007
+174 (C) ,BAL , Troy Smith ,QB,22,Ohio State,3,"$1,220,000","$105,000","$320,000",2007
+175  ,OAK , Oren O'Neal ,FB,23,Arkansas State,4,"$1,781,000","$116,000","$314,000",2007
+176  ,MIN , Rufus Alexander ,LB,24,Oklahoma,4,"$1,777,750","$112,750","$313,187",2007
+177  ,NYJ , Jacob Bender ,T,22,Nicholls State,4,"$1,775,000","$110,000","$312,500",2007
+178  ,DAL , Nick Folk ,K,22,Arizona,4,"$1,773,000","$108,000","$312,000",2007
+179  ,WAS , H.B. Blades ,LB,22,Pittsburgh,4,"$1,771,500","$106,500","$311,625",2007
+180  ,NE , Justin Rogers ,LB,23,Southern Methodist,4,"$1,198,500","$83,500","$285,000",2007
+181  ,MIA , Reagan Maui'a ,RB,22,Hawaii,4,"$1,766,750","$101,750","$310,437",2007
+182  ,TB , Adam Hayward ,OLB,22,Portland State,4,"$1,767,000","$102,000","$310,500",2007
+183  ,HOU , Kasey Studdard ,G,22,Texas,4,"$1,765,600","$100,600","$310,150",2007
+184  ,BUF , John Wendling ,S,23,Wyoming,4,"$1,763,750","$98,750","$309,687",2007
+185  ,ATL , Trey Lewis ,DT,21,Washburn,4,"$1,762,625","$97,625","$309,406",2007
+186  ,SF , Thomas Clayton ,RB,23,Kansas State,4,"$1,761,500","$96,500","$285,000",2007
+187  ,CHI , Matt Toeaina ,DT,24,Oregon,3,"$1,519,000","$14,040","$314,680",2007
+188  ,TEN , Joel Filani ,WR,23,Texas Tech,4,"$1,760,780","$95,780","$285,000",2007
+189  ,NYG , Adam Koets ,T,23,Oregon State,4,"$1,760,250","$95,250","$308,812",2007
+190  ,STL , Ken Shackleford ,T,22,Georgia,3,"$1,186,000","$71,000","$285,000",2007
+191  ,GB , Korey Hall ,RB,23,Boise State,4,"$1,759,450","$94,450","$308,612",2007
+192  ,GB , Desmond Bishop ,OLB,22,California,4,"$1,759,200","$94,200","$308,550",2007
+193  ,GB , Mason Crosby ,K,22,Colorado,4,"$1,758,950","$93,950","$308,487",2007
+194  ,ATL , David Irons ,CB,24,Auburn,4,"$1,758,945","$93,945","$308,486",2007
+195  ,DAL , Deon Anderson ,RB,24,Connecticut,4,"$1,757,250","$92,250","$308,062",2007
+196  ,KC , Herb Taylor ,T,22,Texas Christian,3,"$1,125,000","$68,750","$307,916",2007
+197  ,SEA , Courtney Taylor ,WR,23,Auburn,4,"$1,775,250","$90,250","$285,000",2007
+198  ,ATL , Doug Datish ,C,23,Ohio State,4,"$1,754,650","$89,650","$212,412",2007
+199  ,MIA , Drew Mormino ,CB,23,Central Michigan,4,"$1,753,250","$88,250","$212,062",2007
+200  ,CLE , Melila Purcell ,DE,23,Hawaii,4,"$1,752,250","$87,250","$285,000",2007
+201  ,PHI , Rashad Barksdale ,CB,22,Albany,4,"$1,751,250","$86,250","$285,000",2007
+202  ,NE , Mike Richardson ,CB,23,Notre Dame,4,"$1,751,000","$86,000","$211,500",2007
+203  ,ATL , Daren Stone ,S,21,Maine,4,"$1,750,400","$85,400","$306,350",2007
+204  ,TEN , Jacob Ford ,DE,23,Central Arkansas,4,"$1,749,100","$84,100","$306,025",2007
+205  ,CIN , Jordan Palmer ,QB,22,Texas-El Paso,4,"$1,748,000","$83,000","$285,000",2007
+206  ,TEN , Ryan Smith ,CB,21,Florida,4,"$1,745,000","$80,000","$285,000",2007
+207 (C) ,BAL , Prescott Burgess ,LB,23,Michigan,3,"$1,171,750","$56,750","$197,041",2007
+208 (C) ,NE , Justise Hairston ,RB,23,Central Connecticut State,3,"$1,170,500","$55,500","$303,500",2007
+209 (C) ,NE , Corey Hilliard ,RT,22,Oklahoma,3,"$1,170,050","$55,050","$285,000",2007
+210 (C) ,SEA , Jordan Kent ,WR,22,Oregon,4,"$1,737,750","$72,750","$285,000",2007
+211  ,NE , Oscar Lua ,LB,22,Southern California,4,"$1,728,000","$63,000","$205,750",2007
+212  ,DAL , Courtney Brown ,S,23,Cal Poly,4,"$1,727,100","$62,100","$300,525",2007
+213  ,CLE , Chase Pittman ,DE,24,Louisiana Tech,4,"$1,726,200","$61,200","$285,000",2007
+214  ,TB , Chris Denman ,T,23,Fresno State,4,"$1,725,500","$60,500","$300,125",2007
+215  ,ARI , Ben Patrick ,TE,22,Delaware,3,"$1,159,500","$44,500","$301,645",2007
+216  ,WAS , Tyler Ecker ,TE,25,Michigan,4,"$1,723,000","$58,000","$299,500",2007
+217  ,MIN , Tyler Thigpen ,QB,23,Coastal Carolina,4,-,-,-,2007
+218  ,HOU , Zac Diles ,ILB,21,Kansas State,4,"$1,721,915","$56,915","$299,228",2007
+219  ,MIA , Kelvin Smith ,LB,23,Syracuse,4,"$1,721,250","$56,250","$285,000",2007
+220  ,NO , Marvin Mitchell ,OLB,22,Tennessee,3,"$1,157,300","$42,300","$217,941",2007
+221  ,CHI , Trumaine McBride ,CB,21,Ole Miss,4,"$1,720,250","$55,250","$298,812",2007
+222  ,BUF , Derek Schouman ,TE,22,Boise State,4,"$1,720,050","$55,050","$160,312",2007
+223  ,TEN , Michael Otto ,LT,23,Purdue,4,"$1,719,660","$54,660",-,2007
+224  ,NYG , Michael Johnson ,S,22,Arizona,4,"$1,719,800","$54,800","$298,700",2007
+225  ,MIA , Brandon Fields ,P,22,Michigan State,4,"$1,719,075","$54,075","$298,518",2007
+226  ,CAR , C.J. Wilson ,CB,22,Baylor,4,"$1,719,000","$54,000","$285,000",2007
+227  ,PIT , Dallas Baker ,WR,24,Florida,3,"$1,154,750","$39,750","$285,000",2007
+228  ,GB , DeShawn Wynn ,RB,23,Florida,4,"$1,715,907","$50,907","$297,726",2007
+229  ,JAC , John Broussard ,WR,23,San Jose State,4,"$1,714,850","$49,850","$297,462",2007
+230  ,CIN , Dan Santucci ,C,23,Notre Dame,4,"$1,713,300","$48,300","$285,000",2007
+231  ,KC , Michael Allan ,TE,23,Whitworth,3,"$1,150,000","$35,000","$35,625",2007
+232  ,SEA , Steve Vallos ,C,23,Wake Forest,4,"$1,711,250","$46,250","$285,000",2007
+233  ,MIN , Chandler Williams ,WR,21,Florida International,4,"$1,710,750","$45,750","$285,000",2007
+234  ,CLE , Syndric Steptoe ,WR,22,Arizona,4,"$1,710,500","$45,500","$285,000",2007
+235  ,NYJ , Chansi Stuckey ,WR,23,Clemson,4,"$1,699,775","$34,775","$215,006",2007
+236  ,PHI , Nate Ilaoa ,RB,24,Hawaii,4,"$2,155,000","$40,000","$285,000",2007
+237  ,DAL , Alan Ball ,CB,22,Illinois,4,"$1,698,650","$44,650","$72,646",2007
+238  ,MIA , Abraham Wright ,DE,22,Colorado,4,"$1,709,550","$44,500","$171,449",2007
+239  ,STL , C.J. Ah You ,DE,24,Oklahoma,2,"$875,000","$43,350","$285,000",2007
+240  ,SD , Brandon Siler ,LB,21,Florida,4,"$1,707,725","$427,250","$391,812",2007
+241  ,CHI , Aaron Brant ,T,22,Iowa State,4,"$1,707,100","$42,100","$285,000",2007
+242  ,IND , Keyunta Dawson ,DE,21,Texas Tech,-,-,-,-,2007
+243 (C) ,GB , Clark Harris ,LS,22,Rutgers,4,"$1,705,875","$40,875","$285,000",2007
+244 (C) ,ATL , Jason Snelling ,RB,23,Virginia,3,"$1,705,400","$40,400","$117,352",2007
+245 (C) ,TB , Marcus Hamilton ,CB,23,Virginia,4,"$1,705,000","$40,000","$285,000",2007
+246 (C) ,TB , Kenneth Darby ,RB,24,Alabama,4,"$1,705,000","$40,000","$1,178,088",2007
+247 (C) ,NE , Mike Elgin ,C,23,Iowa,3,"$1,144,000","$29,000","$285,000",2007
+248 (C) ,STL , Keith Jackson ,DT,22,Arkansas,3,"$1,143,200","$28,200","$285,000",2007
+249 (C) ,STL , Derek Stanley ,WR,21,Wisconsin-Whitewater,3,"$1,142,900","$27,900","$285,000",2007
+250 (C) ,NYG , Ahmad Bradshaw ,RB,21,Marshall,4,"$1,701,725","$36,725","$294,181",2007
+251 (C) ,JAC , Chad Nkang ,LB,21,Elon,4,"$1,701,250","$36,250","$294,062",2007
+252 (C) ,JAC , Andrew Carnahan ,T,23,Arizona State,4,"$1,700,800","$35,800","$285,000",2007
+253 (C) ,CIN , Chinedum Ndukwe ,S,22,Notre Dame,4,"$1,700,350","$35,350","$303,837",2007
+254  (S),OAK , Johnathan Holland ,WR,22,Louisiana Tech,3,"$1,140,000","$25,000","$198,333",2007
+255  (S),DET , Ramzee Robinson ,CB,23,Alabama,3,"$1,139,900","$24,900","$285,000",2007
+

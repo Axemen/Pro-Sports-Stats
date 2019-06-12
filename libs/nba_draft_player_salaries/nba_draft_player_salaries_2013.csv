@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,CLE *Traded to PHX,Anthony Bennett,PF,"6' 8""",235,Canada,Nevada-Las Vegas,2,"$10,888,200","$5,324,280",2013
+2,ORL *Traded to IND,Victor Oladipo,SG,"6' 4""",210,United States,Indiana,2,"$9,741,960","$4,763,760",2013
+3,WAS ,Otto Porter Jr.,SF,"6' 8""",198,United States,Georgetown,2,"$8,748,480","$4,278,000",2013
+4,CHA *Traded to CHA,Cody Zeller,C,"7' 0""",240,United States,Indiana,2,"$7,887,600","$3,857,040",2013
+5,PHX *Traded to ATL,Alex Len,C,"7' 1""",250,Ukraine,Maryland,2,"$7,142,640","$3,492,720",2013
+6,NOP *Traded to OKC,Nerlens Noel,C,"6' 11""",220,United States,Kentucky,2,"$6,487,440","$3,172,320",2013
+7,SAC ,Ben McLemore,SG,"6' 5""",201,United States,Kansas,2,"$5,922,240","$2,895,960",2013
+8,DET *Traded to LAL,Kentavious Caldwell-Pope,SG,"6' 5""",205,United States,Georgia,2,"$5,425,560","$2,653,080",2013
+9,MIN *Traded to NYK,Trey Burke,PG,"6' 1""",175,United States,Michigan,2,"$4,987,320","$2,438,760",2013
+10,POR ,C.J. McCollum,SG,"6' 3""",190,United States,Lehigh,2,"$4,737,720","$2,316,720",2013
+11,PHI *Traded to HOU,Michael Carter-Williams,PG,"6' 6""",190,United States,Syracuse,2,"$4,500,960","$2,200,920",2013
+12,OKC  from TOR via HOU,Steven Adams,C,"7' 0""",265,New Zealand,Pittsburgh,2,"$4,275,840","$2,090,880",2013
+13,DAL *Traded to MIA,Kelly Olynyk,C,"7' 0""",238,Canada,Gonzaga,2,"$4,062,120","$1,986,360",2013
+14,MIN *Traded to MIL,Shabazz Muhammad,SG,"6' 5""",225,United States,California-Los Angeles,2,"$3,859,080","$1,887,120",2013
+15,MIL ,Giannis Antetokounmpo,PF,"6' 11""",242,Greece,,2,"$3,665,760","$1,792,560",2013
+16,BOS *Traded to TOR,Lucas Nogueira,C,"7' 0""",220,Brazil,,2,"$3,604,680",-,2013
+17,ATL *Traded to OKC,Dennis Schröder,PG,"6' 1""",172,Germany,,2,"$3,038,880","$1,348,200",2013
+18,ATL  from HOU via BKN*Traded to BOS,Shane Larkin,PG,"5' 11""",175,United States,Miami (FL),2,"$3,143,040","$1,536,960",2013
+19,CLE  from LAL*Traded to BKN,Sergey Karasev,SG,"6' 7""",208,Russia,,2,"$3,001,680","$1,467,840",2013
+20,CHI *Traded to MIL,Tony Snell,SG,"6' 7""",217,United States,New Mexico,2,"$2,881,440","$1,409,040",2013
+21,UTH  from GSW via BKN*Traded to MIN,Gorgui Dieng,C,"6' 11""",252,Senegal,Louisville,2,"$2,766,120","$1,352,640",2013
+22,BKN *Traded to DEN,Mason Plumlee,C,"6' 11""",235,United States,Duke,2,"$2,655,720","$1,298,640",2013
+23,IND *Traded to NOP,Solomon Hill,SF,"6' 7""",225,United States,Arizona,2,"$2,549,520","$1,246,680",2013
+24,NYK ,Tim Hardaway Jr.,SG,"6' 6""",205,United States,Michigan,2,"$2,447,400","$1,196,760",2013
+25,LAC *Traded to DET,Reggie Bullock,SG,"6' 7""",205,United States,North Carolina,2,"$2,349,720","$1,149,000",2013
+26,MIN  from MEM via HOU*Traded to OKC,Andre Roberson,SG,"6' 7""",210,Uganda,Colorado,2,"$1,901,440","$740,560",2013
+27,DEN *Traded to UTH,Rudy Gobert,C,"7' 1""",245,France,,2,"$2,206,200","$1,078,800",2013
+28,SAS ,Livio Jean-Charles,PF,"6' 9""",217,France,,2,"$2,431,080",-,2013
+29,OKC *Traded to POR,Archie Goodwin,SG,"6' 5""",205,United States,Kentucky,2,"$2,176,680","$1,064,400",2013
+30,PHX  from MIA via CLE via LAL*Traded to GSW,Nemanja Nedovic,PG,"6' 3""",192,Serbia,,2,"$2,160,960","$1,056,720",2013
+31,CLE  from ORL*Traded to BKN,Allen Crabbe,SG,"6' 6""",212,United States,California,3,"$2,634,276","$825,000",2013
+32,OKC  from CHA via OKC via BOS via HOU,Alex Abrines,SG,"6' 6""",200,Spain,,,-,-,2013
+33,CLE *Traded to WAS,Carrick Felix,SG,"6' 6""",203,United States,Arizona State,4,"$3,289,454","$510,000",2013
+34,HOU  from PHX*Traded to PHX,Isaiah Canaan,PG,"6' 0""",200,United States,Murray State,3,"$2,334,273","$570,515",2013
+35,PHI  from NOH*Traded to WAS,Glen Rice Jr.,SF,"6' 6""",206,United States,,2,"$1,306,662","$490,180",2013
+36,SAC *Traded to CHA,Ray McCallum,PG,"6' 3""",190,United States,Detroit,3,"$2,288,374","$524,616",2013
+37,DET *Traded to MIA,Tony Mitchell,PF,"6' 8""",235,United States,North Texas,3,"$2,263,758","$500,000",2013
+38,WAS *Traded to UTH,Nate Wolters,PG,"6' 4""",190,United States,South Dakota State,3,"$2,263,758","$500,000",2013
+39,POR  from MIN via CLE via BOS*Traded to DAL,Jeff Withey,C,"7' 0""",231,United States,Kansas,2,"$1,306,662","$490,180",2013
+40,POR ,Grant Jerrett,PF,"6' 10""",235,United States,Arizona,1,"$28,834","$28,834",2013
+41,MEM  from TOR via DAL via TOR*Traded to DEN,Jamaal Franklin,SG,"6' 5""",191,United States,San Diego State,3,"$2,298,758","$535,000",2013
+42,PHI  from PHI*Traded to DAL,Pierre Jackson,PG,"5' 11""",176,United States,Baylor,1,"$507,336",-,2013
+43,MIL *Traded to NYK,Ricky Ledo,SG,"6' 7""",195,United States,Providence,4,"$3,323,454","$544,000",2013
+44,DAL *Traded to PHI,Mike Muscala,PF,"6' 11""",240,United States,Bucknell,3,"$1,925,229","$161,471",2013
+45,POR  from BOS,Marko Todorovic,SF,"6' 11""",245,Yugoslavia,,,-,-,2013
+46,UTH ,Erick Green,PG,"6' 4""",184,United States,Virginia Tech,,-,-,2013
+47,ATL *Traded to UTH,Raul Neto,PG,"6' 1""",179,Brazil,,3,"$2,732,546",-,2013
+48,LAL  from HOU*Traded to HOU,Ryan Kelly,PF,"6' 11""",230,United States,Duke,2,"$1,506,662","$490,180",2013
+49,CHI *Traded to BOS,Erik Murphy,PF,"6' 10""",240,Finland,Florida,2,"$1,306,662","$490,180",2013
+50,ATL *Traded to HOU,James Ennis,SF,"6' 7""",210,United States,Long Beach State,3,"$2,332,826",-,2013
+51,ORL  from GSW via NYK via DEN,Romero Osby,PF,"6' 8""",232,United States,Oklahoma,1,"$490,180","$490,180",2013
+52,MIN  from BKN via MIN via NOH*Traded to TOR,Lorenzo Brown,PG,"6' 5""",189,United States,North Carolina State,1,"$490,180","$490,180",2013
+53,IND ,Colton Iverson,C,"7' 0""",255,United States,Colorado State,,-,-,2013
+54,WAS  from NYK,Arsalan Kazemi,PF,"6' 7""",226,Iran,Oregon,,-,-,2013
+55,MEM *Traded to SAS,Joffrey Lauvergne,PF,"6' 11""",220,France,,3,"$5,209,719",-,2013
+56,DET  from LAC*Traded to ORL,Peyton Siva,PG,"6' 0""",185,United States,Louisville,2,"$1,306,662","$490,180",2013
+57,PHX  from DEN via LAL,Alex Oriakhi,C,"6' 9""",255,United States,Missouri,,-,-,2013
+58,SAS ,Deshaun Thomas,SF,"6' 7""",215,United States,Ohio State,,-,-,2013
+59,MIN  from OKC,Bojan Dubljevic,PF,"6' 9""",243,Montenegro,,,-,-,2013
+60,MEM  from MIA,Janis Timma,SF,"6' 7""",220,Latvia,,,-,-,2013

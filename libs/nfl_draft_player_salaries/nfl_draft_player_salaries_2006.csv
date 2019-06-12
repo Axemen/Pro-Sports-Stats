@@ -1,0 +1,257 @@
+Pick,Team,Player,Pos,Age,College,Yrs,Total Value,Signing Bonus,2006 Cap,year
+1  ,HOU , Mario Williams ,DE,21,North Carolina State,6,"$54,000,000",-,"$2,900,000",2006
+2  ,NO , Reggie Bush ,RB,21,Southern California,6,"$52,500,000",-,"$6,200,000",2006
+3  ,TEN , Vince Young ,QB,22,Texas,6,"$58,000,000",-,"$6,740,000",2006
+4  ,NYJ , D'Brickashaw Ferguson ,LT,22,Virginia,6,"$37,500,000",-,"$2,350,000",2006
+5  ,GB , A.J. Hawk ,OLB,22,Ohio State,6,"$37,500,000",-,"$2,185,000",2006
+6  ,SF , Vernon Davis ,TE,22,Maryland,5,"$23,000,000",-,"$5,835,000",2006
+7  ,OAK , Michael Huff ,S,23,Texas,5,"$43,200,000",-,"$2,000,000",2006
+8  ,BUF , Donte Whitner ,SS,20,Ohio State,5,"$29,000,000","$1,500,000","$5,023,000",2006
+9  ,DET , Ernie Sims ,OLB,21,Florida State,5,"$16,650,000",-,"$3,175,000",2006
+10  ,ARI , Matt Leinart ,QB,22,Southern California,6,"$50,460,000",-,"$1,500,000",2006
+11  ,DEN , Jay Cutler ,QB,23,Vanderbilt,6,"$48,000,000",-,"$1,550,000",2006
+12  ,BAL , Haloti Ngata ,DT,22,Oregon,5,"$13,950,000",-,"$3,140,000",2006
+13  ,CLE , Kamerion Wimbley ,OLB,22,Florida State,6,"$23,601,250",-,"$2,215,000",2006
+14  ,PHI , Brodrick Bunkley ,DT,22,Florida State,6,"$17,500,000",-,"$1,316,000",2006
+15  ,STL , Tye Hill ,CB,23,Clemson,5,"$12,600,000",-,"$1,354,000",2006
+16  ,MIA , Jason Allen ,CB,22,Tennessee,6,"$12,586,175",-,"$1,306,175",2006
+17  ,MIN , Chad Greenway ,OLB,23,Iowa,5,"$10,750,000",-,"$1,310,000",2006
+18  ,DAL , Bobby Carpenter ,LB,22,Ohio State,5,"$10,800,000",-,"$1,220,000",2006
+19  ,SD , Antonio Cromartie ,CB,22,Florida State,5,"$12,500,000",-,"$1,150,000",2006
+20  ,KC , Tamba Hali ,OLB,22,Penn State,5,"$12,150,000",-,"$1,160,000",2006
+21  ,NE , Laurence Maroney ,RB,21,Minnesota,5,"$9,000,000",-,"$1,150,000",2006
+22  ,SF , Manny Lawson ,OLB,21,North Carolina State,5,"$13,900,000",-,"$1,110,000",2006
+23  ,TB , Davin Joseph ,G,22,Oklahoma,5,"$11,275,000","$1,000,000","$1,060,000",2006
+24  ,CIN , Johnathan Joseph ,CB,22,South Carolina,5,"$8,200,000",-,"$1,090,000",2006
+25  ,PIT , Santonio Holmes ,WR,22,Ohio State,5,"$8,110,000",-,"$1,440,000",2006
+26  ,BUF , John McCargo ,DT,22,North Carolina State,5,"$8,000,000",-,"$1,050,000",2006
+27  ,CAR , DeAngelo Williams ,RB,23,Memphis,5,"$10,425,000",-,"$980,000",2006
+28  ,JAC , Marcedes Lewis ,TE,21,California-Los Angeles,5,"$7,425,000",-,"$990,000",2006
+29  ,NYJ , Nick Mangold ,C,22,Ohio State,5,"$10,518,000","$1,000,000","$1,034,000",2006
+30  ,IND , Joseph Addai ,RB,22,Louisiana State,5,"$11,650,000","$500,000","$440,000",2006
+31  ,SEA , Kelly Jennings ,CB,23,Miami (FL),5,"$9,700,000",-,"$1,025,000",2006
+32  ,NYG , Mathias Kiwanuka ,DE,23,Boston College,5,"$6,960,000",-,"$1,605,000",2006
+33  ,HOU , DeMeco Ryans ,ILB,21,Alabama,6,"$46,800,000","$7,500,000","$1,281,250",2006
+34  ,CLE , D'Qwell Jackson ,ILB,22,Maryland,4,"$3,690,000","$1,900,000","$750,000",2006
+35  ,WAS , Rocky McIntosh ,OLB,23,Miami (FL),4,"$4,150,000","$1,820,000","$730,000",2006
+36  ,NE , Chad Jackson ,WR,21,Florida,4,"$4,000,000",-,"$727,500",2006
+37  ,ATL , Jimmy Williams ,S,22,Virginia Tech,4,"$3,170,000","$1,560,000","$1,415,000",2006
+38  ,OAK , Thomas Howard ,LB,22,Texas-El Paso,4,"$3,810,000",-,"$825,000",2006
+39  ,PHI , Winston Justice ,LT,21,Southern California,4,"$3,710,000","$795,000","$758,750",2006
+40  ,DET , Daniel Bullocks ,S,23,Nebraska,4,"$3,702,500",-,"$851,250",2006
+41  ,ARI , Taitusi Lutui ,G,22,Southern California,4,"$3,595,000","$1,985,000","$771,250",2006
+42  ,CHI , Danieal Manning ,S,23,Abilene Christian,4,"$3,530,000","$820,000","$605,000",2006
+43  ,NO , Roman Harper ,SS,23,Alabama,4,"$3,554,500","$880,000","$1,199,500",2006
+44  ,NYG , Sinorice Moss ,WR,22,Miami (FL),4,"$3,510,000","$700,000","$1,006,000",2006
+45  ,TEN , Lendale White ,RB,21,Southern California,4,"$3,710,000","$1,300,000","$1,100,000",2006
+46  ,STL , Joe Klopfenstein ,TE,22,Colorado,4,"$3,370,000","$1,300,000","$1,060,000",2006
+47  ,GB , Daryn Colledge ,G,24,Boise State,4,"$2,915,000","$1,300,000","$990,000",2006
+48  ,MIN , Cedric Griffin ,CB,23,Texas,4,"$3,230,000","$1,300,000","$920,000",2006
+49  ,NYJ , Kellen Clemens ,QB,22,Oregon,4,"$3,220,000","$1,610,000","$677,500",2006
+50  ,SD , Marcus McNeill ,T,22,Auburn,4,"$2,389,000","$1,224,000","$581,000",2006
+51  ,MIN , Ryan Cook ,C,22,New Mexico,4,"$3,116,385","$1,200,000","$575,000",2006
+52  ,GB , Greg Jennings ,WR,22,Western Michigan,4,"$2,850,000","$1,240,000","$830,000",2006
+53  ,DAL , Anthony Fasano ,TE,22,Notre Dame,4,"$3,070,000","$1,150,000","$872,500",2006
+54  ,KC , Bernard Pollard ,S,21,Purdue,4,"$2,670,000","$1,060,000","$540,000",2006
+55  ,CIN , Andrew Whitworth ,LT,24,Louisiana State,4,"$2,965,000","$1,100,000","$550,000",2006
+56  ,BAL , Chris Chester ,G,23,Oklahoma,4,"$2,920,000","$1,060,000","$540,000",2006
+57  ,CHI , Devin Hester ,WR,23,Miami (FL),4,"$6,630,000","$5,000,000","$1,525,000",2006
+58  ,CAR , Richard Marshall ,CB,21,Fresno State,4,"$2,862,756",-,"$612,756",2006
+59  ,TB , Jeremy Trueblood ,RT,22,Boston College,4,"$2,840,000","$1,230,000","$582,500",2006
+60  ,JAC , Maurice Jones-Drew ,RB,21,California-Los Angeles,4,"$2,785,000","$400,000","$730,000",2006
+61  ,DEN , Tony Scheffler ,TE,23,Western Michigan,4,"$2,607,000","$992,000","$523,000",2006
+62  ,IND , Tim Jennings ,CB,22,Georgia,4,"$1,291,000","$820,000","$295,500",2006
+63  ,SEA , Darryl Tapp ,DE,21,Virginia Tech,4,"$1,875,000","$260,000","$525,000",2006
+64  ,MIN , Tarvaris Jackson ,QB,23,Alabama State,4,"$2,665,000","$820,000","$715,000",2006
+65  ,HOU , Charles Spencer ,T,24,Pittsburgh,4,"$2,220,000","$610,000","$427,500",2006
+66  ,HOU , Eric Winston ,RT,22,Miami (FL),4,"$2,218,000","$608,000","$427,000",2006
+67  ,GB , Abdul Hodge ,LB,23,Iowa,4,"$2,418,000","$808,000","$477,000",2006
+68  ,STL , Claude Wroten ,T,22,Louisiana Tech,4,"$2,415,000","$805,000","$476,250",2006
+69  ,OAK , Paul McQuistan ,LT,22,Weber State,4,"$2,405,000","$795,000","$473,750",2006
+70  ,BUF , Ashton Youboty ,CB,21,Ohio State,4,"$2,395,000","$785,000","$471,250",2006
+71  ,PHI , Chris Gocong ,LB,22,Cal Poly,4,"$2,865,000","$775,000","$468,750",2006
+72  ,ARI , Leonard Pope ,TE,22,Georgia,3,"$1,658,000","$578,000","$467,667",2006
+73  ,CHI , Dusty Dvoracek ,DT,23,Oklahoma,4,"$2,364,500","$754,500","$368,625",2006
+74  ,DET , Brian Calhoun ,RB,21,Wisconsin,4,"$2,363,000","$753,000","$463,250",2006
+75  ,GB , Jason Spitz ,G,23,Louisville,4,"$2,352,250","$742,250","$460,562",2006
+76  ,NYJ , Anthony Schlegel ,LB,25,Ohio State,4,"$2,344,000","$734,000","$458,500",2006
+77  ,STL , Jon Alston ,LB,22,Stanford,3,"$1,630,000","$550,000","$458,333",2006
+78  ,CLE , Travis Wilson ,WR,22,Oklahoma,4,"$2,334,000","$724,000","$456,000",2006
+79  ,ATL , Jerious Norwood ,RB,22,Mississippi State,4,"$2,330,500",-,"$437,000",2006
+80  ,JAC , Clint Ingram ,LB,23,Oklahoma,4,"$2,325,000","$715,000","$453,750",2006
+81  ,SD , Charlie Whitehurst ,QB,23,Clemson,4,"$2,381,000","$708,000","$452,000",2006
+82  ,MIA , Derek Hagan ,WR,21,Arizona State,4,"$2,317,000","$707,000","$451,750",2006
+83  ,PIT , Anthony Smith ,S,22,Syracuse,3,"$1,601,500","$521,500","$448,833",2006
+84  ,SF , Brandon Williams ,WR,22,Wisconsin,4,"$2,285,000","$675,000","$443,750",2006
+85  ,KC , Brodie Croyle ,QB,23,Alabama,4,"$2,280,000",-,"$430,000",2006
+86  ,NE , David Thomas ,TE,22,Texas,4,"$2,507,500","$64,075","$291,018",2006
+87  ,BAL , David Pittman ,CB,22,Texas,3,"$1,570,000","$490,000","$438,333",2006
+88  ,CAR , James Anderson ,OLB,22,Virginia Tech,3,"$1,567,000","$487,200","$437,400",2006
+89  ,CAR , Rashad Butler ,LT,23,Miami (FL),3,"$1,559,975","$479,750","$434,916",2006
+90  ,TB , Maurice Stovall ,WR,21,Notre Dame,4,"$1,640,000","$640,000","$435,000",2006
+91  ,CIN , Frostee Rucker ,DT,22,Southern California,4,"$2,235,000","$620,000","$430,000",2006
+92  ,DAL , Jason Hatcher ,DE,23,Grambling State,4,"$2,227,500","$612,500","$428,125",2006
+93  ,STL , Dominique Byrd ,T,22,Southern California,3,"$1,546,000","$466,000","$430,333",2006
+94  ,IND , Freddy Keiaho ,LB,23,San Diego State,3,"$1,540,000","$424,000","$416,333",2006
+95  ,PIT , Willie Reid ,WR,23,Florida State,3,"$1,534,000","$453,100","$426,033",2006
+96  ,NYG , Gerris Wilkinson ,LB,23,Georgia Tech,4,"$2,193,500","$583,500","$420,875",2006
+97 (C) ,NYJ , Eric Smith ,S,23,Michigan State,4,"$2,187,500","$572,500","$418,125",2006
+98  ,HOU , Owen Daniels ,TE,23,Wisconsin,3,"$1,980,000","$370,000","$367,500",2006
+99  ,PHI , Max Jean-Giles ,G,22,Georgia,4,"$2,085,500","$475,500","$393,875",2006
+100  ,SF , Michael Robinson ,FB,23,Penn State,4,"$2,081,250","$47,125","$286,781",2006
+101  ,OAK , Darnell Bing ,S,21,Southern California,4,"$2,081,000","$471,000","$392,750",2006
+102  ,TEN , Calvin Lowry ,S,23,Penn State,3,"$1,445,000","$365,000","$396,667",2006
+103  ,NYJ , Brad Smith ,WR,22,Missouri,4,"$2,083,000","$473,000","$393,250",2006
+104  ,GB , Cory Rodgers ,WR,23,Texas Christian,4,"$2,075,120","$465,120","$275,000",2006
+105  ,BUF , Ko Simpson ,S,22,South Carolina,4,"$2,075,000","$465,000","$391,250",2006
+106  ,NE , Garrett Mills ,TE,22,Tulsa,4,"$2,072,500","$462,500","$390,625",2006
+107  ,ARI , Gabe Watson ,DT,22,Michigan,3,"$1,427,500","$347,500","$390,833",2006
+108  ,NO , Jahri Evans ,G,22,Bloomsburg,3,"$1,426,300","$346,300","$390,433",2006
+109  ,PHI , Jason Avant ,WR,23,Michigan,4,"$2,063,000","$453,000","$388,250",2006
+110  ,CLE , Leon Williams ,LB,22,Miami (FL),4,"$2,060,000","$450,000","$387,500",2006
+111  ,BAL , Demetrius Williams ,WR,23,Oregon,3,"$1,415,000","$335,000","$386,667",2006
+112  ,CLE , Isaac Sowells ,G,23,Indiana,4,"$2,054,000","$444,000","$386,000",2006
+113  ,STL , Victor Adeyanju ,DT,23,Indiana,3,"$1,408,750","$328,750","$384,583",2006
+114  ,MIA , Joe Toledo ,T,23,Washington,4,"$2,046,750","$436,750","$384,187",2006
+115  ,GB , Will Blackmon ,CB,21,Boston College,4,"$2,043,500","$433,500","$383,375",2006
+116  ,TEN , Stephen Tulloch ,ILB,21,North Carolina State,4,"$2,039,500","$429,500","$382,375",2006
+117  ,NYJ , Leon Washington ,RB,23,Florida State,4,"$2,039,250","$429,250","$382,312",2006
+118  ,NE , Stephen Gostkowski ,K,22,Memphis,4,"$2,035,000","$425,000","$381,250",2006
+119  ,DEN , Brandon Marshall ,WR,22,Central Florida,4,"$3,698,000","$420,000","$380,000",2006
+120  ,CHI , Jamar Williams ,LB,21,Arizona State,4,-,-,-,2006
+121  ,CAR , Nate Salley ,S,19,Ohio State,3,"$1,395,000","$310,000","$242,647",2006
+122  ,TB , Alan Zemaitis ,CB,23,Penn State,4,"$2,020,000","$410,000","$377,500",2006
+123  ,CIN , Domata Peko ,DT,21,Michigan State,4,"$2,022,000","$407,000","$376,750",2006
+124  ,NYG , Barry Cofield ,DT,22,Northwestern,4,"$2,014,625","$404,625","$376,156",2006
+125  ,DAL , Skyler Green ,WR,21,Louisiana Tech,4,"$2,012,000","$402,000","$275,000",2006
+126  ,DEN , Elvis Dumervil ,OLB,22,Louisville,4,"$2,009,000","$399,000","$374,750",2006
+127  ,MIN , Ray Edwards ,DE,21,Purdue,4,"$2,083,000","$393,000","$308,544",2006
+128  ,SEA , Rob Sims ,G,22,Ohio State,3,"$1,389,000","$390,000","$405,000",2006
+129  ,NYG , Guy Whimper ,G,22,East Carolina,4,"$1,995,000","$385,000","$371,250",2006
+130 (C) ,DEN , Domenik Hixon ,WR,21,Akron,4,"$1,993,000","$383,000","$370,750",2006
+131 (C) ,PIT , Willie Colon ,G,23,Hofstra,3,"$1,363,000","$283,500","$369,500",2006
+132 (C) ,BAL , P.J.  Daniels ,RB,23,Georgia Tech,3,"$1,361,000","$281,000","$368,667",2006
+133 (C) ,PIT , Orien Harris ,DT,22,Miami (FL),3,"$1,358,000","$278,000","$275,000",2006
+134  ,BUF , Kyle Williams ,DT,22,Louisiana State,3,"$1,803,000","$193,000","$323,250",2006
+135  ,NO , Rob Ninkovich ,OLB,22,Purdue,3,"$1,224,280","$144,280","$323,093",2006
+136  ,NE , Ryan O'Callaghan ,T,22,California,4,"$1,755,500","$109,500","$322,625",2006
+137  ,TEN , Terna Nande ,LB,22,Miami (OH),3,"$1,220,900","$140,900","$321,967",2006
+138  ,DAL , Pat Watkins ,S,23,Florida State,4,"$1,795,000","$185,000","$321,250",2006
+139  ,ATL , Quinn Ojinnaka ,T,22,Syracuse,4,"$1,790,500","$180,500","$320,125",2006
+140  ,SF , Parys Haralson ,DE,22,Tennessee,4,"$1,786,000","$176,000","$319,000",2006
+141  ,DET , Jonathan Scott ,LT,23,Texas,3,"$1,213,000","$133,000","$319,333",2006
+142  ,ARI , Brandon Johnson ,LB,23,Louisville,3,"$1,212,450","$132,450","$319,150",2006
+143  ,BUF , Brad Butler ,T,22,Virginia,4,"$1,785,000","$175,000","$318,750",2006
+144  ,STL , Marques Hagans ,WR,23,Virginia,3,"$1,218,000","$138,000","$275,000",2006
+145  ,CLE , Jerome Harrison ,RB,23,Washington State,4,"$1,789,000","$174,000","$318,500",2006
+146  ,BAL , Dawan Landry ,S,23,Georgia Tech,3,"$1,209,000","$129,000","$318,000",2006
+147  ,PHI , Jeremy Bloom ,CB,24,Colorado,4,"$1,782,000","$172,000","$318,000",2006
+148  ,GB , Ingle Martin IV ,QB,23,Furman,4,"$1,782,000","$172,000","$318,000",2006
+149  ,MIN , Greg Blue ,CB,24,Georgia,4,"$1,780,000","$170,000","$317,500",2006
+150  ,NYJ , Jason Pociask ,TE,23,Wisconsin,4,"$1,778,125","$168,125","$317,031",2006
+151  ,SD , Tim Dobbins ,ILB,23,Iowa,4,"$1,780,000","$168,000","$317,000",2006
+152  ,CLE , DeMario Minter ,C,22,Georgia,4,"$1,780,500","$165,500","$316,375",2006
+153  ,WAS , Anthony Montgomery ,DT,22,Minnesota,3,"$1,203,475","$123,475","$316,158",2006
+154  ,KC , Marcus Maxey ,CB,23,Miami (FL),3,"$1,203,200","$123,200","$316,066",2006
+155  ,CAR , Jeff King ,TE,23,Virginia Tech,3,"$1,203,018","$123,018","$316,006",2006
+156  ,TB , Julian Jenkins ,DE,22,Stanford,4,"$1,773,000","$163,000","$315,750",2006
+157  ,CIN , A.J. Nicholson ,LB,22,Florida State,4,"$1,774,000","$159,000","$314,750",2006
+158  ,NYG , Charlie Peprah ,S,23,Alabama,4,"$1,768,500","$158,500","$275,000",2006
+159  ,CHI , Mark Anderson ,DE,22,Alabama,4,"$1,766,550","$156,550","$314,137",2006
+160  ,JAC , Brent Hawkins ,DE,22,Illinois State,4,"$1,765,000","$155,000","$313,750",2006
+161  ,DEN , Chris Kuper ,G,23,North Dakota,4,"$1,765,000","$155,000","$313,750",2006
+162  ,IND , Michael Toudouze ,T,23,Texas Christian,3,"$1,404,000","$149,000","$275,000",2006
+163  ,SEA , David Kirtman ,RB,23,Southern California,4,"$1,757,500","$147,500","$275,000",2006
+164  ,PIT , Omar Jacobs ,QB,22,Bowling Green,3,"$1,195,000","$115,000","$275,000",2006
+165 (C) ,GB , Tony Moll ,T,22,Nevada,4,"$1,755,000","$145,000","$311,250",2006
+166 (C) ,BAL , Quinn Sypniewski ,TE,24,Colorado,3,"$1,184,500","$104,500","$309,833",2006
+167 (C) ,PIT , Charles Davis ,TE,23,Purdue,3,"$1,184,000","$104,000","$275,000",2006
+168 (C) ,PHI , Omar Gaither ,ILB,22,Tennessee,4,"$1,750,700","$140,500","$310,125",2006
+169 (C) ,TEN , Jesse Mahelona ,DT,23,Tennessee,3,"$1,180,000","$100,000","$608,333",2006
+170  ,HOU , Wali Lundy ,RB,22,Virginia,4,"$1,706,000","$96,000","$299,000",2006
+171  ,NO , Mike Hass ,WR,23,Oregon State,4,"$1,695,875","$85,875","$275,000",2006
+172  ,TEN , Jonathan Orr ,WR,23,Wisconsin,4,"$1,723,000","$113,000","$303,250",2006
+173  ,WAS , Reed Doughty ,S,23,Northern Colorado,3,"$1,164,920","$84,920","$303,306",2006
+174  ,NO , Josh Lay ,CB,23,Pittsburgh,3,"$1,164,000","$84,000","$275,000",2006
+175  ,SF , Delanie Walker ,TE,21,Central Missouri,3,"$1,712,000","$102,000","$300,500",2006
+176  ,OAK , Kevin Boothe ,G,22,Cornell,4,"$1,711,000","$101,000","$300,250",2006
+177  ,ARI , Jonathan Lewis ,DT,21,Virginia Tech,3,"$1,161,200","$81,200","$302,067",2006
+178  ,BUF , Keith Ellison ,LB,22,Oregon State,3,"$1,160,250","$80,250","$301,750",2006
+179  ,DET , Dee McCann ,CB,23,West Virginia,3,"$1,157,625","$77,625","$275,000",2006
+180  ,CLE , Lawrence Vickers ,FB,22,Colorado,4,"$1,711,000","$96,000","$299,000",2006
+181  ,CLE , Babatunde Oshinowo ,DT,23,Stanford,4,"$1,710,500","$95,500","$275,000",2006
+182  ,DAL , Montavious Stanley ,DT,24,Louisville,-,-,-,-,2006
+183  ,GB , Johnny Jolly ,DE,23,Texas A&M,4,"$1,704,600","$94,600","$298,650",2006
+184  ,ATL , Adam Jennings ,WR,23,Fresno State,4,"$1,704,400","$94,400","$298,600",2006
+185  ,GB , Tyrone Culver ,S,22,Fresno State,3,"$3,225,000","$500,000",-,2006
+186  ,KC , Tre Stallings ,G,23,Mississippi State,3,"$1,151,250","$71,250","$298,750",2006
+187  ,SD , Jeromey Clary ,G,22,Kansas State,4,"$1,703,000","$93,000","$298,250",2006
+188  ,SD , Kurt Smith ,KR,23,Virginia,4,"$1,703,200","$93,200","$275,000",2006
+189  ,NYJ , Drew Coleman ,CB,23,Texas Christian,4,"$1,703,000","$93,000","$298,250",2006
+190  ,KC , Jeff Webb ,WR,24,San Diego State,4,"$1,703,000","$93,000","$298,250",2006
+191  ,NE , Jeremy Mincey ,DE,22,Florida,4,"$1,633,200","$68,200","$275,000",2006
+192  ,SF , Marcus Hudson ,CB,23,North Carolina State,4,"$1,696,667","$86,667","$296,667",2006
+193  ,CIN , Reggie McNeal ,QB,22,Texas A&M,4,"$1,701,500","$86,500","$275,000",2006
+194  ,TB , Bruce Gradkowski ,QB,23,Toledo,4,"$1,697,500","$87,500","$296,875",2006
+195  ,CHI , J.D. Runnels ,RB,21,Oklahoma,4,"$1,695,000","$85,000","$296,250",2006
+196  ,WAS , Kedric Golston ,DT,22,Georgia,3,"$1,145,575","$65,575","$296,858",2006
+197  ,SF , Melvin Oliver ,DE,22,Louisiana Tech,4,"$1,695,280","$85,280","$296,320",2006
+198  ,DEN , Greg Eslinger ,C,23,Minnesota,4,"$1,059,500","$84,500","$296,125",2006
+199  ,IND , Charlie Johnson ,G,21,Oklahoma State,4,"$1,692,300","$82,300","$295,575",2006
+200  ,CHI , Tyler Reed ,G,23,Penn State,4,"$1,691,470","$81,470","$275,000",2006
+201  ,PIT , Marvin Philip ,C,24,California,3,"$1,139,150","$59,150","$294,716",2006
+202 (C) ,TB , T.J. Williams ,TE,23,North Carolina State,4,"$1,688,000","$78,000","$199,500",2006
+203 (C) ,BAL , Sam Koch ,P,23,Nebraska,3,"$1,344,900","$54,490","$293,163",2006
+204 (C) ,PHI , LaJuan Ramsey ,DT,22,Southern California,4,"$1,683,000","$73,000","$293,250",2006
+205 (C) ,NE , Dan Stevenson ,G,23,Notre Dame,4,"$1,682,000","$72,000","$275,000",2006
+206 (C) ,NE , Le Kevin Smith ,DT,23,Nebraska,4,"$1,681,000","$71,000","$292,750",2006
+207 (C) ,IND , Antoine Bethea ,SS,21,Howard,4,"$1,679,000","$69,000","$292,250",2006
+208 (C) ,BAL , Derrick Martin ,CB,20,Wyoming,3,"$1,129,950","$49,950","$291,650",2006
+209  ,CIN , Ethan Kilmer ,S,23,Penn State,4,"$1,677,000","$62,000","$290,500",2006
+210  ,NO , Zach Strief ,RT,22,Northwestern,3,"$1,125,390","$45,930","$290,310",2006
+211  ,DAL , Pat McQuistan ,RT,22,Weber State,4,"$1,674,000","$59,000","$289,750",2006
+212  ,MIA , Fred Evans ,DT,22,Texas State,4,"$1,668,500","$58,500","$289,625",2006
+213  ,JAC , James Wyche ,DE,24,Syracuse,4,"$1,668,000","$58,000","$275,000",2006
+214  ,OAK , Chris Morris ,C,,Michigan State,3,"$1,122,555","$42,555","$275,000",2006
+215  ,TEN , Cortland Finnegan ,CB,22,Samford,3,"$1,228,750","$42,875","$289,291",2006
+216  ,BUF , Terrance Pennington ,T,22,New Mexico,4,"$1,666,900","$56,900","$289,225",2006
+217  ,DET , Fred Matua ,G,22,Southern California,3,"$1,121,600","$41,600","$275,000",2006
+218  ,ARI , Todd Watkins ,WR,22,Brigham Young,3,-,-,-,2006
+219  ,BAL , Ryan LaCasse ,LB,23,Syracuse,3,"$1,212,200","$41,220","$275,000",2006
+220  ,NYJ , Titus Adams ,DT,23,Nebraska,4,"$1,665,000","$55,000","$275,000",2006
+221  ,STL , Tim McGarigle ,LB,22,Northwestern,3,"$1,121,000","$41,000","$275,000",2006
+222  ,CLE , Justin Hamilton ,RB,23,Virginia Tech,4,"$1,669,000","$54,000","$288,500",2006
+223  ,ATL , D.J. Shockley ,QB,23,Georgia,4,"$1,663,750","$53,750","$288,437",2006
+224  ,DAL , E.J. Whitley ,C,24,Texas Tech,-,-,-,-,2006
+225  ,SD , Chase Page ,DT,22,North Carolina,4,"$1,661,250","$51,250","$275,000",2006
+226  ,MIA , Rodrique Wright ,DE,21,Texas,4,"$1,660,350","$50,350","$192,587",2006
+227  ,SD , Jimmy Martin ,C,23,Virginia Tech,4,"$1,658,750","$48,750","$275,000",2006
+228  ,KC , Jarrad Page ,S,21,California-Los Angeles,3,"$1,115,875","$35,875","$286,985",2006
+229  ,NE , Willie Andrews ,CB,22,Baylor,4,"$1,656,500","$46,500","$286,625",2006
+230  ,WAS , Kili Lefotu ,G,22,Arizona,4,"$1,644,590","$34,590","$275,000",2006
+231  ,CIN , Bennie Brazell ,WR,23,Louisiana Tech,4,"$1,655,500","$45,500","$191,375",2006
+232  ,NYG , Gerrick McPhearson ,CB,22,Maryland,4,"$1,665,400","$45,400","$275,000",2006
+233  ,MIA , Devin Aromashodu ,WR,22,Auburn,4,"$1,660,025","$45,025","$275,000",2006
+234  ,CAR , Will Montgomery ,C,23,Virginia Tech,3,"$1,113,000","$33,500","$286,166",2006
+235  ,TB , Justin Phinisee ,CB,23,Oregon,4,"$1,654,460","$44,460","$275,000",2006
+236  ,JAC , Dee Webb ,CB,21,Florida,4,"$1,654,250","$44,250","$286,062",2006
+237  ,CAR , Stanley McClover ,DE,21,Auburn,3,"$1,110,650","$30,650","$285,216",2006
+238  ,IND , T.J. Rushing ,CB,22,Stanford,3,"$1,122,750","$42,750","$289,250",2006
+239  ,SEA , Ryan Plackemeier ,P,22,Wake Forest,4,"$1,652,000","$42,000","$285,500",2006
+240  ,PIT , Cedric Humes ,RB,19,Virginia Tech,3,"$1,110,000","$30,000","$275,000",2006
+241 (C) ,TB , Charles Bennett ,LB,23,Clemson,4,"$1,649,350","$39,350","$275,000",2006
+242 (C) ,STL , Mark Setterstrom ,G,22,Minnesota,3,"$1,109,000","$29,000","$284,667",2006
+243 (C) ,STL , Tony Palmer ,G,23,Missouri,3,"$1,108,900","$28,900","$275,000",2006
+244 (C) ,TB , Tim Massaquoi ,TE,23,Michigan,4,"$1,648,200","$39,200","$275,000",2006
+245 (C) ,TEN , Spencer Toone ,LB,25,Utah,3,"$1,108,400","$28,400","$275,000",2006
+246 (C) ,TEN , Quinton Ganther ,RB,21,Utah,3,"$1,107,775","$27,775","$275,000",2006
+247 (C) ,DET , Anthony Cannon ,LB,21,Tulane,3,"$1,107,700","$27,700","$284,233",2006
+248 (C) ,BUF , Aaron Merz ,G,22,California,3,"$1,106,400","$26,400","$283,800",2006
+249 (C) ,SEA , Ben Obomanu ,WR,22,Auburn,4,"$1,646,000","$36,000","$284,000",2006
+250 (C) ,WAS , Kevin Simon ,LB,22,Tennessee,4,"$1,636,500","$26,500","$275,000",2006
+251  (S),HOU , David Anderson ,WR,22,Colorado State,3,"$1,104,700","$24,700","$275,000",2006
+252  (S),NO , Marques Colston ,WR,22,Hofstra,3,"$1,104,600","$24,600","$283,200",2006
+253  (S),NYG , Dave Tollefson ,DE,23,Northwest Missouri State,4,"$1,645,000","$35,000","$275,000",2006
+254  (S),SF , Vickiel Vaughn ,CB,22,Arkansas,4,"$1,643,534","$33,534","$283,383",2006
+255  (S),OAK , Kevin McMahan ,WR,23,Maine,3,"$1,104,900","$24,900","$275,000",2006
+

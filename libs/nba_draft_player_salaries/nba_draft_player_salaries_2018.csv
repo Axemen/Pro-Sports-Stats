@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,PHX ,Deandre Ayton,C,"7' 1""",250,The Bahamas,Arizona,2,"$17,728,080","$8,165,160",2018
+2,SAC ,Marvin Bagley III,PF,"6' 11""",234,United States,Duke,2,"$15,861,720","$7,305,600",2018
+3,ATL *Traded to DAL,Luka Doncic,PG,"6' 7""",218,Slovenia,,2,"$14,244,000","$6,560,640",2018
+4,MEM ,Jaren Jackson Jr.,PF,"6' 11""",242,United States,Michigan State,2,"$12,842,520","$5,915,040",2018
+5,DAL *Traded to ATL,Trae Young,PG,"6' 2""",180,United States,Oklahoma,2,"$11,629,440","$5,356,440",2018
+6,ORL ,Mohamed Bamba,C,"7' 0""",221,United States,Texas,2,"$10,562,640","$4,865,040",2018
+7,CHI ,Wendell Carter Jr.,PF,"6' 10""",255,United States,Duke,2,"$9,642,600","$4,441,200",2018
+8,CLE  from BKN via BOS,Collin Sexton,PG,"6' 2""",190,United States,Alabama,2,"$8,833,560","$4,068,600",2018
+9,NYK ,Kevin Knox,SF,"6' 9""",215,United States,Kentucky,2,"$8,120,040","$3,739,920",2018
+10,PHI *Traded to PHX,Mikal Bridges,SF,"6' 7""",210,United States,Villanova,2,"$7,713,960","$3,552,960",2018
+11,CHA *Traded to LAC,Shai Gilgeous-Alexander,PG,"6' 6""",181,Canada,Kentucky,2,"$7,328,280","$3,375,360",2018
+12,LAC *Traded to CHA,Miles Bridges,SF,"6' 7""",225,United States,Michigan State,2,"$6,962,040","$3,206,640",2018
+13,LAC ,Jerome Robinson,SG,"6' 5""",190,United States,Boston College,2,"$6,613,920","$3,046,200",2018
+14,DEN ,Michael Porter Jr.,PF,"6' 10""",210,United States,Missouri,2,"$6,283,560","$2,894,160",2018
+15,WAS ,Troy Brown Jr.,SF,"6' 7""",215,United States,Oregon,2,"$5,968,560","$2,749,080",2018
+16,PHX  from MIA*Traded to PHI,Zhaire Smith,SG,"6' 4""",199,United States,Texas Tech,2,"$5,670,600","$2,611,800",2018
+17,MIL ,Donte DiVincenzo,SG,"6' 4""",203,United States,Villanova,2,"$5,386,800","$2,481,000",2018
+18,SAS ,Lonnie Walker IV,SG,"6' 5""",205,United States,Miami (FL),2,"$5,117,640","$2,357,160",2018
+19,ATL  from MIN,Kevin Huerter,SG,"6' 7""",190,United States,Maryland,2,"$4,887,240","$2,250,960",2018
+20,MIN  from OKC via UTH,Josh Okogie,SG,"6' 4""",212,United States,Georgia Tech,2,"$4,691,400","$2,160,720",2018
+21,UTH ,Grayson Allen,SG,"6' 5""",198,United States,Duke,2,"$4,503,720","$2,074,320",2018
+22,CHI  from NOP,Chandler Hutchison,SF,"6' 7""",197,United States,Boise State,2,"$4,323,840","$1,991,520",2018
+23,IND ,Aaron Holiday,PG,"6' 1""",185,United States,California-Los Angeles,2,"$4,151,160","$1,911,960",2018
+24,POR ,Anfernee Simons,SG,"6' 4""",185,United States,,2,"$3,985,080","$1,835,520",2018
+25,LAL  from CLE via POR via CLE,Moritz Wagner,PF,"6' 11""",245,Germany,Michigan,2,"$3,825,600","$1,762,080",2018
+26,PHI *Traded to LAC,Landry Shamet,PG,"6' 5""",188,United States,Wichita State,2,"$3,698,760","$1,703,640",2018
+27,BOS ,Robert Williams,C,"6' 10""",240,United States,Texas A&M,2,"$3,591,960","$1,654,440",2018
+28,GSW ,Jacob Evans,SG,"6' 6""",210,United States,Cincinnati,2,"$3,570,120","$1,644,240",2018
+29,BKN  from TOR,Dzanan Musa,SG,"6' 9""",208,Bosnia and Herzegovina,,2,"$3,543,840","$1,632,240",2018
+30,ATL  from HOU via LAC,Omari Spellman,PF,"6' 9""",245,United States,Villanova,2,"$3,518,280","$1,620,480",2018
+31,PHX ,Élie Okobo,PG,"6' 2""",180,France,,3,"$4,319,177","$1,238,464",2018
+32,MEM ,Jevon Carter,PG,"6' 2""",196,United States,West Virginia,2,"$2,255,316","$838,464",2018
+33,DAL ,Jalen Brunson,PG,"6' 3""",190,United States,Villanova,4,"$6,112,770","$1,230,000",2018
+34,ATL *Traded to CHA,Devonte' Graham,PG,"6' 2""",185,United States,Kansas,3,"$4,069,177","$988,464",2018
+35,ORL ,Melvin Frazier,SF,"6' 6""",200,United States,Tulane,2,"$2,466,852",-,2018
+36,NYK ,Mitchell Robinson,C,"7' 1""",240,United States,,4,"$4,709,013",-,2018
+37,SAC  from CHI*Traded to POR,Gary Trent Jr.,SG,"6' 6""",205,United States,Duke,3,"$3,919,177","$838,464",2018
+38,PHI  from BKN*Traded to DET,Khyri Thomas,SG,"6' 3""",210,United States,Creighton,3,"$3,919,177",-,2018
+39,PHI  from NYK*Traded to LAL,Isaac Bonga,PG,"6' 8""",180,Germany,,3,"$4,080,713","$1,000,000",2018
+40,BKN  from LAL via ORL,Rodions Kurucs,SF,"6' 9""",210,Latvia,,3,"$5,097,708",-,2018
+41,ORL  from CHA via MEM via PHX*Traded to DEN,Jarred Vanderbilt,PF,"6' 9""",214,United States,Kentucky,3,"$3,919,177","$838,464",2018
+42,DET ,Bruce Brown,SG,"6' 5""",202,United States,Miami (FL),3,"$3,919,177","$838,464",2018
+43,DEN  from LAC via NYK,Justin Jackson,SF,"6' 7""",225,Canada,Maryland,,-,-,2018
+44,WAS ,Issuf Sanon,PG,"6' 4""",185,Ukraine,,,-,-,2018
+45,BKN  from MIL*Traded to OKC,Hamidou Diallo,SG,"6' 5""",198,United States,Kentucky,2,"$2,255,316","$838,464",2018
+46,HOU  from MIA via MEM*Traded to PHX,De'Anthony Melton,PG,"6' 4""",200,United States,Southern California,2,"$2,365,852","$949,000",2018
+47,LAL  from DEN via UTH via CHI*Traded to DET,Sviatoslav Mykhailiuk,SG,"6' 8""",205,Ukraine,Kansas,3,"$4,568,407","$1,487,694",2018
+48,MIN ,Keita Bates-Diop,SF,"6' 9""",229,United States,Ohio State,2,"$2,255,316","$838,464",2018
+49,SAS ,Chimezie Metu,PF,"6' 10""",225,United States,Southern California,,-,-,2018
+50,IND ,Alize Johnson,PF,"6' 9""",212,United States,Missouri State,2,"$2,255,316",-,2018
+51,NOP  from CHI via NOP via MIA,Tony Carr,PG,"6' 5""",200,United States,Penn State,,-,-,2018
+52,UTH *Traded to HOU,Vincent Edwards,SF,"6' 8""",225,United States,Purdue,1,"$838,464","$838,464",2018
+53,OKC ,Devon Hall,SG,"6' 5""",211,United States,Virginia,,-,-,2018
+54,DAL  from POR via DEN,Shake Milton,PG,"6' 6""",207,United States,Southern Methodist,,-,-,2018
+55,CHA  from CLE via BKN via PHI,Arnoldas Kulboka,SF,"6' 9""",220,Lithuania,,,-,-,2018
+56,PHI *Traded to PHX,Ray Spalding,PF,"6' 10""",215,United States,Louisville,4,"$5,721,234","$838,464",2018
+57,OKC  from BOS,Kevin Hervey,SF,"6' 9""",230,United States,Texas-Arlington,,-,-,2018
+58,DEN  from GSW,Thomas Welsh,C,"7' 0""",255,United States,California-Los Angeles,,-,-,2018
+59,PHX  from TOR,George King,SF,"6' 6""",225,United States,Colorado,,-,-,2018
+60,PHI  from HOU,Kostas Antetokounmpo,PF,"6' 10""",195,Greece,,,-,-,2018

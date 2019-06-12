@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,NOH *Traded to NOP,Anthony Davis,PF,"6' 10""",253,United States,Kentucky,2,"$10,520,040","$5,144,280",2012
+2,CHA *Traded to CHA,Michael Kidd-Gilchrist,SF,"6' 7""",232,United States,Kentucky,2,"$9,412,560","$4,602,720",2012
+3,WAS ,Bradley Beal,SG,"6' 5""",207,United States,Florida,2,"$8,452,560","$4,133,280",2012
+4,CLE *Traded to MIA,Dion Waiters,SG,"6' 4""",215,United States,Syracuse,2,"$7,620,840","$3,726,600",2012
+5,SAC *Traded to ATL,Thomas Robinson,PF,"6' 10""",237,United States,Kansas,2,"$6,901,080","$3,374,640",2012
+6,POR ,Damian Lillard,PG,"6' 3""",195,United States,Weber State,2,"$6,267,960","$3,065,040",2012
+7,GSW *Traded to DAL,Harrison Barnes,SF,"6' 8""",225,United States,North Carolina,2,"$5,721,960","$2,798,040",2012
+8,TOR *Traded to ORL,Terrence Ross,SG,"6' 7""",195,United States,Washington,2,"$5,241,960","$2,563,320",2012
+9,DET ,Andre Drummond,C,"6' 11""",279,United States,Connecticut,2,"$4,818,720","$2,356,320",2012
+10,NOH *Traded to WAS,Austin Rivers,SG,"6' 4""",200,United States,Duke,2,"$4,577,400","$2,238,360",2012
+11,POR ,Meyers Leonard,C,"7' 1""",255,United States,Illinois,2,"$4,348,680","$2,126,520",2012
+12,HOU *Traded to CHA,Jeremy Lamb,SG,"6' 5""",185,United States,Connecticut,2,"$4,131,360","$2,020,200",2012
+13,PHX *Traded to MIL,Kendall Marshall,PG,"6' 4""",200,United States,North Carolina,2,"$3,924,720","$1,919,160",2012
+14,MIL *Traded to CLE,John Henson,PF,"6' 11""",219,United States,North Carolina,2,"$3,728,640","$1,823,280",2012
+15,PHI *Traded to POR,Maurice Harkless,SF,"6' 9""",220,United States,St. John's,2,"$3,541,800","$1,731,960",2012
+16,HOU *Traded to SAC,Royce White,PF,"6' 8""",260,United States,Iowa State,2,"$3,364,920","$1,645,440",2012
+17,DAL *Traded to MIL,Tyler Zeller,C,"7' 0""",259,United States,North Carolina,2,"$3,196,560","$1,563,120",2012
+18,HOU *Traded to MIL,Terrence Jones,PF,"6' 9""",255,United States,Kentucky,2,"$3,036,840","$1,485,000",2012
+19,ORL *Traded to POR,Andrew Nicholson,PF,"6' 9""",250,Canada,St. Bonaventure,2,"$2,900,160","$1,418,160",2012
+20,DEN *Traded to ORL,Evan Fournier,SG,"6' 7""",205,France,,2,"$2,784,120","$1,361,400",2012
+21,BOS *Traded to PHX,Jared Sullinger,PF,"6' 9""",260,United States,Ohio State,2,"$2,672,640","$1,306,920",2012
+22,BOS *Traded to DAL,Fab Melo,C,"7' 1""",258,Brazil,Syracuse,2,"$2,565,960","$1,254,720",2012
+23,ATL *Traded to NYK,John Jenkins,SG,"6' 4""",215,United States,Vanderbilt,2,"$2,463,360","$1,204,560",2012
+24,CLE *Traded to MIL,Jared Cunningham,SG,"6' 4""",195,United States,Oregon State,2,"$2,364,720","$1,156,320",2012
+25,MEM ,Tony Wroten Jr.,SG,"6' 6""",205,United States,Washington,2,"$2,270,160","$1,110,120",2012
+26,IND *Traded to ATL,Miles Plumlee,C,"6' 11""",249,United States,Duke,2,"$2,194,800","$1,073,280",2012
+27,MIA *Traded to NYK,Arnett Moultrie,PF,"6' 10""",238,United States,Mississippi State,2,"$2,131,560","$1,042,320",2012
+28,OKC *Traded to NOP,Perry Jones III,SF,"6' 11""",235,United States,Baylor,2,"$2,118,480","$1,035,960",2012
+29,CHI *Traded to MEM,Marquis Teague,PG,"6' 2""",180,United States,Kentucky,2,"$1,931,720","$857,000",2012
+30,GSW *Traded to POR,Festus Ezeli,C,"6' 11""",265,Nigeria,Vanderbilt,2,"$2,087,880","$1,020,960",2012
+31,CHA *Traded to CHA,Jeff Taylor,SG,"6' 7""",225,Sweden,Vanderbilt,3,"$2,279,115","$575,000",2012
+32,WAS ,Tomas Satoransky,SG,"6' 7""",210,Czech Republic,,,-,-,2012
+33,CLE *Traded to DAL,Bernard James,C,"6' 10""",240,United States,Florida State,2,"$1,262,476","$473,604",2012
+34,CLE *Traded to UTH,Jae Crowder,SF,"6' 6""",235,United States,Marquette,2,"$1,389,363","$600,491",2012
+35,GSW ,Draymond Green,PF,"6' 7""",230,United States,Michigan State,3,"$2,640,743","$850,000",2012
+36,SAC *Traded to MIL,Orlando Johnson,SG,"6' 5""",220,United States,California-Santa Barbara,3,"$2,254,115","$550,000",2012
+37,TOR *Traded to BKN,Quincy Acy,PF,"6' 7""",240,United States,Baylor,3,"$2,369,115","$665,000",2012
+38,DEN *Traded to BKN,Quincy Miller,SF,"6' 10""",210,United States,Baylor,3,"$2,177,719","$473,604",2012
+39,DET *Traded to MIL,Khris Middleton,SF,"6' 8""",222,United States,Texas A&M,3,"$2,177,719","$473,604",2012
+40,POR *Traded to DEN,Will Barton,SG,"6' 6""",190,United States,Memphis,3,"$2,254,115","$550,000",2012
+41,POR *Traded to NOP,Tyshawn Taylor,PG,"6' 3""",185,United States,Kansas,2,"$1,262,476","$473,604",2012
+42,MIL *Traded to DAL,Doron Lamb,SG,"6' 4""",210,United States,Kentucky,3,"$2,354,115","$650,000",2012
+43,ATL *Traded to LAC,Mike Scott,PF,"6' 8""",237,United States,Virginia,2,"$1,262,476","$473,604",2012
+44,DET *Traded to CHI,Kim English,SG,"6' 6""",200,United States,Missouri,2,"$1,262,476","$473,604",2012
+45,PHI ,Justin Hamilton,C,"7' 0""",255,United States,Louisiana Tech,,-,-,2012
+46,NOH *Traded to NOP,Darius Miller,SF,"6' 8""",225,,Kentucky,2,"$1,262,476","$473,604",2012
+47,UTH *Traded to ORL,Kevin Murphy,SG,"6' 6""",185,United States,Tennessee Tech,2,"$1,262,476","$473,604",2012
+48,NYK *Traded to DEN,Kostas Papanikolaou,SF,"6' 8""",235,Greece,,2,"$9,388,730",-,2012
+49,ORL *Traded to IND,Kyle O'Quinn,C,"6' 10""",250,United States,Norfolk State,3,"$2,492,987","$788,872",2012
+50,DEN ,Izzet Turkyilmaz,C,"7' 0""",210,Turkey,,,-,-,2012
+51,BOS *Traded to ORL,Kris Joseph,SF,"6' 7""",210,Canada,Syracuse,2,"$1,262,476","$473,604",2012
+52,GSW ,Ognjen Kuzmic,C,"7' 0""",251,Serbia,,2,"$1,306,662",-,2012
+53,LAC ,Furkan Aldemir,PF,"6' 9""",240,Turkey,,,-,-,2012
+54,PHI *Traded to CHI,Tornike Shengelia,SF,"6' 9""",240,Georgia,,2,"$1,262,476",-,2012
+55,DAL *Traded to MIN,Darius Johnson-Odom,SG,"6' 2""",200,United States,Marquette,1,"$473,604","$473,604",2012
+56,TOR ,Tomislav Zubcic,PF,"6' 11""",242,Croatia,,,-,-,2012
+57,BKN ,Ilkan Karaman,SF,"6' 9""",254,Turkey,,,-,-,2012
+58,MIN *Traded to DEN,Robbie Hummel,SF,"6' 8""",216,United States,Purdue,1,"$490,180",-,2012
+59,SAS ,Marcus Denmon,PG,"6' 3""",185,United States,Missouri,,-,-,2012
+60,LAL *Traded to NOP,Robert Sacre,C,"7' 0""",270,Canada,Gonzaga,1,"$473,604","$473,604",2012

@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,CLE *Traded to BOS,Kyrie Irving,PG,"6' 3""",193,Australia,Duke,2,"$11,007,960","$5,144,280",2011
+2,MIN *Traded to LAL,Derrick Williams,PF,"6' 8""",240,United States,Arizona,2,"$9,412,560","$4,602,720",2011
+3,UTH *Traded to NYK,Enes Kanter,C,"6' 11""",245,Switzerland,Kentucky,2,"$8,844,720","$4,133,280",2011
+4,CLE ,Tristan Thompson,C,"6' 10""",238,Canada,Texas,2,"$7,382,638","$3,726,600",2011
+5,TOR ,Jonas Valanciunas,C,"7' 0""",265,Lithuania,,2,"$6,901,080",-,2011
+6,WAS *Traded to DEN,Jan Vesely,SF,,,,,2,"$6,267,960","$3,065,040",2011
+7,SAC *Traded to CHA,Bismack Biyombo,C,"6' 9""",255,"Congo, Democratic Republic of the",,2,"$5,721,960","$2,798,040",2011
+8,DET *Traded to HOU,Brandon Knight,PG,"6' 3""",195,United States,Kentucky,2,"$5,241,960","$2,563,320",2011
+9,CHA *Traded to CHA,Kemba Walker,PG,"6' 1""",184,United States,Connecticut,2,"$4,818,720","$2,356,320",2011
+10,MIL *Traded to NYK,Jimmer Fredette,PG,"6' 2""",195,United States,Brigham Young,2,"$4,577,400","$2,238,360",2011
+11,GSW ,Klay Thompson,SG,"6' 7""",215,United States,Washington State,2,"$4,348,680","$2,126,520",2011
+12,UTH *Traded to CLE,Alec Burks,SG,"6' 6""",214,United States,Colorado,2,"$4,322,880","$2,020,200",2011
+13,PHX *Traded to WAS,Markieff Morris,PF,"6' 10""",245,United States,Kansas,2,"$3,924,720","$1,919,160",2011
+14,HOU *Traded to BOS,Marcus Morris,PF,"6' 9""",235,United States,Kansas,2,"$3,728,640","$1,823,280",2011
+15,IND *Traded to TOR,Kawhi Leonard,SF,"6' 7""",230,United States,San Diego State,2,"$3,541,800","$1,731,960",2011
+16,PHI *Traded to ORL,Nikola Vucevic,C,"7' 0""",260,Switzerland,Southern California,2,"$3,364,920","$1,645,440",2011
+17,NYK *Traded to SAC,Iman Shumpert,SG,"6' 5""",215,United States,Georgia Tech,2,"$3,344,880","$1,563,120",2011
+18,WAS *Traded to IND,Chris Singleton,SF,,,,Florida State,2,"$3,036,840","$1,485,000",2011
+19,CHA *Traded to LAC,Tobias Harris,SF,"6' 9""",235,United States,Tennessee,2,"$3,034,560","$1,418,160",2011
+20,MIN *Traded to NOP,Donatas Motiejunas,PF,"7' 0""",222,Lithuania,,2,"$2,784,120",-,2011
+21,POR ,Nolan Smith,PG,,,,Duke,2,"$2,672,640","$1,306,920",2011
+22,DEN *Traded to BKN,Kenneth Faried,PF,"6' 8""",220,United States,Morehead State,2,"$2,565,960","$1,254,720",2011
+23,HOU *Traded to NOP,Nikola Mirotic,PF,"6' 10""",250,Montenegro,,3,"$16,631,175",-,2011
+24,OKC *Traded to DET,Reggie Jackson,PG,"6' 3""",208,Italy,Boston College,2,"$2,364,720","$1,156,320",2011
+25,BOS *Traded to MEM,MarShon Brooks,SG,"6' 5""",200,,Providence,2,"$2,270,160","$1,063,865",2011
+26,DAL *Traded to NOP,Jordan Hamilton,SF,"6' 7""",220,United States,Texas,2,"$2,194,800","$1,073,280",2011
+27,NJN *Traded to HOU,JaJuan Johnson,PF,,,0,Purdue,2,"$2,131,560","$1,042,320",2011
+28,CHI *Traded to OKC,Norris Cole,PG,"6' 2""",175,United States,Cleveland State,2,"$2,118,480","$1,035,960",2011
+29,SAS *Traded to IND,Cory Joseph,PG,"6' 3""",190,Canada,Texas,2,"$2,200,560","$942,700",2011
+30,CHI *Traded to PHI,Jimmy Butler,SG,"6' 8""",232,United States,Marquette,2,"$2,184,480","$1,020,960",2011
+31,MIA *Traded to IND,Bojan Bogdanovic,SF,"6' 8""",225,Croatia,,3,"$10,276,530",-,2011
+32,CLE *Traded to PHI,Justin Harper,SF,"6' 9""",225,United States,Richmond,2,"$1,235,799","$473,604",2011
+33,DET *Traded to OKC,Kyle Singler,SF,"6' 8""",228,United States,Duke,3,"$3,135,000",-,2011
+34,WAS *Traded to MEM,Shelvin Mack,PG,"6' 3""",203,United States,Butler,2,"$1,235,799","$473,604",2011
+35,SAC *Traded to HOU,Tyler Honeycutt,SF,,,,California-Los Angeles,3,"$2,469,168","$775,000",2011
+36,NJN *Traded to ATL,Jordan Williams,PF,,,0,Maryland,2,"$1,235,799","$473,604",2011
+37,LAC ,Trey Thompkins,PF,,,,Georgia,3,"$2,120,092","$473,604",2011
+38,HOU *Traded to MEM,Chandler Parsons,SF,"6' 10""",230,United States,Florida,4,"$3,700,000","$850,000",2011
+39,CHA *Traded to HOU,Jeremy Tyler,PF,"6' 10""",250,United States,,3,"$2,296,488","$650,000",2011
+40,MIL *Traded to DET,Jon Leuer,PF,"6' 10""",228,United States,Wisconsin,2,"$1,235,799","$473,604",2011
+41,LAL *Traded to NOP,Darius Morris,PG,"6' 4""",195,United States,Michigan,1,"$473,604","$473,604",2011
+42,IND *Traded to SAS,Davis Bertans,SF,"6' 10""",225,Latvia,,2,"$1,448,720",-,2011
+43,CHI *Traded to PHI,Malcolm Lee,SG,,,United States,California-Los Angeles,3,"$2,146,488","$500,000",2011
+44,GSW *Traded to PHI,Charles Jenkins,PG,,,,Hofstra,2,"$1,235,799","$473,604",2011
+45,NOH *Traded to WAS,Josh Harrellson,PF,"6' 10""",275,,Kentucky,2,"$1,235,799","$381,193",2011
+46,LAL *Traded to HOU,Andrew Goudelock,PG,"6' 3""",200,,Charleston,2,"$1,235,799","$473,604",2011
+47,LAC *Traded to UTH,Travis Leslie,SG,,,,Georgia,3,"$2,120,092","$473,604",2011
+48,ATL ,Keith Benson,C,"6' 11""",240,United States,Oakland,-,-,-,2011
+49,MEM *Traded to CLE,Josh Selby,PG,,,,Kansas,2,"$1,312,195","$550,000",2011
+50,PHI *Traded to WAS,LaVoy Allen,PF,"6' 9""",260,United States,Temple,1,"$473,604","$473,604",2011
+51,POR ,Jon Diebler,SG,,,0,Ohio State,,-,-,2011
+52,DET *Traded to NOP,Vernon Macklin,C,,,,Florida,1,"$473,604","$381,193",2011
+53,ORL *Traded to MIA,DeAndre Liggins,SG,"6' 6""",209,,Kentucky,1,"$473,604","$473,604",2011
+54,CLE ,Milan Macvan,SF,,,0,,,-,-,2011
+55,BOS *Traded to NOP,E'Twaun Moore,SG,"6' 4""",191,United States,Purdue,2,"$1,235,799","$381,193",2011
+56,LAL ,Chukwudiebere Maduabum,PF,,,,,,-,-,2011
+57,DAL ,Tanguy Ngombo,SG,,,0,,,-,-,2011
+58,LAL ,Ater Majok,PF,,,,,,-,-,2011
+59,SAS ,Adam Hanga,SG,,,0,,,-,-,2011
+60,SAC *Traded to DEN,Isaiah Thomas,PG,"5' 9""",185,United States,Washington,3,"$2,120,092","$473,604",2011

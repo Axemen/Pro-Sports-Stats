@@ -1,0 +1,61 @@
+pick,team,player,pos,height,weight,country,college,years,dollars,year cap hit,year
+1,WAS ,John Wall,PG,"6' 4""",210,United States,Kentucky,2,"$10,670,000","$5,144,280",2010
+2,PHI *Traded to POR,Evan Turner,SF,"6' 7""",220,United States,Ohio State,2,"$9,550,000","$4,602,720",2010
+3,NJN *Traded to UTH,Derrick Favors,PF,"6' 10""",265,United States,Georgia Tech,2,"$8,576,640","$4,133,280",2010
+4,MIN *Traded to NOP,Wesley Johnson,SF,"6' 7""",215,United States,Syracuse,2,"$7,732,680","$3,726,600",2010
+5,SAC *Traded to GSW,DeMarcus Cousins,C,"6' 11""",270,United States,Kentucky,2,"$7,000,000","$3,374,640",2010
+6,GSW *Traded to UTH,Ekpe Udoh,C,"6' 10""",245,United States,Baylor,2,"$6,360,000","$3,065,040",2010
+7,DET *Traded to TOR,Greg Monroe,C,"6' 11""",265,United States,Georgetown,2,"$5,806,000","$2,798,040",2010
+8,LAC *Traded to POR,Al-Farouq Aminu,PF,"6' 9""",220,United States,Wake Forest,2,"$5,318,880","$2,563,320",2010
+9,UTH *Traded to BOS,Gordon Hayward,SF,"6' 8""",225,United States,Butler,2,"$4,889,280","$2,356,320",2010
+10,IND *Traded to OKC,Paul George,SF,"6' 9""",220,United States,Fresno State,2,"$4,644,900","$2,238,660",2010
+11,NOH *Traded to ATL,Cole Aldrich,C,"6' 11""",253,United States,Kansas,2,"$4,412,520","$2,126,520",2010
+12,MEM *Traded to MIL,Xavier Henry,SG,,,United States,Kansas,2,"$4,191,840","$2,020,200",2010
+13,TOR *Traded to BKN,Ed Davis,PF,"6' 10""",225,United States,North Carolina,2,"$3,980,000","$1,919,160",2010
+14,HOU *Traded to OKC,Patrick Patterson,PF,"6' 9""",235,United States,Kentucky,2,"$3,783,240","$1,823,280",2010
+15,MIL *Traded to CLE,Larry Sanders,C,,,,Virginia Commonwealth,2,"$3,593,250","$1,731,960",2010
+16,MIN *Traded to MIA,Luke Babbitt,SF,"6' 9""",225,United States,Nevada,2,"$3,410,000","$1,645,440",2010
+17,CHI *Traded to IND,Kevin Seraphin,PF,"6' 10""",278,France,,2,"$3,240,000","$1,563,120",2010
+18,OKC *Traded to MIL,Eric Bledsoe,PG,"6' 1""",205,United States,Kentucky,2,"$3,081,360","$1,485,000",2010
+19,BOS *Traded to LAC,Avery Bradley,SG,"6' 2""",180,United States,Texas,2,"$2,942,640","$1,418,160",2010
+20,SAS *Traded to SAC,James Anderson,SG,"6' 6""",213,,Oklahoma State,2,"$2,824,920","$1,361,400",2010
+21,OKC *Traded to PHI,Craig Brackins,PF,,,0,Iowa State,2,"$2,711,880","$1,306,920",2010
+22,POR *Traded to GSW,Elliot Williams,SG,"6' 5""",183,,Memphis,2,"$2,603,520","$1,254,720",2010
+23,MIN *Traded to IND,Trevor Booker,PF,"6' 8""",228,United States,Clemson,2,"$2,535,480","$1,240,560",2010
+24,ATL *Traded to WAS,Damion James,SG,,,,Texas,2,"$2,400,000","$1,156,320",2010
+25,MEM *Traded to DAL,Dominique Jones,SG,,,0,South Florida,2,"$2,303,400","$1,110,120",2010
+26,OKC *Traded to SAS,Quincy Pondexter,SG,"6' 7""",225,United States,Washington,2,"$2,227,080","$1,073,280",2010
+27,NJN *Traded to NOP,Jordan Crawford,SG,"6' 5""",195,,Xavier,2,"$2,160,000","$1,042,320",2010
+28,MEM *Traded to BKN,Greivis Vasquez,PG,"6' 6""",217,Venezuela,Maryland,2,"$2,149,560","$1,035,960",2010
+29,ORL *Traded to WAS,Daniel Orton,C,,,United States,Kentucky,2,"$2,125,920","$1,028,400",2010
+30,WAS *Traded to NOP,Lazar Hayward,PF,,,,Marquette,2,"$2,118,480","$1,020,960",2010
+31,NJN *Traded to PHI,Tibor Pleiss,C,"7' 3""",256,Germany,,3,"$9,000,000",-,2010
+32,MIA *Traded to ATL,Dexter Pittman,C,,,United States,Texas,3,"$2,090,188","$473,604",2010
+33,SAC *Traded to MIA,Hassan Whiteside,C,"7' 0""",265,United States,Marshall,2,"$1,519,309","$730,437",2010
+34,POR *Traded to ORL,Armon Johnson,PG,,,0,Nevada,2,"$1,262,476","$473,604",2010
+35,WAS ,Nemanja Bjelica,PF,"6' 10""",234,,,,-,-,2010
+36,DET *Traded to PHX,Terrico White,SG,"6' 5""",215,,Ole Miss,2,"$1,300,000",-,2010
+37,MIL ,Darington Hobson,SG,,,,New Mexico,1,"$473,604","$473,604",2010
+38,NYK *Traded to TOR,Andy Rautins,SG,,,,Syracuse,2,"$1,388,872","$600,000",2010
+39,NYK *Traded to TOR,Landry Fields,SF,,,United States,Stanford,2,"$1,235,799","$473,604",2010
+40,IND *Traded to LAL,Lance Stephenson,SG,"6' 6""",230,United States,Cincinnati,4,"$3,350,000","$750,000",2010
+41,MIA *Traded to PHI,Jarvis Varnado,PF,,,,Mississippi State,1,"$473,604",-,2010
+42,MIA *Traded to SAS,Da'Sean Butler,SF,,,0,West Virginia,2,"$1,300,000","$473,604",2010
+43,LAL *Traded to DAL,Devin Ebanks,SF,,,,West Virginia,2,"$1,235,799","$473,604",2010
+44,MIL *Traded to NOP,Jerome Jordan,C,,,Jamaica,Tulsa,2,"$1,235,799",-,2010
+45,MIN ,Paulie Prestes,C,,,,,,-,-,2010
+46,PHX *Traded to PHI,Gani Lawal,SF,,,0,Georgia Tech,2,"$1,262,276",-,2010
+47,MIL ,Tiny Gallon,PF,,,,,,-,-,2010
+48,MIA ,Latavious Williams,SF,,,,,,-,-,2010
+49,SAS ,Ryan Richards,PF,,,,,,-,-,2010
+50,DAL *Traded to PHI,Solomon Alabi,C,,,,Florida State,2,"$1,600,000","$770,000",2010
+51,OKC *Traded to ATL,Magnum Rolle,C,,,0,Louisiana Tech,2,"$1,272,195","$510,000",2010
+52,BOS *Traded to CLE,Luke Harangody,PF,,,0,Notre Dame,2,"$1,220,000","$473,604",2010
+53,ATL ,Pape Sy,SF,,,0,,2,"$1,262,476","$473,604",2010
+54,LAC ,Willie Warren,PG,,,0,Oklahoma,2,"$1,280,000","$500,000",2010
+55,UTH *Traded to ATL,Jeremy Evans,SF,"6' 9""",200,United States,Western Kentucky,2,"$1,235,799","$473,604",2010
+56,MIN *Traded to BKN,Hamady N'Diaye,C,,,,Rutgers,1,"$473,604","$473,604",2010
+57,IND ,Ryan Reid,SF,,,0,Florida State,,-,-,2010
+58,LAL ,Derrick Caracter,SF,,,0,Texas-El Paso,2,"$1,260,000","$473,604",2010
+59,ORL ,Stanley Robinson,SF,,,0,Miami (FL),1,"$473,604","$473,604",2010
+60,PHX ,Dwayne Collins,SF,,,United States,Miami (FL),,-,-,2010
