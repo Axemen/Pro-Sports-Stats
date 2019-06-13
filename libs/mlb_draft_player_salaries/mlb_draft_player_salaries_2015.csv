@@ -1,0 +1,1222 @@
+Year,RD,Pick,Team,Pos,Player,School,Type,ST,Signed,Bonus
+2015,1,1,Diamondbacks,SS,Dansby Swanson,Vanderbilt,4YR,TN,Y,"$6,500,000"
+2015,1,2,Astros,SS,Alex Bregman,Louisiana State,4YR,LA,Y,"$5,900,000"
+2015,1,3,Rockies,SS,Brendan Rodgers,Lake Mary (Fla.) HS,HS,FL,Y,"$5,500,000"
+2015,1,4,Rangers,RHP,Dillon Tate,UC Santa Barbara,4YR,CA,Y,"$4,200,000"
+2015,1,5,Astros,OF,Kyle Tucker,"Plant HS, Tampa",HS,FL,Y,"$4,000,000"
+2015,1,6,Twins,LHP,Tyler Jay,Illinois,4YR,IL,Y,"$3,889,500"
+2015,1,7,Red Sox,OF,Andrew Benintendi,Arkansas,4YR,AR,Y,"$3,590,400"
+2015,1,8,White Sox,RHP,Carson Fulmer,Vanderbilt,4YR,TN,Y,"$3,470,600"
+2015,1,9,Cubs,OF,Ian Happ,Cincinnati,4YR,OH,Y,"$3,000,000"
+2015,1,10,Phillies,SS,Cornelius Randolph,Griffin (Ga.) HS,HS,GA,Y,"$3,231,300"
+2015,1,11,Reds,C,Tyler Stephenson,Kennesaw (Ga.) Mountain HS,HS,GA,Y,"$3,141,600"
+2015,1,12,Marlins,1B,Josh Naylor,"St. Joan of Arc Catholic SS, Mississauga, Ont.",HS,CN,Y,"$2,200,000"
+2015,1,13,Rays,OF,Garrett Whitley,Niskayuna (N.Y.) HS,HS,NY,Y,"$2,959,600"
+2015,1,14,Braves,LHP,Kolby Allard,San Clemente (Calif.) HS,HS,CA,Y,"$3,042,400"
+2015,1,15,Brewers,OF,Trent Grisham,"Richland HS, North Richland Hills, Texas",HS,TX,Y,"$2,700,000"
+2015,1,16,Yankees,RHP,James Kaprielian,UCLA,4YR,CA,Y,"$2,650,000"
+2015,1,17,Indians,LHP,Brady Aiken,"IMG Academy, Bradenton, Fla.",HS,FL,Y,"$2,513,280"
+2015,1,18,Giants,RHP,Phil Bickford,JC of Southern Nevada,JC,NV,Y,"$2,333,800"
+2015,1,19,Pirates,SS,Kevin Newman,Arizona,4YR,AZ,Y,"$2,175,000"
+2015,1,20,Athletics,SS,Richie Martin,Florida,4YR,FL,Y,"$1,950,000"
+2015,1,21,Royals,RHP,Ashe Russell,"Cathedral Catholic HS, Indianapolis",HS,IN,Y,"$2,190,200"
+2015,1,22,Tigers,RHP,Beau Burrows,Weatherford (Texas) HS,HS,TX,Y,"$2,154,200"
+2015,1,23,Cardinals,OF,Nick Plummer,"Brother Rice HS, Bloomfield Hills, Mich.",HS,MI,Y,"$2,124,400"
+2015,1,24,Dodgers,RHP,Walker Buehler,Vanderbilt,4YR,TN,Y,"$1,777,500"
+2015,1,25,Orioles,OF,DJ Stewart,Florida State,4YR,FL,Y,"$2,064,500"
+2015,1,26,Angels,C,Taylor Ward,Fresno State,4YR,CA,Y,"$1,670,000"
+2015,1,27,Rockies,RHP,Mike Nikorak,Stroudsburg (Pa.) HS,HS,PA,Y,"$2,300,000"
+2015,1,28,Braves,RHP,Mike Soroka,"Bishop Carroll HS, Calgary, Alberta",HS,CN,Y,"$1,974,700"
+2015,1,29,Blue Jays,RHP,Jon Harris,Missouri State,4YR,MO,Y,"$1,944,800"
+2015,1,30,Yankees,SS,Kyle Holder,San Diego,4YR,CA,Y,"$1,800,000"
+2015,1,31,Giants,1B,Chris Shaw,Boston College,4YR,MA,Y,"$1,400,000"
+2015,1,32,Pirates,3B,Ke'Bryan Hayes,"Concordia Luthern HS, Tomball, Texas",HS,TX,Y,"$1,855,000"
+2015,1,33,Royals,RHP,Nolan Watson,"Lawrence North HS, Indianapolis",HS,IN,Y,"$1,825,200"
+2015,1,34,Tigers,OF,Christin Stewart,Tennessee,4YR,TN,Y,"$1,795,100"
+2015,1,35,Dodgers,RHP,Kyle Funkhouser,Louisville,4YR,KY,N,
+2015,1,36,Orioles,SS,Ryan Mountcastle,"Hagerty HS, Oviedo, Fla.",HS,FL,Y,"$1,300,000"
+2015,1s,37,Astros,OF,Daz Cameron,"Eagle's Landing Christian Academy, McDonough, Ga.",HS,GA,Y,"$4,000,000"
+2015,1s,38,Rockies,3B,Tyler Nevin,Poway (Calif.) HS,HS,CA,Y,"$2,000,000"
+2015,1s,39,Cardinals,RHP,Jake Woodford,"Plant HS, Tampa",HS,FL,Y,"$1,800,000"
+2015,1s,40,Brewers,LHP,Nathan Kirby,Virginia,4YR,VA,Y,"$1,250,000"
+2015,1s,41,Braves,3B,Austin Riley,"DeSoto Central HS, Southaven, Miss.",HS,MS,Y,"$1,600,000"
+2015,1s,42,Indians,RHP,Triston McKenzie,Royal Palm Beach (Fla.) HS,HS,FL,Y,"$2,302,500"
+2015,2,43,Diamondbacks,LHP,Alex Young,Texas Christian,4YR,TX,Y,"$1,431,400"
+2015,2,44,Rockies,RHP,Peter Lambert,San Dimas (Calif.) HS,HS,CA,Y,"$1,495,000"
+2015,2,45,Rangers,OF,Eric Jenkins,"West Columbus HS, Cerro Gordo, N.C.",HS,NC,Y,"$2,000,000"
+2015,2,46,Astros,RHP,Tom Eshelman,Cal State Fullerton,4YR,CA,Y,"$1,100,000"
+2015,2,47,Cubs,OF,Donnie Dewees,North Florida,4YR,FL,Y,"$1,700,000"
+2015,2,48,Phillies,2B,Scott Kingery,Arizona,4YR,AZ,Y,"$1,259,600"
+2015,2,49,Reds,RHP,Tony Santillan,"Seguin HS, Arlington, Texas",HS,TX,Y,"$1,350,000"
+2015,2,50,Marlins,LHP,Brett Lilek,Arizona State,4YR,AZ,Y,"$1,000,000"
+2015,2,51,Padres,RHP,Austin Smith,"Park Vista Community HS, Lake Worth, Fla.",HS,FL,Y,"$1,200,000"
+2015,2,52,Rays,C,Chris Betts,"Wilson HS, Long Beach",HS,CA,Y,"$1,482,500"
+2015,2,53,Mets,OF,Desmond Lindsay,"Out-of-Door-Academy, Sarasota, Fla.",HS,FL,Y,"$1,142,700"
+2015,2,54,Braves,C,Lucas Herbert,San Clemente (Calif.) HS,HS,CA,Y,"$1,125,200"
+2015,2,55,Brewers,RHP,Cody Ponce,Cal Poly Pomona,4YR,CA,Y,"$1,108,000"
+2015,2,56,Blue Jays,RHP,Brady Singer,Eustis (Fla.) HS,HS,FL,N,
+2015,2,57,Yankees,LHP,Jeff Degano,Indiana State,4YR,IN,Y,"$650,000"
+2015,2,58,Nationals,OF,Andrew Stevenson,Louisiana State,4YR,LA,Y,"$750,000"
+2015,2,59,Indians,LHP,Juan Hillman,"Olympia HS, Orlando",HS,FL,Y,"$825,000"
+2015,2,60,Mariners,RHP,Nick Neidert,"Peachtree Ridge HS, Suwanee, Ga.",HS,GA,Y,"$1,200,000"
+2015,2,61,Giants,LHP,Andrew Suarez,Miami,4YR,FL,Y,"$1,010,100"
+2015,2,62,Pirates,SS,Kevin Kramer,UCLA,4YR,CA,Y,"$850,000"
+2015,2,63,Athletics,SS,Mikey White,Alabama,4YR,AL,Y,"$900,000"
+2015,2,64,Royals,RHP,Josh Staumont,Azusa Pacific (Calif.),4YR,CA,Y,"$964,600"
+2015,2,65,Tigers,LHP,Tyler Alexander,Texas Christian,4YR,TX,Y,"$1,000,000"
+2015,2,66,Cardinals,3B,Bryce Denton,"Ravenwood HS, Brentwood, Tenn.",HS,TN,Y,"$1,200,000"
+2015,2,67,Dodgers,OF,Mitchell Hansen,Plano (Texas) Senior HS,HS,TX,Y,"$997,500"
+2015,2,68,Orioles,RHP,Jonathan Hughes,Flowery Branch (Ga.) HS,HS,GA,N,
+2015,2,69,Nationals,OF,Blake Perkins,"Verrado HS, Buckeye, Ariz.",HS,AZ,Y,"$800,000"
+2015,2,70,Angels,OF,Jahmai Jones,"Wesleyan HS, Norcross, Ga.",HS,GA,Y,"$1,100,000"
+2015,2s,71,Reds,RHP,Tanner Rainey,West Alabama,4YR,AL,Y,"$432,950"
+2015,2s,72,Mariners,RHP,Andrew Moore,Oregon State,4YR,OR,Y,"$800,000"
+2015,2s,73,Twins,RHP,Kyle Cody,Kentucky,4YR,KY,N,
+2015,2s,74,Dodgers,RHP,Josh Sborz,Vrginia,4YR,VA,Y,"$722,500"
+2015,2s,75,Braves,LHP,A.J. Minter,Texas A&M,4YR,TX,Y,"$814,300"
+2015,3,76,Diamondbacks,RHP,Taylor Clarke,College of Charleston,4YR,SC,Y,"$801,900"
+2015,3,77,Rockies,RHP,Javier Medina,"Sahuaro HS, Tucson",HS,AZ,Y,"$740,000"
+2015,3,78,Rangers,RHP,Michael Matuella,Duke,4YR,NC,Y,"$2,000,000"
+2015,3,79,Astros,RHP,Riley Ferrell,Texas Christian,4YR,TX,Y,"$1,000,000"
+2015,3,80,Twins,3B,Travis Blankenhorn,Pottsville (Pa.) HS,HS,PA,Y,"$650,000"
+2015,3,81,Red Sox,C,Austin Rei,Washington,4YR,WA,Y,"$742,400"
+2015,3,82,Cubs,LHP,Bryan Hudson,Alton (Ill.) HS,HS,IL,Y,"$1,100,000"
+2015,3,83,Phillies,SS,Lucas Williams,"Dana Hills HS, Dana Point, Calif.",HS,CA,Y,"$719,800"
+2015,3,84,Reds,SS,Blake Trahan,Louisiana-Lafayette,4YR,LA,Y,"$708,900"
+2015,3,85,Marlins,OF,Zeek White,"Greenfield HS, Wilson, N.C.",HS,NC,Y,"$698,100"
+2015,3,86,Padres,RHP,Jacob Nix,"IMG Academy, Bradenton, Fla.",HS,FL,Y,"$900,000"
+2015,3,87,Rays,2B,Brandon Lowe,Maryland,4YR,MD,Y,"$697,500"
+2015,3,88,Mets,LHP,Max Wotell,"Marvin Ridge HS, Waxhaw, N.C.",HS,NC,Y,"$775,000"
+2015,3,89,Braves,RHP,Anthony Guardado,"Nogales HS, La Puente, Calif.",HS,CA,Y,"$550,000"
+2015,3,90,Brewers,RHP,Nash Walters,Lindale (Texas) HS,HS,TX,Y,"$800,000"
+2015,3,91,Blue Jays,RHP,Justin Maese,"Yselta HS, El Paso",HS,TX,Y,"$300,000"
+2015,3,92,Yankees,RHP,Drew Finley,"Rancho Bernardo HS, San Diego",HS,CA,Y,"$950,000"
+2015,3,93,Indians,2B,Mark Mathias,Cal Poly,4YR,CA,Y,"$550,000"
+2015,3,94,Mariners,OF,Braden Bishop,Washington,4YR,WA,Y,"$607,700"
+2015,3,95,Giants,SS,Jalen Miller,"Riverwood International Charter HS, Sandy Springs, Ga.",HS,GA,Y,"$1,100,000"
+2015,3,96,Pirates,OF,Casey Hughston,Alabama,4YR,AL,Y,"$700,000"
+2015,3,97,Athletics,RHP,Dakota Chalmers,"North Forsyth HS, Cumming, Ga.",HS,GA,Y,"$1,200,000"
+2015,3,98,Royals,OF,Anderson Miller,Western Kentucky,4YR,KY,Y,"$581,300"
+2015,3,99,Tigers,RHP,Drew Smith,Dallas Baptist,4YR,TX,Y,"$575,800"
+2015,3,100,Cardinals,OF,Harrison Bader,Florida,4YR,FL,Y,"$400,000"
+2015,3,101,Dodgers,LHP,Phil Pfeifer,Vanderbilt,4YR,TN,Y,"$222,500"
+2015,3,102,Orioles,LHP,Garrett Cleavinger,Oregon,4YR,OR,Y,"$500,000"
+2015,3,103,Nationals,OF,Rhett Wiseman,Vanderbilt,4YR,TN,Y,"$554,100"
+2015,3,104,Angels,RHP,Grayson Long,Texas A&M,4YR,TX,Y,"$548,600"
+2015,3s,105,Cardinals,RHP,Jordan Hicks,"Cypress Creek HS, Houston",HS,TX,Y,"$600,000"
+2015,4,106,Diamondbacks,RHP,Breckin Williams,Missouri,4YR,MO,Y,"$538,200"
+2015,4,107,Rockies,RHP,David Hill,San Diego,4YR,CA,Y,"$550,000"
+2015,4,108,Rangers,RHP,Jake Lemoine,Houston,4YR,TX,Y,"$528,000"
+2015,4,109,Astros,C,Anthony Hermelyn,Oklahoma,4YR,OK,Y,"$250,000"
+2015,4,110,Twins,3B,Trey Cabbage,"Grainger HS, Rutledge, Tenn.",HS,TN,Y,"$760,000"
+2015,4,111,Red Sox,OF,Tate Matheny,Missouri State,4YR,MO,Y,"$512,700"
+2015,4,112,White Sox,LHP,Zack Erwin,Clemson,4YR,SC,Y,"$508,000"
+2015,4,113,Cubs,OF,D.J. Wilson,Canton (Ohio) South HS,HS,OH,Y,"$1,300,000"
+2015,4,114,Phillies,1B,Kyle Martin,South Carolina,4YR,SC,Y,"$200,000"
+2015,4,115,Reds,OF,Miles Gordon,"St. Ignatius of Loyola Catholic SS, Oakville, Ontario",HS,CN,Y,"$475,000"
+2015,4,116,Marlins,RHP,Cody Poteet,UCLA,4YR,CA,Y,"$488,700"
+2015,4,117,Padres,C,Austin Allen,Florida Tech,4YR,FL,Y,"$484,000"
+2015,4,118,Rays,RHP,Brandon Koch,Dallas Baptist,4YR,TX,Y,"$437,500"
+2015,4,119,Mets,3B,David Thompson,Miami,4YR,FL,Y,"$425,000"
+2015,4,120,Braves,RHP,Josh Graham,Oregon,4YR,OR,Y,"$500,000"
+2015,4,121,Brewers,OF,Demi Orimoloye,"St. Matthew HS, Orleans, Ontario",HS,CN,Y,"$450,000"
+2015,4,122,Blue Jays,3B,Carl Wise,College of Charleston,4YR,SC,Y,"$450,000"
+2015,4,123,Yankees,OF,Jeff Hendrix,Oregon State,4YR,OR,Y,"$456,800"
+2015,4,124,Indians,SS,Tyler Krieger,Clemson,4YR,SC,Y,"$400,000"
+2015,4,125,Mariners,RHP,Dylan Thompson,"Socastee HS, Myrtle Beach, S.C.",HS,SC,Y,"$585,000"
+2015,4,126,Giants,LHP,Mac Marshall,Chipola (Fla.) JC,JC,FL,Y,"$750,000"
+2015,4,127,Pirates,RHP,Jacob Taylor,Pearl River (Miss.) JC,JC,MS,Y,"$500,000"
+2015,4,128,Athletics,OF,Skye Bolt,North Carolina,4YR,NC,Y,"$650,000"
+2015,4,129,Royals,LHP,Garrett Davila,"South Point HS, Belmont, N.C.",HS,NC,Y,"$746,000"
+2015,4,130,Tigers,C,Kade Scivicque,Louisiana State,4YR,LA,Y,"$200,000"
+2015,4,131,Cardinals,3B,Paul DeJong,Illinois State,4YR,IL,Y,"$200,000"
+2015,4,132,Dodgers,2B,Willie Calhoun,Yavapai (Ariz.) JC,JC,AZ,Y,"$347,500"
+2015,4,133,Orioles,OF,Ryan McKenna,"St. Thomas Aquinas HS, Dover, N.H.",HS,NH,Y,"$414,700"
+2015,4,134,Nationals,RHP,Mariano Rivera,Iona,4YR,NY,Y,"$410,700"
+2015,4,135,Angels,OF,Brendon Sanger,Florida Atlantic,4YR,FL,Y,"$320,000"
+2015,5,136,Diamondbacks,RHP,Ryan Burr,Arizona State,4YR,AZ,Y,"$403,000"
+2015,5,137,Rockies,RHP,Parker French,Texas,4YR,TX,Y,"$100,000"
+2015,5,138,Rangers,OF,Chad Smith,"South Gwinnett HS, Snellville, Ga.",HS,GA,Y,"$395,000"
+2015,5,139,Astros,RHP,Trent Thornton,North Carolina,4YR,NC,Y,"$325,000"
+2015,5,140,Twins,LHP,Alex Robinson,Maryland,4YR,MD,Y,"$382,700"
+2015,5,141,Red Sox,SS,Jagger Rusconi,"West Ranch HS, Santa Clarita, Calif.",HS,CA,Y,"$384,000"
+2015,5,142,White Sox,RHP,Jordan Stephens,Rice,4YR,TX,Y,"$300,000"
+2015,5,143,Cubs,LHP,Ryan Kellogg,Arizona State,4YR,AZ,Y,"$376,700"
+2015,5,144,Phillies,LHP,Bailey Falter,Chino Hills (Calif.) HS,HS,CA,Y,"$420,000"
+2015,5,145,Reds,RHP,Ian Kahaloa,"Campbell HS, Ewa Beach, Hawaii",HS,HI,Y,"$300,000"
+2015,5,146,Marlins,LHP,Justin Jacome,UC Santa Barbara,4YR,CA,Y,"$365,900"
+2015,5,147,Padres,OF,Josh Magee,Franklinton (La.) HS,HS,LA,Y,"$275,000"
+2015,5,148,Rays,OF,Joe McCarthy,Virginia,4YR,VA,Y,"$356,400"
+2015,5,149,Mets,LHP,Thomas Szapucki,"Dwyer HS, West Palm Beach, Fla.",HS,FL,Y,"$375,000"
+2015,5,150,Braves,RHP,Ryan Clark,UNC Greensboro,4YR,NC,Y,"$352,100"
+2015,5,151,Brewers,SS,Blake Allemand,Texas A&M,4YR,TX,Y,"$40,000"
+2015,5,152,Blue Jays,RHP,Jose Espada,"Jose Collazo Colon HS, Juncos, P.R.",HS,PR,Y,"$330,000"
+2015,5,153,Yankees,RHP,Chance Adams,Dallas Baptist,4YR,TX,Y,"$330,000"
+2015,5,154,Indians,OF,Ka'ai Tom,Kentucky,4YR,KY,Y,"$250,000"
+2015,5,155,Mariners,SS,Drew Jackson,Stanford,4YR,CA,Y,"$335,400"
+2015,5,156,Giants,OF,Ronnie Jebavy,Middle Tennessee State,4YR,TN,Y,"$250,000"
+2015,5,157,Pirates,LHP,Brandon Waddell,Virginia,4YR,VA,Y,"$315,000"
+2015,5,158,Athletics,LHP,Kevin Duchene,Illinois,4YR,IL,Y,"$300,000"
+2015,5,159,Royals,OF,Roman Collins,Florida Atlantic,N/A,FL,Y,"$275,000"
+2015,5,160,Tigers,OF,Cam Gibson,Michigan State,4YR,MI,Y,"$319,700"
+2015,5,161,Cardinals,RHP,Ryan Helsley,Northeastern State (Okla.),4YR,OK,Y,"$225,000"
+2015,5,162,Dodgers,SS,Brendon Davis,Lakewood (Calif.) HS,HS,CA,Y,"$918,600"
+2015,5,163,Orioles,OF,Jason Heinrich,"River Ridge HS, New Port Richey, Fla.",HS,FL,Y,"$310,500"
+2015,5,164,Nationals,LHP,Taylor Hearn,Oklahoma Baptist,4YR,OK,Y,"$275,000"
+2015,5,165,Angels,OF,Jared Foster,Louisiana State,4YR,LA,Y,"$100,000"
+2015,6,166,Diamondbacks,RHP,Tyler Mark,Concordia (Calif.),4YR,CA,Y,"$301,700"
+2015,6,167,Rockies,LHP,Jack Wynkoop,South Carolina,4YR,SC,Y,"$298,900"
+2015,6,168,Rangers,RHP,Tyler Ferguson,Vanderbilt,4YR,TN,Y,"$200,000"
+2015,6,169,Astros,OF,Nestor Muriel,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$250,000"
+2015,6,170,Twins,1B,Chris Paul,California,4YR,CA,Y,"$50,000"
+2015,6,171,Red Sox,RHP,Travis Lakins,Ohio State,4YR,OH,Y,"$320,000"
+2015,6,172,White Sox,1B,Corey Zangari,"Albert HS, Midwest City, Okla.",HS,OK,Y,"$510,000"
+2015,6,173,Cubs,RHP,Dave Berg,UCLA,4YR,CA,Y,"$50,000"
+2015,6,174,Phillies,LHP,Tyler Gilbert,Southern California,4YR,CA,Y,"$279,300"
+2015,6,175,Reds,RHP,Jimmy Herget,South Florida,4YR,FL,Y,"$276,600"
+2015,6,176,Marlins,C,Justin Cohen,Riverview (Fla.) HS,HS,FL,Y,"$540,000"
+2015,6,177,Padres,RHP,Jordan Guerrero,Polk State (Fla.) JC,JC,FL,Y,"$200,000"
+2015,6,178,Rays,RHP,Benton Moss,North Carolina,4YR,NC,Y,"$167,500"
+2015,6,179,Mets,RHP,Chase Ingram,Hillsborough (Fla.) JC,JC,FL,Y,"$195,000"
+2015,6,180,Braves,RHP,Matt Withrow,Texas Tech,4YR,TX,Y,"$263,700"
+2015,6,181,Brewers,RHP,Eric Hanhold,Florida,4YR,FL,Y,"$250,000"
+2015,6,182,Blue Jays,SS,J.C. Cardenas,Barry (Fla.),N/A,FL,Y,"$250,000"
+2015,6,183,Yankees,3B,Brandon Wagner,Howard (Texas) JC,JC,TX,Y,"$256,000"
+2015,6,184,Indians,RHP,Jonas Wyatt,Quartz Hill (Calif.) HS,HS,CA,Y,"$253,700"
+2015,6,185,Mariners,RHP,Kyle Wilcox,Bryant,4YR,RI,Y,"$225,000"
+2015,6,186,Giants,OF,Steven Duggar,Clemson,4YR,SC,Y,"$248,800"
+2015,6,187,Pirates,RHP,JT Brubaker,Akron,4YR,OH,Y,"$200,000"
+2015,6,188,Athletics,RHP,Bubba Derby,San Diego State,4YR,CA,Y,"$200,000"
+2015,6,189,Royals,OF,Cody Jones,Texas Christian,4YR,TX,Y,"$50,000"
+2015,6,190,Tigers,LHP,Matt Hall,Missouri State,4YR,MO,Y,"$239,400"
+2015,6,191,Cardinals,LHP,Jacob Evans,Oklahoma,4YR,OK,Y,"$150,000"
+2015,6,192,Dodgers,1B,Edwin Rios,Florida International,4YR,FL,Y,"$222,500"
+2015,6,193,Orioles,RHP,Jay Flaa,North Dakota State,4YR,ND,Y,"$10,000"
+2015,6,194,Nationals,LHP,Matt Crownover,Clemson,4YR,SC,Y,"$160,000"
+2015,6,195,Angels,SS,David Fletcher,Loyola Marymount,4YR,CA,Y,"$406,900"
+2015,7,196,Diamondbacks,C,Francis Christy,Palomar (Calif.) JC,JC,CA,Y,"$226,000"
+2015,7,197,Rockies,1B,Brian Mundell,Cal Poly,4YR,CA,Y,"$185,000"
+2015,7,198,Rangers,SS,Dylan Moore,Central Florida,4YR,FL,Y,"$10,000"
+2015,7,199,Astros,LHP,Michael Freeman,Oklahoma State,4YR,OK,Y,"$100,000"
+2015,7,200,Twins,LHP,Jovani Moran,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$275,000"
+2015,7,201,Red Sox,RHP,Ben Taylor,South Alabama,4YR,AL,Y,"$10,000"
+2015,7,202,White Sox,RHP,Blake Hickman,Iowa,4YR,IA,Y,"$200,000"
+2015,7,203,Cubs,RHP,Craig Brooks,Catawba (N.C.),4YR,NC,Y,"$5,000"
+2015,7,204,Phillies,RHP,Luke Leftwich,Wofford,4YR,SC,Y,"$209,300"
+2015,7,205,Reds,RHP,Jordan Ramsey,UNC Wilmington,4YR,NC,Y,"$20,000"
+2015,7,206,Marlins,RHP,Travis Neubeck,Indian Hills (Iowa) JC,JC,IA,Y,"$205,400"
+2015,7,207,Padres,RHP,Trevor Megill,Loyola Marymount,4YR,CA,Y,"$250,000"
+2015,7,208,Rays,2B,Jake Cronenworth,Michigan,4YR,MI,Y,"$198,900"
+2015,7,209,Mets,RHP,Corey Taylor,Texas Tech,4YR,TX,Y,"$20,000"
+2015,7,210,Braves,RHP,Patrick Weigel,Houston,4YR,TX,Y,"$197,500"
+2015,7,211,Brewers,SS,George Iskenderian,Miami,4YR,FL,Y,"$200,000"
+2015,7,212,Blue Jays,LHP,Travis Bergen,Kennesaw State,4YR,GA,Y,"$170,000"
+2015,7,213,Yankees,OF,Jhalan Jackson,Florida Southern,4YR,FL,Y,"$100,000"
+2015,7,214,Indians,OF,Nathan Lukes,Sacramento State,4YR,CA,Y,"$130,000"
+2015,7,215,Mariners,1B,Ryan Uhl,Indiana (Pa.),4YR,PA,Y,"$50,000"
+2015,7,216,Giants,SS,Jose Vizcaino,Santa Clara,4YR,CA,Y,"$150,000"
+2015,7,217,Pirates,3B,Mitchell Tolman,Oregon,4YR,OR,Y,"$150,000"
+2015,7,218,Athletics,RHP,Kyle Friedrichs,Long Beach State,4YR,CA,Y,"$25,000"
+2015,7,219,Royals,SS,Gabriel Cancel,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$200,000"
+2015,7,220,Tigers,SS,Nick Shumpert,Highlands Ranch (Colo.) HS,HS,CO,N,
+2015,7,221,Cardinals,C,Jesse Jenner,San Diego,4YR,CA,Y,"$10,000"
+2015,7,222,Dodgers,RHP,Andrew Sopko,Gonzaga,4YR,WA,Y,"$147,500"
+2015,7,223,Orioles,RHP,Gray Fenter,West Memphis (Ark.) HS,HS,AR,Y,"$1,000,000"
+2015,7,224,Nationals,LHP,Grant Borne,Nicholls State,4YR,LA,Y,"$150,000"
+2015,7,225,Angels,2B,Hutton Moyer,Pepperdine,4YR,CA,Y,"$177,500"
+2015,8,226,Diamondbacks,SS,Kal Simmons,Kennesaw State,4YR,GA,Y,"$177,100"
+2015,8,227,Rockies,RHP,Colin Welmon,Loyola Marymount,4YR,CA,Y,"$30,000"
+2015,8,228,Rangers,RHP,Blake Bass,Angelo State (Texas),4YR,TX,Y,"$10,000"
+2015,8,229,Astros,C,Garrett Stubbs,Southern California,4YR,CA,Y,"$100,000"
+2015,8,230,Twins,1B,Kolton Kendrick,"Oak Forest Academy, Amite, La.",HS,LA,Y,"$175,400"
+2015,8,231,Red Sox,LHP,Logan Allen,"IMG Academy, Bradenton, Fla.",HS,FL,Y,"$725,000"
+2015,8,232,White Sox,C,Casey Schroeder,Coastal Carolina,4YR,SC,Y,"$150,000"
+2015,8,233,Cubs,RHP,Preston Morrison,Texas Christian,4YR,TX,Y,"$30,000"
+2015,8,234,Phillies,OF,Greg Pickett,"Legend HS. Parker, Colo.",HS,CO,Y,"$350,000"
+2015,8,235,Reds,SS,Mitch Piatnik,State JC of Florida,JC,FL,Y,"$200,000"
+2015,8,236,Marlins,RHP,Chris Paddack,Cedar Park (Texas) HS,HS,TX,Y,"$400,000"
+2015,8,237,Padres,OF,Aldemar Burgos,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$172,600"
+2015,8,238,Rays,RHP,Reece Karalus,Santa Clara,4YR,CA,Y,"$122,500"
+2015,8,239,Mets,C,Patrick Mazeika,Stetson,4YR,FL,Y,"$125,000"
+2015,8,240,Braves,LHP,Ryan Lawlor,Georgia,4YR,GA,Y,"$171,500"
+2015,8,241,Brewers,RHP,Nate Griep,Kansas State,4YR,KS,Y,"$150,000"
+2015,8,242,Blue Jays,LHP,Danny Young,Florida,4YR,FL,Y,"$100,000"
+2015,8,243,Yankees,3B,Donny Sands,"Salpointe Catholic HS, Tucson",HS,AZ,Y,"$100,000"
+2015,8,244,Indians,RHP,Justin Garza,Cal State Fullerton,4YR,CA,Y,"$169,900"
+2015,8,245,Mariners,RHP,Cody Mobley,Mount Vernon (Ind.) HS,HS,IN,Y,"$300,000"
+2015,8,246,Giants,RHP,Cory Taylor,Dallas Baptist,4YR,TX,Y,"$186,600"
+2015,8,247,Pirates,RHP,Seth McGarry,Florida Atlantic,4YR,FL,Y,"$150,000"
+2015,8,248,Athletics,C,Nick Collins,Georgetown,4YR,DC,Y,"$140,000"
+2015,8,249,Royals,LHP,Andre Davis,Arkansas-Pine Bluff,4YR,AR,Y,"$25,000"
+2015,8,250,Tigers,RHP,Dominic Moreno,Texas Tech,4YR,TX,Y,"$50,000"
+2015,8,251,Cardinals,LHP,Ian Oxnevad,"Shorewood HS, Shoreline, Wash.",HS,WA,Y,"$500,000"
+2015,8,252,Dodgers,RHP,Tommy Bergjans,Haverford (Pa.),4YR,PA,Y,"$17,500"
+2015,8,253,Orioles,1B,Seamus Curran,Agawam (Mass.) HS,HS,MA,Y,"$175,000"
+2015,8,254,Nationals,RHP,Koda Glover,Oklahoma State,4YR,OK,Y,"$200,000"
+2015,8,255,Angels,OF,Kyle Survance,Houston,4YR,TX,Y,"$165,800"
+2015,9,256,Diamondbacks,RHP,Pierce Romero,Santa Barbara (Calif.) JC,JC,CA,Y,"$295,000"
+2015,9,257,Rockies,RHP,Trey Killian,Arkansas,4YR,AR,Y,"$150,000"
+2015,9,258,Rangers,RHP,Peter Fairbanks,Missouri,4YR,MO,Y,"$100,000"
+2015,9,259,Astros,LHP,Zac Person,Louisiana State,4YR,LA,Y,"$10,000"
+2015,9,260,Twins,OF,LaMonte Wade,Maryland,4YR,MD,Y,"$163,800"
+2015,9,261,Red Sox,1B,Tucker Tubbs,Memphis,N/A,TN,Y,"$5,000"
+2015,9,262,White Sox,LHP,Ryan Hinchley,Illinois-Chicago,4YR,IL,Y,"$25,000"
+2015,9,263,Cubs,LHP,Tyler Peitzmeier,Cal State Fullerton,4YR,CA,Y,"$5,000"
+2015,9,264,Phillies,OF,Mark Laird,Louisiana State,4YR,LA,Y,"$162,400"
+2015,9,265,Reds,RHP,Sarkis Ohanian,Duke,4YR,NC,Y,"$10,000"
+2015,9,266,Marlins,RHP,Reilly Hovis,North Carolina,4YR,NC,Y,"$125,000"
+2015,9,267,Padres,LHP,Jerry Keel,Cal State Northridge,N/A,CA,Y,"$10,000"
+2015,9,268,Rays,C,Danny De La Calle,Florida State,4YR,FL,Y,"$7,500"
+2015,9,269,Mets,OF,Kevin Kaczmarski,Evansville,4YR,IN,Y,"$5,000"
+2015,9,270,Braves,RHP,Taylor Lewis,Florida,4YR,FL,Y,"$200,000"
+2015,9,271,Brewers,RHP,Karsen Lindell,West Linn (Ore.) HS,HS,OR,Y,"$171,100"
+2015,9,272,Blue Jays,3B,Connor Panas,Canisius,4YR,NY,Y,"$10,000"
+2015,9,273,Yankees,1B,Ryan Krill,Michigan State,4YR,MI,Y,"$5,000"
+2015,9,274,Indians,RHP,Devon Stewart,Canisius,4YR,NY,Y,"$5,000"
+2015,9,275,Mariners,3B,Conner Hale,Louisiana State,4YR,LA,Y,"$50,000"
+2015,9,276,Giants,RHP,David Graybill,Arizona State,4YR,AZ,Y,"$115,000"
+2015,9,277,Pirates,RHP,Bret Helton,Utah,4YR,UT,Y,"$150,000"
+2015,9,278,Athletics,LHP,Jared Lyons,Liberty,4YR,VA,Y,"$5,000"
+2015,9,279,Royals,LHP,Joey Markus,Indian River (Fla.) JC,JC,FL,Y,"$130,000"
+2015,9,280,Tigers,RHP,Trey Teakell,Texas Christian,4YR,TX,Y,"$40,000"
+2015,9,281,Cardinals,2B,Andrew Brodbeck,Flagler (Fla.),4YR,FL,Y,"$5,000"
+2015,9,282,Dodgers,RHP,Kevin Brown,Cal State Dominguez Hills,N/A,CA,Y,"$2,500"
+2015,9,283,Orioles,OF,Jaylen Ferguson,Arlington (Texas) HS,HS,TX,Y,"$175,000"
+2015,9,284,Nationals,1B,David Kerian,Illinois,4YR,IL,Y,"$25,000"
+2015,9,285,Angels,C,Tanner Lubach,Nebraska,N/A,NE,Y,"$10,000"
+2015,10,286,Diamondbacks,OF,Joey Armstrong,Nevada-Las Vegas,4YR,NV,Y,"$154,600"
+2015,10,287,Rockies,OF,Cole Anderson,"Rocky Mountain HS, Fort Collins, Colo.",HS,CO,Y,"$150,000"
+2015,10,288,Rangers,SS,Leon Byrd,Rice,4YR,TX,Y,"$30,000"
+2015,10,289,Astros,RHP,Scott Weathersby,Mississippi,4YR,MS,Y,"$5,000"
+2015,10,290,Twins,SS,Sean Miller,South Carolina-Aiken,4YR,SC,Y,"$125,000"
+2015,10,291,Red Sox,3B,Mitchell Gunsolus,Gonzaga,4YR,WA,Y,"$10,000"
+2015,10,292,White Sox,OF,Jackson Glines,Michigan,4YR,MI,Y,"$10,000"
+2015,10,293,Cubs,SS,Vimael Machin,Virginia Commonwealth,4YR,VA,Y,"$2,000"
+2015,10,294,Phillies,3B,Josh Tobias,Florida,4YR,FL,Y,"$10,000"
+2015,10,295,Reds,OF,Zack Shields,UNC Wilmington,4YR,NC,Y,"$70,000"
+2015,10,296,Marlins,RHP,Kelvin Rivas,Oklahoma Baptist,4YR,OK,Y,"$10,000"
+2015,10,297,Padres,OF,Justin Pacchioli,Lehigh,4YR,PA,Y,"$5,000"
+2015,10,298,Rays,RHP,Sam Triece,Washington State,4YR,WA,Y,"$7,500"
+2015,10,299,Mets,RHP,Witt Haggard,Delta State (Miss.),4YR,MS,Y,"$5,000"
+2015,10,300,Braves,RHP,Stephen Moore,Navy,4YR,MD,Y,"$5,000"
+2015,10,301,Brewers,LHP,Jake Drossner,Maryland,4YR,MD,Y,"$120,000"
+2015,10,302,Blue Jays,C,Owen Spiwak,Odessa (Texas) JC,JC,TX,Y,"$100,000"
+2015,10,303,Yankees,LHP,James Reeves,The Citadel,4YR,SC,Y,"$50,000"
+2015,10,304,Indians,LHP,Billy Strode,Florida State,4YR,FL,Y,"$5,000"
+2015,10,305,Mariners,RHP,Darin Gillies,Arizona State,4YR,AZ,Y,"$10,000"
+2015,10,306,Giants,RHP,Tyler Cyr,Embry-Riddle (Fla.),4YR,FL,Y,"$100,000"
+2015,10,307,Pirates,RHP,Logan Sendelbach,Tiffin (Ohio),4YR,OH,Y,"$100,000"
+2015,10,308,Athletics,OF,Steven Pallares,San Diego State,4YR,CA,Y,"$5,000"
+2015,10,309,Royals,RHP,Alex Luna,Alabama-Birmingham,4YR,AL,Y,"$5,000"
+2015,10,310,Tigers,OF,Cole Bauml,Northern Kentucky,4YR,KY,Y,"$30,000"
+2015,10,311,Cardinals,OF,Kep Brown,"Wando HS, Mount Pleasant, S.C.",HS,SC,N,
+2015,10,312,Dodgers,OF,Logan Landon,Texas-Pan American,4YR,TX,Y,"$2,500"
+2015,10,313,Orioles,LHP,Reid Love,East Carolina,4YR,NC,Y,"$10,000"
+2015,10,314,Nationals,LHP,Taylor Guilbeau,Alabama,4YR,AL,Y,"$25,000"
+2015,10,315,Angels,RHP,Adam Hofacket,California Baptist,4YR,CA,Y,"$100,000"
+2015,11,316,Diamondbacks,1B,Austin Byler,Nevada,4YR,NV,Y,
+2015,11,317,Rockies,LHP,Michael Zimmerman,"Gulf Coast HS, Naples, Fla.",HS,FL,Y,"$250,000"
+2015,11,318,Rangers,OF,Scott Heineman,Oregon,4YR,OR,Y,"$100,000"
+2015,11,319,Astros,LHP,Patrick Sandoval,Mission Viejo (Calif.) HS,HS,CA,Y,"$900,000"
+2015,11,320,Twins,C,Kerby Camacho,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$100,000"
+2015,11,321,Red Sox,OF,Nick Hamilton,Lockport (N.Y.) HS,HS,NY,Y,"$100,000"
+2015,11,322,White Sox,RHP,Danny Dopico,Florida International,4YR,FL,Y,"$140,000"
+2015,11,323,Cubs,3B,Matt Rose,Georgia State,4YR,GA,Y,"$100,000"
+2015,11,324,Phillies,C,Edgar Cabral,Mount San Antonio (Calif.) JC,JC,CA,Y,"$100,000"
+2015,11,325,Reds,SS,Brantley Bell,State JC of Florida,JC,FL,Y,"$400,000"
+2015,11,326,Marlins,RHP,Ryan McKay,"Satellite HS, Satellite Beach, Fla.",HS,FL,Y,"$300,000"
+2015,11,327,Padres,RHP,Brett Kennedy,Fordham,4YR,NY,Y,"$100,000"
+2015,11,328,Rays,RHP,Ian Gibaut,Tulane,4YR,LA,Y,"$100,000"
+2015,11,329,Mets,LHP,Jake Simon,Galveston (Texas) Ball HS,HS,TX,Y,"$400,000"
+2015,11,330,Braves,RHP,Grayson Jones,Shelton State (Ala.) JC,JC,AL,Y,"$150,000"
+2015,11,331,Brewers,SS,Jose Cuas,Maryland,4YR,MD,Y,"$100,000"
+2015,11,332,Blue Jays,RHP,Marrick Crouse,"Dana Hills HS, Dana Point, Calif.",HS,CA,N,
+2015,11,333,Yankees,LHP,Josh Rogers,Louisville,4YR,KY,Y,"$485,000"
+2015,11,334,Indians,RHP,Chandler Newman,Richmond Hill (Ga.) HS,HS,GA,N,
+2015,11,335,Mariners,LHP,Dylan Silva,Florida State,4YR,FL,Y,"$100,000"
+2015,11,336,Giants,SS,C.J. Hinojosa,Texas,4YR,TX,Y,"$200,000"
+2015,11,337,Pirates,C,Christian Kelley,Cal Poly Pomona,4YR,CA,Y,"$100,000"
+2015,11,338,Athletics,OF,James Terrell,"St. Patrick-St. Vincent HS, Vallejo, Calif.",HS,CA,Y,"$125,000"
+2015,11,339,Royals,OF,Ben Johnson,Texas,4YR,TX,Y,"$170,000"
+2015,11,340,Tigers,RHP,Jake Shull,Fresno State,4YR,CA,Y,"$100,000"
+2015,11,341,Cardinals,RHP,Paul Salazar,"Lutheran South Academy, Houston",HS,TX,Y,"$200,000"
+2015,11,342,Dodgers,RHP,Imani Abdullah,"Madison HS, San Diego",HS,CA,Y,"$647,500"
+2015,11,343,Orioles,RHP,Ryan Meisinger,Radford,4YR,VA,Y,"$100,000"
+2015,11,344,Nationals,RHP,Andrew Lee,Tennessee,4YR,TN,Y,"$180,000"
+2015,11,345,Angels,OF,Jimmy Barnes,"Deep Creek HS, Chesapeake, Va.",HS,VA,Y,"$100,000"
+2015,12,346,Diamondbacks,RHP,Wesley Rodriguez,"Washington HS, New York",HS,NY,Y,"$350,000"
+2015,12,347,Rockies,RHP,Justin Lawrence,Daytona State (Fla.) JC,JC,FL,Y,"$100,000"
+2015,12,348,Rangers,OF,LeDarious Clark,West Florida,4YR,FL,Y,
+2015,12,349,Astros,OF,Myles Straw,St. John's River (Fla.) JC,JC,FL,Y,"$100,000"
+2015,12,350,Twins,1B,Zander Wiel,Vanderbilt,4YR,TN,Y,"$140,000"
+2015,12,351,Red Sox,RHP,Kevin Kelleher,New Orleans,4YR,LA,Y,"$100,000"
+2015,12,352,White Sox,C,Seby Zavala,San Diego State,4YR,CA,Y,"$100,000"
+2015,12,353,Cubs,2B,P.J. Higgins,Old Dominion,4YR,VA,Y,"$110,000"
+2015,12,354,Phillies,RHP,Skylar Hunter,The Citadel,4YR,SC,Y,"$100,000"
+2015,12,355,Reds,RHP,Alexis Diaz,"Juan Jose Maunez HS, Naguabo, P.R.",HS,PR,Y,"$130,000"
+2015,12,356,Marlins,OF,Terry Bennett,"Atlantic Coast HS, Jacksonville",HS,FL,Y,"$185,000"
+2015,12,357,Padres,SS,Peter Van Gansen,Cal Poly,4YR,CA,Y,"$100,000"
+2015,12,358,Rays,1B,David Olmedo-Barrera,Cal State Fullerton,4YR,CA,Y,"$100,000"
+2015,12,359,Mets,RHP,Joe Shaw,Dallas Baptist,4YR,TX,Y,"$100,000"
+2015,12,360,Braves,OF,Justin Ellison,Western Oklahoma State JC,JC,OK,Y,"$110,000"
+2015,12,361,Brewers,LHP,Drake Owenby,Tennessee,4YR,TN,Y,"$100,000"
+2015,12,362,Blue Jays,OF,D.J. McKnight,Tallahassee (Fla.) JC,JC,FL,Y,
+2015,12,363,Yankees,OF,Terrance Robertson,"Valley Vista HS, Fountain Valley, Calif.",HS,CA,Y,"$170,000"
+2015,12,364,Indians,LHP,Ryan Perez,Judson (Ill.),4YR,IL,Y,"$100,000"
+2015,12,365,Mariners,3B,Logan Taylor,Texas A&M,4YR,TX,Y,"$100,000"
+2015,12,366,Giants,SS,Hector Santiago,"Colegio Nuestra Senora de Belen, Guaynabo, P.R.",HS,PR,Y,"$191,000"
+2015,12,367,Pirates,OF,Ty Moore,UCLA,4YR,CA,Y,"$100,000"
+2015,12,368,Athletics,1B,Chris Iriart,Houston,4YR,TX,Y,
+2015,12,369,Royals,RHP,Daniel Concepcion,Virginia Commonwealth,4YR,VA,Y,
+2015,12,370,Tigers,RHP,Kyle Dowdy,Houston,4YR,TX,Y,"$100,000"
+2015,12,371,Cardinals,LHP,Jacob Schlesener,"Logan-Rogersville HS, Rogersville, Mo.",HS,MO,Y,"$325,000"
+2015,12,372,Dodgers,C,Matt Beaty,Belmont,4YR,TN,Y,
+2015,12,373,Orioles,LHP,Robert Strader,Louisville,4YR,KY,Y,"$100,000"
+2015,12,374,Nationals,RHP,Tommy Peterson,South Florida,4YR,FL,Y,"$125,000"
+2015,12,375,Angels,C,Dalton Blumenfeld,"Hamilton HS, Los Angeles",HS,CA,Y,"$260,000"
+2015,13,376,Diamondbacks,OF,Jason Morozowski,Mount Olive (N.C.),4YR,NC,Y,
+2015,13,377,Rockies,SS,Mylz Jones,Cal State Bakersfield,4YR,CA,Y,
+2015,13,378,Rangers,1B,Curtis Terry,"Archer HS, Lawrenceville, Ga.",HS,GA,Y,"$100,000"
+2015,13,379,Astros,RHP,Kevin McCanna,Rice,4YR,TX,Y,"$100,000"
+2015,13,380,Twins,RHP,Cody Stashak,St. John's,4YR,NY,Y,"$100,000"
+2015,13,381,Red Sox,LHP,Matt Kent,Texas A&M,4YR,TX,Y,
+2015,13,382,White Sox,LHP,Ryan Riga,Ohio State,4YR,OH,Y,
+2015,13,383,Cubs,LHP,Kyle Twomey,Southern California,4YR,CA,Y,"$100,000"
+2015,13,384,Phillies,OF,Zach Coppola,South Dakota State,4YR,SD,Y,
+2015,13,385,Reds,RHP,Andrew Jordan,"Huss HS, Gastonia, N.C.",HS,NC,Y,"$225,000"
+2015,13,386,Marlins,RHP,R.J. Peace,"Serrano HS, Phelan, Calif.",HS,CA,Y,"$370,000"
+2015,13,387,Padres,LHP,Will Headean,Illinois State,4YR,IL,Y,"$100,000"
+2015,13,388,Rays,RHP,Nicholas Padilla,Grayson County (Texas) JC,JC,TX,Y,"$177,500"
+2015,13,389,Mets,LHP,P.J. Conlon,San Diego,4YR,CA,Y,"$110,000"
+2015,13,390,Braves,LHP,Chase Johnson-Mullins,Shelton State (Ala.) JC,JC,AL,Y,"$125,000"
+2015,13,391,Brewers,C,Max McDowell,Connecticut,4YR,CT,Y,"$100,000"
+2015,13,392,Blue Jays,SS,Daniel Perry,"Lassen HS, Susanville, Calif.",HS,CA,N,
+2015,13,393,Yankees,OF,Trey Amburgey,St. Petersburg (Fla.) JC,JC,FL,Y,"$100,000"
+2015,13,394,Indians,C,Daniel Salters,Dallas Baptist,4YR,TX,Y,"$100,000"
+2015,13,395,Mariners,LHP,Matt Clancy,St. John's,4YR,NY,Y,
+2015,13,396,Giants,RHP,Matt Pope,Walters State (Tenn.) CC,HS,TN,Y,"$100,000"
+2015,13,397,Pirates,SS,Logan Ratledge,North Carolina State,4YR,NC,Y,
+2015,13,398,Athletics,OF,Brett Siddall,Canisius,4YR,NY,Y,
+2015,13,399,Royals,SS,Travis Maezes,Michigan,4YR,MI,Y,"$200,000"
+2015,13,400,Tigers,3B,Josh Lester,Missouri,4YR,MO,Y,"$100,000"
+2015,13,401,Cardinals,OF,Craig Aikin,Oklahoma,4YR,OK,Y,"$100,000"
+2015,13,402,Dodgers,LHP,Michael Boyle,Radford,4YR,VA,Y,"$100,000"
+2015,13,403,Orioles,OF,Cedric Mullins,Campbell,4YR,NC,Y,"$100,000"
+2015,13,404,Nationals,2B,Max Schrock,South Carolina,4YR,SC,Y,"$500,000"
+2015,13,405,Angels,OF,Jeff Boehm,Illinois-Chicago,4YR,IL,Y,
+2015,14,406,Diamondbacks,C,Luke Lowery,East Carolina,4YR,NC,Y,"$100,000"
+2015,14,407,Rockies,RHP,Sam Thoele,Arkansas-Little Rock,4YR,AR,Y,"$100,000"
+2015,14,408,Rangers,LHP,Adam Choplick,Oklahoma,4YR,OK,Y,"$100,000"
+2015,14,409,Astros,OF,Johnny Sewald,Arizona State,4YR,AZ,Y,"$100,000"
+2015,14,410,Twins,C,A.J. Murray,Georgia Tech,4YR,GA,Y,
+2015,14,411,Red Sox,LHP,Bobby Poyner,Florida,4YR,FL,Y,
+2015,14,412,White Sox,OF,Tyler Sullivan,Pacific,4YR,CA,Y,
+2015,14,413,Cubs,RHP,Jake Kelzer,Indiana,4YR,IN,N,
+2015,14,414,Phillies,C,Austin Bossart,Pennsylvania,4YR,PA,Y,
+2015,14,415,Reds,RHP,Austin Orewiler,Rice,4YR,TX,Y,
+2015,14,416,Marlins,RHP,Jordan Hillyer,Kennesaw State,4YR,GA,Y,"$100,000"
+2015,14,417,Padres,C,Kyle Overstreet,Alabama,4YR,AL,Y,"$100,000"
+2015,14,418,Rays,RHP,Tyler Brashears,Hawaii,4YR,HI,Y,
+2015,14,419,Mets,2B,Vinny Siena,Connecticut,4YR,CT,Y,"$100,000"
+2015,14,420,Braves,C,Trey Keegan,Bowling Green State,4YR,OH,Y,"$100,000"
+2015,14,421,Brewers,1B,Tyrone Perry,Lakeland (Fla.) Senior HS,HS,FL,Y,
+2015,14,422,Blue Jays,C,Ryan Hissey,William & Mary,4YR,VA,Y,"$100,000"
+2015,14,423,Yankees,RHP,Will Carter,Alabama,4YR,AL,Y,
+2015,14,424,Indians,RHP,Matt Esparza,UC Irvine,4YR,CA,Y,"$100,000"
+2015,14,425,Mariners,RHP,Jio Orozco,"Salpointe Catholic HS, Tucson",HS,AZ,Y,"$100,000"
+2015,14,426,Giants,C,Matt Winn,Virginia Military Institute,4YR,VA,Y,
+2015,14,427,Pirates,RHP,Chris Plitt,South Mountain (Ariz.) JC,JC,AZ,Y,
+2015,14,428,Athletics,RHP,Boomer Biegalski,Florida State,4YR,FL,Y,"$300,000"
+2015,14,429,Royals,C,Nick Dini,Wagner,4YR,NY,Y,
+2015,14,430,Tigers,SS,A.J. Simcox,Tennessee,4YR,TN,Y,"$600,000"
+2015,14,431,Cardinals,RHP,Carson Cross,Connecticut,4YR,CT,Y,
+2015,14,432,Dodgers,C,Garrett Kennedy,Miami,4YR,FL,Y,"$100,000"
+2015,14,433,Orioles,2B,Drew Turbin,Dallas Baptist,4YR,TX,Y,
+2015,14,434,Nationals,LHP,Mack Lemieux,Jupiter (Fla.) Community HS,HS,FL,N,
+2015,14,435,Angels,OF,Ryan Vega,El Paso JC,JC,TX,Y,
+2015,15,436,Diamondbacks,RHP,Justin Donatella,UC San Diego,4YR,CA,Y,"$150,000"
+2015,15,437,Rockies,OF,Sam Hilliard,Wichita State,4YR,KS,Y,"$100,000"
+2015,15,438,Rangers,OF,Nick Kaye,Glendora (Calif.) HS,HS,CA,Y,"$100,000"
+2015,15,439,Astros,OF,Pat Porter,Ohio State,4YR,OH,Y,
+2015,15,440,Twins,LHP,Anthony McIver,San Diego,4YR,CA,Y,
+2015,15,441,Red Sox,OF,Jerry Downs,St. Thomas (Fla.),4YR,FL,Y,"$100,000"
+2015,15,442,White Sox,RHP,Chris Comito,Norwalk (Iowa) HS,HS,IA,Y,"$170,000"
+2015,15,443,Cubs,RHP,Scott Effross,Indiana,4YR,,Y,"$100,000"
+2015,15,444,Phillies,SS,Dylan Bosheers,Tennessee Tech,4YR,TN,Y,
+2015,15,445,Reds,2B,Blake Butler,College of Charleston,4YR,SC,Y,"$100,000"
+2015,15,446,Marlins,OF,Kyle Barrett,Kentucky,4YR,KY,Y,
+2015,15,447,Padres,1B,Brad Zunica,State JC of Florida,JC,FL,Y,"$192,500"
+2015,15,448,Rays,RHP,Ethan Clark,Crowder (Mo.) JC,JC,MO,Y,"$127,500"
+2015,15,449,Mets,RHP,Thomas Hackimer,St. John's,4YR,NY,N,
+2015,15,450,Braves,OF,Brad Keller,"Crest HS, Shelby, N.C.",HS,NC,Y,"$150,000"
+2015,15,451,Brewers,C,Zach Taylor,Scottsdale (Ariz.) JC,JC,AZ,Y,
+2015,15,452,Blue Jays,RHP,Jackson McClelland,Pepperdine,4YR,CA,Y,
+2015,15,453,Yankees,RHP,Bret Marks,Tennessee,4YR,TN,Y,
+2015,15,454,Indians,RHP,Daniel Sprinkle,White Hall (Ark.) HS,HS,AR,N,
+2015,15,455,Mariners,RHP,Ryne Inman,"Parkview HS, Lilburn, Ga.",HS,GA,Y,"$100,000"
+2015,15,456,Giants,C,Cody Brickhouse,Sarasota (Fla.) HS,HS,FL,Y,"$130,000"
+2015,15,457,Pirates,RHP,Scooter Hightower,Columbia State (Tenn.) JC,JC,TN,Y,
+2015,15,458,Athletics,2B,Ryan Howell,Nevada,4YR,NV,Y,
+2015,15,459,Royals,OF,Marquise Doherty,"Winnetonka HS, Kansas City, Mo.",HS,MO,N,
+2015,15,460,Tigers,SS,Keaton Jones,Texas Christian,4YR,TX,Y,
+2015,15,461,Cardinals,SS,Ryan Merrill,Iowa Western JC,JC,IA,N,
+2015,15,462,Dodgers,OF,Garrett Zech,Naples (Fla.) HS,HS,FL,N,
+2015,15,463,Orioles,C,Chris Shaw,Oklahoma,4YR,OK,Y,"$100,000"
+2015,15,464,Nationals,RHP,Kevin Mooney,Maryland,4YR,MD,Y,"$175,000"
+2015,15,465,Angels,RHP,Nathan Bates,Georgia State,4YR,GA,Y,"$100,000"
+2015,16,466,Diamondbacks,OF,Zach Nehrir,Houston Baptist,4YR,TX,Y,
+2015,16,467,Rockies,RHP,Ryan McCormick,St. John's,4YR,NY,Y,
+2015,16,468,Rangers,RHP,Tyler Phillips,"Bishop Eustace Prep HS, Pennsauken Township, N.J.",HS,NJ,Y,"$160,000"
+2015,16,469,Astros,RHP,Adam Whitt,Nevada,4YR,NV,Y,
+2015,16,470,Twins,OF,Lean Marrero,"Leadership Christian Academy, Guaynabo, P.R.",HS,PR,Y,"$100,000"
+2015,16,471,Red Sox,RHP,Marc Brakeman,Stanford,4YR,CA,Y,"$225,000"
+2015,16,472,White Sox,RHP,Brandon Quintero,Cal State Los Angeles,4YR,CA,Y,
+2015,16,473,Cubs,OF,Michael Foster,Northeastern,4YR,MA,Y,
+2015,16,474,Phillies,1B,Brendon Hayden,Virginia Tech,4YR,VA,Y,
+2015,16,475,Reds,RHP,Jake Johnson,Southeastern Louisiana,4YR,LA,Y,
+2015,16,476,Marlins,LHP,Justin Langley,Wisconsin-Milwaukee,4YR,WI,Y,
+2015,16,477,Padres,RHP,Elliot Ashbeck,Bradley,4YR,IL,Y,
+2015,16,478,Rays,C,Joe Davis,Bowie (Texas) HS,HS,TX,N,
+2015,16,479,Mets,RHP,Dillon Becker,Angelo State (Texas),4YR,TX,Y,"$100,000"
+2015,16,480,Braves,LHP,Trevor Belicek,Texas A&M-Corpus Christi,4YR,TX,Y,
+2015,16,481,Brewers,RHP,Conor Harber,Oregon,4YR,OR,Y,"$115,000"
+2015,16,482,Blue Jays,3B,Christian Williams,Gulf Coast State (Fla.) JC,JC,FL,Y,"$200,000"
+2015,16,483,Yankees,RHP,Kolton Mahoney,Brigham Young,4YR,UT,Y,
+2015,16,484,Indians,2B,Cobie Vance,"Pine Forest HS, Fayetteville, N.C.",HS,NC,N,
+2015,16,485,Mariners,OF,Ricky Eusebio,Miami,4YR,FL,Y,"$100,000"
+2015,16,486,Giants,LHP,Grant Watson,UCLA,4YR,CA,Y,
+2015,16,487,Pirates,RHP,Nick Hibbing,Iowa,4YR,IA,Y,
+2015,16,488,Athletics,RHP,Dustin Hurlbutt,Tabor (Kan.),4YR,KS,Y,
+2015,16,489,Royals,RHP,Matt Ditman,Rice,4YR,TX,Y,"$100,000"
+2015,16,490,Tigers,RHP,Alec Kisena,Edmonds (Wash.) JC,JC,WA,Y,"$100,000"
+2015,16,491,Cardinals,RHP,Max Almonte,Villanova,4YR,PA,Y,
+2015,16,492,Dodgers,RHP,Nolan Long,Wagner,4YR,NY,Y,"$100,000"
+2015,16,493,Orioles,OF,Mike Odenwaelder,Amherst (Mass.),4YR,MA,Y,
+2015,16,494,Nationals,SS,Ian Sagdal,Washington State,4YR,WA,Y,
+2015,16,495,Angels,LHP,Nathan Bertness,McLennan (Texas) JC,JC,TX,Y,"$100,000"
+2015,17,496,Diamondbacks,RHP,Austin Mason,The Citadel,4YR,SC,Y,"$100,000"
+2015,17,497,Rockies,1B,Collin Ferguson,St. Mary's,4YR,CA,Y,
+2015,17,498,Rangers,C,Tyler Sanchez,St. John's,4YR,NY,Y,
+2015,17,499,Astros,OF,Justin Garcia,Nova Southeastern (Fla.),4YR,FL,Y,
+2015,17,500,Twins,RHP,Nate Gercken,Academy of Art (Calif.),4YR,CA,Y,
+2015,17,501,Red Sox,2B,Chad De La Guerra,Grand Canyon (Ariz.),4YR,AZ,Y,
+2015,17,502,White Sox,1B,Sikes Orvis,Mississippi,4YR,MS,Y,
+2015,17,503,Cubs,RHP,Casey Bloomquist,Cal Poly,4YR,CA,Y,"$100,000"
+2015,17,504,Phillies,RHP,Kenny Koplove,Duke,4YR,NC,Y,
+2015,17,505,Reds,2B,J.D. Salmon-Williams,"Suzuki SS, Brampton, Ontario",HS,CN,Y,"$100,000"
+2015,17,506,Marlins,SS,Max Whitt,Lewis-Clark State (Idaho),4YR,ID,N,
+2015,17,507,Padres,RHP,Trey Wingenter,Auburn,4YR,AL,Y,"$100,000"
+2015,17,508,Rays,2B,Brett Sullivan,Pacific,4YR,CA,Y,
+2015,17,509,Mets,LHP,Sixto Torres,"Faith Baptist Christian HS, Brandon, Fla.",HS,FL,Y,"$100,000"
+2015,17,510,Braves,RHP,Evan Phillips,UNC Wilmington,4YR,NC,Y,"$100,000"
+2015,17,511,Brewers,RHP,Michael Petersen,Riverside (Calif.) JC,JC,CA,Y,"$100,000"
+2015,17,512,Blue Jays,RHP,Chandler Eden,Yavapai (Ariz.) JC,JC,AZ,N,
+2015,17,513,Yankees,RHP,Brody Koerner,Clemson,4YR,SC,Y,
+2015,17,514,Indians,SS,Nick Madrigal,Elk Grove (Calif.) HS,HS,CA,N,
+2015,17,515,Mariners,LHP,Joe Pistorese,Washington State,4YR,WA,Y,
+2015,17,516,Giants,LHP,Cameron Avila-Leeper,San Joaquin Delta (Calif.) JC,JC,CA,Y,"$100,000"
+2015,17,517,Pirates,LHP,Austin Sodders,Riverside (Calif.) JC,JC,CA,N,
+2015,17,518,Athletics,RHP,Brent Wheatley,Southern California,4YR,CA,N,
+2015,17,519,Royals,LHP,Matt Portland,Northwestern,4YR,,Y,"$100,000"
+2015,17,520,Tigers,LHP,Grant Wolfram,Hamilton (Mich.) HS,HS,MI,N,
+2015,17,521,Cardinals,C,Chris Chinea,Louisiana State,4YR,LA,Y,"$100,000"
+2015,17,522,Dodgers,C,Jason Goldstein,Illinois,4YR,,N,
+2015,17,523,Orioles,SS,Branden Becker,"Cajon HS, San Bernardino, Calif.",HS,CA,Y,"$100,000"
+2015,17,524,Nationals,2B,Dalton Dulin,Northwest Mississippi JC,JC,MS,Y,
+2015,17,525,Angels,RHP,Sam Pastrone,"Arbor View HS, Las Vegas",HS,NV,Y,"$250,000"
+2015,18,526,Diamondbacks,C,Daniel Comstock,Menlo (Calif.),4YR,CA,Y,"$100,000"
+2015,18,527,Rockies,3B,Chris Keck,UCLA,4YR,CA,Y,
+2015,18,528,Rangers,LHP,Jason Richman,Georgia Southern,4YR,GA,Y,
+2015,18,529,Astros,C,Kevin Martir,Maryland,4YR,MD,Y,"$100,000"
+2015,18,530,Twins,OF,Daniel Kihle,Wichita State,4YR,KS,Y,
+2015,18,531,Red Sox,SS,James Nelson,"Redan HS, Stone Mountain, Ga.",HS,GA,N,
+2015,18,532,White Sox,2B,Dante Flores,Southern California,4YR,CA,Y,
+2015,18,533,Cubs,3B,John Cresto,"Cathedral Catholic HS, San Diego",HS,CA,N,
+2015,18,534,Phillies,C,Greg Brodzinski,Barry (Fla.),4YR,FL,Y,
+2015,18,535,Reds,LHP,Isaac Anesty,"Our Lady of Lourdes Catholic HS, Guelph, Ontario",HS,CN,Y,"$200,000"
+2015,18,536,Marlins,RHP,Kyle Keller,Southeastern Louisiana,4YR,LA,Y,
+2015,18,537,Padres,SS,Justin Harrer,Sisters (Ore.) HS,HS,OR,N,
+2015,18,538,Rays,OF,Landon Cray,Seattle,4YR,WA,Y,
+2015,18,539,Mets,RHP,Jordan Humphreys,Crystal River (Fla.) HS,HS,FL,Y,"$150,000"
+2015,18,540,Braves,RHP,Gilbert Suarez,"San Ysidro HS, San Diego",HS,CA,Y,"$100,000"
+2015,18,541,Brewers,RHP,Gentry Fortuno,"Flanagan HS, Pembroke Pines, Fla.",HS,FL,Y,
+2015,18,542,Blue Jays,RHP,Geno Encina,Incarnate Word (Texas),4YR,TX,Y,
+2015,18,543,Yankees,OF,Zach Zehner,Cal Poly,4YR,CA,Y,
+2015,18,544,Indians,1B,Anthony Miller,Johnson County (Kan.) JC,JC,KS,Y,"$100,000"
+2015,18,545,Mariners,LHP,Anthony Misiewicz,Michigan State,4YR,MI,Y,
+2015,18,546,Giants,RHP,Heath Slatton,Middle Tennessee State,4YR,TN,Y,
+2015,18,547,Pirates,RHP,Stephan Meyer,Bellevue (Neb.),4YR,NE,Y,
+2015,18,548,Athletics,C,Brett Sunde,Western Michigan,4YR,MI,Y,
+2015,18,549,Royals,RHP,Brian Bayliss,St. Joseph's (Ind.),4YR,IN,Y,
+2015,18,550,Tigers,OF,Joey Havrilak,Akron,4YR,OH,Y,
+2015,18,551,Cardinals,C,Josh Rolette,Shawnee (Okla.) HS,HS,OK,N,
+2015,18,552,Dodgers,2B,Chris Godinez,Bradley,4YR,IL,Y,
+2015,18,553,Orioles,LHP,Nick Vespi,Palm Beach State (Fla.) JC,JC,FL,Y,"$100,000"
+2015,18,554,Nationals,2B,Melvin Rodriguez,Jackson State,4YR,MS,Y,
+2015,18,555,Angels,RHP,Travis Herrin,Wabash Valley (Ill.) JC,JC,IL,Y,"$170,000"
+2015,19,556,Diamondbacks,OF,Jacy Cave,New Mexico JC,JC,NM,Y,
+2015,19,557,Rockies,LHP,Daniel Koger,Alabama-Huntsville,4YR,AL,Y,
+2015,19,558,Rangers,3B,Xavier Turner,Vanderbilt,4YR,TN,Y,
+2015,19,559,Astros,OF,Drew Ferguson,Belmont,4YR,TN,Y,
+2015,19,560,Twins,RHP,Kyle Wilson,"Raymore-Peculiar HS, Peculiar, Mo.",HS,MO,N,
+2015,19,561,Red Sox,LHP,Logan Boyd,Sam Houston State,4YR,TX,Y,
+2015,19,562,White Sox,OF,Frank Califano,Youngstown State,4YR,OH,Y,
+2015,19,563,Cubs,RHP,Kyle Miller,Florida Atlantic,4YR,FL,Y,"$100,000"
+2015,19,564,Phillies,RHP,Robert Tasin,Oklahoma,4YR,OK,Y,
+2015,19,565,Reds,RHP,Mike Salvatore,"Ewing HS, Ewing Township, N.J.",HS,NJ,N,
+2015,19,566,Marlins,RHP,Curt Britt,North Carolina State,4YR,NC,Y,"$100,000"
+2015,19,567,Padres,OF,Alan Garcia,"Mountain Pointe HS, Phoenix",HS,AZ,Y,"$220,000"
+2015,19,568,Rays,LHP,Porter Clayton,Dixie State (Utah),4YR,UT,Y,
+2015,19,569,Mets,RHP,Nic Enright,"The Steward School, Richmond",HS,VA,N,
+2015,19,570,Braves,RHP,Sean McLaughlin,Georgia,4YR,GA,Y,"$100,000"
+2015,19,571,Brewers,1B,Steven Karkenny,The Masters (Calif.),4YR,CA,Y,
+2015,19,572,Blue Jays,2B,John La Prise,Virginia,4YR,VA,Y,
+2015,19,573,Yankees,RHP,Mark Seyler,San Diego State,4YR,CA,Y,"$100,000"
+2015,19,574,Indians,OF,Todd Isaacs,Palm Beach State (Fla.) JC,JC,FL,Y,"$100,000"
+2015,19,575,Mariners,C,P.J. Jones,Washington State,4YR,WA,Y,
+2015,19,576,Giants,RHP,Dave Owen,Arkansas State,4YR,AR,Y,
+2015,19,577,Pirates,LHP,Ike Schlabach,"Timber Creek HS, Fort Worth",HS,TX,Y,"$150,000"
+2015,19,578,Athletics,1B,Seth Brown,Lewis Clark State (Idaho),4YR,ID,Y,
+2015,19,579,Royals,SS,Emmanuel Rivera,Interamerican (P.R.) JC,JC,PR,Y,
+2015,19,580,Tigers,LHP,Cam Vieaux,Michigan State,4YR,MI,N,
+2015,19,581,Cardinals,C,Ryan McCarvel,Howard (Texas) JC,JC,TX,Y,"$100,000"
+2015,19,582,Dodgers,C,Joe Genord,"Park Vista Community HS, Lake Worth, Fla.",HS,FL,N,
+2015,19,583,Orioles,C,Jerry McClanahan,UC Irvine,4YR,CA,Y,
+2015,19,584,Nationals,SS,Clayton Brandt,MidAmerica Nazarene (Kan.),4YR,KS,Y,
+2015,19,585,Angels,RHP,Aaron Cox,Gannon (Pa.),4YR,PA,Y,
+2015,20,586,Diamondbacks,LHP,Will Lowman,Kennesaw State,4YR,GA,Y,
+2015,20,587,Rockies,OF,Bobby Stahel,Southern California,4YR,CA,Y,
+2015,20,588,Rangers,RHP,Luke Shilling,"Notre Dame Prep, Pontiac, Mich.",HS,MI,N,
+2015,20,589,Astros,RHP,Makay Nelson,JC of Southern Idaho,JC,ID,Y,
+2015,20,590,Twins,RHP,Colton Eastman,"Central Union HS, Fresno",HS,CA,N,
+2015,20,591,Red Sox,SS,Yomar Valentin,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$130,000"
+2015,20,592,White Sox,C,Jacob Cooper,Modesto (Calif.) JC,JC,CA,Y,
+2015,20,593,Cubs,3B,Blake Headley,Nebraska,4YR,NE,Y,
+2015,20,594,Phillies,LHP,Will Stewart,Hazel Green (Ala.) HS,HS,AL,Y,"$100,000"
+2015,20,595,Reds,LHP,Rock Rucker,Auburn-Montgomery,4YR,AL,Y,
+2015,20,596,Marlins,C,Korey Dunbar,North Carolina,4YR,NC,Y,"$100,000"
+2015,20,597,Padres,RHP,Phil Maton,Louisiana Tech,4YR,LA,Y,
+2015,20,598,Rays,RHP,Edrick Agosto,"International Baseball Academy, Ceiba, P.R.",HS,PR,Y,
+2015,20,599,Mets,RHP,Thomas McIlraith,Oklahoma,4YR,OK,Y,
+2015,20,600,Braves,LHP,Jaret Hellinger,"Ola HS, McDonough, Ga.",HS,GA,Y,"$300,000"
+2015,20,601,Brewers,RHP,David Lucroy,East Carolina,4YR,NC,Y,
+2015,20,602,Blue Jays,RHP,Tyler Burden,Chowan (N.C.),4YR,NC,Y,
+2015,20,603,Yankees,1B,Isiah Gilliam,Chipola (Fla.) JC,JC,FL,Y,"$550,000"
+2015,20,604,Indians,SS,Luke Wakamatsu,Keller (Texas) HS,HS,TX,Y,"$290,000"
+2015,20,605,Mariners,RHP,Parker McFadden,Yelm (Wash.) HS,HS,WA,N,
+2015,20,606,Giants,RHP,Travis Eckert,Oregon State,4YR,OR,N,
+2015,20,607,Pirates,RHP,Tanner Anderson,Harvard,4YR,MA,Y,
+2015,20,608,Athletics,RHP,James Naile,Alabama-Birmingham,4YR,AL,Y,
+2015,20,609,Royals,RHP,Jeffrey Harding,Chipola (Fla.) JC,JC,FL,N,
+2015,20,610,Tigers,RHP,Logan Longwith,Tennessee Wesleyan,4YR,TN,Y,
+2015,20,611,Cardinals,2B,Luke Doyle,Yavapai (Ariz.) JC,JC,AZ,Y,
+2015,20,612,Dodgers,RHP,John Boushelle,Fayetteville (Ark.) HS,HS,AR,N,
+2015,20,613,Orioles,SS,Adam Walton,Illinois,4YR,IL,N,
+2015,20,614,Nationals,C,John Clay Reeves,Rice,4YR,TX,N,
+2015,20,615,Angels,3B,Kenny Towns,Virginia,4YR,VA,Y,
+2015,21,616,Diamondbacks,C,Alexis Olmeda,Yavapai (Ariz.) JC,JC,AZ,Y,
+2015,21,617,Rockies,RHP,Logan Cozart,Ohio,4YR,OH,Y,
+2015,21,618,Rangers,C,Joenny Vazquez,Educational Technical (P.R.) JC,JC,PR,Y,
+2015,21,619,Astros,LHP,Alex Winkelman,Southeast Missouri State,4YR,MO,Y,
+2015,21,620,Twins,OF,Kamran Young,Cal State Dominguez Hills,4YR,CA,Y,
+2015,21,621,Red Sox,RHP,Danny Zandona,Cal Poly,4YR,CA,Y,
+2015,21,622,White Sox,OF,Landon Lassiter,North Carolina,4YR,NC,Y,"$100,000"
+2015,21,623,Cubs,RHP,Jared Cheek,Georgia,4YR,GA,Y,
+2015,21,624,Phillies,RHP,Kevin Walsh,Arkansas-Pine Bluff,4YR,AR,Y,
+2015,21,625,Reds,OF,Satchel McElroy,"Clear Creek HS, League City, Texas",HS,TX,Y,"$100,000"
+2015,21,626,Marlins,SS,Giovanny Alfonzo,Tampa,4YR,FL,Y,
+2015,21,627,Padres,RHP,Nick Monroe,UNC Wilmington,4YR,NC,Y,"$100,000"
+2015,21,628,Rays,3B,Matt Dacey,Richmond,4YR,VA,Y,
+2015,21,629,Mets,LHP,Taylor Henry,Centenary (La.),4YR,LA,Y,
+2015,21,630,Braves,2B,Kurt Hoekstra,Western Michigan,4YR,MI,Y,
+2015,21,631,Brewers,RHP,Jon Olczak,North Carolina State,4YR,NC,Y,
+2015,21,632,Blue Jays,LHP,Tayler Saucedo,Tennessee Wesleyan,4YR,TN,Y,
+2015,21,633,Yankees,RHP,Josh Roeder,Nebraska,4YR,NE,Y,
+2015,21,634,Indians,RHP,Brock Hartson,Texas-San Antonio,4YR,TX,Y,
+2015,21,635,Mariners,1B,Rob Fonseca,Northeastern,4YR,MA,Y,
+2015,21,636,Giants,RHP,Ryan Halstead,Indiana,4YR,IN,Y,
+2015,21,637,Pirates,RHP,Nick Economos,Mercer County (N.J.) JC,JC,NJ,Y,
+2015,21,638,Athletics,LHP,Andrew Tomasovich,Charleston Southern,4YR,SC,Y,
+2015,21,639,Royals,SS,Austin Bailey,San Diego,4YR,CA,Y,
+2015,21,640,Tigers,1B,Tanner Donnels,Loyola Marymount,4YR,CA,Y,
+2015,21,641,Cardinals,SS,Cadyn Grenier,"Bishop Gorman HS, Las Vegas",HS,NV,N,
+2015,21,642,Dodgers,C,Jake Henson,Saint Louis,4YR,MO,Y,
+2015,21,643,Orioles,RHP,Juan Echevarria,"Osceola HS, Seminole, Fla.",HS,FL,Y,
+2015,21,644,Nationals,RHP,Matt Pirro,Wake Forest,4YR,NC,Y,
+2015,21,645,Angels,3B,Michael Pierson,Appalachian State,4YR,NC,Y,
+2015,22,646,Diamondbacks,OF,Zach Hoffpauir,Stanford,4YR,CA,Y,"$100,000"
+2015,22,647,Rockies,OF,Eric Toole,Iowa,4YR,IA,Y,
+2015,22,648,Rangers,SS,Josh Altmann,Olivet Nazarene (Ill.),4YR,IL,Y,"$100,000"
+2015,22,649,Astros,RHP,Cole Sands,"North Florida Christian HS, Tallahassee, Fla.",HS,FL,N,
+2015,22,650,Twins,RHP,Blake Cederlind,Merced (Calif.) JC,JC,CA,N,
+2015,22,651,Red Sox,RHP,Max Watt,Lynn (Fla.),4YR,FL,Y,
+2015,22,652,White Sox,SS,Danny Mendick,Massachusetts-Lowell,4YR,MA,Y,
+2015,22,653,Cubs,OF,Alex Bautista,Lindsey Wilson (Ky.),4YR,KY,Y,
+2015,22,654,Phillies,RHP,Sutter McLoughlin,Sacramento State,4YR,CA,Y,
+2015,22,655,Reds,RHP,Darren Shred,"St. Roch Catholic SS, Brampton, Ontario",HS,CN,Y,"$100,000"
+2015,22,656,Marlins,RHP,L.J. Brewster,Hawaii,4YR,HI,Y,
+2015,22,657,Padres,LHP,Christian Cecilio,San Francisco,4YR,CA,Y,
+2015,22,658,Rays,RHP,Justin Marsden,Auburn (Wash.) Mountainview HS,HS,WA,Y,"$147,500"
+2015,22,659,Mets,RHP,Nick Blackburn,Illinois,4YR,IL,N,
+2015,22,660,Braves,RHP,Dalton Geekie,Georgia Highlands JC,JC,GA,Y,
+2015,22,661,Brewers,RHP,Willie Schwanke,Wichita State,4YR,KS,N,
+2015,22,662,Blue Jays,OF,Nick Sinay,Buffalo,4YR,NY,Y,
+2015,22,663,Yankees,RHP,Cody Carroll,Southern Mississippi,4YR,MS,Y,
+2015,22,664,Indians,3B,Garrett Benge,Cowley County (Kan.) JC,JC,KS,N,
+2015,22,665,Mariners,RHP,Joey Strain,Winthrop,4YR,SC,Y,
+2015,22,666,Giants,LHP,Domenic Mazza,UC Santa Barbara,4YR,CA,Y,"$125,000"
+2015,22,667,Pirates,RHP,Nathan Trevillian,Amherst (Va.) County HS,HS,VA,Y,"$100,000"
+2015,22,668,Athletics,RHP,Brady Bramlett,Mississippi,4YR,MS,N,
+2015,22,669,Royals,LHP,Drew Milligan,Delta State (Miss.),4YR,MS,Y,
+2015,22,670,Tigers,LHP,Toller Boardman,New Mexico,4YR,NM,Y,
+2015,22,671,Cardinals,1B,Hunter Newman,Trevecca Nazarene (Tenn.),4YR,TN,Y,
+2015,22,672,Dodgers,2B,Jordan Tarsovich,Virginia Military Institute,4YR,VA,Y,
+2015,22,673,Orioles,OF,Tristan Graham,Northeast Texas JC,JC,TX,Y,"$100,000"
+2015,22,674,Nationals,RHP,Adam Boghosian,North Greenville (S.C.),4YR,SC,Y,
+2015,22,675,Angels,LHP,Ronnie Glenn,Pennsylvania,4YR,PA,Y,
+2015,23,676,Diamondbacks,OF,Logan Soole,"Monarch HS, Louisville, Colo.",HS,CO,Y,
+2015,23,677,Rockies,C,Steven Leonard,Campbell,4YR,NC,Y,
+2015,23,678,Rangers,RHP,Tyler Davis,Washington,4YR,WA,Y,
+2015,23,679,Astros,LHP,Matt Bower,Washington State,4YR,WA,Y,"$125,000"
+2015,23,680,Twins,SS,Alex Perez,Virginia Tech,4YR,VA,Y,
+2015,23,681,Red Sox,OF,Kyri Washington,Longwood,4YR,VA,Y,"$100,000"
+2015,23,682,White Sox,RHP,Dylan Barrow,Tampa,4YR,FL,Y,
+2015,23,683,Cubs,LHP,John Williamson,Rice,4YR,TX,Y,
+2015,23,684,Phillies,RHP,Anthony Sequeira,Oral Roberts,4YR,OK,Y,
+2015,23,685,Reds,OF,Ed Charlton,New Jersey Tech,4YR,NJ,Y,
+2015,23,686,Marlins,LHP,Trevor Lacosse,Bryant,4YR,RI,Y,
+2015,23,687,Padres,OF,Chris Chatfield,"Spoto HS, Riverview, Fla.",HS,FL,N,
+2015,23,688,Rays,RHP,Reign Letkeman,Big Bend (Wash.) JC,JC,WA,Y,
+2015,23,689,Mets,OF,Kenneth Bautista,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,
+2015,23,690,Braves,RHP,Taylor Cockrell,State JC of Florida,JC,FL,Y,"$120,000"
+2015,23,691,Brewers,SS,Donnie Walton,Oklahoma State,4YR,OK,N,
+2015,23,692,Blue Jays,SS,Juandy Mendoza,Otero (Colo.) JC,JC,CO,Y,
+2015,23,693,Yankees,RHP,Garrett Mundell,Fresno State,4YR,CA,Y,
+2015,23,694,Indians,RHP,Chad Smith,Wallace State (Ala.) JC,JC,AL,N,
+2015,23,695,Mariners,RHP,Art Warren,Ashland (Ohio),4YR,OH,Y,
+2015,23,696,Giants,3B,Dillon Dobson,Appalachian State,4YR,NC,Y,
+2015,23,697,Pirates,OF,Jake McCarthy,Scranton (Pa.) HS,HS,PA,N,
+2015,23,698,Athletics,OF,Eric Senior,"York Mills Collegiate Institute, Toronto",HS,CN,N,
+2015,23,699,Royals,OF,Colton Frabasilio,Saint Louis,4YR,MO,Y,
+2015,23,700,Tigers,RHP,Ryan Milton,Southern Mississippi,4YR,MS,Y,
+2015,23,701,Cardinals,OF,Gio Brusa,Pacific,4YR,CA,N,
+2015,23,702,Dodgers,RHP,Andrew Istler,Duke,4YR,NC,Y,
+2015,23,703,Orioles,LHP,Will Dennis,Seattle,4YR,WA,Y,
+2015,23,704,Nationals,RHP,Alec Rash,Missouri,4YR,MO,N,
+2015,23,705,Angels,2B,Tim Arakawa,Oklahoma State,4YR,OK,Y,
+2015,24,706,Diamondbacks,LHP,Bryant Holtmann,Florida State,4YR,FL,Y,
+2015,24,707,Rockies,RHP,James McMahon,Southern Mississippi,4YR,MS,Y,
+2015,24,708,Rangers,RHP,Ashton Perritt,Liberty,4YR,VA,Y,
+2015,24,709,Astros,RHP,Chris Murphy,Millersville (Pa.),4YR,PA,Y,
+2015,24,710,Twins,OF,Jaylin Davis,Appalachian State,4YR,NC,Y,
+2015,24,711,Red Sox,LHP,Brad Stone,North Carolina State,4YR,NC,Y,
+2015,24,712,White Sox,RHP,Brandon Magallones,Northwestern,4YR,IL,Y,
+2015,24,713,Cubs,SS,Sutton Whiting,Louisville,4YR,KY,Y,
+2015,24,714,Phillies,LHP,Zach Morris,Maryland,4YR,MD,Y,
+2015,24,715,Reds,RHP,Joe Zanghi,Cumberland (N.J.) JC,JC,NJ,N,
+2015,24,716,Marlins,RHP,Octavio Arroyo,"San Ysidro HS, San Diego",HS,CA,Y,
+2015,24,717,Padres,OF,Jamar Smith,Meridian (Miss.) HS,HS,MS,N,
+2015,24,718,Rays,RHP,Jesus Ortiz,"Miguel Melendez Munoz HS, Bayamon, P.R.",HS,PR,Y,
+2015,24,719,Mets,3B,Jordan Verdon,"Granite Hills HS, El Cajon, Calif.",HS,CA,N,
+2015,24,720,Braves,3B,Jake Lanning,Holy Cross,4YR,MA,Y,
+2015,24,721,Brewers,LHP,Christian Trent,Mississippi,4YR,MS,Y,
+2015,24,722,Blue Jays,OF,Reggie Pruitt,Kennesaw (Ga.) Mountain HS,HS,GA,Y,"$500,000"
+2015,24,723,Yankees,RHP,Paddy O'Brien,UC Santa Barbara,4YR,CA,Y,"$100,000"
+2015,24,724,Indians,2B,Sam Haggerty,New Mexico,4YR,NM,Y,
+2015,24,725,Mariners,RHP,Lance Thonvold,Minnesota,4YR,MN,Y,
+2015,24,726,Giants,C,Zack Bowers,Georgia,4YR,GA,Y,
+2015,24,727,Pirates,C,John Bormann,Texas-San Antonio,4YR,TX,Y,
+2015,24,728,Athletics,RHP,Heath Bowers,Campbell,4YR,NC,Y,
+2015,24,729,Royals,2B,Jonathan McCray,San Bernardino Valley (Calif.) JC,JC,CA,Y,
+2015,24,730,Tigers,RHP,Mike Vinson,Florida,4YR,FL,Y,
+2015,24,731,Cardinals,2B,Daniel Martin,Azusa Pacific (Calif.),4YR,CA,Y,
+2015,24,732,Dodgers,RHP,Cameron Palmer,Toledo,4YR,OH,Y,
+2015,24,733,Orioles,3B,Kirvin Moesquit,Seminole State (Fla.) JC,JC,FL,Y,"$100,000"
+2015,24,734,Nationals,RHP,Blake Smith,West Virginia,4YR,WV,N,
+2015,24,735,Angels,OF,Mitch Esser,Concordia (Calif.),4YR,CA,Y,
+2015,25,736,Diamondbacks,OF,Stephen Dezzi,Tampa,4YR,FL,Y,
+2015,25,737,Rockies,SS,Scotty Burcham,Sacramento State,4YR,CA,Y,
+2015,25,738,Rangers,RHP,DeMarcus Evans,Petal (Miss.) HS,HS,MS,Y,"$100,000"
+2015,25,739,Astros,C,Jorge Martinez,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,
+2015,25,740,Twins,RHP,Logan Lombana,Long Beach State,4YR,CA,Y,
+2015,25,741,Red Sox,C,Andrew Noviello,"Bridgewater-Raynham Regional HS, Bridgewater, Mass.",HS,MA,Y,"$100,000"
+2015,25,742,White Sox,RHP,Richard McWilliams,Cal Poly Pomona,4YR,CA,Y,
+2015,25,743,Cubs,C,Marcus Mastrobuoni,Cal State Stanislaus,4YR,CA,Y,
+2015,25,744,Phillies,RHP,Joey Lauria,Nevada-Las Vegas,4YR,NV,N,
+2015,25,745,Reds,1B,James Vasquez,Central Florida,4YR,FL,Y,
+2015,25,746,Marlins,OF,Alex Fernandez,Nova Southeastern (Fla.),4YR,FL,Y,
+2015,25,747,Padres,RHP,Chase Williams,Wichita State,4YR,KS,N,
+2015,25,748,Rays,1B,Devin Davis,"Valencia HS, Santa Clarita, Calif.",HS,CA,Y,"$100,000"
+2015,25,749,Mets,RHP,Dylan King,"Riverdale HS, Murfreesboro, Tenn.",HS,TN,N,
+2015,25,750,Braves,C,Jonathan Morales,Miami Dade JC,JC,FL,Y,
+2015,25,751,Brewers,LHP,Justin Hooper,"De La Salle HS, Concord, Calif.",HS,CA,N,
+2015,25,752,Blue Jays,RHP,Ryan Feltner,"Walsh Jesuit HS, Cuyahoga Fall, Ohio",HS,OH,N,
+2015,25,753,Yankees,C,Audie Afenir,Oral Roberts,4YR,OK,Y,
+2015,25,754,Indians,OF,Connor Marabell,Jacksonville,4YR,FL,Y,
+2015,25,755,Mariners,RHP,Joe Peeler,"East Rowan HS, Salisbury, N.C.",HS,NC,Y,
+2015,25,756,Giants,RHP,Michael Silva,Loyola Marymount,4YR,CA,N,
+2015,25,757,Pirates,OF,Logan Hill,Troy,4YR,AL,Y,
+2015,25,758,Athletics,LHP,Evan Manarino,UC irvine,4YR,CA,Y,
+2015,25,759,Royals,RHP,Tyler Carvalho,Mesa (Ariz.) JC,JC,AZ,Y,
+2015,25,760,Tigers,RHP,Ryan Castellanos,Nova Southeastern (Fla.),4YR,FL,Y,
+2015,25,761,Cardinals,RHP,Kyle Molnar,"Aliso Niguel HS, Aliso Viejo, Calif.",HS,CA,N,
+2015,25,762,Dodgers,LHP,Rob McDonnell,Illinois,4YR,IL,Y,
+2015,25,763,Orioles,1B,Steve Laurino,Marist,4YR,NY,Y,
+2015,25,764,Nationals,RHP,Calvin Copping,Cal State Northridge,4YR,CA,Y,
+2015,25,765,Angels,OF,Trever Allen,Arizona State,4YR,AZ,Y,
+2015,26,766,Diamondbacks,LHP,Kirby Bellow,Texas,4YR,TX,Y,
+2015,26,767,Rockies,RHP,Drasen Johnson,Illinois,4YR,IL,Y,
+2015,26,768,Rangers,RHP,Jake Shortslef,Herkimer County (N.Y.) JC,JC,NY,Y,
+2015,26,769,Astros,RHP,Ralph Garza,Oklahoma,4YR,OK,Y,
+2015,26,770,Twins,OF,Tyler Williams,"Kellis HS, Glendale, Ariz.",HS,AZ,N,
+2015,26,771,Red Sox,RHP,Kevin Ginkel,Southwestern (Calif.) JC,JC,CA,N,
+2015,26,772,White Sox,SS,Grant Massey,Lipscomb,4YR,TN,Y,
+2015,26,773,Cubs,LHP,Jared Padgett,Graceville (Fla.) HS,HS,FL,N,
+2015,26,774,Phillies,LHP,Andrew Godail,Sam Houston State,4YR,TX,Y,
+2015,26,775,Reds,OF,Dwanya Williams-Sutton,"Greenfield School, Wilson, N.C.",HS,NC,N,
+2015,26,776,Marlins,RHP,Obed Diaz,"Casiano Cepeda HS, Rio Grande, P.R.",HS,PR,Y,
+2015,26,777,Padres,SS,Kodie Tidwell,Louisiana-Monroe,4YR,LA,Y,
+2015,26,778,Rays,RHP,Noel Rodriguez,Paradise Valley (Ariz.) JC,JC,AZ,Y,
+2015,26,779,Mets,LHP,Shane McClanahan,Cape Coral (Fla.) HS,HS,FL,N,
+2015,26,780,Braves,LHP,Ben Libuda,Worcester State (Mass.),4YR,MA,Y,
+2015,26,781,Brewers,SS,Jonathan India,"American Heritage School, Delray Beach, Fla.",HS,FL,N,
+2015,26,782,Blue Jays,1B,Gabe Clark,Oregon State,4YR,OR,Y,
+2015,26,783,Yankees,RHP,Icezack Flemming,Cal State Los Angeles,4YR,CA,Y,
+2015,26,784,Indians,SS,AJ Graffanino,"Northwest Christian HS, Phoenix",HS,AZ,N,
+2015,26,785,Mariners,RHP,Ljay Newsome,"Chopticon HS, Morganza, Md.",HS,MD,Y,
+2015,26,786,Giants,SS,Tyler Brown,JC of Southern Nevada,JC,NV,Y,"$100,000"
+2015,26,787,Pirates,RHP,Shane Kemp,George Washington,4YR,WA,Y,
+2015,26,788,Athletics,C,Jordan Devencenzi,Nevada,4YR,NV,Y,
+2015,26,789,Royals,C,Alex Close,Liberty,4YR,VA,Y,
+2015,26,790,Tigers,RHP,Taylor Hicks,Georgia,4YR,GA,Y,
+2015,26,791,Cardinals,RHP,Brennan Leitao,Sacramento State,4YR,CA,Y,
+2015,26,792,Dodgers,RHP,Marcus Crescentini,Missouri Baptist,4YR,MO,Y,
+2015,26,793,Orioles,RHP,Rocky McCord,Auburn,4YR,AL,Y,
+2015,26,794,Nationals,RHP,Russell Harmening,Westmont (Calif.),4YR,CA,Y,
+2015,26,795,Angels,RHP,Taylor Cobb,Houston,4YR,TX,Y,
+2015,27,796,Diamondbacks,RHP,Cameron Gann,Stephen F. Austin State,4YR,TX,Y,
+2015,27,797,Rockies,C,Campbell Wear,UC Santa Barbara,4YR,CA,Y,
+2015,27,798,Rangers,LHP,Clyde Kendrick,Eastern New Mexico,4YR,NM,Y,
+2015,27,799,Astros,RHP,James Carter,UC Santa Barbara,4YR,CA,N,
+2015,27,800,Twins,LHP,Dalton Sawyer,Minnesota,4YR,MN,N,
+2015,27,801,Red Sox,OF,Saige Jenco,Virginia Tech,4YR,VA,N,
+2015,27,802,White Sox,LHP,Alex Katz,St. John's,4YR,NY,Y,
+2015,27,803,Cubs,2B,Angelo Amendolare,Jacksonville,4YR,FL,Y,
+2015,27,804,Phillies,LHP,Jake Reppert,Northwest Nazarene (Idaho),4YR,ID,Y,
+2015,27,805,Reds,SS,Alejo Lopez,"Greenway HS, Phoenix",HS,AZ,Y,"$150,000"
+2015,27,806,Marlins,SS,Taylor Munden,West Virginia,4YR,WV,Y,
+2015,27,807,Padres,RHP,Colton Howell,Nebraska,4YR,NE,N,
+2015,27,808,Rays,C,Joey Bart,Buford (Ga.) HS,HS,GA,N,
+2015,27,809,Mets,LHP,Jake Higginbotham,Buford (Ga.) HS,HS,GA,N,
+2015,27,810,Braves,3B,Robby Nesovic,UC Santa Barbara,4YR,CA,Y,"$100,000"
+2015,27,811,Brewers,RHP,Jon Perrin,Oklahoma State,4YR,OK,Y,
+2015,27,812,Blue Jays,OF,Jake Thomas,Binghamton,4YR,NY,Y,
+2015,27,813,Yankees,1B,Michael Hicks,Couer d'Alene (Idaho) HS,HS,ID,N,
+2015,27,814,Indians,RHP,Austin Rubick,"Buena HS, Ventura, Calif.",HS,CA,N,
+2015,27,815,Mariners,RHP,Michael Rivera,"Colegio Hector Urdaneta HS, Rio Grande, P.R.",HS,PR,Y,
+2015,27,816,Giants,C,Bryan Case,Oklahoma State,4YR,OK,Y,
+2015,27,817,Pirates,OF,Ryan Nagle,Illinois,4YR,IL,Y,"$160,000"
+2015,27,818,Athletics,RHP,Xavier Altamirano,Oral Roberts,4YR,OK,Y,
+2015,27,819,Royals,RHP,Jacob Bodner,Xavier,4YR,OH,Y,
+2015,27,820,Tigers,C,Tyler Servais,Princeton,4YR,NJ,Y,
+2015,27,821,Cardinals,RHP,Greg Tomchick,Old Dominion,4YR,VA,Y,
+2015,27,822,Dodgers,RHP,Ivan Vieitez,Lenoir-Rhyne (N.C.),4YR,NC,Y,
+2015,27,823,Orioles,C,Stuart Levy,Arkansas State,4YR,AR,Y,
+2015,27,824,Nationals,RHP,Ryan Brinley,Sam Houston State,4YR,TX,Y,
+2015,27,825,Angels,OF,Sam Koenig,Wisconsin-Milwaukee,4YR,WI,Y,
+2015,28,826,Diamondbacks,C,Jesse Wilkening,"Hanover Central HS, Cedar Lake, Ind.",HS,IN,N,
+2015,28,827,Rockies,SS,Tyler Follis,North Dakota,4YR,ND,Y,
+2015,28,828,Rangers,2B,Blaine Prescott,Midland (Texas) JC,JC,TX,Y,
+2015,28,829,Astros,RHP,Zac Grotz,Embry-Riddle (Fla.),4YR,FL,Y,
+2015,28,830,Twins,OF,Jonathan Engelmann,Burlingame (Calif.) HS,HS,CA,N,
+2015,28,831,Red Sox,3B,Steve Mangrum,"Western Albemarle HS, Crozet, Va.",HS,VA,N,
+2015,28,832,White Sox,3B,Bradley Strong,Western Carolina,4YR,NC,Y,
+2015,28,833,Cubs,SS,Delvin Zinn,Pontotoc (Miss.) HS,HS,MS,N,
+2015,28,834,Phillies,RHP,Gandy Stubblefield,West Alabama,4YR,AL,Y,
+2015,28,835,Reds,RHP,Ronnie Rossomando,"Bunnell HS, Stratford, Conn.",HS,CT,N,
+2015,28,836,Marlins,LHP,Jeff Kinley,Michigan State,4YR,MI,Y,
+2015,28,837,Padres,LHP,Corey Hale,Mobile (Ala.),4YR,AL,Y,
+2015,28,838,Rays,OF,Desmond Chumley,Longview (Texas) HS,HS,TX,N,
+2015,28,839,Mets,C,Anthony Dimino,Belmont Abbey (N.C.),4YR,NC,Y,
+2015,28,840,Braves,RHP,Curtiss Pomeroy,Georgetown,4YR,DC,N,
+2015,28,841,Brewers,C,Mitch Ghelfi,Wisconsin-Milwaukee,4YR,WI,Y,
+2015,28,842,Blue Jays,1B,Levi Scott,Texas-Arlington,4YR,TX,Y,
+2015,28,843,Yankees,RHP,David Sosebee,Georgia,4YR,GA,Y,
+2015,28,844,Indians,C,Jack Goihl,Augustana (S.D.),4YR,SD,Y,
+2015,28,845,Mariners,SS,Taylor Perez,St. Leo (Fla.),4YR,FL,Y,
+2015,28,846,Giants,OF,Ashford Fulmer,Houston,4YR,TX,Y,
+2015,28,847,Pirates,1B,Albert Baur,Newberry (S.C.),4YR,SC,Y,
+2015,28,848,Athletics,RHP,Marc Berube,Pittsburgh,4YR,PA,Y,
+2015,28,849,Royals,RHP,Reed Hayes,Walters State (Tenn.) JC,JC,TN,N,
+2015,28,850,Tigers,2B,Pat MacKenzie,Central Michigan,4YR,MI,Y,
+2015,28,851,Cardinals,RHP,Mitchell Traver,Texas Christian,4YR,TX,N,
+2015,28,852,Dodgers,OF,Kyle Garlick,Cal Poly Pomona,4YR,CA,Y,
+2015,28,853,Orioles,RHP,Christian Turnipseed,Georgia-Gwinnett,4YR,GA,Y,
+2015,28,854,Nationals,RHP,Mick VanVossen,Michigan State,4YR,MI,Y,
+2015,28,855,Angels,RHP,Aaron Rhodes,Florida,4YR,FL,Y,
+2015,29,856,Diamondbacks,RHP,Keegan Long,St. Joseph's (Ind.),4YR,IN,Y,
+2015,29,857,Rockies,RHP,Hayden Jones,Valdosta State (Ga.),4YR,GA,Y,
+2015,29,858,Rangers,RHP,Maikor Mora,Polk State (Fla.) JC,JC,FL,Y,
+2015,29,859,Astros,2B,Brooks Marlow,Texas,4YR,TX,Y,
+2015,29,860,Twins,C,Brad Hartong,Indiana,4YR,IN,Y,
+2015,29,861,Red Sox,RHP,Will Stillman,Wofford,4YR,SC,N,
+2015,29,862,White Sox,OF,Jake Fincher,North Carolina State,4YR,NC,Y,
+2015,29,863,Cubs,C,Ian Rice,Houston,4YR,TX,Y,
+2015,29,864,Phillies,OF,Von Watson,"Briarcrest Christian HS, Eads, Tenn.",HS,TN,N,
+2015,29,865,Reds,C,Elih Marrero,Coral Gables (Fla.) HS,HS,FL,N,
+2015,29,866,Marlins,RHP,Ben Meyer,Minnesota,4YR,MN,Y,
+2015,29,867,Padres,2B,Tyler Moore,South Carolina-Aiken,4YR,SC,Y,
+2015,29,868,Rays,1B,Shane Potter,"La Costa Canyon HS, Carlsbad, Calif.",HS,CA,N,
+2015,29,869,Mets,LHP,Seth Davis,Augustana (Ill.),4YR,IL,Y,
+2015,29,870,Braves,C,Collin Yelich,Sam Houston State,4YR,TX,Y,"$100,000"
+2015,29,871,Brewers,RHP,Donny Everett,Clarksville (Tenn.) HS,HS,TN,N,
+2015,29,872,Blue Jays,RHP,Kyle Davis,Southern California,4YR,CA,N,
+2015,29,873,Yankees,1B,Kane Sweeney,Morehead State,4YR,KY,Y,
+2015,29,874,Indians,RHP,Christian Meister,"Federal Way, Wash. (no school)",Other,WA,Y,
+2015,29,875,Mariners,LHP,Jared West,Louisiana State-Shreveport,4YR,LA,Y,
+2015,29,876,Giants,RHP,Matthias Dietz,John A. Logan (Ill.) JC,JC,IL,N,
+2015,29,877,Pirates,LHP,Chris Falwell,Cisco (Texas) JC,JC,TX,N,
+2015,29,878,Athletics,RHP,Armando Ruiz,Alabama State,4YR,AL,Y,
+2015,29,879,Royals,LHP,Mark McCoy,Rutgers,4YR,NJ,Y,
+2015,29,880,Tigers,OF,Dayton Dugas,"Houston HS, Moss Bluff, La.",HS,LA,N,
+2015,29,881,Cardinals,RHP,Ben Yokley,Air Force,4YR,CO,Y,
+2015,29,882,Dodgers,RHP,Jason Bilous,"Caravel Academy, Bear, Del.",HS,DE,N,
+2015,29,883,Orioles,C,Gabriel Garcia,Montverde (Fla.) Academy,HS,FL,N,
+2015,29,884,Nationals,OF,Philip Diedrick,Western Kentucky,4YR,KY,Y,
+2015,29,885,Angels,RHP,Cody Pope,Eastern New Mexico,4YR,NM,Y,
+2015,30,886,Diamondbacks,2B,Jeff Smith,Missouri Baptist,4YR,MO,Y,
+2015,30,887,Rockies,RHP,Matt Meier,Lindenwood (Mo.),4YR,MO,Y,
+2015,30,888,Rangers,LHP,Jeffrey Springs,Appalachian State,4YR,NC,Y,
+2015,30,889,Astros,3B,Bobby Wernes,Arkansas,4YR,AR,Y,"$100,000"
+2015,30,890,Twins,OF,Greg Popylisen,El Paso JC,JC,TX,N,
+2015,30,891,Red Sox,C,Jack Conley,"Leesville Road HS, Raleigh, N.C.",HS,NC,N,
+2015,30,892,White Sox,RHP,Jack Charleston,Faulkner (Ala.),4YR,AL,Y,
+2015,30,893,Cubs,C,Tyler Payne,West Virginia State,4YR,WV,Y,
+2015,30,894,Phillies,OF,Kyle Nowlin,Eastern Kentucky,4YR,KY,N,
+2015,30,895,Reds,1B,Joseph Purritano,Dartmouth,4YR,NH,N,
+2015,30,896,Marlins,SS,Joe Chavez,UC Riverside,4YR,CA,Y,
+2015,30,897,Padres,C,A.J. Kennedy,Cal State Fullerton,4YR,CA,Y,
+2015,30,898,Rays,SS,Kyle Teaf,South Florida,4YR,FL,N,
+2015,30,899,Mets,RHP,Jackson Wark,"Bellerose Composite HS, St. Albert, Alberta",HS,CN,N,
+2015,30,900,Braves,LHP,Doug Still,Jefferson (Mo.) JC,JC,MO,N,
+2015,30,901,Brewers,SS,Charlie Donovan,Westmont (Ill.) HS,HS,IL,N,
+2015,30,902,Blue Jays,OF,Earl Burl,Alcorn State,4YR,MS,Y,
+2015,30,903,Yankees,RHP,Chad Martin,Delaware,4YR,DE,Y,
+2015,30,904,Indians,RHP,Chandler Day,"Watkins Memorial HS, Pataskala, Ohio",HS,OH,N,
+2015,30,905,Mariners,OF,Gus Craig,Columbia,4YR,NY,Y,
+2015,30,906,Giants,RHP,Tucker Forbes,UCLA,4YR,CA,N,
+2015,30,907,Pirates,RHP,Mike Wallace,Fairfield,4YR,CT,Y,
+2015,30,908,Athletics,RHP,Brendan Butler,Dowling (N.Y.),4YR,NY,Y,
+2015,30,909,Royals,OF,Luke Willis,George Mason,4YR,VA,Y,
+2015,30,910,Tigers,RHP,Cole McKay,"Smithson Valley HS, Spring Branch, Texas",HS,TX,N,
+2015,30,911,Cardinals,OF,Matt Vierling,"Christian Brothers College HS, St. Louis",HS,MO,N,
+2015,30,912,Dodgers,RHP,Logan Crouse,"Bloomingdale HS, Valrico, Fla.",HS,FL,Y,"$497,500"
+2015,30,913,Orioles,RHP,Andrew Elliott,Wright State,4YR,OH,Y,
+2015,30,914,Nationals,RHP,Jorge Pantoja,Alabama State,4YR,AL,Y,
+2015,30,915,Angels,1B,Nick Lynch,UC Davis,4YR,CA,Y,
+2015,31,916,Diamondbacks,3B,Vance Vizcaino,Stetson,4YR,FL,N,
+2015,31,917,Rockies,RHP,Hector Moreta,"Calusa Prep HS, Miami",HS,FL,Y,
+2015,31,918,Rangers,OF,Jamie Potts,Grand Valley State (Mich.),4YR,MI,Y,
+2015,31,919,Astros,SS,Keach Ballard,Oklahoma Baptist,4YR,OK,Y,
+2015,31,920,Twins,OF,Tristan Pompey,"Jean Vanier Catholic SS, Milton, Ontario",HS,CN,N,
+2015,31,921,Red Sox,RHP,Nick Duron,Clark (Wash.) JC,JC,WA,Y,
+2015,31,922,White Sox,2B,David Walker,Grand Canyon (Ariz.),4YR,AZ,Y,
+2015,31,923,Cubs,OF,Daniel Spingola,Georgia Tech,4YR,GA,Y,
+2015,31,924,Phillies,LHP,Nick Fanti,"Hauppauge HS, Smithtown, N.Y.",HS,NY,Y,"$100,000"
+2015,31,925,Reds,2B,Ethan Skender,Metamora (Ill.) Township HS,HS,IL,N,
+2015,31,926,Marlins,OF,Griffin Conine,"Pine Crest HS, Fort Lauderdale",HS,FL,N,
+2015,31,927,Padres,RHP,Andres Gracia,Samford,4YR,AL,N,
+2015,31,928,Rays,RHP,Tim Ingram,SUNY Old Westbury,4YR,NY,Y,
+2015,31,929,Mets,RHP,Tanner Dodson,"Jesuit HS, Carmichael, Calif.",HS,CA,N,
+2015,31,930,Braves,RHP,Matt Custred,Texas Tech,4YR,TX,Y,
+2015,31,931,Brewers,RHP,Colton Cross,Shorter (Ga.),4YR,GA,Y,
+2015,31,932,Blue Jays,RHP,Josh Degraaf,Taylor (Ind.),4YR,IN,Y,
+2015,31,933,Yankees,RHP,Hobie Harris,Pittsburgh,4YR,PA,Y,
+2015,31,934,Indians,2B,Dillon Persinger,Golden West (Calif.) JC,JC,CA,N,
+2015,31,935,Mariners,LHP,Logan James,Stanford,4YR,CA,Y,
+2015,31,936,Giants,SS,Ryan Howard,Missouri,4YR,MO,N,
+2015,31,937,Pirates,RHP,Riley Smith,San Jacinto (Texas) JC,JC,TX,N,
+2015,31,938,Athletics,RHP,John Gorman,Boston College,4YR,MA,Y,
+2015,31,939,Royals,SS,Brian Bien,Bowling Green State,4YR,OH,Y,
+2015,31,940,Tigers,1B,Blaise Salter,Michigan State,4YR,MI,Y,
+2015,31,941,Cardinals,LHP,Aaron Coates,"Glasgow HS, Newark, Del.",HS,DE,N,
+2015,31,942,Dodgers,RHP,Corey Copping,Oklahoma,4YR,OK,Y,
+2015,31,943,Orioles,LHP,Will Shepley,UNC Wilmington,4YR,NC,Y,
+2015,31,944,Nationals,LHP,Nick Sprengel,"El Dorado HS, Placentia, Calif.",HS,CA,N,
+2015,31,945,Angels,C,Izaak Silva,UC Davis,4YR,CA,Y,
+2015,32,946,Diamondbacks,RHP,Bryan Hoeing,Batesville (Ind.) HS,HS,IN,N,
+2015,32,947,Rockies,OF,Jensen Park,Northern Colorado,4YR,CO,Y,
+2015,32,948,Rangers,RHP,John Werner,St. Catharine (Ky.),4YR,KY,Y,
+2015,32,949,Astros,OF,Aaron Mizell,Georgia Southern,4YR,GA,Y,
+2015,32,950,Twins,LHP,Andrew Vasquez,Westmont (Calif.),4YR,CA,Y,
+2015,32,951,Red Sox,RHP,Clate Schmidt,Clemson,4YR,SC,N,
+2015,32,952,White Sox,RHP,Taylore Cherry,North Carolina,4YR,NC,Y,
+2015,32,953,Cubs,RHP,Fitz Stadler,"Glenbrook South HS, Glenview, Ill.",HS,IL,N,
+2015,32,954,Phillies,OF,Reggie Wilson,Oklahoma City,4YR,OK,Y,
+2015,32,955,Reds,RHP,Will McAffer,"Sentinel SS, West Vancouver, B.C.",HS,CN,N,
+2015,32,956,Marlins,3B,Kris Goodman,Iowa,4YR,IA,Y,
+2015,32,957,Padres,RHP,Lou Distasio,Rhode Island,4YR,RI,Y,
+2015,32,958,Rays,RHP,Ty Jackson,Lewis-Clark State (Idaho),4YR,ID,Y,
+2015,32,959,Mets,RHP,Dustin Beggs,Kentucky,4YR,KY,N,
+2015,32,960,Braves,OF,D.J. Neal,"Stephenson HS, Stone Mountain, Ga.",HS,GA,N,
+2015,32,961,Brewers,RHP,Sean Chandler,"Papillion-La Vista HS, Papillion, Neb.",HS,NE,N,
+2015,32,962,Blue Jays,2B,Andrew Guillotte,McNeese State,4YR,LA,Y,
+2015,32,963,Yankees,RHP,Alex Robinett,Army,4YR,NY,Y,
+2015,32,964,Indians,LHP,Jacob Hill,San Diego,4YR,CA,N,
+2015,32,965,Mariners,RHP,Colin Tornberg,Texas-Arlington,4YR,TX,Y,
+2015,32,966,Giants,RHP,Jeff Burke,Boston College,4YR,MA,Y,
+2015,32,967,Pirates,LHP,Cole Irvin,Oregon,4YR,OR,N,
+2015,32,968,Athletics,RHP,Michael Murray,Florida Gulf Coast,4YR,FL,Y,
+2015,32,969,Royals,LHP,Jake Kalish,George Mason,4YR,VA,Y,
+2015,32,970,Tigers,SS,Trey Dawson,Hurricane (W.Va.) HS,HS,WV,N,
+2015,32,971,Cardinals,OF,Tom Spitz,Wingate (N.C.),4YR,NC,Y,
+2015,32,972,Dodgers,SS,Nick Dean,Maryville (Tenn.),4YR,TN,Y,
+2015,32,973,Orioles,RHP,Cody Morris,"Reservoir HS, Fulton, Md.",HS,MD,N,
+2015,32,974,Nationals,3B,Dalton DiNatale,Arizona State,4YR,AZ,Y,
+2015,32,975,Angels,LHP,Conor Lillis-White,British Columbia,4YR,CN,Y,
+2015,33,976,Diamondbacks,OF,Luis Silverio,Eastern Florida State JC,JC,FL,Y,
+2015,33,977,Rockies,C,Wyatt Cross,"Legacy HS, Broomfield, Colo.",HS,CO,N,
+2015,33,978,Rangers,LHP,C.D. Pelham,Spartanburg Methodist (S.C.) JC,JC,SC,Y,
+2015,33,979,Astros,2B,Kolbey Carpenter,Oklahoma,4YR,OK,Y,"$100,000"
+2015,33,980,Twins,C,Colin Theroux,San Joaquin Delta (Calif.) JC,JC,CA,N,
+2015,33,981,Red Sox,2B,Cal Smith,"Fort Worth Christian HS, Richland Hills, Texas",HS,TX,N,
+2015,33,982,White Sox,LHP,Johnathan Frebis,Middle Tennessee State,4YR,TN,Y,
+2015,33,983,Cubs,RHP,M.T. Minacci,"Tallahassee, Fla. (no school)",Other,FL,Y,
+2015,33,984,Phillies,RHP,Jacob Stevens,"Choate Rosemary Hall HS, Wallingford, Conn.",HS,CT,N,
+2015,33,985,Reds,RHP,Tyler Peyton,Iowa,4YR,IA,N,
+2015,33,986,Marlins,RHP,Ryley MacEachern,Stony Brook,4YR,NY,Y,
+2015,33,987,Padres,RHP,Braxton Lorenzini,West Hills (Calif.) JC,JC,CA,Y,
+2015,33,988,Rays,RHP,Collin Chapman,Lamar,4YR,TX,Y,
+2015,33,989,Mets,C,Brendan Illies,Puyallup (Wash.) HS,HS,WA,N,
+2015,33,990,Braves,OF,Terry Godwin,"Callaway HS, Hogansville, Ga.",HS,GA,N,
+2015,33,991,Brewers,RHP,Connor Baits,UC Santa Barbara,4YR,CA,Y,
+2015,33,992,Blue Jays,OF,Kalik May,Mississippi Valley State,4YR,MS,Y,
+2015,33,993,Yankees,RHP,Christian Morris,Indiana,4YR,IN,Y,
+2015,33,994,Indians,C,Garrett Wolforth,"Concordia Luthern HS, Tomball, Texas",HS,TX,N,
+2015,33,995,Mariners,SS,Julius Gaines,Florida International,4YR,FL,Y,
+2015,33,996,Giants,RHP,Rafael Ramirez,"Calusa Prep HS, Miami",HS,FL,N,
+2015,33,997,Pirates,LHP,Sean Keselica,Virginia Tech,4YR,VA,Y,
+2015,33,998,Athletics,OF,Mike Martin,Harvard,4YR,MA,Y,
+2015,33,999,Royals,C,Nate Esposito,Concordia (Ore.),4YR,OR,Y,
+2015,33,1000,Tigers,C,Nick Dalesandro,Joliet (Ill.) Catholic Academy,HS,IL,N,
+2015,33,1001,Cardinals,LHP,Chandler Hawkins,Arkansas State,4YR,AR,Y,
+2015,33,1002,Dodgers,RHP,Adam Bray,South Dakota State,4YR,SD,Y,
+2015,33,1003,Orioles,RHP,Steven Klimek,St. Bonaventure,4YR,NY,Y,
+2015,33,1004,Nationals,SS,Angelo La Bruna,Southern California,4YR,CA,Y,
+2015,33,1005,Angels,LHP,Winston Lavendier,Cal State Dominguez Hills,4YR,CA,Y,
+2015,34,1006,Diamondbacks,OF,Jake Peevyhouse,Arizona State,4YR,AZ,Y,
+2015,34,1007,Rockies,C,Michael Benson,"Rancho Buena Vista HS, Vista, Calif.",HS,CA,N,
+2015,34,1008,Rangers,LHP,Joeanthony Rivera,Barry (Fla.),4YR,FL,Y,
+2015,34,1009,Astros,OF,Conor Biggio,Notre Dame,4YR,IN,N,
+2015,34,1010,Twins,C,Brian Olson,Seattle,4YR,WA,Y,
+2015,34,1011,Red Sox,SS,Nick Lovullo,Holy Cross,4YR,IN,N,
+2015,34,1012,White Sox,RHP,Drew Hasler,Valpariso,4YR,IN,Y,
+2015,34,1013,Cubs,OF,Cody Hawken,"Union HS, Camas, Wash.",HS,WA,N,
+2015,34,1014,Phillies,OF,Ben Pelletier,"Ecole Secondaire des Montagnes, Saint-Michael-des-Saints, Quebec",HS,CN,Y,"$135,000"
+2015,34,1015,Reds,RHP,Connor Bennett,Buford (Ga.) HS,HS,GA,Y,"$250,000"
+2015,34,1016,Marlins,OF,Brandon Rawe,Morehead State,4YR,KY,Y,
+2015,34,1017,Padres,3B,Ty France,San Diego State,4YR,CA,Y,"$100,000"
+2015,34,1018,Rays,OF,Ryan Caldwell,"Ezell-Harding Christian HS, Antioch, Tenn.",HS,TN,Y,
+2015,34,1019,Mets,RHP,L.T. Tolbert,"IMG Academy, Bradenton, Fla.",HS,FL,N,
+2015,34,1020,Braves,SS,Carter Hall,"Wesleyan HS, Norcross, Ga.",HS,GA,N,
+2015,34,1021,Brewers,RHP,Tristan Beck,Corona (Calif.) HS,HS,CA,N,
+2015,34,1022,Blue Jays,LHP,Hunter Barnett,Mount Olive (N.C.),JC,NC,Y,
+2015,34,1023,Yankees,LHP,Andrew Miller,"Sterling HS, Somerdale, N.J.",HS,NJ,N,
+2015,34,1024,Indians,RHP,Andrew Cabezas,"Mater Academy Charter HS, Hialeah Gardens, Fla.",HS,FL,N,
+2015,34,1025,Mariners,LHP,Kyle Ostrowski,"Lincoln-Way North HS, Frankfort, Ill.",HS,IL,N,
+2015,34,1026,Giants,SS,Travis Moniot,Palm Desert (Calif.) HS,HS,CA,N,
+2015,34,1027,Pirates,3B,Bren Spillane,Wheeling (Ill.) HS,HS,IL,N,
+2015,34,1028,Athletics,1B,Shane Conlon,Kansas State,4YR,KS,Y,
+2015,34,1029,Royals,1B,Taylor Ostrich,Old Dominion,4YR,VA,Y,
+2015,34,1030,Tigers,3B,Andrew McWilliam,San Diego Mesa JC,JC,CA,N,
+2015,34,1031,Cardinals,RHP,Parker Kelly,"Westview HS, Portland, Ore.",HS,OR,N,
+2015,34,1032,Dodgers,RHP,Luis Rodriguez,"Calusa Prep HS, Miami",HS,FL,Y,"$100,000"
+2015,34,1033,Orioles,RHP,Kory Groves,Cal State Monterey Bay,4YR,CA,Y,
+2015,34,1034,Nationals,LHP,Tyler Watson,"Perry HS, Gilbert, Ariz.",HS,AZ,Y,"$400,000"
+2015,34,1035,Angels,3B,Nick Flair,Tampa,4YR,FL,Y,
+2015,35,1036,Diamondbacks,OF,Quinnton Mack,New Mexico State,4YR,NM,Y,
+2015,35,1037,Rockies,RHP,Ryan Madden,"Fairview HS, Boulder, Colo.",HS,CO,N,
+2015,35,1038,Rangers,RHP,Isaiah Carranza,"Damien HS, La Verne, Calif.",HS,CA,N,
+2015,35,1039,Astros,SS,Kody Clemens,"Memorial HS, Hedwig Village, Texas",HS,TX,N,
+2015,35,1040,Twins,RHP,Hector Lujan,Westmont (Calif.),4YR,CA,Y,
+2015,35,1041,Red Sox,OF,Tyler Spoon,Arkansas,4YR,AR,Y,
+2015,35,1042,White Sox,SS,Derek King,Hillsborough (Fla.) JC,JC,FL,N,
+2015,35,1043,Cubs,1B,Taylor Jones,Gonzaga,4YR,WA,N,
+2015,35,1044,Phillies,OF,Andrew Amaro,Tampa,4YR,FL,Y,
+2015,35,1045,Reds,OF,Alexander Krupa,Iowa Western JC,JC,IA,N,
+2015,35,1046,Marlins,OF,Cameron Newell,UC Santa Barbara,4YR,CA,Y,
+2015,35,1047,Padres,LHP,Nathan Foriest,Middle Tennessee State,4YR,TN,Y,
+2015,35,1048,Rays,2B,Blake Butera,Boston College,4YR,MA,Y,
+2015,35,1049,Mets,RHP,George Thanopoulos,Columbia,4YR,NY,N,
+2015,35,1050,Braves,C,Chase Smartt,"Henderson HS, Troy, Ala.",HS,AL,N,
+2015,35,1051,Brewers,LHP,Quintin Torres-Costa,Hawaii,4YR,HI,Y,
+2015,35,1052,Blue Jays,LHP,Stuart Holmes,Nicholls State,4YR,LA,Y,
+2015,35,1053,Yankees,RHP,Alex Bisacca,Sam Houston State,4YR,TX,Y,
+2015,35,1054,Indians,C,Cade Tremie,New Waverly (Texas) HS,HS,TX,N,
+2015,35,1055,Mariners,RHP,Gianni Zayas,Florida International,4YR,FL,Y,
+2015,35,1056,Giants,RHP,Drew Jackson,Florida Atlantic,4YR,FL,Y,
+2015,35,1057,Pirates,1B,Jordan George,Arkansas State,4YR,AR,Y,
+2015,35,1058,Athletics,SS,Tim Proudfoot,Texas Tech,4YR,TX,Y,
+2015,35,1059,Royals,SS,Trey Stover,Hartford,4YR,CT,Y,
+2015,35,1060,Tigers,RHP,Connor Lungwitz,Maize (Kan.) HS,HS,KS,N,
+2015,35,1061,Cardinals,RHP,Luke Harrison,Indiana,4YR,,Y,
+2015,35,1062,Dodgers,C,Gage Green,Oklahoma State,4YR,OK,Y,
+2015,35,1063,Orioles,RHP,Guillermo Trujillo,Oral Roberts,4YR,OK,N,
+2015,35,1064,Nationals,SS,Coco Montes,Coral Gables (Fla.) HS,HS,FL,N,
+2015,35,1065,Angels,OF,Jordan Serena,Columbia,4YR,NY,Y,
+2015,36,1066,Diamondbacks,LHP,Cameron Smith,Texas Tech,4YR,TX,Y,
+2015,36,1067,Rockies,RHP,Andy Pagnozzi,Fayetteville (Ark.) HS,HS,AR,N,
+2015,36,1068,Rangers,OF,DJ Peters,Western Nevada JC,JC,NV,N,
+2015,36,1069,Astros,RHP,Ryan Deemes,Nicholls State,4YR,LA,Y,
+2015,36,1070,Twins,RHP,Rich Condeelis,Pittsburgh,4YR,PA,Y,
+2015,36,1071,Red Sox,RHP,Trevor Kelley,North Carolina,4YR,NC,Y,
+2015,36,1072,White Sox,C,Michael Hickman,"Seven Lakes HS, Katy, Texas",HS,TX,N,
+2015,36,1073,Cubs,SS,Alonzo Jones,Columbus (Ga.) HS,HS,GA,N,
+2015,36,1074,Phillies,RHP,Gabe Gonzalez,JC of Southern Nevada,JC,NV,N,
+2015,36,1075,Reds,RHP,Mitchell Tripp,Central Florida,4YR,FL,Y,
+2015,36,1076,Marlins,LHP,Gunnar Kines,Mount Olive (N.C.),4YR,NC,Y,
+2015,36,1077,Padres,RHP,Alex Webb,British Columbia,4YR,CN,N,
+2015,36,1078,Rays,RHP,Bryan Bonnell,Nevada-Las Vegas,4YR,NV,Y,
+2015,36,1079,Mets,OF,Anthony Gordon,"Terra Nova HS, Pacifica, Calif.",HS,CA,N,
+2015,36,1080,Braves,2B,Luis Lopez,"Colegio Catolico Notre Dame HS, Caguas, P.R.",HS,PR,N,
+2015,36,1081,Brewers,RHP,Jordan Desguin,Florida Gulf Coast,4YR,FL,Y,
+2015,36,1082,Blue Jays,OF,Lance Jones,Southern,4YR,LA,Y,
+2015,36,1083,Yankees,RHP,Dustin Cook,Oklahoma City,4YR,OK,Y,
+2015,36,1084,Indians,RHP,Ryan Colegate,Ohio Dominican,4YR,OH,Y,
+2015,36,1085,Mariners,RHP,Matt Walker,Weatherford (Texas) JC,JC,TX,Y,"$100,000"
+2015,36,1086,Giants,LHP,Brendon Little,"Conestoga HS, Berwyn, Pa.",HS,PA,N,
+2015,36,1087,Pirates,RHP,James Marvel,Duke,4YR,NC,Y,"$150,000"
+2015,36,1088,Athletics,RHP,Troy Rallings,Washington,4YR,WA,N,
+2015,36,1089,Royals,2B,Tanner Stanley,Richmond,4YR,VA,Y,
+2015,36,1090,Tigers,SS,Daniel Pinero,Virginia,4YR,VA,N,
+2015,36,1091,Cardinals,2B,Dylan Tice,West Chester (Pa.),4YR,PA,Y,
+2015,36,1092,Dodgers,RHP,Drayton Riekenberg,Fresno JC,JC,CA,Y,
+2015,36,1093,Orioles,LHP,Xavier Borde,Arizona,4YR,AZ,Y,
+2015,36,1094,Nationals,SS,Taylor Bush,"The Linfield Christian HS, Temecula, Calif.",HS,CA,N,
+2015,36,1095,Angels,OF,Sam McDonnell,Navarro (Texas) JC,JC,TX,Y,
+2015,37,1096,Diamondbacks,OF,Max Brown,Kansas State,4YR,KS,Y,
+2015,37,1097,Rockies,SS,Marc Mumper,"Mountain Vista HS, Highlands Ranch, Colo.",HS,CO,N,
+2015,37,1098,Rangers,RHP,Billy Layne,"Old Bridge HS, Matawan, N.J.",HS,NJ,N,
+2015,37,1099,Astros,RHP,Luken Baker,"Oak Ridge HS, Conroe, Texas",HS,TX,N,
+2015,37,1100,Twins,RHP,Jake Irvin,Bloomington (Minn.) Jefferson HS,HS,MN,N,
+2015,37,1101,Red Sox,RHP,Adam Lau,Alabama-Birmingham,4YR,AL,Y,
+2015,37,1102,White Sox,LHP,Garvin Alston,"Mountain Point HS, Phoenix",HS,AZ,N,
+2015,37,1103,Cubs,OF,Donnie Cimino,Wesleyan (Conn.),4YR,CT,Y,
+2015,37,1104,Phillies,RHP,Malcolm Grady,"Homewood-Flossmoor HS, Flossmoor, Ill.",HS,IL,N,
+2015,37,1105,Reds,RHP,Riley Thompson,Christian Academy of Louisville,HS,KY,N,
+2015,37,1106,Marlins,OF,Ruben Cardenas,"Bishop Alemay HS, Mission Hills, Calif.",HS,CA,N,
+2015,37,1107,Padres,RHP,Blake Rogers,Oklahoma,4YR,OK,Y,
+2015,37,1108,Rays,1B,Kewby Meyer,Nevada,4YR,NV,Y,
+2015,37,1109,Mets,RHP,Geoff Hartlieb,Lindenwood (Mo.),4YR,MO,N,
+2015,37,1110,Braves,SS,Jackson Webb,"Johnson Ferry Christian Academy, Marietta, Ga.",HS,GA,N,
+2015,37,1111,Brewers,OF,Brandon Gonzalez,Cypress (Calif.) JC,JC,CA,N,
+2015,37,1112,Blue Jays,LHP,Randy Labaut,Downey (Calif.) HS,HS,CA,N,
+2015,37,1113,Yankees,3B,Matt Schmidt,"Regis Jesuit HS, Aurora, Colo.",HS,CO,N,
+2015,37,1114,Indians,RHP,Lucas Humpal,Texas State,4YR,TX,N,
+2015,37,1115,Mariners,OF,Colton Sakamato,"Westview HS, Portland, Ore.",HS,OR,N,
+2015,37,1116,Giants,3B,Mark Weist,Michigan State,4YR,MI,Y,
+2015,37,1117,Pirates,SS,Eli White,Clemson,4YR,SC,N,
+2015,37,1118,Athletics,LHP,Andy Cox,Tennessee,4YR,TN,N,
+2015,37,1119,Royals,RHP,Jacob Ruder,Nixa (Mo.) HS,HS,MO,N,
+2015,37,1120,Tigers,LHP,Andrew Naderer,Grand Canyon (Ariz.),4YR,AZ,N,
+2015,37,1121,Cardinals,C,Stephen Zavala,Whittier (Calif.),4YR,CA,Y,
+2015,37,1122,Dodgers,RHP,Casey Mulholland,South Florida,4YR,FL,Y,
+2015,37,1123,Orioles,OF,Jake Pries,"JSerra HS, San Juan Capistrano, Calif.",HS,CA,N,
+2015,37,1124,Nationals,SS,Stephen DiPuglia,Cooper City (Fla.) HS,HS,FL,N,
+2015,37,1125,Angels,OF,Josh Delph,Florida State,4YR,FL,Y,
+2015,38,1126,Diamondbacks,3B,Josh Anderson,Florida International,4YR,FL,Y,
+2015,38,1127,Rockies,2B,Jake Singer,"Torrey Pines HS, San Diego",HS,CA,N,
+2015,38,1128,Rangers,3B,Dean Long,Emporia State (Kan.),4YR,KS,Y,
+2015,38,1129,Astros,1B,Nick Rivera,Florida Gulf Coast,4YR,FL,Y,
+2015,38,1130,Twins,OF,Alex McKenna,"Bishop Alemany HS, Mission Hills, Calif.",HS,CA,N,
+2015,38,1131,Red Sox,OF,C.J. Ballard,"Pike County HS, Zebulon, Ga.",HS,GA,N,
+2015,38,1132,White Sox,OF,Cody Staab,College Station (Texas) HS,HS,TX,N,
+2015,38,1133,Cubs,RHP,Rayne Supple,"Champlain Valley Union HS, Hinesburg, Vt.",HS,VT,N,
+2015,38,1134,Phillies,SS,Beau Brundage,"Mill Creek HS, Hoschton, Ga.",HS,GA,N,
+2015,38,1135,Reds,3B,Matt Kroon,"Horizon HS, Scottsdale, Ariz.",HS,AZ,N,
+2015,38,1136,Marlins,OF,C.J. Newsome,Columbia (Miss.) HS,HS,MS,N,
+2015,38,1137,Padres,RHP,Dean Kremer,San Joaquin Delta (Calif.) JC,JC,CA,N,
+2015,38,1138,Rays,1B,Steven Sensley,Louisiana State-Eunice JC,JC,LA,N,
+2015,38,1139,Mets,LHP,Jake Wyrick,Cleveland State (Tenn.) JC,JC,TN,N,
+2015,38,1140,Braves,1B,Liam Scafariello,Southington (Conn.) HS,HS,CT,N,
+2015,38,1141,Brewers,RHP,Scott Grist,Texas State,4YR,TX,Y,
+2015,38,1142,Blue Jays,C,Josh Reavis,Radford,4YR,VA,Y,
+2015,38,1143,Yankees,2B,Mike Garzillo,Lehigh,4YR,PA,N,
+2015,38,1144,Indians,RHP,Braden Webb,"Owasso, Okla. (no school)",Other,OK,N,
+2015,38,1145,Mariners,1B,Dalton Kelly,UC Santa Barbara,4YR,CA,Y,
+2015,38,1146,Giants,OF,Nathaniel Pecota,Blue Springs (Mo.) South HS,HS,MO,N,
+2015,38,1147,Pirates,RHP,Conor Costello,Oklahoma State,4YR,OK,N,
+2015,38,1148,Athletics,C,Christopher Cullen,"West Forsyth HS, Cumming, Ga.",HS,GA,N,
+2015,38,1149,Royals,LHP,Dylan Horne,Walters State (Tenn.) JC,JC,TN,N,
+2015,38,1150,Tigers,OF,Bryant Harris,"Luella HS, Locust Grove, Ga.",HS,GA,N,
+2015,38,1151,Cardinals,OF,Orlando Olivera,Missouri Baptist,4YR,MO,Y,
+2015,38,1152,Dodgers,OF,Edwin Drexler,Grambling State,4YR,LA,Y,
+2015,38,1153,Orioles,2B,Jack Graham,Slippery Rock (Pa.),4YR,PA,Y,
+2015,38,1154,Nationals,SS,Matt Morales,Wellington (Fla.) Community HS,HS,FL,N,
+2015,38,1155,Angels,RHP,Jonah Dipoto,"Newport Harbor HS, Newport Beach, Calif.",HS,CA,N,
+2015,39,1156,Diamondbacks,OF,Georgie Salem,Alabama,4YR,AL,N,
+2015,39,1157,Rockies,RHP,Brent Schwarz,"Regis Jesuit HS, Aurora, Colo.",HS,CO,N,
+2015,39,1158,Rangers,RHP,Shea Murray,Ohio State,4YR,OH,N,
+2015,39,1159,Astros,RHP,Alex Vargas,Monroe (N.Y.) JC,JC,NY,Y,
+2015,39,1160,Twins,LHP,Daniel Tillo,"North HS, Sioux City, Iowa",HS,IA,N,
+2015,39,1161,Red Sox,OF,Daniel Reyes,"Mater Academy Charter HS, Hialeah Gardens, Fla.",HS,FL,N,
+2015,39,1162,White Sox,3B,Jalin McMillan,"Simeon Career Academy, Chicago",HS,IL,N,
+2015,39,1163,Cubs,LHP,John Kilichowski,Vanderbilt,4YR,TN,N,
+2015,39,1164,Phillies,OF,Griffin Morandini,"Garnet Valley HS, Glen Mills, Pa.",HS,PA,N,
+2015,39,1165,Reds,SS,Kevin Santiago,"Rafaelina E. Lebron Flores HS, Patillas, P.R.",HS,PR,N,
+2015,39,1166,Marlins,3B,Bucket Goldby,Yuba City (Calif.) HS,HS,CA,N,
+2015,39,1167,Padres,RHP,Adam Hill,"Hanna HS, Anderson, S.C.",HS,SC,N,
+2015,39,1168,Rays,OF,Tyler Rand,"Langham Creek HS, Houston",HS,TX,N,
+2015,39,1169,Mets,RHP,Chad Luensmann,"Bellwood-Antis HS, Bellwood, Pa.",HS,PA,N,
+2015,39,1170,Braves,SS,Jeremy Pena,"Classical HS, Providence, R.I.",HS,RI,N,
+2015,39,1171,Brewers,RHP,Nolan Kingham,"Desert Oasis HS, Enterprise, Nev.",HS,NV,N,
+2015,39,1172,Blue Jays,2B,Mattingly Romanin,Chicago State,4YR,IL,Y,
+2015,39,1173,Yankees,SS,Deacon Liput,Oviedo (Fla.) HS,HS,FL,N,
+2015,39,1174,Indians,RHP,Tristin English,"Pike County HS, Zebulon, Ga.",HS,GA,N,
+2015,39,1175,Mariners,SS,Dante Ricciardi,Worcester (Mass.) Academy,HS,MA,N,
+2015,39,1176,Giants,LHP,Hunter Bowling,"American Heritage HS, Delray Beach, Fla.",HS,FL,N,
+2015,39,1177,Pirates,RHP,Tate Scioneaux,Southeastern Louisiana,4YR,LA,Y,
+2015,39,1178,Athletics,C,Greg Fettes,Kentucky,4YR,KY,N,
+2015,39,1179,Royals,OF,Billy Endris,Florida Atlantic,4YR,FL,N,
+2015,39,1180,Tigers,RHP,Travis Howard,"Marana HS, Tucson",HS,AZ,N,
+2015,39,1181,Cardinals,1B,R.J. Dennard,Armstrong State (Ga.),4YR,GA,Y,
+2015,39,1182,Dodgers,RHP,Chris Powell,Cal Poly Pomona,4YR,CA,Y,
+2015,39,1183,Orioles,3B,Frank Crinella,Merrimack (Mass.),4YR,MA,Y,
+2015,39,1184,Nationals,2B,Jake Jefferies,Cal State Fullerton,4YR,CA,Y,
+2015,39,1185,Angels,1B,Jared Walsh,Georgia,4YR,GA,Y,
+2015,40,1186,Diamondbacks,RHP,Tucker Ward,Mobile (Ala.),4YR,AL,Y,
+2015,40,1187,Rockies,1B,Alexander Carter,Georgetown,4YR,DC,N,
+2015,40,1188,Rangers,OF,London Lindley,Georgia Perimeter JC,JC,GA,Y,
+2015,40,1189,Astros,LHP,Steve Naemark,Angelo State (Texas),4YR,TX,Y,
+2015,40,1190,Twins,RHP,Max Cordy,UC Davis,4YR,CA,Y,
+2015,40,1191,Red Sox,OF,D.J. Artis,"Southeast Guilford HS, Greensboro, N.C.",HS,NC,N,
+2015,40,1192,White Sox,2B,Joseph Reinsdorf,"New Trier HS, Winnetka, Ill.",HS,IL,N,
+2015,40,1193,Cubs,C,Domenic DeRenzo,"Central Catholic HS, Pittsburgh",HS,PA,N,
+2015,40,1194,Phillies,3B,Thomas McCarthy,Allentown (N.J.) HS,HS,NJ,N,
+2015,40,1195,Reds,1B,J.D. Arrowood,St. Edward's (Texas),4YR,TX,N,
+2015,40,1196,Marlins,C,Matt Foley,Rhode Island College,4YR,RI,Y,
+2015,40,1197,Padres,OF,Trevor Larnach,"College Park HS, Pleasant Hill, Calif.",HS,CA,N,
+2015,40,1198,Rays,2B,Kahiau Winchester,"Iolani HS, Honolulu",HS,HI,N,
+2015,40,1199,Mets,2B,Nick Conti,"Dr. Phillips HS, Orlando",HS,FL,N,
+2015,40,1200,Braves,3B,John Stewart,Greenwich (N.Y.) Central HS,HS,NY,N,
+2015,40,1201,Brewers,C,Charles Galiano,Fordham,4YR,NY,Y,
+2015,40,1202,Blue Jays,C,Robert Lucido,Amherst (Mass.),4YR,MA,Y,
+2015,40,1203,Yankees,C,Will Albertson,Catawba (N.C.),4YR,NC,N,
+2015,40,1204,Indians,RHP,Hunter Parsons,"Parkside HS, Salisbury, Md.",HS,MD,N,
+2015,40,1205,Mariners,C,Mike Rojas,"Gulf Coast HS, Naples, Fla.",HS,FL,N,
+2015,40,1206,Giants,OF,Woody Edwards,Gulf Coast State (Fla.) JC,JC,FL,Y,
+2015,40,1207,Pirates,LHP,Daniel Zamora,Stony Brook,4YR,NY,Y,
+2015,40,1208,Athletics,SS,Nick Maton,"Glenwood HS, Chatham, Ill.",HS,IL,N,
+2015,40,1209,Royals,C,Ford Proctor,"Monsignor Kelly Catholic HS, Beaumont, Texas",HS,TX,N,
+2015,40,1210,Tigers,RHP,Jackson Kowar,Charlotte Christian HS,HS,NC,N,
+2015,40,1211,Cardinals,SS,Joey Hawkins,Missouri State,4YR,MO,Y,
+2015,40,1212,Dodgers,RHP,Isaac Anderson,Wichita State,4YR,KS,Y,"$100,000"
+2015,40,1213,Orioles,RHP,Mike Costello,Post (Conn.),4YR,CT,Y,
+2015,40,1214,Nationals,1B,Parker Quinn,"The Benjamin School, North Palm Beach, Fla.",HS,FL,N,
+2015,40,1215,Angels,RHP,Jacob McDavid,Oral Roberts,4YR,OK,Y,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

@@ -1,0 +1,1225 @@
+Year,RD,Pick,Team,Pos,Player,School,Type,ST,Signed,Bonus
+2018,1,1,Tigers,RHP,Casey Mize,Auburn,4YR,AL,Y,"$7,500,000"
+2018,1,2,Giants,C,Joey Bart,Georgia Tech,4YR,GA,Y,"$7,025,000"
+2018,1,3,Phillies,3B,Alec Bohm,Wichita State,4YR,KS,Y,"$5,850,000"
+2018,1,4,White Sox,SS,Nick Madrigal,Oregon State,4YR,OR,Y,"$6,411,400"
+2018,1,5,Reds,3B,Jonathan India,Florida,4YR,FL,Y,"$5,297,500"
+2018,1,6,Mets,OF,Jarred Kelenic,Waukesha (Wis.) West HS,HS,WI,Y,"$4,500,000"
+2018,1,7,Padres,LHP,Ryan Weathers,Loretto (Tenn.) HS,HS,TN,Y,"$5,226,500"
+2018,1,8,Braves,RHP,Carter Stewart,"Eau Gallie HS, Melbourne, Fla.",HS,FL,N,
+2018,1,9,Athletics,OF,Kyler Murray,Oklahoma,4YR,OK,Y,"$4,660,000"
+2018,1,10,Pirates,OF,Travis Swaggerty,South Alabama,4YR,AL,Y,"$4,400,000"
+2018,1,11,Orioles,RHP,Grayson Rodriguez,"Central Heights HS, Nacogdoches, Texas",HS,TX,Y,"$4,300,000"
+2018,1,12,Blue Jays,SS,Jordan Groshans,Magnolia (Texas) HS,HS,TX,Y,"$3,400,000"
+2018,1,13,Marlins,OF,Connor Scott,"Plant HS, Tampa",HS,FL,Y,"$4,038,200"
+2018,1,14,Mariners,RHP,Logan Gilbert,Stetson,4YR,FL,Y,"$3,883,800"
+2018,1,15,Rangers,RHP,Cole Winn,Orange (Calif.) Lutheran HS,HS,CA,Y,"$3,150,000"
+2018,1,16,Rays,LHP,Matthew Liberatore,"Mountain Ridge HS, Glendale, Ariz.",HS,AZ,Y,"$3,497,500"
+2018,1,17,Angels,OF,Jordyn Adams,"Green Hope HS, Cary, N.C.",HS,NC,Y,"$4,100,000"
+2018,1,18,Royals,RHP,Brady Singer,Florida,4YR,FL,Y,"$4,247,500"
+2018,1,19,Cardinals,3B,Nolan Gorman,"O'Connor HS, Phoenix",HS,AZ,Y,"$3,231,700"
+2018,1,20,Twins,OF,Trevor Larnach,Oregon State,4YR,OR,Y,"$2,550,000"
+2018,1,21,Brewers,SS,Brice Turang,"Santiago HS, Corona, Calif.",HS,CA,Y,"$3,411,100"
+2018,1,22,Rockies,LHP,Ryan Rolison,Mississippi,4YR,MS,Y,"$2,912,300"
+2018,1,23,Yankees,C,Anthony Seigler,Cartersville (Ga.) HS,HS,GA,Y,"$2,815,900"
+2018,1,24,Cubs,SS,Nico Hoerner,Stanford,4YR,CA,Y,"$2,724,000"
+2018,1,25,Diamondbacks,SS,Matt McLain,"Beckman HS, Irvine, Calif.",HS,CA,N,
+2018,1,26,Red Sox,3B,Triston Casas,"American Heritage School, Plantation, Fla.",HS,FL,Y,"$2,552,800"
+2018,1,27,Nationals,RHP,Mason Denaburg,Merritt Island (Fla.) HS,HS,FL,Y,"$3,000,000"
+2018,1,28,Astros,OF,Seth Beer,Clemson,4YR,SC,Y,"$2,250,000"
+2018,1,29,Indians,C,Bo Naylor,"St. Joan of Arc Catholic SS, Mississauga, Ont.",HS,CN,Y,"$2,578,137"
+2018,1,30,Dodgers,RHP,J.T. Ginn,Brandon (Miss.) HS,HS,MS,N,
+2018,1,31,Rays,LHP,Shane McClanahan,South Florida,4YR,FL,Y,"$2,230,100"
+2018,1,32,Rays,OF,Nick Schnell,"Roncalli HS, Indianapolis",HS,IN,Y,"$2,297,500"
+2018,1,33,Royals,RHP,Jackson Kowar,Florida,4YR,FL,Y,"$2,147,500"
+2018,1,34,Royals,LHP,Daniel Lynch,Virginia,4YR,VA,Y,"$1,697,500"
+2018,1,35,Indians,RHP,Ethan Hankins,"Forsyth Central HS, Cumming, Ga.",HS,GA,Y,"$2,246,022"
+2018,1s,36,Pirates,RHP,Gunnar Hoglund,"Fivay HS, Hudson, Fla.",HS,FL,N,
+2018,1s,37,Orioles,SS,Cadyn Grenier,Oregon State,4YR,OR,Y,"$1,800,000"
+2018,1s,38,Padres,SS,Xavier Edwards,"North Broward Prep HS, Coconut Creek, Fla.",HS,FL,Y,"$2,600,000"
+2018,1s,39,Diamondbacks,OF,Jake McCarthy,Virginia,4YR,VA,Y,"$1,650,000"
+2018,1s,40,Royals,LHP,Kris Bubic,Stanford,4YR,CA,Y,"$1,597,500"
+2018,1s,41,Indians,RHP,Lenny Torres,Beacon (N.Y.) HS,HS,NY,Y,"$1,350,000"
+2018,1s,42,Rockies,1B,Grant Lavigne,Bedford (N.H.) HS,HS,NH,Y,"$2,000,000"
+2018,1s,43,Cardinals,RHP,Griffin Roberts,Wake Forest,4YR,NC,Y,"$1,664,200"
+2018,2,44,Tigers,OF,Parker Meadows,"Grayson HS, Loganville, Ga.",HS,GA,Y,"$2,500,000"
+2018,2,45,Giants,RHP,Sean Hjelle,Kentucky,4YR,KY,Y,"$1,500,000"
+2018,2,46,White Sox,OF,Steele Walker,Oklahoma,4YR,OK,Y,"$2,000,000"
+2018,2,47,Reds,RHP,Lyon Richardson,Jensen Beach (Fla.) HS,HS,FL,Y,"$1,997,500"
+2018,2,48,Mets,RHP,Simeon Woods-Richardson,"Kempner HS, Sugar Land, Texas",HS,TX,Y,"$1,850,000"
+2018,2,49,Braves,OF,Greyson Jenista,Wichita State,4YR,KS,Y,"$1,200,000"
+2018,2,50,Athletics,OF,Jameson Hannah,Dallas Baptist,4YR,TX,Y,"$1,800,000"
+2018,2,51,Pirates,RHP,Braxton Ashcraft,Robinson (Texas) HS,HS,TX,Y,"$1,825,000"
+2018,2,52,Blue Jays,OF,Griffin Conine,Duke,4YR,NC,Y,"$1,350,000"
+2018,2,53,Marlins,SS,Osiris Johnson,"Encinal HS, Alameda, Calif.",HS,CA,Y,"$1,350,000"
+2018,2,54,Mariners,OF,Josh Stowers,Louisville,4YR,KY,Y,"$1,100,000"
+2018,2,55,Rangers,RHP,Owen White,"Carson HS, China Grove, N.C.",HS,NC,Y,"$1,500,000"
+2018,2,56,Rays,SS,Tyler Frank,Florida Atlantic,4YR,FL,Y,"$997,500"
+2018,2,57,Angels,SS,Jeremiah Jackson,"St. Luke's Episcopal School, Mobile, Ala.",HS,AL,Y,"$1,194,000"
+2018,2,58,Royals,RHP,Jonathan Bowlan,Memphis,4YR,TN,Y,"$697,500"
+2018,2,59,Twins,C,Ryan Jeffers,UNC Wilmington,4YR,NC,Y,"$800,000"
+2018,2,60,Brewers,OF,Joe Gray,Hattiesburg (Miss.) HS,HS,MS,Y,"$1,113,500"
+2018,2,61,Yankees,C,Josh Breaux,McLennan (Texas) JC,JC,TX,Y,"$1,497,500"
+2018,2,62,Cubs,OF,Brennen Davis,"Basha HS, Chandler, Ariz.",HS,AZ,Y,"$1,100,000"
+2018,2,63,Diamondbacks,OF,Alek Thomas,"Mount Carmel HS, Chicago",HS,IL,Y,"$1,200,000"
+2018,2,64,Red Sox,OF,Nick Decker,"Seneca HS, Tabernacle, N.J.",HS,NJ,Y,"$1,250,000"
+2018,2,65,Nationals,LHP,Tim Cate,Connecticut,4YR,CT,Y,"$986,200"
+2018,2,66,Astros,RHP,Jayson Schroeder,"Juanita HS, Kirkland, Wash.",HS,WA,Y,"$1,200,000"
+2018,2,67,Indians,RHP,Nick Sandlin,Southern Mississippi,4YR,MS,Y,"$750,000"
+2018,2,68,Dodgers,RHP,Michael Grove,West Virginia,4YR,WV,Y,"$1,229,500"
+2018,2s,69,Marlins,C,Will Banfield,"Brookwood HS, Snellville, Ga.",HS,GA,Y,"$1,800,000"
+2018,2s,70,Athletics,SS,Jeremy Eierman,Missouri State,4YR,MO,Y,"$1,232,000"
+2018,2s,71,Rays,RHP,Tanner Dodson,California,4YR,CA,Y,"$772,500"
+2018,2s,72,Reds,RHP,Josiah Gray,Le Moyne (N.Y.),4YR,NY,Y,"$772,500"
+2018,2s,73,Brewers,OF,Micah Bello,Hilo (Hawaii) HS,HS,HI,Y,"$550,000"
+2018,2s,74,Padres,OF,Grant Little,Texas Tech,4YR,TX,Y,"$800,000"
+2018,2s,75,Cardinals,1B,Luken Baker,Texas Christian,4YR,TX,Y,"$800,000"
+2018,2s,76,Rockies,RHP,Mitchell Kilkenny,Texas A&M,4YR,TX,Y,"$550,000"
+2018,2s,77,Cubs,OF,Cole Roederer,"Hart HS, Santa Clarita, Calif.",HS,CA,Y,"$1,200,000"
+2018,2s,78,Cubs,RHP,Paul Richan,San Diego,4YR,CA,Y,"$450,000"
+2018,3,79,Tigers,2B,Kody Clemens,Texas,4YR,TX,Y,"$600,000"
+2018,3,80,Giants,RHP,Jake Wong,Grand Canyon,4YR,AZ,Y,"$850,000"
+2018,3,81,White Sox,LHP,Konnor Pilkington,Mississippi State,4YR,MS,Y,"$650,000"
+2018,3,82,Reds,OF,Bren Spillane,Illinois,4YR,IL,Y,"$597,500"
+2018,3,83,Mets,2B,Carlos Cortes,South Carolina,4YR,SC,Y,"$1,000,038"
+2018,3,84,Padres,SS,Owen Miller,Illinois State,4YR,IL,Y,"$500,000"
+2018,3,85,Athletics,LHP,Hogan Harris,Louisiana-Lafayette,4YR,LA,Y,"$660,000"
+2018,3,86,Pirates,SS,Connor Kaiser,Vanderbilt,4YR,TN,Y,"$625,000"
+2018,3,87,Orioles,RHP,Blaine Knight,Arkansas,4YR,AR,Y,"$1,100,000"
+2018,3,88,Blue Jays,RHP,Adam Kloffenstein,Magnolia (Texas) HS,HS,TX,Y,"$2,450,000"
+2018,3,89,Marlins,OF,Tristan Pompey,Kentucky,4YR,KY,Y,"$645,000"
+2018,3,90,Mariners,C,Cal Raleigh,Florida State,4YR,FL,Y,"$854,000"
+2018,3,91,Rangers,SS,Jonathan Ornelas,"Kellis HS, Glendale, Ariz.",HS,AZ,Y,"$622,800"
+2018,3,92,Rays,SS,Ford Proctor,Rice,4YR,TX,Y,"$572,500"
+2018,3,93,Angels,RHP,Aaron Hernandez,Texas A&M-Corpus Christi,4YR,TX,Y,"$547,500"
+2018,3,94,Royals,2B,Kyle Isbel,Nevada-Las Vegas,4YR,NV,Y,"$592,300"
+2018,3,95,Cardinals,SS,Mateo Gil,"Timber Creek HS, Fort Worth",HS,TX,Y,"$900,000"
+2018,3,96,Rockies,SS,Terrin Vavra,Minnesota,4YR,MN,Y,"$550,000"
+2018,3,97,Yankees,OF,Ryder Green,"Karns HS, Knoxville",HS,TN,Y,"$997,500"
+2018,3,98,Cubs,OF,Jimmy Herron,Duke,4YR,NC,Y,"$520,000"
+2018,3,99,Diamondbacks,RHP,Jackson Goddard,Kansas,4YR,KS,Y,"$550,000"
+2018,3,100,Red Sox,RHP,Durbin Feltman,Texas Christian,4YR,TX,Y,"$559,600"
+2018,3,101,Nationals,RHP,Reid Schaller,Vanderbilt,4YR,TN,Y,"$551,100"
+2018,3,102,Astros,SS,Jeremy Pena,Maine,4YR,ME,Y,"$535,000"
+2018,3,103,Indians,2B,Richard Palacios,Towson,4YR,MD,Y,"$475,000"
+2018,3,104,Dodgers,LHP,John Rooney,Hofstra,4YR,NY,Y,"$563,240"
+2018,4,105,Tigers,OF,Kingston Liniak,"Mission Hills HS, San Marcos, Calif.",HS,CA,Y,"$900,000"
+2018,4,106,Giants,RHP,Blake Rivera,Wallace State (Ala.) JC,JC,AL,Y,"$800,000"
+2018,4,107,Phillies,RHP,Colton Eastman,Cal State Fullerton,4YR,CA,Y,"$522,900"
+2018,4,108,White Sox,SS,Lency Delgado,Doral (Fla.) Academy Prep HS,HS,FL,Y,"$525,000"
+2018,4,109,Reds,OF,Mike Siani,"Penn Charter HS, Philadelphia",HS,PA,Y,"$2,000,000"
+2018,4,110,Mets,RHP,Adam Hill,South Carolina,4YR,SC,Y,"$507,800"
+2018,4,111,Padres,RHP,Dylan Coleman,Missouri State,4YR,MO,Y,"$500,000"
+2018,4,112,Braves,RHP,Tristan Beck,Stanford,4YR,CA,Y,"$900,000"
+2018,4,113,Athletics,1B,Alfonso Rivas,Arizona,4YR,AZ,Y,"$446,500"
+2018,4,114,Pirates,RHP,Aaron Shortridge,California,4YR,CA,Y,"$475,000"
+2018,4,115,Orioles,LHP,Drew Rom,"Highlands HS, Fort Thomas, Ky.",HS,KY,Y,"$650,000"
+2018,4,116,Blue Jays,RHP,Sean Wymer,Texas Christian,4YR,TX,Y,"$478,600"
+2018,4,117,Marlins,C,Nick Fortes,Mississippi,4YR,MS,Y,"$425,000"
+2018,4,118,Mariners,LHP,Michael Plassmeyer,Missouri,4YR,MO,Y,"$425,000"
+2018,4,119,Rangers,RHP,Mason Englert,Forney (Texas) HS,HS,TX,Y,"$1,000,000"
+2018,4,120,Rays,OF,Grant Witherspoon,Tulane,4YR,LA,Y,"$457,700"
+2018,4,121,Angels,RHP,Kyle Bradish,New Mexico State,4YR,NM,Y,"$397,500"
+2018,4,122,Royals,OF,Eric Cole,Arkansas,4YR,AR,Y,"$497,500"
+2018,4,123,Cardinals,LHP,Steven Gingery,Texas Tech,4YR,TX,Y,"$825,000"
+2018,4,124,Twins,OF,DaShawn Keirsey,Utah,4YR,UT,Y,"$600,000"
+2018,4,125,Brewers,LHP,Aaron Ashby,Crowder (Mo.) JC,JC,MO,Y,"$520,000"
+2018,4,126,Rockies,RHP,Ryan Feltner,Ohio State,4YR,OH,Y,"$434,700"
+2018,4,127,Yankees,RHP,Frank German,North Florida,4YR,FL,Y,"$347,500"
+2018,4,128,Cubs,RHP,Ethan Roberts,Tennessee Tech,4YR,TN,Y,"$130,000"
+2018,4,129,Diamondbacks,RHP,Ryan Weiss,Wright State,4YR,OH,Y,"$400,000"
+2018,4,130,Red Sox,C,Kole Cottam,Kentucky,4YR,KY,Y,"$375,000"
+2018,4,131,Nationals,RHP,Jake Irvin,Oklahoma,4YR,OK,Y,"$550,000"
+2018,4,132,Astros,OF,Alex McKenna,Cal Poly,4YR,CA,Y,"$432,500"
+2018,4,133,Indians,LHP,Adam Scott,Wofford,4YR,SC,Y,"$50,000"
+2018,4,134,Dodgers,RHP,Braydon Fisher,"Clear Falls HS, League City, Texas",HS,TX,Y,"$497,500"
+2018,5,135,Tigers,LHP,Adam Wolf,Louisville,4YR,KY,Y,"$398,300"
+2018,5,136,Giants,RHP,Keaton Winn,Iowa Western JC,JC,IA,Y,"$500,000"
+2018,5,137,Phillies,OF,Matt Vierling,Notre Dame,4YR,IN,Y,"$380,000"
+2018,5,138,White Sox,RHP,Jonathan Stiever,Indiana,4YR,IN,Y,"$386,800"
+2018,5,139,Reds,RHP,Ryan Campbell,Illinois-Chicago,4YR,IL,Y,"$7,500"
+2018,5,140,Mets,RHP,Ryley Gilliam,Clemson,4YR,SC,Y,"$550,000"
+2018,5,141,Padres,OF,Dwanya Williams-Sutton,East Carolina,4YR,NC,Y,"$350,000"
+2018,5,142,Braves,RHP,Trey Riley,John A. Logan (Ill.) JC,JC,IL,Y,"$450,000"
+2018,5,143,Athletics,RHP,Brady Feigl,Mississippi,4YR,MS,Y,"$300,000"
+2018,5,144,Pirates,C,Grant Koch,Arkansas,4YR,AR,Y,"$364,600"
+2018,5,145,Orioles,OF,Robert Neustrom,Iowa,4YR,IA,Y,"$300,000"
+2018,5,146,Blue Jays,C,Christopher Bec,Maine,4YR,ME,Y,"$5,000"
+2018,5,147,Marlins,RHP,Chris Vallimont,Mercyhurst (Pa.),4YR,PA,Y,"$300,000"
+2018,5,148,Mariners,RHP,Nolan Hoffman,Texas A&M,4YR,TX,Y,"$300,000"
+2018,5,149,Rangers,SS,Jayce Easley,"O'Connor HS, Phoenix",HS,AZ,Y,"$500,000"
+2018,5,150,Rays,RHP,Taj Bradley,"Redan HS, Stone Mountain, Ga.",HS,GA,Y,"$747,500"
+2018,5,151,Angels,RHP,William English,"Western International HS, Detroit",HS,MI,Y,"$700,000"
+2018,5,152,Royals,LHP,Austin Cox,Mercer,4YR,GA,Y,"$447,500"
+2018,5,153,Cardinals,2B,Nick Dunn,Maryland,4YR,MD,Y,"$310,000"
+2018,5,154,Twins,RHP,Cole Sands,Florida State,4YR,FL,Y,"$600,000"
+2018,5,155,Brewers,RHP,Justin Jarvis,"Lake Norman HS, Mooresville, N.C.",HS,NC,Y,"$327,100"
+2018,5,156,Rockies,RHP,Jacob Bird,UCLA,4YR,CA,Y,"$50,000"
+2018,5,157,Yankees,OF,Brandon Lockridge,Troy,4YR,AL,Y,"$297,500"
+2018,5,158,Cubs,2B,Andy Weber,Virginia,4YR,VA,Y,"$400,000"
+2018,5,159,Diamondbacks,RHP,Matt Mercer,Oregon,4YR,OR,Y,"$314,800"
+2018,5,160,Red Sox,RHP,Thad Ward,Central Florida,4YR,FL,Y,"$275,000"
+2018,5,161,Nationals,OF,Gage Canning,Arizona State,4YR,AZ,Y,"$308,900"
+2018,5,162,Astros,RHP,Cody Deason,Arizona,4YR,AZ,Y,"$285,000"
+2018,5,163,Indians,OF,Steven Kwan,Oregon State,4YR,OR,Y,"$185,000"
+2018,5,164,Dodgers,SS,Devin Mann,Louisville,4YR,KY,Y,"$272,500"
+2018,6,165,Tigers,RHP,Hugh Smith,Whitworth (Wash.),4YR,WA,Y,"$300,000"
+2018,6,166,Giants,OF,Patrick Hilson,"Nettleton HS, Jonesboro, Ark.",HS,AR,Y,"$520,000"
+2018,6,167,Phillies,SS,Logan Simmons,"Tattnall Square Academy, Macon, Ga.",HS,GA,Y,"$750,000"
+2018,6,168,White Sox,RHP,Codi Heuer,Wichita State,4YR,KS,Y,"$260,000"
+2018,6,169,Reds,RHP,Yomil Maysonet,"PJ Educational HS, Carolina, P.R.",HS,PR,Y,"$250,000"
+2018,6,170,Mets,C,Nick Meyer,Cal Poly,4YR,CA,Y,"$350,000"
+2018,6,171,Padres,LHP,Alexuan Vega,"Rodriguez HS, Lajas, P.R.",HS,PR,Y,"$250,000"
+2018,6,172,Braves,OF,Andrew Moritz,UNC Greensboro,4YR,NC,Y,"$240,000"
+2018,6,173,Athletics,OF,Lawrence Butler,"Westlake HS, Atlanta",HS,GA,Y,"$285,000"
+2018,6,174,Pirates,RHP,Michael Flynn,Arizona,4YR,AZ,Y,"$250,000"
+2018,6,175,Orioles,RHP,Yeankarlos Lleras,"Leadership Christian Academy, Guaynabo, P.R.",HS,PR,Y,"$250,000"
+2018,6,176,Blue Jays,SS,Addison Barger,"King HS, Tampa",HS,FL,Y,"$271,100"
+2018,6,177,Marlins,C,Cameron Barstad,"Serra HS, San Mateo, Calif.",HS,CA,Y,"$300,000"
+2018,6,178,Mariners,RHP,Joey O'Brien,JC of Southern Nevada,JC,NV,Y,"$225,000"
+2018,6,179,Rangers,RHP,Sean Chandler,Iowa Western JC,JC,IA,Y,"$200,000"
+2018,6,180,Rays,RHP,Miller Hogan,Saint Louis,4YR,MO,Y,"$225,000"
+2018,6,181,Angels,RHP,Austin Warren,UNC Wilmington,4YR,NC,Y,"$7,500"
+2018,6,182,Royals,RHP,Zach Haake,Kentucky,4YR,KY,Y,"$297,500"
+2018,6,183,Cardinals,RHP,Edgar Gonzalez,Fresno State,4YR,CA,Y,"$255,900"
+2018,6,184,Twins,3B,Charles Mack,"Williamsville East HS, East Amherst, N.Y.",HS,NY,Y,"$500,000"
+2018,6,185,Brewers,RHP,Drew Rasmussen,Oregon State,4YR,OR,Y,"$135,000"
+2018,6,186,Rockies,OF,Niko Decolati,Loyola Marymount,4YR,CA,Y,"$249,600"
+2018,6,187,Yankees,RHP,Rodney Hutchison,North Carolina,4YR,NC,Y,"$197,500"
+2018,6,188,Cubs,RHP,Kohl Franklin,Broken Arrow (Okla.) HS,HS,OK,Y,"$540,000"
+2018,6,189,Diamondbacks,RHP,Ryan Miller,Clemson,4YR,SC,Y,"$25,000"
+2018,6,190,Red Sox,OF,Devlin Granberg,Dallas Baptist,4YR,TX,Y,"$40,000"
+2018,6,191,Nationals,RHP,Andrew Karp,Florida State,4YR,FL,Y,"$200,000"
+2018,6,192,Astros,RHP,R.J. Freure,Pittsburgh,4YR,PA,Y,"$348,800"
+2018,6,193,Indians,SS,Raynel Delgado,"Calvary Christian Academy, Fort Lauderdale",HS,FL,Y,"$900,000"
+2018,6,194,Dodgers,LHP,Bryan Warzek,New Orleans,4YR,LA,Y,"$202,500"
+2018,7,195,Tigers,OF,Eric De La Rosa,Grossmont (Calif.) JC,JC,CA,Y,"$231,900"
+2018,7,196,Giants,SS,Edison Mora,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$200,000"
+2018,7,197,Phillies,LHP,Gabriel Cotto,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$270,000"
+2018,7,198,White Sox,OF,Caberea Weaver,"South Gwinnett HS, Snellville, Ga.",HS,GA,Y,"$226,200"
+2018,7,199,Reds,C,Jay Schuyler,San Diego,4YR,CA,Y,"$207,500"
+2018,7,200,Mets,LHP,Kevin Smith,Georgia,4YR,GA,Y,"$222,300"
+2018,7,201,Padres,OF,Jawuan Harris,Rutgers,4YR,NJ,Y,"$215,000"
+2018,7,202,Braves,RHP,Brooks Wilson,Stetson,4YR,FL,Y,"$80,000"
+2018,7,203,Athletics,RHP,Charlie Cerny,Illinois-Chicago,4YR,IL,Y,"$217,200"
+2018,7,204,Pirates,OF,Brett Kinneman,North Carolina State,4YR,NC,Y,"$215,500"
+2018,7,205,Orioles,RHP,J.J. Montgomery,Central Florida,4YR,FL,Y,"$195,000"
+2018,7,206,Blue Jays,2B,Nick Podkul,Notre Dame,4YR,IN,Y,"$175,000"
+2018,7,207,Marlins,RHP,Cason Sherrod,Texas A&M,4YR,TX,Y,"$20,000"
+2018,7,208,Mariners,C,Jake Anchia,Nova Southeastern (Fla.),4YR,FL,Y,"$200,000"
+2018,7,209,Rangers,RHP,Tim Brennan,St. Joseph's,4YR,PA,Y,"$206,800"
+2018,7,210,Rays,RHP,Joe Ryan,Cal State Stanislaus,4YR,CA,Y,"$147,500"
+2018,7,211,Angels,RHP,Andrew Wantz,UNC Greensboro,4YR,NC,Y,"$10,000"
+2018,7,212,Royals,RHP,Tyler Gray,Central Arkansas,4YR,AR,Y,"$2,500"
+2018,7,213,Cardinals,3B,Brendan Donovan,South Alabama,4YR,AL,Y,"$200,300"
+2018,7,214,Twins,RHP,Josh Winder,Virginia Military Institute,4YR,VA,Y,"$198,700"
+2018,7,215,Brewers,C,David Fry,Northwestern State,4YR,LA,Y,"$10,000"
+2018,7,216,Rockies,RHP,Andrew Quezada,Cal State Fullerton,4YR,CA,Y,"$175,000"
+2018,7,217,Yankees,RHP,Daniel Bies,Gonzaga,4YR,WA,Y,"$147,500"
+2018,7,218,Cubs,OF,D.J. Artis,Liberty,4YR,VA,Y,"$250,000"
+2018,7,219,Diamondbacks,RHP,Travis Moths,Tennessee Tech,4YR,TN,Y,"$20,000"
+2018,7,220,Red Sox,OF,Jarren Duran,Long Beach State,4YR,CA,Y,"$189,800"
+2018,7,221,Nationals,RHP,Chandler Day,Vanderbilt,4YR,TN,Y,"$188,300"
+2018,7,222,Astros,C,Cesar Salazar,Arizona,4YR,AZ,Y,"$160,000"
+2018,7,223,Indians,RHP,Cody Morris,South Carolina,4YR,SC,Y,"$185,600"
+2018,7,224,Dodgers,OF,James Outman,Sacramento State,4YR,CA,Y,"$157,500"
+2018,8,225,Tigers,2B,Jeremiah Burks,Fresno State,4YR,CA,Y,"$182,900"
+2018,8,226,Giants,RHP,Solomon Bates,Southern California,4YR,CA,Y,"$150,000"
+2018,8,227,Phillies,SS,Seth Lancaster,Coastal Carolina,4YR,SC,Y,"$10,000"
+2018,8,228,White Sox,LHP,Andrew Perez,South Florida,4YR,FL,Y,"$150,000"
+2018,8,229,Reds,RHP,Matt Pidich,Pittsburgh,4YR,PA,Y,"$7,500"
+2018,8,230,Mets,RHP,Tylor Megill,Arizona,4YR,AZ,Y,"$50,000"
+2018,8,231,Padres,RHP,Steven Wilson,Santa Clara,4YR,CA,Y,"$5,000"
+2018,8,232,Braves,SS,AJ Graffanino,Washington,4YR,WA,Y,"$300,000"
+2018,8,233,Athletics,C,JJ Schwarz,Florida,4YR,FL,Y,"$140,000"
+2018,8,234,Pirates,LHP,Zach Spears,Miami (Ohio),4YR,OH,Y,"$171,800"
+2018,8,235,Orioles,RHP,Ryan Conroy,Elon,4YR,NC,Y,"$150,000"
+2018,8,236,Blue Jays,RHP,Joey Murray,Kent State,4YR,OH,Y,"$169,600"
+2018,8,237,Marlins,RHP,Peyton Culbertson,Arkansas State,4YR,AR,Y,"$130,000"
+2018,8,238,Mariners,RHP,Joey Gerber,Illinois,4YR,IL,Y,"$167,400"
+2018,8,239,Rangers,SS,Jax Biggers,Arkansas,4YR,AR,Y,"$166,400"
+2018,8,240,Rays,C,Michael Berglund,Midland (Texas) JC,JC,TX,Y,"$147,500"
+2018,8,241,Angels,RHP,Tyler Smith,Canisius,4YR,NY,Y,"$2,500"
+2018,8,242,Royals,OF,Jackson Lueck,Florida State,4YR,FL,Y,"$161,300"
+2018,8,243,Cardinals,OF,Lars Nootbaar,Southern California,4YR,CA,Y,"$150,000"
+2018,8,244,Twins,C,Chris Williams,Clemson,4YR,SC,Y,"$10,000"
+2018,8,245,Brewers,RHP,Luis Gonzalez,"PJ Educational HS, Carolina, P.R.",HS,PR,Y,"$125,000"
+2018,8,246,Rockies,LHP,Nick Bush,Louisiana State,4YR,LA,Y,"$200,000"
+2018,8,247,Yankees,RHP,Connor Van Hoose,Bucknell,4YR,PA,Y,"$7,500"
+2018,8,248,Cubs,RHP,Zach Mort,George Mason,4YR,VA,Y,"$140,000"
+2018,8,249,Diamondbacks,RHP,Levi Kelly,"IMG Academy, Bradenton, Fla.",HS,FL,Y,"$350,000"
+2018,8,250,Red Sox,C,Elih Marrero,St. Thomas (Fla.),4YR,FL,Y,"$157,700"
+2018,8,251,Nationals,C,Tyler Cropley,Iowa,4YR,IA,Y,"$10,000"
+2018,8,252,Astros,RHP,Austin Hansen,Oklahoma,4YR,OK,Y,"$156,500"
+2018,8,253,Indians,RHP,Alex Royalty,UNC Wilmington,4YR,NC,Y,"$155,900"
+2018,8,254,Dodgers,2B,Luke Heyer,Kentucky,4YR,KY,Y,"$47,500"
+2018,9,255,Tigers,LHP,Tarik Skubal,Seattle,4YR,WA,Y,"$350,000"
+2018,9,256,Giants,RHP,Ben Madison,Central Baptist (Ark.),4YR,AR,Y,"$140,000"
+2018,9,257,Phillies,RHP,Dominic Pipkin,"Pinole Valley HS, Pinole, Calif.",HS,CA,Y,"$800,000"
+2018,9,258,White Sox,C,Gunnar Troutwine,Wichita State,4YR,KS,Y,"$10,000"
+2018,9,259,Reds,RHP,Andrew McDonald,Virginia Tech,4YR,VA,Y,"$7,500"
+2018,9,260,Mets,RHP,Bryce Montes de Oca,Missouri,4YR,MO,Y,"$152,100"
+2018,9,261,Padres,2B,Luke Becker,Kentucky,4YR,KY,Y,"$5,000"
+2018,9,262,Braves,RHP,Ryan Shetter,Texas Tech,4YR,TX,Y,"$135,000"
+2018,9,263,Athletics,RHP,Chase Cohen,Georgia Southern,4YR,GA,Y,"$140,000"
+2018,9,264,Pirates,RHP,Logan Stoelke,Louisiana-Lafayette,4YR,LA,Y,"$50,000"
+2018,9,265,Orioles,LHP,Kevin Magee,St. John's,4YR,NY,Y,"$6,000"
+2018,9,266,Blue Jays,1B,Jake Brodt,Santa Clara,4YR,CA,Y,"$5,000"
+2018,9,267,Marlins,RHP,Jake Walters,Alabama,4YR,AL,Y,"$10,000"
+2018,9,268,Mariners,OF,Keegan McGovern,Georgia,4YR,GA,Y,"$65,000"
+2018,9,269,Rangers,RHP,Chandler Sanburn,Wichita State,4YR,KS,Y,"$15,000"
+2018,9,270,Rays,RHP,Nick Lee,Louisiana-Lafayette,4YR,LA,Y,"$145,300"
+2018,9,271,Angels,RHP,Jake Lee,Oakland,4YR,MI,Y,"$7,500"
+2018,9,272,Royals,OF,Kevon Jackson,Queen Creek (Ariz.) HS,HS,AZ,Y,"$144,600"
+2018,9,273,Cardinals,C,Matt Duce,Dallas Baptist,4YR,TX,Y,"$5,000"
+2018,9,274,Twins,OF,Willie Joe Garry,Pascagoula (Miss.) HS,HS,MS,Y,"$225,000"
+2018,9,275,Brewers,OF,Arbert Cipion,"Passaic County Technical Institute, Wayne, N.J.",HS,NJ,Y,"$138,200"
+2018,9,276,Rockies,C,Willie MacIver,Washington,4YR,WA,Y,"$145,900"
+2018,9,277,Yankees,RHP,Mick Vorhof,Grand Canyon,4YR,AZ,Y,"$7,500"
+2018,9,278,Cubs,RHP,Derek Casey,Virginia,4YR,VA,Y,"$130,000"
+2018,9,279,Diamondbacks,LHP,Tyler Holton,Florida State,4YR,FL,Y,"$144,800"
+2018,9,280,Red Sox,LHP,Brian Brown,North Carolina State,4YR,NC,Y,"$2,500"
+2018,9,281,Nationals,RHP,Tanner Driskill,Lamar,4YR,TX,Y,"$10,000"
+2018,9,282,Astros,OF,Scott Schreiber,Nebraska,4YR,NE,Y,"$10,000"
+2018,9,283,Indians,RHP,Brian Eichhorn,Georgia Southern,4YR,GA,Y,"$150,000"
+2018,9,284,Dodgers,OF,Josh McLain,North Carolina State,4YR,NC,Y,"$7,500"
+2018,10,285,Tigers,OF,Brock Deatherage,North Carolina State,4YR,NC,Y,"$10,000"
+2018,10,286,Giants,RHP,Alex DuBord,Faulkner (Ala.),4YR,AL,Y,"$75,000"
+2018,10,287,Phillies,3B,Madison Stokes,South Carolina,4YR,SC,Y,"$10,000"
+2018,10,288,White Sox,LHP,Bennett Sousa,Virginia,4YR,VA,Y,"$10,000"
+2018,10,289,Reds,RHP,A.J. Moore,Kennesaw State,4YR,GA,Y,"$2,500"
+2018,10,290,Mets,SS,Manny Rodriguez,Cincinnati,4YR,OH,Y,"$10,000"
+2018,10,291,Padres,RHP,Jose Quezada,Texas Tech,4YR,TX,Y,"$5,000"
+2018,10,292,Braves,3B,Brett Langhorne,Carson-Newman (Tenn.),4YR,TN,Y,"$10,000"
+2018,10,293,Athletics,RHP,Clark Cota,UNC Wilmington,4YR,NC,Y,"$150,000"
+2018,10,294,Pirates,3B,Mike Gretler,Oregon State,4YR,OR,Y,"$50,000"
+2018,10,295,Orioles,RHP,Dallas Litscher,St. Katherine (Calif.),4YR,CA,Y,"$7,500"
+2018,10,296,Blue Jays,OF,Cal Stevenson,Arizona,4YR,AZ,Y,"$5,000"
+2018,10,297,Marlins,RHP,Tanner Andrews,Purdue,4YR,IN,Y,"$10,000"
+2018,10,298,Mariners,SS,Matt Sanders,Troy,4YR,AL,Y,"$10,000"
+2018,10,299,Rangers,RHP,Leury Tejada,"Walton HS, Bronx, N.Y.",HS,NY,Y,"$125,000"
+2018,10,300,Rays,RHP,Alan Strong,Nevada-Las Vegas,4YR,NV,Y,"$7,500"
+2018,10,301,Angels,RHP,Ben Morrison,Western Kentucky,4YR,KY,Y,"$2,500"
+2018,10,302,Royals,LHP,Austin Lambright,Central Oklahoma,4YR,OK,Y,"$2,500"
+2018,10,303,Cardinals,1B,Kevin Woodall,Coastal Carolina,4YR,SC,Y,"$5,000"
+2018,10,304,Twins,RHP,Regi Grace,Madison (Miss.) Central HS,HS,MS,Y,"$350,000"
+2018,10,305,Brewers,RHP,J.T. Hintzen,Florida Southern,4YR,FL,Y,"$10,000"
+2018,10,306,Rockies,OF,Cade Harris,Oklahoma,4YR,OK,Y,"$150,000"
+2018,10,307,Yankees,LHP,Josh Maciejewski,Charlotte,4YR,NC,Y,"$7,500"
+2018,10,308,Cubs,3B,Luke Reynolds,Southern Mississippi,4YR,MS,Y,"$125,000"
+2018,10,309,Diamondbacks,C,Nick Dalesandro,Purdue,4YR,IN,Y,"$137,300"
+2018,10,310,Red Sox,2B,Grant Williams,Kennesaw State,4YR,GA,Y,"$2,500"
+2018,10,311,Nationals,2B,Carson Shaddy,Arkansas,4YR,AR,Y,"$10,000"
+2018,10,312,Astros,OF,Chandler Taylor,Alabama,4YR,AL,Y,"$70,000"
+2018,10,313,Indians,RHP,Robert Broom,Mercer,4YR,GA,Y,"$136,800"
+2018,10,314,Dodgers,2B,Deacon Liput,Florida,4YR,FL,Y,"$134,300"
+2018,11,315,Tigers,LHP,Kacey Murphy,Arkansas,4YR,AR,Y,"$145,000"
+2018,11,316,Giants,3B,David Villar,South Florida,4YR,FL,Y,"$125,000"
+2018,11,317,Phillies,RHP,Jack Perkins,Stetson,4YR,FL,Y,"$135,000"
+2018,11,318,White Sox,SS,Kelvin Maldonado,"Pro Baseball HS Academy, Cayey, P.R.",HS,PR,Y,"$175,000"
+2018,11,319,Reds,RHP,Noah Davis,UC Santa Barbara,4YR,CA,Y,"$127,500"
+2018,11,320,Mets,LHP,Franklin Parra,Copiague (N.Y.) HS,HS,NY,Y,"$150,000"
+2018,11,321,Padres,C,Nick Gatewood,Georgia State,4YR,GA,Y,"$125,000"
+2018,11,322,Braves,LHP,Jake Higginbotham,Clemson,4YR,SC,Y,"$125,000"
+2018,11,323,Athletics,RHP,Joe DeMers,Washington,4YR,WA,Y,"$125,000"
+2018,11,324,Pirates,RHP,Michael Burrows,Waterford (Conn.) HS,HS,CT,Y,"$500,000"
+2018,11,325,Orioles,C,Cody Roberts,North Carolina,4YR,NC,Y,"$125,000"
+2018,11,326,Blue Jays,OF,Hunter Steinmetz,Missouri State,4YR,MO,Y,"$125,000"
+2018,11,327,Marlins,OF,Davis Bradshaw,Meridian (Miss.) JC,JC,MS,Y,"$125,000"
+2018,11,328,Mariners,RHP,Damon Casetta-Stubbs,"Kings Way Christian Schools, Vancouver, Wash.",HS,WA,Y,"$325,000"
+2018,11,329,Rangers,RHP,Billy Layne,Seton Hall,4YR,NJ,Y,"$50,000"
+2018,11,330,Rays,1B,Jacson McGowan,Purdue,4YR,IN,Y,"$125,000"
+2018,11,331,Angels,RHP,Connor Van Scoyoc,"Jefferson HS, Cedar Rapids, Iowa",HS,IA,Y,"$397,500"
+2018,11,332,Royals,C,Michael Emodi,Creighton,4YR,NE,Y,"$125,000"
+2018,11,333,Cardinals,RHP,Chris Holba,East Carolina,4YR,NC,Y,"$125,000"
+2018,11,334,Twins,2B,Michael Helman,Texas A&M,4YR,TX,Y,"$220,000"
+2018,11,335,Brewers,RHP,Davis Daniel,Auburn,4YR,AL,N,
+2018,11,335,Brewers,RHP,Davis Daniel,Auburn,4YR,AL,N,
+2018,11,336,Rockies,LHP,PJ Poulin,Connecticut,4YR,CT,Y,"$125,000"
+2018,11,337,Yankees,RHP,Tanner Myatt,Florence-Darlington Tech (S.C.) JC,JC,SC,Y,"$147,500"
+2018,11,338,Cubs,RHP,Riley Thompson,Louisville,4YR,KY,Y,"$200,000"
+2018,11,339,Diamondbacks,SS,Blaze Alexander,"IMG Academy, Bradenton, Fla.",HS,FL,Y,"$500,000"
+2018,11,340,Red Sox,3B,Nicholas Northcut,Mason (Ohio) HS,HS,OH,Y,"$565,000"
+2018,11,341,Nationals,RHP,Frankie Bartow,Miami,4YR,FL,Y,"$125,000"
+2018,11,342,Astros,RHP,Brett Conine,Cal State Fullerton,4YR,CA,Y,"$125,000"
+2018,11,343,Indians,RHP,Jack DeGroat,Liberty,4YR,VA,Y,"$125,000"
+2018,11,344,Dodgers,RHP,Stephen Kolek,Texas A&M,4YR,TX,Y,"$125,000"
+2018,12,345,Tigers,OF,Reece Hampton,Charlotte,4YR,NC,Y,"$125,000"
+2018,12,346,Giants,3B,Sean Roby,Arizona Western JC,JC,AZ,Y,"$150,000"
+2018,12,347,Phillies,RHP,James McArthur,Mississippi,4YR,MS,Y,"$215,000"
+2018,12,348,White Sox,RHP,Isaiah Carranza,Azusa Pacific (Calif.),4YR,CA,Y,"$175,000"
+2018,12,349,Reds,LHP,Josiah Sightler,Swansea (S.C.) HS,HS,SC,N,
+2018,12,350,Mets,OF,Ross Adolph,Toledo,4YR,OH,Y,"$125,000"
+2018,12,351,Padres,2B,Sean Guilbe,"Muhlenburg HS, Laureldale, Pa.",HS,PA,Y,"$300,000"
+2018,12,352,Braves,RHP,Nolan Kingham,Texas,4YR,TX,Y,"$150,000"
+2018,12,353,Athletics,OF,Noah Vaughan,Texas-Arlington,4YR,TX,Y,"$100,000"
+2018,12,354,Pirates,C,Zac Susi,Connecticut,4YR,CT,Y,"$125,000"
+2018,12,355,Orioles,SS,Clay Fisher,UC Santa Barbara,4YR,CA,Y,"$125,000"
+2018,12,356,Blue Jays,LHP,Nick Allgeyer,Iowa,4YR,IA,Y,"$125,000"
+2018,12,357,Marlins,RHP,Zack Leban,Kansas,4YR,KS,Y,"$125,000"
+2018,12,358,Mariners,2B,Ryne Ogren,Elon,4YR,NC,Y,"$125,000"
+2018,12,359,Rangers,LHP,Destin Dotson,"Scotlandville Magnet HS, Baton Rouge",HS,LA,Y,"$300,000"
+2018,12,360,Rays,C,Kevin Melendez,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$125,000"
+2018,12,361,Angels,LHP,Daniel Nunan,Ocean City (N.J.) HS,HS,NJ,Y,"$197,500"
+2018,12,362,Royals,LHP,Rylan Kaufman,San Jacinto (Texas) JC,JC,TX,Y,"$722,500"
+2018,12,363,Cardinals,RHP,Francisco Justo,Monroe (N.Y.) JC,JC,NY,Y,"$125,000"
+2018,12,364,Twins,RHP,Jon Olsen,UCLA,4YR,CA,Y,"$125,000"
+2018,12,365,Brewers,SS,Korry Howell,Kirkwood (Iowa) JC,JC,IA,Y,"$210,000"
+2018,12,366,Rockies,3B,Kyle Datres,North Carolina,4YR,NC,Y,"$125,000"
+2018,12,367,Yankees,OF,Matt Pita,Virginia Military Institute,4YR,VA,Y,"$147,500"
+2018,12,368,Cubs,RHP,Cam Sanders,Louisiana State,4YR,LA,Y,"$125,000"
+2018,12,369,Diamondbacks,RHP,Justin Lewis,Kentucky,4YR,KY,Y,"$125,000"
+2018,12,370,Red Sox,RHP,Chase Shugart,Texas,4YR,TX,Y,"$125,000"
+2018,12,371,Nationals,RHP,Graham Lawson,South Carolina,4YR,SC,N,
+2018,12,372,Astros,RHP,Mark Moclair,Tampa,4YR,FL,Y,"$125,000"
+2018,12,373,Indians,RHP,Thomas Ponticelli,San Francisco,4YR,CA,Y,"$125,000"
+2018,12,374,Dodgers,C,Hunter Feduccia,Louisiana State,4YR,LA,Y,"$125,000"
+2018,13,375,Tigers,C,Christopher Proctor,Duke,4YR,NC,Y,"$125,000"
+2018,13,376,Giants,OF,George Bell,Connors State (Okla.) JC,JC,OK,Y,"$125,000"
+2018,13,377,Phillies,SS,Jose Mercado,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$125,000"
+2018,13,378,White Sox,RHP,Jason Bilous,Coastal Carolina,4YR,SC,Y,"$185,000"
+2018,13,379,Reds,OF,Brian Rey,Miami Dade JC,JC,FL,Y,"$125,000"
+2018,13,380,Mets,RHP,Christian Tripp,New Mexico,4YR,NM,Y,"$125,000"
+2018,13,381,Padres,LHP,Antoine Kelly,"Maine East HS, Park Ridge, Ill.",HS,IL,N,
+2018,13,382,Braves,3B,Brendan Venter,Auburn,4YR,AL,Y,"$125,000"
+2018,13,383,Athletics,RHP,Dallas Woolfolk,Mississippi,4YR,MS,Y,"$50,000"
+2018,13,384,Pirates,SS,Zack Kone,Duke,4YR,NC,Y,"$166,700"
+2018,13,385,Orioles,SS,Andrew Fregia,Sam Houston State,4YR,TX,Y,"$125,000"
+2018,13,386,Blue Jays,RHP,Brad Wilson,Ohio Dominican,4YR,OH,Y,"$125,000"
+2018,13,387,Marlins,C,Keegan Fish,"Lakota West HS, West Chester, Ohio",HS,OH,Y,"$125,000"
+2018,13,388,Mariners,OF,Charlie McConnell,Northeastern,4YR,MA,Y,"$125,000"
+2018,13,389,Rangers,SS,Kenen Irizarry,"Quiles Claudio HS, Guanica, P.R.",HS,PR,Y,"$125,000"
+2018,13,390,Rays,LHP,Trey Cumbie,Houston,4YR,TX,Y,"$125,000"
+2018,13,391,Angels,RHP,Cooper Criswell,North Carolina,4YR,NC,Y,"$125,000"
+2018,13,392,Royals,RHP,Jon Heasley,Oklahoma State,4YR,OK,Y,"$247,500"
+2018,13,393,Cardinals,LHP,Colin Schmid,Appalachian State,4YR,NC,Y,"$125,000"
+2018,13,394,Twins,C,Trevor Casanova,Cal State Northridge,4YR,CA,Y,"$100,000"
+2018,13,395,Brewers,RHP,Reese Olson,"North Hall HS, Gainesville, Ga.",HS,GA,Y,"$440,000"
+2018,13,396,Rockies,RHP,Rayne Supple,Wake Forest,4YR,NC,Y,"$125,000"
+2018,13,397,Yankees,OF,Isaiah Pasteur,George Washington,4YR,DC,Y,"$147,500"
+2018,13,398,Cubs,OF,Ezequiel Pagan,"Pro Baseball HS Academy, Cayey, P.R.",HS,PR,Y,"$125,000"
+2018,13,399,Diamondbacks,SS,L.T. Tolbert,South Carolina,4YR,SC,Y,"$125,000"
+2018,13,400,Red Sox,OF,Dylan Hardy,South Alabama,4YR,AL,Y,"$125,000"
+2018,13,401,Nationals,OF,Cody Wilson,Florida Atlantic,4YR,FL,Y,"$125,000"
+2018,13,402,Astros,RHP,Shawn Dubin,Georgetown (Ky.),4YR,KY,Y,"$1,000"
+2018,13,403,Indians,RHP,Kyle Marman,Florida Atlantic,4YR,FL,Y,"$125,000"
+2018,13,404,Dodgers,1B,Dillon Paulson,Southern California,4YR,CA,Y,"$125,000"
+2018,14,405,Tigers,SS,Luke Sherley,Texas State,4YR,TX,Y,"$7,500"
+2018,14,406,Giants,LHP,Bryce Tucker,Central Florida,4YR,FL,Y,"$125,000"
+2018,14,407,Phillies,C,Jesse Wilkening,Nebraska,4YR,NE,Y,"$200,000"
+2018,14,408,White Sox,RHP,Davis Martin,Texas Tech,4YR,TX,Y,"$130,000"
+2018,14,409,Reds,RHP,Michael Byrne,Florida,4YR,FL,Y,"$257,500"
+2018,14,410,Mets,LHP,Andrew Mitchell,Auburn,4YR,AL,Y,"$10,000"
+2018,14,411,Padres,LHP,Erik Sabrowski,Cloud County (Kan.) JC,JC,KS,Y,"$125,000"
+2018,14,412,Braves,RHP,Victor Vodnik,Rialto (Calif.) HS,HS,CA,Y,"$200,000"
+2018,14,413,Athletics,RHP,Gus Varland,Concordia-St. Paul (Minn.),4YR,MN,Y,"$125,000"
+2018,14,414,Pirates,OF,Daniel Amaral,UCLA,4YR,CA,Y,"$100,000"
+2018,14,415,Orioles,OF,Doran Turchin,Illinois,4YR,IL,Y,"$125,000"
+2018,14,416,Blue Jays,3B,John Aiello,Wake Forest,4YR,NC,Y,"$125,000"
+2018,14,417,Marlins,RHP,Eli Villalobos,Long Beach State,4YR,CA,Y,"$125,000"
+2018,14,418,Mariners,RHP,Tyler Suellentrop,Indian River State (Fla.) JC,JC,FL,Y,"$125,000"
+2018,14,419,Rangers,RHP,Theo McDowell,Salisbury (Conn.) School,HS,CT,Y,"$140,000"
+2018,14,420,Rays,RHP,Christopher Gau,Jacksonville,4YR,FL,Y,"$125,000"
+2018,14,421,Angels,OF,Drevian Williams-Nelson,"North Shore HS, Houston",HS,TX,Y,"$125,000"
+2018,14,422,Royals,RHP,Christian Cosby,Chapman (Calif.),4YR,CA,Y,"$125,000"
+2018,14,423,Cardinals,2B,Brandon Riley,North Carolina,4YR,NC,Y,"$125,000"
+2018,14,424,Twins,OF,Erick Rivera,"Superior Urbana HS, Salinas, P.R.",HS,PR,Y,"$125,000"
+2018,14,425,Brewers,OF,Elijah Cabell,"TNXL Academy, Altamonte Springs, Fla.",HS,FL,N,
+2018,14,426,Rockies,LHP,Will Tribucher,Michigan,4YR,MI,Y,"$125,000"
+2018,14,427,Yankees,2B,Kyle Gray,West Virginia,4YR,WV,Y,"$125,000"
+2018,14,428,Cubs,RHP,Riley McCauley,Michigan State,4YR,MI,Y,"$125,000"
+2018,14,429,Diamondbacks,RHP,Josh Green,Southeastern Louisiana,4YR,LA,Y,"$5,000"
+2018,14,430,Red Sox,2B,Nick Lucky,"Cocalico HS, Denver, Pa.",HS,PA,N,
+2018,14,431,Nationals,LHP,Aaron Fletcher,Houston,4YR,TX,Y,"$125,000"
+2018,14,432,Astros,RHP,J.P. France,Mississippi State,4YR,MS,Y,"$1,000"
+2018,14,433,Indians,OF,Korey Holland,"Langham Creek HS, Houston",HS,TX,Y,"$515,000"
+2018,14,434,Dodgers,RHP,Brandon White,"West HS, Chehalis, Wash.",HS,WA,N,
+2018,15,435,Tigers,1B,Nick Ames,Nevada-Las Vegas,4YR,NV,Y,"$125,000"
+2018,15,436,Giants,RHP,Matt Frisbee,UNC Greensboro,4YR,NC,Y,"$125,000"
+2018,15,437,Phillies,RHP,D.J. Carpenter,"King HS, Riverside, Calif.",HS,CA,N,
+2018,15,438,White Sox,RHP,Luke Shilling,Illinois,4YR,IL,Y,"$125,000"
+2018,15,439,Reds,OF,Chris Williams,"River Ridge HS, Woodstock, Ga.",HS,GA,N,
+2018,15,440,Mets,C,Phil Capra,Wagner,4YR,NY,Y,"$75,000"
+2018,15,441,Padres,RHP,Nick Thwaits,Fort Recovery (Ohio) HS,HS,OH,Y,"$450,015"
+2018,15,442,Braves,2B,Greg Cullen,Niagara,4YR,NY,Y,"$125,000"
+2018,15,443,Athletics,RHP,Calvin Coker,Auburn,4YR,AL,Y,"$5,000"
+2018,15,444,Pirates,OF,Jonah Davis,California,4YR,CA,Y,"$125,000"
+2018,15,445,Orioles,LHP,Cody Hacker,"Holt HS, Wentzville, Mo.",HS,MO,Y,"$125,000"
+2018,15,446,Blue Jays,RHP,Troy Watson,Northern Colorado,4YR,CO,Y,"$100,000"
+2018,15,447,Marlins,RHP,Zach Greene,South Alabama,4YR,AL,N,
+2018,15,448,Mariners,RHP,Matthew Willrodt,Cisco (Texas) JC,JC,TX,Y,"$175,000"
+2018,15,449,Rangers,OF,Cameron Simmons,Virginia,4YR,VA,N,
+2018,15,450,Rays,LHP,Nick Sprengel,San Diego,4YR,CA,Y,"$125,000"
+2018,15,451,Angels,RHP,Nick Frank,St. Mary's,4YR,CA,Y,"$100,000"
+2018,15,452,Royals,OF,Milan Walla,"Tivy HS, Kerrville, Texas",HS,TX,N,
+2018,15,453,Cardinals,RHP,Mike Brettell,Central Michigan,4YR,MI,Y,"$125,000"
+2018,15,454,Twins,LHP,Kody Funderburk,Dallas Baptist,4YR,TX,Y,"$100,000"
+2018,15,455,Brewers,RHP,Nick Trogrlic-Iverson,Central Arizona JC,JC,AZ,N,
+2018,15,456,Rockies,SS,Coco Montes,South Florida,4YR,FL,Y,"$100,000"
+2018,15,457,Yankees,RHP,Nick Ernst,Miami (Ohio),4YR,OH,Y,"$125,000"
+2018,15,458,Cubs,1B,Tyler Durna,UC San Diego,4YR,CA,Y,"$100,000"
+2018,15,459,Diamondbacks,1B,Zack Shannon,Delta State (Miss.),4YR,MS,Y,"$5,000"
+2018,15,460,Red Sox,RHP,Andrew Politi,Seton Hall,4YR,NJ,Y,"$25,000"
+2018,15,461,Nationals,LHP,Evan Lee,Arkansas,4YR,AR,Y,"$125,000"
+2018,15,462,Astros,SS,Trey Dawson,Kentucky,4YR,KY,Y,"$125,000"
+2018,15,463,Indians,C,Bryan Lavastida,Hillsborough (Fla.) JC,JC,FL,Y,"$175,000"
+2018,15,464,Dodgers,LHP,Julian Smith,Catawba Valley (N.C.) JC,JC,NC,Y,"$152,500"
+2018,16,465,Tigers,OF,Dayton Dugas,Wichita State,4YR,KS,Y,"$125,000"
+2018,16,466,Giants,RHP,Trent Toplikar,UC Riverside,4YR,CA,Y,"$125,000"
+2018,16,467,Phillies,RHP,Tyler McKay,Howard (Texas) JC,JC,TX,Y,"$350,000"
+2018,16,468,White Sox,C,Ty Greene,California,4YR,CA,Y,"$75,000"
+2018,16,469,Reds,OF,Drew Mount,Kansas State,4YR,KS,Y,"$125,000"
+2018,16,470,Mets,SS,L.A. Woodard,Middle Tennessee State,4YR,TN,Y,"$125,000"
+2018,16,471,Padres,OF,Michael Curry,Georgia,4YR,GA,Y,"$125,000"
+2018,16,472,Braves,RHP,Ty Harpenau,Texas Tech,4YR,TX,Y,"$125,000"
+2018,16,473,Athletics,RHP,Bryce Nightengale,George Mason,4YR,VA,Y,"$50,000"
+2018,16,474,Pirates,RHP,Colin Selby,Randolph-Macon (Va.),4YR,VA,Y,"$125,000"
+2018,16,475,Orioles,RHP,Parker McFadden,Washington State,4YR,WA,Y,"$125,000"
+2018,16,476,Blue Jays,RHP,Josh Hiatt,North Carolina,4YR,NC,Y,"$50,000"
+2018,16,477,Marlins,RHP,Sam Bordner,Louisville,4YR,KY,Y,"$125,000"
+2018,16,478,Mariners,LHP,Holden Laws,"South Granville HS, Creedmoor, N.C.",HS,NC,Y,"$200,000"
+2018,16,479,Rangers,RHP,Jonathan Edwards,"Eagle's Landing HS, McDonough, Ga.",HS,GA,N,
+2018,16,480,Rays,OF,Marvin Malone,Southeastern (Fla.),4YR,FL,Y,"$25,000"
+2018,16,481,Angels,RHP,Chase Chaney,"Mountain View HS, Lawrenceville, Ga.",HS,GA,Y,"$125,000"
+2018,16,482,Royals,RHP,Kyle Hinton,Delaware,4YR,DE,Y,"$125,000"
+2018,16,483,Cardinals,LHP,Evan Sisk,College of Charleston,4YR,SC,Y,"$100,000"
+2018,16,484,Twins,RHP,Anthony Tuionetoa,"Baldwin HS, Wailuku, Hawaii",HS,HI,N,
+2018,16,485,Brewers,RHP,Alec Barger,Polk State (Fla.) JC,JC,FL,N,
+2018,16,486,Rockies,RHP,Boby Johnson,Bradley,4YR,IL,Y,"$75,000"
+2018,16,487,Yankees,RHP,Derek Craft,Texas-San Antonio,4YR,TX,Y,"$125,000"
+2018,16,488,Cubs,LHP,Josh Sawyer,Texas,4YR,TX,Y,"$125,000"
+2018,16,489,Diamondbacks,RHP,Ethan Larrison,Indiana State,4YR,IN,Y,"$5,000"
+2018,16,490,Red Sox,RHP,Chris Machamer,Kentucky,4YR,KY,Y,"$213,000"
+2018,16,491,Nationals,LHP,Carson Teel,Oklahoma State,4YR,OK,Y,"$125,000"
+2018,16,492,Astros,C,Alex Holderbach,Eastern Kentucky,4YR,KY,Y,"$100,000"
+2018,16,493,Indians,OF,Ruben Cardenas,Cal State Fullerton,4YR,CA,Y,"$125,000"
+2018,16,494,Dodgers,RHP,Trey Dillard,San Jacinto (Texas) JC,JC,TX,N,
+2018,17,495,Tigers,OF,Avery Tuck,New Mexico JC,JC,NM,Y,"$125,000"
+2018,17,496,Giants,OF,Ryan Olenek,Mississippi,4YR,MS,N,
+2018,17,497,Phillies,LHP,Keylan Killgore,Wichita State,4YR,KS,Y,"$175,000"
+2018,17,498,White Sox,SS,Travis Moniot,Arizona,4YR,AZ,Y,"$50,000"
+2018,17,499,Reds,OF,Noah Dickerson,"TNXL Academy, Altamonte Springs, Fla.",HS,FL,N,
+2018,17,500,Mets,RHP,Allan Winans,Campbell,4YR,NC,Y,"$10,000"
+2018,17,501,Padres,LHP,Hazahel Quijada,UC Riverside,4YR,CA,Y,"$125,000"
+2018,17,502,Braves,OF,Justin Dean,Lenoir-Rhyne (N.C.),4YR,NC,Y,"$125,000"
+2018,17,503,Athletics,OF,Devin Foyle,Kansas,4YR,KS,Y,"$75,000"
+2018,17,504,Pirates,RHP,Brad Case,Rollins (Fla.),4YR,FL,Y,"$100,000"
+2018,17,505,Orioles,3B,Trevor Putzig,Tennessee Tech,4YR,TN,Y,"$2,500"
+2018,17,506,Blue Jays,RHP,Austin Havekost,Kent State,4YR,OH,Y,"$100,000"
+2018,17,507,Marlins,LHP,Alex Vesia,Cal State East Bay,4YR,CA,Y,"$25,000"
+2018,17,508,Mariners,SS,Cesar Trejo,UNC Greensboro,4YR,NC,Y,"$100,000"
+2018,17,509,Rangers,C,Scott Kapers,Valparaiso,4YR,IN,Y,"$62,500"
+2018,17,510,Rays,RHP,Justin Montgomery,California Baptist,4YR,CA,Y,"$100,000"
+2018,17,511,Angels,RHP,Luis Alvarado,Nebraska,4YR,NE,Y,"$50,000"
+2018,17,512,Royals,RHP,Noah Bryant,Georgia Highlands JC,JC,GA,Y,"$125,000"
+2018,17,513,Cardinals,RHP,Kyle Leahy,Coloardo Mesa,4YR,CO,Y,"$75,000"
+2018,17,514,Twins,LHP,Erik Cha,Cal State Fullerton,4YR,CA,Y,"$75,000"
+2018,17,515,Brewers,LHP,Clayton Andrews,Long Beach State,4YR,CA,Y,"$75,000"
+2018,17,516,Rockies,3B,Reese Berberet,Long Beach JC,JC,CA,Y,"$80,000"
+2018,17,517,Yankees,RHP,Barrett Loseke,Arkansas,4YR,AR,Y,"$125,000"
+2018,17,518,Cubs,RHP,Jake Reindl,Arkansas,4YR,AR,Y,"$100,000"
+2018,17,519,Diamondbacks,RHP,Justin Garcia,Arkansas-Little Rock,4YR,AR,Y,"$5,000"
+2018,17,520,Red Sox,C,Lane Milligan,Oklahoma City,4YR,OK,Y,"$10,000"
+2018,17,521,Nationals,RHP,Ridge Chapman,South Carolina,4YR,SC,N,
+2018,17,522,Astros,RHP,Brett Daniels,North Carolina,4YR,NC,Y,"$1,000"
+2018,17,523,Indians,RHP,Liam Jenkins,Louisville,4YR,KY,Y,"$125,000"
+2018,17,524,Dodgers,OF,Aldrich De Jongh,Hillsborough (Fla.) JC,JC,FL,Y,"$147,500"
+2018,18,525,Tigers,RHP,Ethan DeCaster,Duke,4YR,NC,Y,"$4,000"
+2018,18,526,Giants,OF,Bryan Hernandez,"Such HS, San Juan, P.R.",HS,PR,Y,"$290,000"
+2018,18,527,Phillies,3B,Matt Kroon,Oklahoma State,4YR,OK,Y,"$150,000"
+2018,18,528,White Sox,OF,Romy Gonzalez,Miami,4YR,FL,Y,"$125,000"
+2018,18,529,Reds,RHP,Alberto Gonzalez,"Alexander HS, Laredo, Texas",HS,TX,Y,"$125,000"
+2018,18,530,Mets,1B,Chase Chambers,Tennessee Tech,4YR,TN,Y,"$10,000"
+2018,18,531,Padres,RHP,Dylan Smith,Stafford (Texas) HS,HS,TX,N,
+2018,18,532,Braves,RHP,Cameron Kurz,UC San Diego,4YR,CA,Y,"$75,000"
+2018,18,533,Athletics,2B,Cobie Vance,Alabama,4YR,AL,Y,"$50,000"
+2018,18,534,Pirates,RHP,Mike Lopresti,St. John's,4YR,NY,Y,"$100,000"
+2018,18,535,Orioles,RHP,Jake Zebron,"Colonel Richardson HS, Federalsburg, Md.",HS,MD,Y,"$125,000"
+2018,18,536,Blue Jays,RHP,Fitz Stadler,Arizona State,4YR,AZ,Y,"$100,000"
+2018,18,537,Marlins,RHP,Zach Wolf,Seattle,4YR,WA,Y,"$120,000"
+2018,18,538,Mariners,RHP,Noah Zavolas,Harvard,4YR,MA,Y,"$5,000"
+2018,18,539,Rangers,LHP,Grant Wolfram,Davenport (Mich.),4YR,MI,Y,"$85,000"
+2018,18,540,Rays,SS,Jake Palomaki,Boston College,4YR,MA,Y,"$4,000"
+2018,18,541,Angels,RHP,Dylan King,Belmont,4YR,TN,Y,"$125,000"
+2018,18,542,Royals,RHP,R.J. Dabovich,Central Arizona JC,JC,AZ,N,
+2018,18,543,Cardinals,RHP,Cole Aker,Tampa,4YR,FL,Y,"$75,000"
+2018,18,544,Twins,RHP,Andrew Cabezas,Miami,4YR,FL,Y,"$90,000"
+2018,18,545,Brewers,LHP,Scott Sunitsch,Washington State,4YR,WA,Y,"$5,000"
+2018,18,546,Rockies,RHP,Shelby Lackey,Pacific,4YR,CA,Y,"$125,000"
+2018,18,547,Yankees,C,Alex Guerrero,Eagle (Idaho) HS,HS,ID,Y,"$125,000"
+2018,18,548,Cubs,3B,Jake Slaughter,Louisiana State,4YR,LA,Y,"$100,000"
+2018,18,549,Diamondbacks,RHP,Kyler Stout,Oral Roberts,4YR,OK,Y,"$5,000"
+2018,18,550,Red Sox,RHP,Eddie Jimenez,Southeastern (Fla.),4YR,FL,Y,"$5,000"
+2018,18,551,Nationals,OF,Jacob Rhinesmith,Western Kentucky,4YR,KY,Y,"$125,000"
+2018,18,552,Astros,SS,Michael Wielansky,Wooster (Ohio),4YR,OH,Y,"$75,000"
+2018,18,553,Indians,RHP,Shane McCarthy,Seton Hall,4YR,NJ,Y,"$5,000"
+2018,18,554,Dodgers,OF,Niko Hulsizer,Morehead State,4YR,KY,Y,"$125,000"
+2018,19,555,Tigers,RHP,Angel Reyes,Science and Arts of Oklahoma,4YR,OK,Y,"$70,000"
+2018,19,556,Giants,OF,Randy Norris,Winston-Salem State (N.C.),4YR,NC,Y,"$125,000"
+2018,19,557,Phillies,RHP,Mark Potter,JC of Central Florida,JC,FL,Y,"$100,000"
+2018,19,558,White Sox,C,Gabriel Ortiz,"PJ Educational HS, Carolina, P.R.",HS,PR,Y,"$50,000"
+2018,19,559,Reds,RHP,Nick Starr,Southern Arkansas,4YR,AR,N,
+2018,19,560,Mets,RHP,Tommy Wilson,Cal State Fullerton,4YR,CA,Y,"$90,000"
+2018,19,561,Padres,RHP,Ian Villers,"Northgate HS, Walnut Creek, Calif.",HS,CA,N,
+2018,19,562,Braves,RHP,Zach Daniels,Iowa,4YR,IA,Y,"$125,000"
+2018,19,563,Athletics,C,Matt Cross,Niagara County (N.Y.) JC,JC,NY,Y,"$40,000"
+2018,19,564,Pirates,RHP,Will Kobos,George Washington,4YR,DC,Y,"$125,000"
+2018,19,565,Orioles,OF,Andrew Jayne,"Sanford HS, Fayetteville, N.C.",HS,NC,Y,"$125,000"
+2018,19,566,Blue Jays,OF,Adrian Ramos,Miami Dade JC,JC,FL,Y,"$125,000"
+2018,19,567,Marlins,RHP,Justin Evans,Columbus State (Ga.),4YR,GA,Y,"$75,000"
+2018,19,568,Mariners,C,Dean Nevarez,San Diego State,4YR,CA,Y,"$50,000"
+2018,19,569,Rangers,C,Xavier Valentin,"Leadership Christian Academy, Guaynabo, P.R.",HS,PR,Y,"$165,000"
+2018,19,570,Rays,RHP,Simon Rosenblum-Larson,Harvard,4YR,MA,Y,"$85,000"
+2018,19,571,Angels,OF,Datren Bray,Gordon State (Ga.) JC,JC,GA,Y,"$75,000"
+2018,19,572,Royals,SS,Hunter Wolfe,Walters State (Tenn.) JC,JC,TN,N,
+2018,19,573,Cardinals,2B,Josh Shaw,St. John's,4YR,NY,Y,"$90,000"
+2018,19,574,Twins,RHP,Austin Schulfer,Wisconsin-Milwaukee,4YR,WI,Y,"$1,000"
+2018,19,575,Brewers,RHP,Peyton Zabel,"Riggs HS, Pierre, S.D.",HS,SD,N,
+2018,19,576,Rockies,OF,Zach Hall,Colorado-Colorado Springs,4YR,CO,Y,"$2,500"
+2018,19,577,Yankees,OF,Alex Junior,Tennessee Tech,4YR,TN,Y,"$100,000"
+2018,19,578,Cubs,RHP,Layne Looney,Richmond,4YR,VA,N,
+2018,19,579,Diamondbacks,RHP,Andy Toelken,Missouri,4YR,MO,Y,"$5,000"
+2018,19,580,Red Sox,2B,Jonathan Ortega,Texas State,4YR,TX,Y,"$85,000"
+2018,19,581,Nationals,RHP,Zach Linginfelter,Tennessee,4YR,TN,N,
+2018,19,582,Astros,RHP,Devin Conn,Nova Southeastern (Fla.),4YR,FL,Y,"$125,000"
+2018,19,583,Indians,OF,Antoine Duplantis,Louisiana State,4YR,LA,N,
+2018,19,584,Dodgers,OF,Sam McWilliams,Meridian (Miss.) JC,JC,MS,Y,"$125,000"
+2018,20,585,Tigers,SS,Kelvin Smith,"Redan HS, Stone Mountain, Ga.",HS,GA,Y,"$140,000"
+2018,20,586,Giants,SS,Jett Manning,Alabama,4YR,AL,Y,"$100,000"
+2018,20,587,Phillies,3B,Connor Litton,East Carolina,4YR,NC,Y,"$85,000"
+2018,20,588,White Sox,SS,Jimmy Galusky,West Virginia,4YR,WV,Y,"$50,000"
+2018,20,589,Reds,RHP,Evan Marquardt,Ball State,4YR,IN,N,
+2018,20,590,Mets,LHP,Brooks Warren,East Central (Miss.) JC,JC,MS,N,
+2018,20,591,Padres,RHP,Reiss Knehr,Fordham,4YR,NY,Y,"$80,000"
+2018,20,592,Braves,3B,CJ Alexander,State JC of Florida,JC,FL,Y,"$125,000"
+2018,20,593,Athletics,2B,Max Schuemann,Eastern Michigan,4YR,MI,Y,"$45,000"
+2018,20,594,Pirates,RHP,Conner Loeprich,St. Mary's,4YR,CA,Y,"$65,000"
+2018,20,595,Orioles,RHP,Caleb Kilian,Texas Tech,4YR,TX,N,
+2018,20,596,Blue Jays,SS,Vinny Capra,Richmond,4YR,VA,Y,"$1,000"
+2018,20,597,Marlins,RHP,Cam Baird,Texas State,4YR,TX,Y,"$1,000"
+2018,20,598,Mariners,RHP,J.T. Salter,West Alabama,4YR,AL,Y,"$75,000"
+2018,20,599,Rangers,RHP,Nic Laio,Western Michigan,4YR,MI,Y,"$125,000"
+2018,20,600,Rays,RHP,Stephen Yancey,Texas Wesleyan,4YR,TX,Y,"$3,000"
+2018,20,601,Angels,RHP,Kyle Tyler,Oklahoma,4YR,OK,Y,"$75,000"
+2018,20,602,Royals,LHP,Josh Hendrickson,Barton (Kan.) JC,JC,KS,N,
+2018,20,603,Cardinals,RHP,Parker Kelly,Oregon,4YR,OR,Y,"$75,000"
+2018,20,604,Twins,RHP,Seth Pinkerton,Hartford,4YR,CT,Y,"$50,000"
+2018,20,605,Brewers,RHP,Joey Matulovich,California,4YR,CA,Y,"$110,000"
+2018,20,606,Rockies,OF,Luke Morgan,College of Charleston,4YR,SC,Y,"$5,000"
+2018,20,607,Yankees,RHP,Marcus Evey,Tennessee Tech,4YR,TN,Y,"$110,000"
+2018,20,608,Cubs,LHP,Chris Allen,JC of Marin (Calif.),JC,CA,Y,"$150,000"
+2018,20,609,Diamondbacks,RHP,Erin Baldwin,Samford,4YR,AL,Y,"$5,000"
+2018,20,610,Red Sox,OF,Kason Howell,"Liberty Christian HS, Argyle, Texas",HS,TX,N,
+2018,20,611,Nationals,C,Onix Vega,Broward (Fla.) JC,JC,FL,Y,"$125,000"
+2018,20,612,Astros,OF,Austin Dennis,Middle Tennessee State,4YR,TN,Y,"$70,000"
+2018,20,613,Indians,LHP,Jake Miednik,Florida Atlantic,4YR,FL,Y,"$5,000"
+2018,20,614,Dodgers,RHP,Caleb Sampen,Wright State,4YR,OH,Y,"$125,000"
+2018,21,615,Tigers,3B,John Valente,St. John's,4YR,NY,Y,"$2,500"
+2018,21,616,Giants,C,Angel Guzman,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$62,500"
+2018,21,617,Phillies,RHP,Jake Smith,Chapel Hill (N.C.) HS,HS,NC,N,
+2018,21,618,White Sox,RHP,Nick Johnson,Rhode Island,4YR,RI,Y,"$10,000"
+2018,21,619,Reds,C,Hunter Oliver,Cleveland State (Tenn.) JC,JC,TN,Y,"$80,000"
+2018,21,620,Mets,RHP,Zach Hammer,"Alexander Central HS, Taylorsville, N.C.",HS,NC,Y,"$285,000"
+2018,21,621,Padres,RHP,Mason Fox,Gardner-Webb,4YR,NC,Y,"$75,000"
+2018,21,622,Braves,LHP,Tanner Lawson,St. Edward's (Texas),4YR,TX,Y,"$125,000"
+2018,21,623,Athletics,RHP,Daniel Martinez,Riverside (Calif.) JC,JC,CA,Y,"$40,000"
+2018,21,624,Pirates,RHP,Will Gardner,Carson-Newman (Tenn.),4YR,TN,Y,"$2,000"
+2018,21,625,Orioles,LHP,Nick Meservey,Seattle,4YR,WA,Y,"$125,000"
+2018,21,626,Blue Jays,LHP,Kobby Lopez,Imperial (Calif.) HS,HS,CA,N,
+2018,21,627,Marlins,OF,Connor Grant,North Greenville (S.C.),4YR,SC,Y,"$75,000"
+2018,21,628,Mariners,RHP,Grant Anderson,McNeese State,4YR,LA,Y,"$50,000"
+2018,21,629,Rangers,LHP,Cody Hawthorne,Parkland (Ill.) JC,JC,IL,N,
+2018,21,630,Rays,RHP,Kerry Wright,Montverde (Fla.) Academy,HS,FL,N,
+2018,21,631,Angels,RHP,Cristian Reyes,Miami (no school),Other,FL,Y,"$50,000"
+2018,21,632,Royals,C,Nathan Eaton,Virginia Military Institute,4YR,VA,Y,"$85,000"
+2018,21,633,Cardinals,SS,Michael Perri,San Francisco,4YR,CA,Y,"$3,000"
+2018,21,634,Twins,1B,Gabe Snyder,Wright State,4YR,OH,Y,"$1,000"
+2018,21,635,Brewers,LHP,Steve Hajjar,"Central Catholic HS, Lawrence, Mass.",HS,MA,N,
+2018,21,636,Rockies,2B,Hunter Stovall,Mississippi State,4YR,MS,Y,"$125,000"
+2018,21,637,Yankees,3B,Mitch Robinson,British Columbia,4YR,CN,Y,"$10,000"
+2018,21,638,Cubs,RHP,Carlos Vega,Southeast Missouri State,4YR,MO,Y,"$5,000"
+2018,21,639,Diamondbacks,RHP,Jacob Stevens,Boston College,4YR,MA,Y,"$75,000"
+2018,21,640,Red Sox,3B,Brandon Howlett,"Jenkins HS, Lakeland, Fla.",HS,FL,Y,"$185,000"
+2018,21,641,Nationals,RHP,Ryan Tapani,Creighton,4YR,NE,Y,"$10,000"
+2018,21,642,Astros,RHP,Dalton Roach,Minnesota State,4YR,MN,N,
+2018,21,643,Indians,C,Eric Rodriguez,Wallace (Ala.) JC,JC,AL,Y,"$125,000"
+2018,21,644,Dodgers,C,Tre Todd,Liberty,4YR,VA,Y,"$125,000"
+2018,22,645,Tigers,RHP,Maddux Conger,Vanderbilt,4YR,TN,Y,"$125,000"
+2018,22,646,Giants,RHP,Clay Helvey,Tampa,4YR,FL,Y,"$50,000"
+2018,22,647,Phillies,OF,Luke Miller,Indiana,4YR,IN,Y,"$100,000"
+2018,22,648,White Sox,1B,Ryan Fitzpatrick,UC Irvine,4YR,CA,Y,"$5,000"
+2018,22,649,Reds,C,Peter Serruto,Millburn (N.J.) HS,HS,NJ,N,
+2018,22,650,Mets,SS,Jaylen Palmer,"Holy Cross HS, Flushing, N.Y.",HS,NY,Y,"$200,000"
+2018,22,651,Padres,OF,Payton Smith,"Thurmond HS, Johnston, S.C.",HS,SC,Y,"$125,000"
+2018,22,652,Braves,C,Ray Soderman,Oregon,4YR,OR,Y,"$125,000"
+2018,22,653,Athletics,RHP,Aiden McIntyre,Holy Names (Calif.),4YR,CA,Y,"$1,500"
+2018,22,654,Pirates,OF,Jason Brandow,"Vintage HS, Napa, Calif.",HS,CA,N,
+2018,22,655,Orioles,3B,Garrett Martin,"Standley Lake HS, Westminster, Colo.",HS,CO,N,
+2018,22,656,Blue Jays,RHP,Gage Burland,Lewis-Clark State (Idaho),4YR,ID,Y,"$1,000"
+2018,22,657,Marlins,OF,Milton Smith,Meridian (Miss.) JC,JC,MS,Y,"$90,000"
+2018,22,658,Mariners,SS,Nick Rodriguez,Nevada-Las Vegas,4YR,NV,Y,"$5,000"
+2018,22,659,Rangers,SS,Frainyer Chavez,Midland (Texas) JC,JC,TX,Y,"$125,000"
+2018,22,660,Rays,RHP,Jack Labosky,Duke,4YR,NC,Y,"$1,000"
+2018,22,661,Angels,LHP,Hunter Milam,"Russell County HS, Seale, Ala.",HS,AL,N,
+2018,22,662,Royals,LHP,Bryce Hensley,UNC Greensboro,4YR,NC,Y,"$1,000"
+2018,22,663,Cardinals,SS,Kevin Vargas,"International Baseball Academy, Ceiba, P.R.",HS,PR,Y,"$100,000"
+2018,22,664,Twins,RHP,Jacob Blank,Augustana (S.D.),4YR,SD,Y,"$1,000"
+2018,22,665,Brewers,LHP,Joey Baran,Lackawanna (Pa.) JC,JC,PA,N,
+2018,22,666,Rockies,C,Jacob Barnwell,Ohio State,4YR,OH,Y,"$80,000"
+2018,22,667,Yankees,RHP,Keegan Curtis,Louisiana-Monroe,4YR,LA,Y,"$10,000"
+2018,22,668,Cubs,OF,Jamie Galazin,St. John's,4YR,NY,Y,"$3,000"
+2018,22,669,Diamondbacks,RHP,Blake Workman,Cal State Fullerton,4YR,CA,Y,"$100,000"
+2018,22,670,Red Sox,RHP,Yusniel Padron,Miami Dade JC,JC,FL,Y,"$75,000"
+2018,22,671,Nationals,SS,Cole Daily,Notre Dame,4YR,IN,Y,"$100,000"
+2018,22,672,Astros,OF,Marty Costes,Maryland,4YR,MD,Y,"$75,000"
+2018,22,673,Indians,LHP,Eli Lingos,Arizona State,4YR,AZ,Y,"$5,000"
+2018,22,674,Dodgers,1B,Meaux Landry,Pearl River (Miss.) JC,JC,MS,Y,"$125,000"
+2018,23,675,Tigers,1B,Jordan Verdon,San Diego State,4YR,CA,Y,"$125,000"
+2018,23,676,Giants,RHP,Ben Strahm,Northeastern State (Okla.),4YR,OK,Y,"$50,000"
+2018,23,677,Phillies,C,Logan O'Hoppe,"St. John the Baptist HS, West Islip, N.Y.",HS,NY,Y,"$215,000"
+2018,23,678,White Sox,RHP,Lane Ramsey,Oklahoma,4YR,OK,Y,"$50,000"
+2018,23,679,Reds,1B,A.J. Curtis,Ohlone (Calif.) JC,JC,CA,N,
+2018,23,680,Mets,RHP,Saul Gonzalez,Montverde (Fla.) Acedmy,HS,FL,Y,"$175,000"
+2018,23,681,Padres,RHP,Nelson Alvarez,Miami Dade JC,JC,FL,N,
+2018,23,682,Braves,RHP,William Woods,Dyersburg State (Tenn.) JC,JC,TN,Y,"$125,000"
+2018,23,683,Athletics,3B,Jonah Bride,South Carolina,4YR,SC,Y,"$1,500"
+2018,23,684,Pirates,SS,Tyler Miller,Spanish Fort (Ala.) HS,HS,AL,N,
+2018,23,685,Orioles,RHP,Bradley Brehmer,"Decatur Central HS, Indianapolis",HS,IN,N,
+2018,23,686,Blue Jays,C,Troy Squires,Kentucky,4YR,KY,Y,"$1,000"
+2018,23,687,Marlins,RHP,Giovanni Lopez,Missouri,4YR,MO,Y,"$75,000"
+2018,23,688,Mariners,OF,Ryan Ramiz,Seton Hall,4YR,NJ,Y,"$5,000"
+2018,23,689,Rangers,RHP,Wyatt Sparks,Aurora (Mo.) HS,HS,MO,Y,"$125,000"
+2018,23,690,Rays,RHP,Daiveyon Whittle,Fresno JC,JC,CA,Y,"$100,000"
+2018,23,691,Angels,OF,William Rivera,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$125,000"
+2018,23,692,Royals,LHP,Josh Dye,Florida Gulf Coast,4YR,FL,Y,"$60,000"
+2018,23,693,Cardinals,RHP,Michael Baird,Southern Illinois,4YR,IL,Y,"$3,000"
+2018,23,694,Twins,C,Albee Weiss,Cal State Northridge,4YR,CA,Y,"$1,000"
+2018,23,695,Brewers,RHP,Jared Platero,"Beckman HS, Irvine, Calif.",HS,CA,N,
+2018,23,696,Rockies,LHP,Colten Schmidt,Louisiana-Lafayette,4YR,LA,Y,"$1,000"
+2018,23,697,Yankees,RHP,Justin Wilson,Vanderbilt,4YR,TN,Y,"$125,000"
+2018,23,698,Cubs,C,Hunter Taylor,South Carolina,4YR,SC,N,
+2018,23,699,Diamondbacks,RHP,Mario Leon,Florida Gulf Coast,4YR,FL,N,
+2018,23,700,Red Sox,RHP,Ryan Fernandez,Hillsborough (Fla.) JC,JC,FL,Y,"$125,000"
+2018,23,701,Nationals,C,Cole Hamilton,Linn-Benton (Ore.) JC,JC,OR,N,
+2018,23,702,Astros,LHP,Jonathan Bermudez,Southeastern Louisiana,4YR,LA,Y,"$75,000"
+2018,23,703,Indians,OF,Cody Farhat,Texas Tech,4YR,TX,Y,"$115,000"
+2018,23,704,Dodgers,RHP,Justin Hagenman,Penn State,4YR,PA,Y,"$75,000"
+2018,24,705,Tigers,3B,Zach Malis,Grand Canyon,4YR,AZ,Y,"$100,000"
+2018,24,706,Giants,RHP,Preston White,The Master's (Calif.),4YR,CA,Y,"$85,000"
+2018,24,707,Phillies,OF,Corbin Williams,JC of the Canyons (Calif.),JC,CA,Y,"$125,000"
+2018,24,708,White Sox,LHP,Rigo Fernandez,Cal State Dominguez Hills,4YR,CA,Y,"$20,000"
+2018,24,709,Reds,LHP,Connor Curlis,Ohio State,4YR,OH,Y,"$100,000"
+2018,24,710,Mets,C,Hayden Senger,Miami (Ohio),4YR,OH,Y,"$125,000"
+2018,24,711,Padres,3B,Pavin Parks,Kent State,4YR,OH,N,
+2018,24,712,Braves,C,Rusber Estrada,Faulkner (Ala.),4YR,AL,Y,"$100,000"
+2018,24,713,Athletics,RHP,Dakota Mills,Sam Houston State,4YR,TX,N,
+2018,24,714,Pirates,LHP,Cam Alldred,Cincinnati,4YR,OH,Y,"$100,000"
+2018,24,715,Orioles,C,Herbert Iser,San Jacinto (Texas) JC,JC,TX,N,
+2018,24,716,Blue Jays,RHP,Mike Pascoe,San Jacinto (Texas) JC,JC,TX,Y,"$100,000"
+2018,24,717,Marlins,RHP,Nathan Alexander,Texas-San Antonio,4YR,TX,Y,"$65,000"
+2018,24,718,Mariners,LHP,Ben Onyshko,Stetson,4YR,FL,Y,"$5,000"
+2018,24,719,Rangers,OF,Troy Dixon,Samford,4YR,AL,Y,"$50,000"
+2018,24,720,Rays,RHP,Keegan McCarville,South Mountain (Ariz.) JC,JC,AZ,N,
+2018,24,721,Angels,RHP,Isaiah Campbell,Arkansas,4YR,AR,N,
+2018,24,721,Angels,RHP,Isaiah Campbell,Arkansas,4YR,AR,N,
+2018,24,722,Royals,SS,Gage Hughes,Greenup (Ky.) County HS,HS,KY,Y,"$125,000"
+2018,24,723,Cardinals,LHP,Eli Kraus,Kent State,4YR,OH,Y,"$3,000"
+2018,24,724,Twins,3B,Michael Davis,Texas Tech,4YR,TX,Y,"$1,000"
+2018,24,725,Brewers,RHP,Wade Beasley,Horatio (Ark.) HS,HS,AR,Y,"$255,000"
+2018,24,726,Rockies,RHP,Trent Fennell,Barton (N.C.),4YR,NC,Y,"$1,000"
+2018,24,727,Yankees,RHP,Blakely Brown,Georgia Southern,4YR,GA,Y,"$132,500"
+2018,24,728,Cubs,RHP,Blake Whitney,South Carolina-Upstate,4YR,SC,Y,"$3,000"
+2018,24,729,Diamondbacks,RHP,Bryan Menendez,Nevada-Las Vegas,4YR,NV,Y,"$2,500"
+2018,24,730,Red Sox,LHP,Logan Browning,Florida Southern,4YR,FL,Y,"$5,000"
+2018,24,731,Nationals,SS,Kyle Marinconz,Cal Poly,4YR,CA,Y,"$60,000"
+2018,24,732,Astros,RHP,Miguel Figueroa,Oklahoma City,4YR,OK,Y,"$20,000"
+2018,24,733,Indians,RHP,Aaron Pinto,Stony Brook,4YR,NY,Y,"$5,000"
+2018,24,734,Dodgers,OF,Jacen Roberson,"Garces Memorial HS, Bakersfield, Calif.",HS,CA,N,
+2018,25,735,Tigers,RHP,Chance Kirby,Texas-San Antonio,4YR,TX,Y,"$1,500"
+2018,25,736,Giants,C,Fabian Pena,Manhattan,4YR,NY,Y,"$100,000"
+2018,25,737,Phillies,RHP,Adam Cox,Montana State,4YR,MT,Y,"$10,000"
+2018,25,738,White Sox,RHP,Jack Maynard,UNC Greensboro,4YR,NC,Y,"$5,000"
+2018,25,739,Reds,RHP,Ricky Salinas,Rice,4YR,TX,Y,"$60,000"
+2018,25,740,Mets,OF,David Miranda,Florida Atlantic,4YR,FL,Y,"$10,000"
+2018,25,741,Padres,2B,Lee Solomon,Lipscomb,4YR,TN,Y,"$1,000"
+2018,25,742,Braves,3B,Michael Mateja,North Central (Ill.),4YR,IL,Y,"$100,000"
+2018,25,743,Athletics,OF,Alonzo Jones,Vanderbilt,4YR,TN,Y,"$65,000"
+2018,25,744,Pirates,OF,Luke Mangieri,Bradley,4YR,IL,Y,"$50,000"
+2018,25,745,Orioles,OF,Nick Horvath,Florida,4YR,FL,Y,"$2,500"
+2018,25,746,Blue Jays,RHP,Will McAffer,Tulane,4YR,LA,Y,"$50,000"
+2018,25,747,Marlins,SS,Luke Jarvis,Auburn,4YR,AL,Y,"$1,000"
+2018,25,748,Mariners,2B,Connor Kopach,Southern Illinois,4YR,IL,Y,"$5,000"
+2018,25,749,Rangers,LHP,Josh Smith,Grand Valley State (Mich.),4YR,MI,Y,"$50,000"
+2018,25,750,Rays,OF,Jordan Qsar,Pepperdine,4YR,CA,Y,"$15,000"
+2018,25,751,Angels,RHP,Dazon Cole,Central Michigan,4YR,MI,Y,"$30,000"
+2018,25,752,Royals,OF,Hunter Strong,Central Arkansas,4YR,AR,Y,"$60,000"
+2018,25,753,Cardinals,RHP,Troy Montemayor,Baylor,4YR,TX,Y,"$3,000"
+2018,25,754,Twins,C,LaRon Smith,"Foothills Composite HS, Okotoks, Alb.",HS,CN,Y,"$125,000"
+2018,25,755,Brewers,OF,Pablo Garabitos,"Lakewood Ranch HS, Bradenton, Fla.",HS,FL,Y,"$125,000"
+2018,25,756,Rockies,2B,Robert Metz,George Washington,4YR,DC,Y,"$1,000"
+2018,25,757,Yankees,RHP,Sean Boyle,Dallas Baptist,4YR,TX,Y,"$10,000"
+2018,25,758,Cubs,OF,Dalton Hurd,Seattle,4YR,WA,Y,"$3,000"
+2018,25,759,Diamondbacks,RHP,Landon Whitson,Lenoir-Rhyne (N.C.),4YR,NC,Y,"$2,500"
+2018,25,760,Red Sox,OF,Caleb Ramsey,"Heritage HS, Conyers, Ga.",HS,GA,Y,"$125,000"
+2018,25,761,Nationals,LHP,Chris Vann,Mercer,4YR,GA,Y,"$3,000"
+2018,25,762,Astros,OF,Logan Mattix,Georgia College & State,4YR,GA,Y,"$1,000"
+2018,25,763,Indians,LHP,Kellen Rholl,Angelo State (Texas),4YR,TX,Y,"$5,000"
+2018,25,764,Dodgers,RHP,Hunter Speer,William Carey (Miss.),4YR,MS,Y,"$12,500"
+2018,26,765,Tigers,RHP,Garrett Hill,San Diego State,4YR,CA,Y,"$100,000"
+2018,26,766,Giants,LHP,Jacob Lopez,JC of the Canyons (Calif.),JC,CA,Y,"$150,000"
+2018,26,767,Phillies,RHP,Eric White,Southern Arkansas,4YR,AR,Y,"$60,000"
+2018,26,768,White Sox,RHP,Devon Perez,Oklahoma,4YR,OK,Y,"$5,000"
+2018,26,769,Reds,1B,Rylan Thomas,Central Florida,4YR,FL,Y,"$287,500"
+2018,26,770,Mets,3B,Brian Sharp,Missouri,4YR,MO,Y,"$100,000"
+2018,26,771,Padres,LHP,Tyler Mortensen,Davis (Calif.) HS,HS,CA,Y,"$125,000"
+2018,26,772,Braves,LHP,Zach Guth,Harford (Md.) JC,JC,MD,Y,"$125,000"
+2018,26,773,Athletics,RHP,Leudeny Pineda,Advanced Software Analysis-Miami,4YR,FL,Y,"$25,000"
+2018,26,774,Pirates,2B,Ethan Paul,Vanderbilt,4YR,TN,N,
+2018,26,775,Orioles,1B,Ian Evans,Grand Canyon,4YR,AZ,Y,"$2,500"
+2018,26,776,Blue Jays,C,Brett Wright,Auburn,4YR,AL,Y,"$100,000"
+2018,26,777,Marlins,RHP,Tyler Jones,Wichita State,4YR,KS,Y,"$1,000"
+2018,26,778,Mariners,3B,Cal Hernandez,Oral Roberts,4YR,OK,Y,"$5,000"
+2018,26,779,Rangers,RHP,David Lebron,Tampa,4YR,FL,Y,"$1,000"
+2018,26,780,Rays,LHP,Steffon Moore,West Alabama,4YR,AL,Y,"$60,000"
+2018,26,781,Angels,RHP,Darrien Williams,Prairie View A&M,4YR,TX,Y,"$3,000"
+2018,26,782,Royals,RHP,Daniel James,Texas-Arlington,4YR,TX,Y,"$1,000"
+2018,26,783,Cardinals,RHP,Connor Coward,Virginia Tech,4YR,VA,Y,"$3,000"
+2018,26,784,Twins,RHP,Brian Rapp,Boston College,4YR,MA,Y,"$1,000"
+2018,26,785,Brewers,RHP,Connor Sparks,"Graham Collegiate HS, Saskatoon, Sask.",HS,CN,N,
+2018,26,786,Rockies,OF,Will Golsan,Mississippi,4YR,MS,Y,"$1,000"
+2018,26,787,Yankees,C,Jackson Thoreson,St. Mary's,4YR,CA,Y,"$5,000"
+2018,26,788,Cubs,OF,Julian Boyd,"St. John Bosco HS, Bellflower, Calif.",HS,CA,N,
+2018,26,789,Diamondbacks,LHP,Ethan Small,Mississippi State,4YR,MS,N,
+2018,26,790,Red Sox,SS,Korby Batesole,Fresno State,4YR,CA,Y,"$2,500"
+2018,26,791,Nationals,RHP,Colin Morse,Shenandoa (Va.),4YR,VA,Y,"$3,000"
+2018,26,792,Astros,SS,David Hensley,San Diego State,4YR,CA,Y,"$1,000"
+2018,26,793,Indians,SS,Gunnar Halter,Seminole State (Okla.) JC,JC,OK,N,
+2018,26,794,Dodgers,C,Aaron Ackerman,Illinois-Chicago,4YR,IL,Y,"$125,000"
+2018,27,795,Tigers,RHP,Stevie Ledesma,UC Santa Barbara,4YR,CA,Y,"$1,500"
+2018,27,796,Giants,LHP,Dylan Dusek,Texas Tech,4YR,TX,Y,"$2,500"
+2018,27,797,Phillies,C,Jack Conley,North Carolina State,4YR,NC,Y,"$50,000"
+2018,27,798,White Sox,OF,Ian Dawkins,Sacramento State,4YR,CA,Y,"$5,000"
+2018,27,799,Reds,RHP,Eddy Demurias,South Carolina,4YR,SC,Y,"$125,000"
+2018,27,800,Mets,OF,Zach Rheams,Texas Tech,4YR,TX,Y,"$10,000"
+2018,27,801,Padres,RHP,Gabe Mosser,Shippensburg (Pa.),4YR,PA,Y,"$1,000"
+2018,27,802,Braves,RHP,Zach Seipel,Minnesota-Crookston,4YR,MN,Y,"$125,000"
+2018,27,803,Athletics,OF,Chase Calabuig,San Diego State,4YR,CA,Y,"$1,500"
+2018,27,804,Pirates,C,Ryan Haug,Arizona,4YR,AZ,Y,"$2,000"
+2018,27,805,Orioles,LHP,Jason Montville,St. Katherine (Calif.),4YR,CA,Y,"$100,000"
+2018,27,806,Blue Jays,RHP,Kyle Luckham,"El Dorado HS, Placentia, Calif.",HS,CA,N,
+2018,27,807,Marlins,OF,Harrison DiNicola,Texas A&M-Corpus Christi,4YR,TX,Y,"$20,000"
+2018,27,808,Mariners,2B,Cash Gladfelter,Shippensburg (Pa.),4YR,PA,Y,"$10,000"
+2018,27,809,Rangers,RHP,Antonio Knowles,Key West (Fla.) HS,HS,FL,N,
+2018,27,810,Rays,RHP,Heath Renz,Wisconsin-Whitewater,4YR,WI,Y,"$2,000"
+2018,27,811,Angels,RHP,Jacob Voss,Creighton,4YR,NE,Y,"$50,000"
+2018,27,812,Royals,LHP,Derrick Adams,Jacksonville State,4YR,AL,Y,"$100,000"
+2018,27,813,Cardinals,RHP,Perry DellaValle,Seton Hill (Pa.),4YR,PA,Y,"$3,000"
+2018,27,814,Twins,RHP,Hunter Lee,High Point,4YR,NC,Y,"$1,000"
+2018,27,815,Brewers,RHP,Brady Schanuel,Iowa,4YR,IA,Y,"$50,000"
+2018,27,816,Rockies,RHP,Eric Hepple,Central Florida,4YR,FL,Y,"$1,000"
+2018,27,817,Yankees,1B,Mickey Gasper,Bryant,4YR,RI,Y,"$5,000"
+2018,27,818,Cubs,RHP,Niels Stone,Indian River State (Fla.) JC,JC,FL,Y,"$75,000"
+2018,27,819,Diamondbacks,OF,Christian Jayne,"Sanford HS, Fayetteville, N.C.",HS,NC,N,
+2018,27,820,Red Sox,LHP,Gregorio Reyes,"Camuy, P.R. (no school)",Other,PR,Y,"$20,000"
+2018,27,821,Nationals,OF,Pablo O'Connor,Azusa Pacific (Calif.),4YR,CA,Y,"$3,000"
+2018,27,822,Astros,C,Juan Paulino,Western Oklahoma State JC,JC,OK,Y,"$10,000"
+2018,27,823,Indians,SS,Gionti Turner,"Watson Chapel HS, Pine Bluff, Ark.",HS,AR,Y,"$125,000"
+2018,27,824,Dodgers,LHP,Connor Mitchell,Butler,4YR,IN,Y,"$50,000"
+2018,28,825,Tigers,OF,Daniel Reyes,Miami,4YR,FL,Y,"$80,000"
+2018,28,826,Giants,RHP,Travis Perry,Indian River State JC,JC,FL,Y,"$125,000"
+2018,28,827,Phillies,RHP,Jonathan Jones,Manvel (Texas) HS,HS,TX,N,
+2018,28,828,White Sox,OF,Logan Sowers,Indiana,4YR,IN,Y,"$5,000"
+2018,28,829,Reds,OF,Brandt Stallings,Georgia College & State,4YR,GA,Y,"$75,000"
+2018,28,830,Mets,RHP,Mitch Hickey,UC San Diego,4YR,CA,Y,"$10,000"
+2018,28,831,Padres,3B,Jake Plastiak,"Andrew HS, Tinley Park, Ill.",HS,IL,N,
+2018,28,832,Braves,RHP,Derek West,Pittsburgh,4YR,PA,N,
+2018,28,833,Athletics,RHP,Reid Birlingmair,Illinois-Chicago,4YR,IL,Y,"$50,000"
+2018,28,834,Pirates,1B,Nick Patten,Delaware,4YR,DE,Y,"$50,000"
+2018,28,835,Orioles,OF,Trey Whitley,"North Johnston HS, Kenly, N.C.",HS,NC,Y,"$125,000"
+2018,28,836,Blue Jays,RHP,Andy McGuire,Texas,4YR,TX,Y,"$1,000"
+2018,28,837,Marlins,SS,Gunnar Schubert,Gonzaga,4YR,WA,Y,"$1,000"
+2018,28,838,Mariners,2B,Beau Branton,Stanford,4YR,CA,Y,"$5,000"
+2018,28,839,Rangers,RHP,Renton Poole,Indiana-Kokomo,4YR,IN,N,
+2018,28,840,Rays,RHP,Tanner Brubaker,Saddleback (Calif.) JC,JC,CA,N,
+2018,28,841,Angels,SS,Mitch Spires,Winthrop,4YR,SC,Y,"$3,000"
+2018,28,842,Royals,1B,Rhett Aplin,Florida State,4YR,FL,Y,"$1,000"
+2018,28,843,Cardinals,OF,Justin Toerner,Cal State Northridge,4YR,CA,Y,"$3,000"
+2018,28,844,Twins,C,Austin Hale,Stetson,4YR,FL,Y,"$1,000"
+2018,28,845,Brewers,C,Kekai Rios,Hawaii,4YR,HI,Y,"$90,000"
+2018,28,846,Rockies,3B,John Cresto,Santa Clara,4YR,CA,Y,"$30,000"
+2018,28,847,Yankees,3B,Max Burt,Northeastern,4YR,MA,Y,"$5,000"
+2018,28,848,Cubs,LHP,Mitchell Parker,"Manzano HS, Albuquerque",HS,NM,N,
+2018,28,849,Diamondbacks,SS,Marshawn Taylor,Grambling State,4YR,LA,Y,"$2,500"
+2018,28,850,Red Sox,RHP,Kris Jackson,Corban (Ore.),4YR,OR,Y,"$2,500"
+2018,28,851,Nationals,1B,Blake Chisolm,Sam Houston State,4YR,TX,Y,"$3,000"
+2018,28,852,Astros,RHP,Joey Gonzalez,Stetson,4YR,FL,Y,"$60,000"
+2018,28,853,Indians,OF,Billy Wilson,Loyola Marymount,4YR,CA,Y,"$5,000"
+2018,28,854,Dodgers,RHP,Reza Aleaziz,Oklahoma State,4YR,OK,Y,"$50,000"
+2018,29,855,Tigers,LHP,Jeb Bargfeldt,Miami,4YR,FL,Y,"$1,500"
+2018,29,856,Giants,SS,Marcos Campos,Siena,4YR,NY,Y,"$50,000"
+2018,29,857,Phillies,LHP,Jaylen Smith,Copperas Cove (Texas) HS,HS,TX,Y,"$125,000"
+2018,29,858,White Sox,LHP,Taylor Varnell,Oral Roberts,4YR,OK,Y,"$5,000"
+2018,29,859,Reds,RHP,Johnnie Schneider,Palm Beach Atlantic,4YR,FL,Y,"$50,000"
+2018,29,860,Mets,C,Nelson Mompierre,St. Thomas (Fla.),4YR,FL,Y,"$10,000"
+2018,29,861,Padres,RHP,William Duncan,Richardson (Texas) HS,HS,TX,N,
+2018,29,862,Braves,3B,Ray Hernandez,Alabama State,4YR,AL,Y,"$10,000"
+2018,29,863,Athletics,LHP,Austin Briggs,McNeese State,4YR,LA,Y,"$1,500"
+2018,29,864,Pirates,OF,Giovanni DiGiacomo,"Canterbury School, Fort Myers, Fla.",HS,FL,N,
+2018,29,865,Orioles,C,Jared Denning,Solano (Calif.) JC,JC,CA,Y,"$90,000"
+2018,29,866,Blue Jays,RHP,Cre Finfrock,Central Florida,4YR,FL,Y,"$75,000"
+2018,29,867,Marlins,RHP,C.J. Carter,Troy,4YR,AL,Y,"$50,000"
+2018,29,868,Mariners,3B,Bobby Honeyman,Stony Brook,4YR,NY,Y,"$5,000"
+2018,29,869,Rangers,RHP,Glen Richardson,Sinclair (Ohio) JC,JC,OH,Y,"$125,000"
+2018,29,870,Rays,1B,Russ Olive,Massachusetts-Lowell,4YR,MA,Y,"$29,000"
+2018,29,871,Angels,RHP,Seth Caldwell,Oak Ridge (Tenn.) HS,HS,TN,N,
+2018,29,872,Royals,RHP,Andres Nunez,Florida International,4YR,FL,Y,"$75,000"
+2018,29,873,Cardinals,OF,Alerick Soularie,San Jacinto (Texas) JC,JC,TX,N,
+2018,29,874,Twins,LHP,J.T. Perez,Cincinnati,4YR,OH,Y,"$1,000"
+2018,29,875,Brewers,SS,Nander  De Sedas,Montverde (Fla.) Academy,HS,FL,N,
+2018,29,876,Rockies,LHP,Miguel Ausua,Oral Roberts,4YR,OK,Y,"$1,000"
+2018,29,877,Yankees,RHP,Jackson Bertsch,Liberty,4YR,VA,Y,"$5,000"
+2018,29,878,Cubs,SS,Levi Jordan,Washington,4YR,WA,Y,"$3,000"
+2018,29,879,Diamondbacks,LHP,Luke Bartnicki,"Walton HS, Marietta, Ga.",HS,GA,N,
+2018,29,880,Red Sox,LHP,Mason Ronan,"Penn Cambria HS, Cresson, Pa.",HS,PA,N,
+2018,29,881,Nationals,SS,Colton Pogue,Pittsburg State (Kan.),4YR,KS,Y,"$3,000"
+2018,29,882,Astros,C,Lyle Lin,Arizona State,4YR,AZ,N,
+2018,29,883,Indians,LHP,Tim Herrin,Indiana,4YR,IN,Y,"$100,000"
+2018,29,884,Dodgers,OF,Daniel Robinson,Central Michigan,4YR,MI,Y,"$75,000"
+2018,30,885,Tigers,LHP,Jared Tobey,Wayne State,4YR,MI,Y,"$1,500"
+2018,30,886,Giants,OF,Kwan Adkins,Northwestern State,4YR,LA,Y,"$2,500"
+2018,30,887,Phillies,RHP,Brandon Ramey,"King HS, Riverside, Calif.",HS,CA,Y,"$125,000"
+2018,30,888,White Sox,SS,Micah Coffey,Minnesota,4YR,MN,Y,"$5,000"
+2018,30,889,Reds,LHP,Jake Wyrick,Middle Tennessee State,4YR,TN,Y,"$10,000"
+2018,30,890,Mets,SS,Chandler Avant,Alabama,4YR,AL,Y,"$10,000"
+2018,30,891,Padres,LHP,Cullen Dana,Seton Hall,4YR,NJ,Y,"$150,000"
+2018,30,892,Braves,LHP,Mitch Stallings,Duke,4YR,NC,Y,"$10,000"
+2018,30,893,Athletics,1B,Gio Dingcong,St. Thomas Aquinas (N.Y.),4YR,NY,Y,"$1,500"
+2018,30,894,Pirates,OF,Jack Herman,"Eastern Regional HS, Voorhees Township, N.J.",HS,NJ,Y,"$50,000"
+2018,30,895,Orioles,RHP,Tyler Joyner,North Alabama,4YR,AL,Y,"$2,500"
+2018,30,896,Blue Jays,RHP,Cobi Johnson,Florida State,4YR,FL,Y,"$125,000"
+2018,30,897,Marlins,LHP,Garrett  McDaniels,"Pee Dee Academy, Mullins, S.C.",HS,SC,N,
+2018,30,898,Mariners,OF,Cody Staab,Rice,4YR,TX,Y,"$5,000"
+2018,30,899,Rangers,RHP,Evan Reifert,North Iowa Area JC,JC,IA,N,
+2018,30,900,Rays,RHP,Eric  Cerantola,"Holy Trinity Catholic SS, Oakville, Ont.",HS,CN,N,
+2018,30,901,Angels,LHP,Connor Higgins,Arizona State,4YR,AZ,Y,"$50,000"
+2018,30,902,Royals,2B,Kyle Kasser,Oregon,4YR,OR,Y,"$1,000"
+2018,30,903,Cardinals,OF,Kendrick Calilao,"The First Academy, Orlando",HS,FL,N,
+2018,30,904,Twins,RHP,Seth Halvorsen,"Heritage Christian Academy, Maple Grove, Minn.",HS,MN,N,
+2018,30,905,Brewers,LHP,Basilio Pacheco,"Segerstrom HS, Santa Ana, Calif.",HS,CA,N,
+2018,30,906,Rockies,LHP,Colton Harlow,James Madison,4YR,VA,Y,"$1,000"
+2018,30,907,Yankees,RHP,Tyler Johnson,Gardner-Webb,4YR,NC,Y,"$70,000"
+2018,30,908,Cubs,OF,Drew Wharton,Clemson,4YR,SC,Y,"$3,000"
+2018,30,909,Diamondbacks,3B,Devin Warner,Cartersville (Ga.) HS,HS,GA,N,
+2018,30,910,Red Sox,SS,Ryan Bliss,"Troup County HS, LaGrange, Ga.",HS,GA,N,
+2018,30,911,Nationals,SS,Trey Vickers,Wichita State,4YR,KS,Y,"$3,000"
+2018,30,912,Astros,RHP,Layne Henderson,Azusa Pacific (Calif.),4YR,CA,Y,"$1,000"
+2018,30,913,Indians,2B,Connor Smith,Western Michigan,4YR,MI,Y,"$100,000"
+2018,30,914,Dodgers,OF,Matt Cogen,Belmont,4YR,TN,Y,"$50,000"
+2018,31,915,Tigers,RHP,Jayce Vancena,Michigan,4YR,MI,Y,"$1,500"
+2018,31,916,Giants,RHP,Ryan Walker,Washington State,4YR,WA,Y,"$2,500"
+2018,31,917,Phillies,RHP,Tyler Carr,South Alabama,4YR,AL,Y,"$5,000"
+2018,31,918,White Sox,RHP,Austin Conway,Louisville,4YR,KY,Y,"$5,000"
+2018,31,919,Reds,RHP,Justin McGregor,Oral Roberts,4YR,OK,Y,"$2,000"
+2018,31,920,Mets,RHP,Brendan Hardy,"Harrison Central HS, Gulfport, Miss.",HS,MS,Y,"$130,000"
+2018,31,921,Padres,RHP,Jake Sims,St Leo (Fla.),4YR,FL,Y,"$50,000"
+2018,31,922,Braves,LHP,Gabriel Rodriguez,Miami Dade JC,JC,FL,Y,"$100,000"
+2018,31,923,Athletics,RHP,Alexander Pantuso,Slippery Rock (Pa.),4YR,PA,Y,"$1,000"
+2018,31,924,Pirates,SS,Chase Lambert,Pepperdine,4YR,CA,Y,"$2,000"
+2018,31,925,Orioles,SS,John Ham,Tennessee Tech,4YR,TN,Y,"$45,000"
+2018,31,926,Blue Jays,RHP,Austin Easter,UNC Wilmington,4YR,NC,N,
+2018,31,927,Marlins,OF,Steve Scott,Vanderbilt,4YR,TN,N,
+2018,31,928,Mariners,LHP,Rigo Beltran,Lynn (Fla.),4YR,FL,Y,"$5,000"
+2018,31,929,Rangers,OF,Ryan Anderson,UC Davis,4YR,CA,Y,"$40,000"
+2018,31,930,Rays,LHP,Michael Costanzo,Austin Peay State,4YR,TN,Y,"$2,000"
+2018,31,931,Angels,LHP,Mitchell Miller,Clemson,4YR,SC,N,
+2018,31,932,Royals,C,William Hancock,Central Arkansas,4YR,AR,Y,"$50,000"
+2018,31,933,Cardinals,RHP,Ty Cohen,Florida Tech,4YR,FL,Y,"$3,000"
+2018,31,934,Twins,LHP,Zach Neff,Mississippi State,4YR,MS,Y,"$1,000"
+2018,31,935,Brewers,LHP,Matt Dillard,"St. Pius X HS, Houston",HS,TX,N,
+2018,31,936,Rockies,RHP,Joel Condreay,Whitworth (Wash.),4YR,WA,Y,"$1,000"
+2018,31,937,Yankees,C,Patrick Winkel,"Amity Regional HS, Woodbridge, Conn.",HS,CT,N,
+2018,31,938,Cubs,2B,Clayton Daniel,Jacksonville State,4YR,AL,Y,"$1,000"
+2018,31,939,Diamondbacks,C,Daniel Wasinger,Southeastern Louisiana,4YR,LA,Y,"$2,500"
+2018,31,940,Red Sox,RHP,Connor Berry,Oklahoma,4YR,OK,Y,"$75,000"
+2018,31,941,Nationals,OF,Jonathan Quintana,Barry (Fla.),4YR,FL,Y,"$2,500"
+2018,31,942,Astros,RHP,Riley Cabral,Memphis,4YR,TN,Y,"$1,000"
+2018,31,943,Indians,OF,Jonathan Engelmann,Michigan,4YR,MI,Y,"$100,000"
+2018,31,944,Dodgers,LHP,Andrew Shaps,William Jessup (Calif.),4YR,CA,Y,"$5,000"
+2018,32,945,Tigers,OF,Clark Brinkman,Creighton,4YR,NE,Y,"$110,000"
+2018,32,946,Giants,C,Braden Frankfort,Fresno Pacific,4YR,CA,Y,"$2,500"
+2018,32,947,Phillies,OF,Ben Aklinski,Kentucky,4YR,KY,Y,"$100,000"
+2018,32,948,White Sox,LHP,Aaron Soto,Florida International,4YR,FL,Y,"$5,000"
+2018,32,949,Reds,C,Edward Guzman,"Leadership Christian Academy, Guaynabo, P.R.",HS,PR,Y,"$125,000"
+2018,32,950,Mets,OF,Jake Mangum,Mississippi State,4YR,MS,N,
+2018,32,951,Padres,LHP,Cody Tyler,Wichita State,4YR,KS,Y,"$1,000"
+2018,32,952,Braves,OF,Trey Harris,Missouri,4YR,MS,Y,"$10,000"
+2018,32,953,Athletics,C,John Jones,North Greenville (S.C.),4YR,SC,Y,"$1,000"
+2018,32,954,Pirates,2B,Dean Lockery,Central Connecticut State,4YR,CT,Y,"$2,000"
+2018,32,955,Orioles,LHP,Jayvien Sandridge,Mercersburg (Pa.) Academy,HS,PA,Y,"$125,000"
+2018,32,956,Blue Jays,RHP,Joey Pulido,Houston,4YR,TX,Y,"$1,000"
+2018,32,957,Marlins,RHP,Jake Norton,Stephen F. Austin State,4YR,TX,Y,"$10,000"
+2018,32,958,Mariners,2B,Zach Scott,St. Leo (Fla.),4YR,FL,Y,"$5,000"
+2018,32,959,Rangers,RHP,Owen Sharts,Simi Valley (Calif.) HS,HS,CA,N,
+2018,32,960,Rays,3B,Kaleo Johnson,Montana State,4YR,MT,Y,"$25,000"
+2018,32,961,Angels,RHP,Jared Janczak,Texas Christian,4YR,TX,N,
+2018,32,962,Royals,3B,Brhet Bewley,San Diego,4YR,CA,Y,"$80,000"
+2018,32,963,Cardinals,C,Brandon Purcell,Georgia College & State,4YR,GA,Y,"$3,000"
+2018,32,964,Twins,OF,Ryan Holgate,Davis (Calif.) HS,HS,CA,N,
+2018,32,965,Brewers,3B,Johnny Cuevas,Palm Desert (Calif.) HS,HS,CA,N,
+2018,32,966,Rockies,LHP,Reagan Todd,Colorado Mesa,4YR,CO,Y,"$1,000"
+2018,32,967,Yankees,SS,Sincere Smith,"East Bladen HS, Elizabethtown, N.C.",HS,NC,Y,"$85,000"
+2018,32,968,Cubs,LHP,Jack Patterson,Bryant,4YR,RI,Y,"$5,000"
+2018,32,969,Diamondbacks,RHP,Austin Bergner,North Carolina,4YR,NC,N,
+2018,32,969,Diamondbacks,RHP,Austin Bergner,North Carolina,4YR,NC,N,
+2018,32,970,Red Sox,OF,Bramdon Perez,Miami Beach HS,HS,FL,Y,"$80,000"
+2018,32,971,Nationals,RHP,Alec Maley,Kentucky,4YR,KY,Y,"$3,000"
+2018,32,972,Astros,RHP,Jacob Billingsley,Mississippi State,4YR,MS,Y,"$1,000"
+2018,32,973,Indians,OF,Andrew Eyster,Santa Fe (Fla.) JC,JC,FL,N,
+2018,32,974,Dodgers,RHP,Jacob Gilliland,"Next Level Academy, Montgomery, Ala.",HS,AL,Y,"$125,000"
+2018,33,975,Tigers,1B,Justin Childers,Ohio Dominican,4YR,OH,Y,"$1,500"
+2018,33,976,Giants,OF,Austin Edgette,Bloomsburg (Pa.),4YR,PA,Y,"$2,500"
+2018,33,977,Phillies,RHP,Jake Kinney,Tallahassee (Fla.) JC,JC,FL,Y,"$185,000"
+2018,33,978,White Sox,OF,Bryce Bush,"De La Salle Collegiate HS, Warren, Mich.",HS,MI,Y,"$290,000"
+2018,33,979,Reds,SS,Luis Lopez,"Medina HS, Yabucoa, P.R.",HS,PR,Y,"$100,000"
+2018,33,980,Mets,RHP,Mike Picollo,"Blue Valley North HS, Overland Park, Kan.",HS,KS,N,
+2018,33,981,Padres,C,Rainier Aguilar,Redlands (Calif.),4YR,CA,Y,"$1,000"
+2018,33,982,Braves,1B,Mason Berne,UNC Wilmington,4YR,NC,Y,"$10,000"
+2018,33,983,Athletics,SS,Joseph Pena,St. Thomas Aquinas (N.Y.),4YR,NY,Y,"$1,000"
+2018,33,984,Pirates,LHP,Joe Jacques,Manhattan,4YR,NY,Y,"$2,000"
+2018,33,985,Orioles,SS,Zach McLeod,Colorado Mesa,4YR,CO,Y,"$2,500"
+2018,33,986,Blue Jays,RHP,Matt Harris,Florida Atlantic,4YR,FL,Y,"$1,000"
+2018,33,987,Marlins,SS,Andrew Martinez,UC Santa Barbara,4YR,CA,N,
+2018,33,988,Mariners,RHP,Penn Murfee,Santa Clara,4YR,CA,Y,"$5,000"
+2018,33,989,Rangers,C,Reynaldo Pichardo,Dawson (Mont.) JC,JC,MT,Y,"$10,000"
+2018,33,990,Rays,OF,Beau Brundage,Portland,4YR,OR,Y,"$297,500"
+2018,33,991,Angels,2B,Wade Bailey,Georgia Tech,4YR,GA,N,
+2018,33,992,Royals,LHP,Ted Cillis,Hofstra,4YR,NY,Y,"$1,000"
+2018,33,993,Cardinals,RHP,Chris Rivera,Long Beach State,4YR,CA,Y,"$3,000"
+2018,33,994,Twins,LHP,Denny Bentley,Howard (Texas) JC,JC,TX,Y,"$20,000"
+2018,33,995,Brewers,1B,Brandon Hylton,"Ridge HS, Basking Ridge, N.J.",HS,NJ,N,
+2018,33,996,Rockies,RHP,Nick Pogue,"Eau Gallie HS, Melbourne, Fla.",HS,FL,N,
+2018,33,997,Yankees,RHP,Charlie Ruegger,"Stevens Institute of Technology, Hoboken, N.J.",4YR,NJ,Y,"$75,000"
+2018,33,998,Cubs,RHP,Tyler Ras,"Middletown North HS, Middletown, N.J.",HS,NJ,N,
+2018,33,999,Diamondbacks,OF,Jeremy Ydens,UCLA,4YR,CA,N,
+2018,33,1000,Red Sox,OF,Adrian Torres,"Americas HS, El Paso",HS,TX,N,
+2018,33,1001,Nationals,C,Jack Haney,Cedartown (Ga.) HS,HS,GA,N,
+2018,33,1002,Astros,2B,J.C. Correa,Alvin (Texas) JC,JC,TX,N,
+2018,33,1003,Indians,SS,Daniel Schneemann,Brigham Young,4YR,UT,Y,"$50,000"
+2018,33,1004,Dodgers,OF,Drew Avans,Southeastern Louisiana,4YR,LA,Y,"$5,000"
+2018,34,1005,Tigers,OF,Vinny Esposito,Sacramento State,4YR,CA,Y,"$1,500"
+2018,34,1006,Giants,LHP,Lucas Krull,Jefferson (Mo.) JC,JC,MO,N,
+2018,34,1007,Phillies,C,Nick Matera,Rutgers,4YR,NJ,Y,"$30,000"
+2018,34,1008,White Sox,C,Alec Valenzuela,"Great Oak HS, Temecula, Calif.",HS,CA,N,
+2018,34,1009,Reds,RHP,Cory Heitler,Ramapo (N.J.),4YR,NJ,Y,"$25,000"
+2018,34,1010,Mets,2B,Duke Kinamon,Stanford,4YR,CA,N,
+2018,34,1011,Padres,RHP,George Arias,Tuscon Magnet HS,HS,AZ,N,
+2018,34,1012,Braves,RHP,Zack Hess,Louisiana State,4YR,LA,N,
+2018,34,1012,Braves,RHP,Zack Hess,Louisiana State,4YR,LA,N,
+2018,34,1013,Athletics,2B,Nick Ward,West Chester (Pa.),4YR,PA,Y,"$1,000"
+2018,34,1014,Pirates,RHP,Davis Sharpe,"Mill Creek HS, Hoschton, Ga.",HS,GA,N,
+2018,34,1015,Orioles,OF,Trey Truitt,Mercer,4YR,GA,Y,"$25,000"
+2018,34,1016,Blue Jays,RHP,Grant Townsend,Oral Roberts,4YR,OK,Y,"$50,000"
+2018,34,1017,Marlins,RHP,Joe Strzelecki,Nova Southeastern (Fla.),4YR,FL,Y,"$1,000"
+2018,34,1018,Mariners,LHP,Nick Wegmann,Binghamton,4YR,NY,Y,"$5,000"
+2018,34,1019,Rangers,RHP,Noah Burkholder,Waubonsee (Ill.) JC,JC,IL,Y,"$50,000"
+2018,34,1020,Rays,C,Dawson Dimon,"Quartz Hill HS, Lancaster, Calif.",HS,CA,Y,"$65,000"
+2018,34,1021,Angels,C,Paul McIntosh,Motlow State (Tenn.) JC,JC,TN,N,
+2018,34,1022,Royals,RHP,Ty Madden,Cypress (Texas) Ranch HS,HS,TX,N,
+2018,34,1023,Cardinals,C,Benito Santiago,Tennessee,4YR,TN,Y,"$3,000"
+2018,34,1024,Twins,RHP,Dylan Stowell,California Baptist,4YR,CA,Y,"$1,000"
+2018,34,1025,Brewers,LHP,Michael Mediavilla,Miami,4YR,FL,Y,"$2,500"
+2018,34,1026,Rockies,SS,Jake Moberg,"Vista Murrieta HS, Murrieta, Calif.",HS,CA,N,
+2018,34,1027,Yankees,2B,Matt McGarry,Belmont Abbey (N.C.),4YR,NC,Y,"$5,000"
+2018,34,1028,Cubs,SS,Miguel Pabon,"Leadership Christian Academy, Guaynabo, P.R.",HS,PR,Y,"$50,000"
+2018,34,1029,Diamondbacks,OF,Wacy Crenshaw,Glendale (Ariz.) JC,JC,AZ,N,
+2018,34,1030,Red Sox,2B,Jared Poland,"Cathedral HS, Indianapolis",HS,IN,N,
+2018,34,1031,Nationals,OF,Tyler Baca,"Linfield Christian School, Temecula, Calif.",HS,CA,N,
+2018,34,1032,Astros,RHP,Ben Gross,Princeton,4YR,NJ,N,
+2018,34,1033,Indians,RHP,Spencer Schwellenbach,"Heritage HS, Saginaw, Mich.",HS,MI,N,
+2018,34,1034,Dodgers,LHP,Austin Drury,North Florida,4YR,FL,Y,"$100,000"
+2018,35,1035,Tigers,RHP,Chavez Fernander,Polk State (Fla.) JC,JC,FL,Y,"$75,000"
+2018,35,1036,Giants,RHP,Chris Roberts,San Jacinto (Texas) JC,JC,TX,Y,"$25,000"
+2018,35,1037,Phillies,RHP,Austin Ross,Radford,4YR,VA,Y,"$5,000"
+2018,35,1038,White Sox,RHP,Jason Morgan,North Carolina,4YR,NC,Y,"$100,000"
+2018,35,1039,Reds,OF,Max Dineen,Pennsville (N.J.) Memorial HS,HS,NJ,N,
+2018,35,1040,Mets,RHP,Ian Mejia,Sahuarita (Ariz.) HS,HS,AZ,N,
+2018,35,1041,Padres,RHP,Jake Pfennigs,Post Falls (Idaho) HS,HS,ID,N,
+2018,35,1042,Braves,C,Logan Brown,Southern Indiana,4YR,IN,Y,"$125,000"
+2018,35,1043,Athletics,RHP,Brandon White,Simsbury (Conn.) HS,HS,CT,N,
+2018,35,1044,Pirates,OF,Justin Harrer,Washington State,4YR,WA,Y,"$55,000"
+2018,35,1045,Orioles,RHP,Conor Grammes,Xavier,4YR,OH,N,
+2018,35,1046,Blue Jays,3B,Damiano Palmegiani,Vauxhall (Alb.) HS,HS,CN,N,
+2018,35,1047,Marlins,RHP,Jackson Rose,Minnesota,4YR,MN,Y,"$1,000"
+2018,35,1048,Mariners,RHP,Will Gambino,"Paul VI HS, Haddonfield, N.J.",HS,NJ,N,
+2018,35,1049,Rangers,SS,Tyler Depreta-Johnson,Houston Baptist,4YR,TX,Y,"$5,000"
+2018,35,1050,Rays,RHP,B.J. Myers,West Virgnia,4YR,WV,Y,"$2,000"
+2018,35,1051,Angels,3B,Tim Millard,Dallas Baptist,4YR,TX,Y,"$75,000"
+2018,35,1052,Royals,3B,Kody Hoese,Tulane,4YR,LA,N,
+2018,35,1053,Cardinals,3B,Liam Sabino,Pittsburgh,4YR,PA,Y,"$5,000"
+2018,35,1054,Twins,RHP,Tanner Howell,Dixie State (Utah),4YR,UT,Y,"$1,000"
+2018,35,1055,Brewers,OF,Josh Watson,Texas Christian,4YR,TX,N,
+2018,35,1056,Rockies,RHP,Sean Mullen,"Stockdale HS, Bakersfield, Calif.",HS,CA,N,
+2018,35,1057,Yankees,C,Austin Wells,"Bishop Gorman HS, Las Vegas",HS,NV,N,
+2018,35,1058,Cubs,OF,Edmond Americaan,Chipola (Fla.) JC,JC,FL,Y,"$208,950"
+2018,35,1059,Diamondbacks,SS,Alex King,Saint Louis,4YR,MO,Y,"$2,500"
+2018,35,1060,Red Sox,C,Jeremiah Boyd,"Hickory Ridge HS, Harrisburg, N.C.",HS,NC,N,
+2018,35,1061,Nationals,1B,Alex Binelas,Oak Creek (Wis.) HS,HS,WI,N,
+2018,35,1062,Astros,LHP,A.J. Bregman,Albuquerque Academy,HS,NM,N,
+2018,35,1063,Indians,RHP,Casey Legumina,Gonzaga,4YR,WA,N,
+2018,35,1064,Dodgers,OF,Tyler Reichenborn,Iowa Western JC,JC,IA,N,
+2018,36,1065,Tigers,RHP,Yaya Chentouf,Pittsburgh,4YR,PA,Y,"$75,000"
+2018,36,1066,Giants,RHP,Bryan Hoeing,Louisville,4YR,KY,N,
+2018,36,1067,Phillies,OF,Trent Bowles,Texas-San Antonio,4YR,TX,Y,"$5,000"
+2018,36,1068,White Sox,C,Adrian Del Castillo,"Gulliver Schools, Pinecrest, Fla.",HS,FL,N,
+2018,36,1069,Reds,OF,Zaid Walker,"Homewood-Flossmoor HS, Flossmoor, Ill.",HS,IL,N,
+2018,36,1070,Mets,OF,Denzel Clarke,"Everest Academy, Thornhill, Ont.",HS,CN,N,
+2018,36,1071,Padres,RHP,Will Freeman,Jones County (Miss.) JC,JC,MS,N,
+2018,36,1072,Braves,LHP,Victor Cavalieri,Houghton (N.Y.),4YR,NY,Y,"$10,000"
+2018,36,1073,Athletics,RHP,Chad Bryant,Pensacola State (Fla.) JC,JC,FL,N,
+2018,36,1074,Pirates,OF,Emanuel Andrews,Long Beach Poly HS,HS,CA,N,
+2018,36,1075,Orioles,C,Matt Beaird,Coastal Carolina,4YR,SC,Y,"$2,500"
+2018,36,1076,Blue Jays,C,Kameron Guangorena,"St. John Bosco HS, Bellflower, Calif.",HS,CA,N,
+2018,36,1077,Marlins,RHP,Riley Egloff,"Heritage HS, Littleton, Colo.",HS,CO,N,
+2018,36,1078,Mariners,LHP,Justin Wrobleski,"Sequoyah HS, Canton, Ga.",HS,GA,N,
+2018,36,1079,Rangers,RHP,William Corcoran,Malvern (Pa.) Prep School,HS,PA,N,
+2018,36,1080,Rays,SS,K.V. Edwards,Cowley County (Kan.) JC,JC,KS,Y,"$100,000"
+2018,36,1081,Angels,RHP,Hueston Morrill,"Suwannee HS, Live Oak, Fla.",HS,FL,N,
+2018,36,1082,Royals,RHP,Elijah Pleasants,"Rossview HS, Clarksville, Tenn.",HS,TN,N,
+2018,36,1083,Cardinals,3B,Cole Kreuter,UC Irvine,4YR,CA,Y,"$3,000"
+2018,36,1084,Twins,OF,Zac Taylor,Illinois,4YR,IL,N,
+2018,36,1085,Brewers,LHP,Brandon Williamson,North Iowa Area JC,JC,IA,N,
+2018,36,1086,Rockies,SS,Cayden Zimmerman,"Rock Canyon HS, Lone Tree, Colo.",HS,CO,N,
+2018,36,1087,Yankees,RHP,Jack Anderson,"Jesuit HS, Tampa",HS,FL,N,
+2018,36,1088,Cubs,C,Jacob Campbell,"Craig HS, Janesville, Wis.",HS,WI,N,
+2018,36,1089,Diamondbacks,OF,Joe Gillette,Menlo (Calif.),4YR,CA,Y,"$2,500"
+2018,36,1090,Red Sox,SS,Jake Dukart,Lake Oswego (Ore.) HS,HS,OR,N,
+2018,36,1091,Nationals,RHP,Bo Blessie,"Lee HS, Midland, Texas",HS,TX,N,
+2018,36,1092,Astros,RHP,Cole Ayers,"West Clermont HS, Batavia, Ohio",HS,OH,N,
+2018,36,1093,Indians,1B,Jose Gutierrez,"Lamar HS, Arlington, Texas",HS,TX,N,
+2018,36,1094,Dodgers,OF,Jeremiah Vison,Golden West (Calif.) JC,JC,CA,Y,"$50,000"
+2018,37,1095,Tigers,OF,Matthew Jarecki,Benedictine (Kan.),4YR,KS,Y,"$1,500"
+2018,37,1096,Giants,RHP,Ryan McDonald,JC of Southern Nevada,JC,NV,N,
+2018,37,1097,Phillies,1B,Ryan Rijo,New Mexico JC,JC,NM,N,
+2018,37,1098,White Sox,1B,Cannon King,Beverly Hills (Calif.) HS,HS,CA,N,
+2018,37,1099,Reds,C,Robert Boselli,St. John's,4YR,NY,Y,"$5,000"
+2018,37,1100,Mets,C,Zachary Fascia,Indian Hills (Iowa) JC,JC,IA,N,
+2018,37,1101,Padres,RHP,Ben Abram,Georgetown (Ont.) District HS,HS,CN,N,
+2018,37,1102,Braves,RHP,Alex Camacho,Vanguard (Calif.),4YR,CA,Y,"$100,000"
+2018,37,1103,Athletics,OF,Andrew Miller,"Casa Grande HS, Pentaluma, Calif.",HS,CA,N,
+2018,37,1104,Pirates,OF,Lavoisier Fisher,"North Gwinnett HS, Suwanee, Ga.",HS,GA,N,
+2018,37,1105,Orioles,RHP,Andrew Ciolli,Mercyhurst (Pa.),4YR,PA,Y,"$25,000"
+2018,37,1106,Blue Jays,RHP,Parker Caracci,Mississippi,4YR,MS,N,
+2018,37,1107,Marlins,OF,Robby Martin,"Jefferson HS, Tampa",HS,FL,N,
+2018,37,1108,Mariners,RHP,Parker Towns,Dallas Baptist,4YR,TX,N,
+2018,37,1109,Rangers,RHP,Austin Becker,"Big Walnut HS, Sunbury, Ohio",HS,OH,N,
+2018,37,1110,Rays,SS,John Rodriguez,"Stoneman Douglas HS, Parkland, Fla.",HS,FL,N,
+2018,37,1111,Angels,C,David Clawson,Brigham Young,4YR,UT,Y,"$10,000"
+2018,37,1112,Royals,OF,David Hollie,"Cross Creek HS, Augusta, Ga.",HS,GA,Y,"$125,000"
+2018,37,1113,Cardinals,C,Christian Caudle,Texas A&M-Kingsville,4YR,TX,N,
+2018,37,1114,Twins,OF,Luke Ritter,Wichita State,4YR,KS,N,
+2018,37,1115,Brewers,RHP,Franklin Hernandez,JC of Central Florida,JC,FL,Y,"$10,000"
+2018,37,1116,Rockies,LHP,Easton McMurray,"Liberty HS, Bakersfield, Calif.",HS,CA,N,
+2018,37,1117,Yankees,RHP,Landon Marceaux,Destrehan (La.) HS,HS,LA,N,
+2018,37,1118,Cubs,SS,Henry Vilar,"Westminster Christian School, Palmetto Bay, Fla.",HS,FL,N,
+2018,37,1119,Diamondbacks,C,Zack Plunkett,Arkansas,4YR,AR,N,
+2018,37,1120,Red Sox,SS,Davis Wendzel,Baylor,4YR,TX,N,
+2018,37,1121,Nationals,RHP,Cole Wilcox,"Heritage HS, Ringgold, Ga.",HS,GA,N,
+2018,37,1122,Astros,OF,Antonio Cruz,"Episcopal HS, Bellaire, Texas",HS,TX,N,
+2018,37,1123,Indians,SS,Tim Borden,"Our Lady of Providence HS, Clarksville, Ind.",HS,IN,N,
+2018,37,1124,Dodgers,OF,Jon Littell,Oklahoma State,4YR,OK,Y,"$5,000"
+2018,38,1125,Tigers,RHP,Cole Henry,Florence (Ala.) HS,HS,AL,N,
+2018,38,1126,Giants,LHP,Brett Hansen,"Foothill HS, Pleasanton, Calif.",HS,CA,N,
+2018,38,1127,Phillies,RHP,Stephen Jones,Samford,4YR,AL,N,
+2018,38,1128,White Sox,OF,Matt Klug,"Brookwood HS, Snellville, Ga.",HS,GA,N,
+2018,38,1129,Reds,2B,Adam Jacques,"Interlake HS, Bellevue, Wash.",HS,WA,N,
+2018,38,1130,Mets,SS,Nick Zona,"Hanover HS, Mechanicsville, Va.",HS,VA,N,
+2018,38,1131,Padres,1B,Michael Suarez,Miami Sunset HS,HS,FL,Y,"$125,000"
+2018,38,1132,Braves,RHP,Franco Aleman,"Alonso HS, Tampa",HS,FL,N,
+2018,38,1133,Athletics,OF,Austin Piscotty,St. Mary's,4YR,CA,Y,"$1,000"
+2018,38,1134,Pirates,OF,Brendt Citta,Kansas,4YR,KS,Y,"$125,000"
+2018,38,1135,Orioles,RHP,Slade Cecconi,"Trinity Prep School, Winter Park, Fla.",HS,FL,N,
+2018,38,1136,Blue Jays,C,Francisco Ruiz,"Beltran Baseball Academy, Florida, P.R.",HS,PR,Y,"$100,000"
+2018,38,1137,Marlins,RHP,Bryce Miller,Blinn (Texas) JC,JC,TX,N,
+2018,38,1138,Mariners,2B,Jack Montgomery,Simsbury (Conn.) HS,HS,CT,N,
+2018,38,1139,Rangers,RHP,Reggie Meyer,Minnesota,4YR,MN,Y,"$5,000"
+2018,38,1140,Rays,LHP,Garrett Wade,Hartselle (Ala.) HS,HS,AL,N,
+2018,38,1141,Angels,RHP,Chandler Champlain,"Santa Margarita HS, Rancho Santa Margarita, Calif.",HS,CA,N,
+2018,38,1142,Royals,LHP,Trae Robertson,"Hickman HS, Columbia, Mo.",HS,MO,N,
+2018,38,1143,Cardinals,RHP,Jaden Hill,Ashdown (Ark.) HS,HS,AR,N,
+2018,38,1144,Twins,RHP,Dylan Thomas,Hawaii,4YR,HI,N,
+2018,38,1145,Brewers,RHP,Aidan Maldonado,Rosemount (Minn.) HS,HS,MN,N,
+2018,38,1146,Rockies,RHP,Kumar Rocker,"North Oconee HS, Bogart, Ga.",HS,GA,N,
+2018,38,1147,Yankees,LHP,Dan Metzdorf,Boston College,4YR,MA,N,
+2018,38,1148,Cubs,OF,Chase Hanson,"Edison HS, Huntington Beach, Calif.",HS,CA,N,
+2018,38,1149,Diamondbacks,SS,David Garza,Tennessee Tech,4YR,TN,Y,"$2,500"
+2018,38,1150,Red Sox,LHP,Art Joven,JC of the Sequoias (Calif.),JC,CA,N,
+2018,38,1151,Nationals,RHP,Bobby Milacki,Arizona Christian,4YR,AZ,Y,"$25,000"
+2018,38,1152,Astros,C,Cole Stilwell,"Rockwall-Heath HS, Rockwall, Texas",HS,TX,N,
+2018,38,1153,Indians,SS,Zack Gelof,"Cape Henlopen HS, Lewes, Del.",HS,DE,N,
+2018,38,1154,Dodgers,RHP,Connery Peters,Joshua (Texas) HS,HS,TX,N,
+2018,39,1155,Tigers,2B,Cory Acton,"American Heritage School, Plantation, Fla.",HS,FL,N,
+2018,39,1156,Giants,RHP,Trevor Horn,Nevada-Las Vegas,4YR,AZ,Y,"$50,000"
+2018,39,1157,Phillies,C,Mat Nelson,"Calvary Christian HS, Clearwater, Fla.",HS,FL,N,
+2018,39,1158,White Sox,LHP,Mason Montgomery,Leander (Texas) HS,HS,TX,N,
+2018,39,1159,Reds,RHP,Sam Knowlton,"Corner HS, Dora, Ala.",HS,AL,N,
+2018,39,1160,Mets,SS,Kody Darcy,"Kentridge HS, Kent, Wash.",HS,WA,N,
+2018,39,1161,Padres,RHP,Seth Mayberry,Dinwiddie (Va.) HS,HS,VA,Y,"$125,000"
+2018,39,1162,Braves,RHP,Jack Perkins,Kokomo (Ind.) HS,HS,IN,N,
+2018,39,1163,Athletics,OF,Hudson Haskin,Avon (Conn.) Old Farms School,HS,CT,N,
+2018,39,1164,Pirates,RHP,Cody Smith,Charleston Southern,4YR,SC,Y,"$2,000"
+2018,39,1165,Orioles,RHP,Ted Stuka,UC San Diego,4YR,CA,N,
+2018,39,1166,Blue Jays,RHP,Cole Beverlin,"Spruce Creek HS, Port Orange, Fla.",HS,FL,N,
+2018,39,1167,Marlins,3B,Andrew Turner,Long Island,4YR,NY,Y,"$1,000"
+2018,39,1168,Mariners,RHP,Jacob Maton,"Glenwood HS, Chatham, Ill.",HS,IL,N,
+2018,39,1169,Rangers,3B,Shea Patterson,Michigan,4YR,MI,Y,"$25,000"
+2018,39,1170,Rays,C,C.J. Willis,Ruston (La.) HS,HS,LA,N,
+2018,39,1171,Angels,RHP,Max Alba,Franklin (Wis.) HS,HS,WI,N,
+2018,39,1172,Royals,C,Adam Hackenberg,"The Miller School, Charlottesville, Va.",HS,VA,N,
+2018,39,1173,Cardinals,3B,Zack Gahagan,North Carolina,4YR,NC,Y,"$3,000"
+2018,39,1174,Twins,RHP,Bryce Collins,"Hart HS, Santa Clarita, Calif.",HS,CA,N,
+2018,39,1175,Brewers,C,Caleb Marquez,Blue Springs (Mo.) HS,HS,MO,Y,"$35,000"
+2018,39,1176,Rockies,OF,Isaiah Thomas,"The Benjamin School, North Palm Beach, Fla.",HS,FL,N,
+2018,39,1177,Yankees,OF,Brady Allen,"Jenkins HS, Lakeland, Fla.",HS,FL,N,
+2018,39,1178,Cubs,C,Pierson Gibis,Wauconda (Ill.) HS,HS,IL,N,
+2018,39,1179,Diamondbacks,OF,Tyler Acosta,Barrington (Ill.) HS,HS,IL,N,
+2018,39,1180,Red Sox,OF,Shane Selman,McNeese State,4YR,LA,N,
+2018,39,1181,Nationals,LHP,Andrew Nardi,Moorpark (Calif.) JC,JC,CA,N,
+2018,39,1182,Astros,RHP,Brandon Birdsell,Willis (Texas) HS,HS,TX,N,
+2018,39,1183,Indians,LHP,Kaleb  Hill,"Watson Chapel HS, Pine Bluff, Ark.",HS,AR,N,
+2018,39,1184,Dodgers,OF,Jordan Myrow,San Jacinto (Texas) JC,JC,TX,N,
+2018,40,1185,Tigers,C,Kevynn Arias,Montreat (N.C.),4YR,NC,Y,"$15,000"
+2018,40,1186,Giants,3B,Abdiel Layer,Miami Dade JC,JC,FL,Y,"$125,000"
+2018,40,1187,Phillies,RHP,Waylon Richardson,Kankakee (Ill.) JC,JC,IL,Y,"$75,000"
+2018,40,1188,White Sox,LHP,Kyle Salley,"Homewood-Flossmoor HS, Flossmoor, Ill.",HS,IL,N,
+2018,40,1189,Reds,RHP,Ryan Cusick,Avon (Conn.) Old Farms School,HS,CT,N,
+2018,40,1190,Mets,RHP,Brian Metoyer,Louisiania State-Alexandira,4YR,LA,Y,"$40,000"
+2018,40,1191,Padres,RHP,Michael Knorr,Carlsbad (Calif.) HS,HS,CA,N,
+2018,40,1192,Braves,C,Micky Mangan,"Pinecrest Academy, Cumming, Ga.",HS,GA,N,
+2018,40,1193,Athletics,OF,Lyndon Weaver,"Redan HS, Stone Mountain, Ga.",HS,GA,N,
+2018,40,1194,Pirates,RHP,Jake Mielock,Colorado Mesa,4YR,CO,Y,"$2,000"
+2018,40,1195,Orioles,RHP,Sam Grace,"Howell North HS, St. Charles, Mo.",HS,MO,N,
+2018,40,1196,Blue Jays,SS,Drew Labounty,South Alabama,4YR,AL,N,
+2018,40,1197,Marlins,LHP,Andrew Miller,Kentucky,4YR,NJ,Y,"$150,000"
+2018,40,1198,Mariners,RHP,David Rhodes,Langley (B.C.) SS,HS,CN,N,
+2018,40,1199,Rangers,RHP,Cole Uvila,Georgia Gwinnet,4YR,GA,Y,"$1,000"
+2018,40,1200,Rays,RHP,David Luethje,Vero Beach (Fla.) HS,HS,FL,N,
+2018,40,1201,Angels,RHP,Samuel Stoutenborough,"Palma HS, Salinas, Calif.",HS,CA,N,
+2018,40,1202,Royals,LHP,Ky Bush,"Fremont HS, Plain City, Utah",HS,UT,N,
+2018,40,1203,Cardinals,OF,Andrew Warner,Columbia (Mo.),4YR,MO,Y,"$3,000"
+2018,40,1204,Twins,OF,Tyler Webb,Memphis,4YR,TN,Y,"$1,000"
+2018,40,1205,Brewers,C,Wes Clarke,"Liberty Christian Academy, Lynchburg, Va.",HS,VA,N,
+2018,40,1206,Rockies,C,Brett Auerbach,Saddleback (Calif.) JC,JC,CA,N,
+2018,40,1207,Yankees,RHP,Reid Anderson,Brown,4YR,RI,Y,"$5,000"
+2018,40,1208,Cubs,1B,Itamar Steiner,"Niles North HS, Skokie, Ill.",HS,IL,N,
+2018,40,1209,Diamondbacks,SS,Garrison Burress,Catawba Valley (N.C.) JC,JC,NC,N,
+2018,40,1210,Red Sox,OF,Zach Watson,Louisiana State,4YR,LA,N,
+2018,40,1211,Nationals,RHP,Mike Menhart,Richmond Hill (Ga.) HS,HS,GA,N,
+2018,40,1212,Astros,SS,Nathan Duarte,Lancaster (Calif.) HS,HS,CA,N,
+2018,40,1213,Indians,LHP,Braxton Cottongame,"Perry Central HS, Hazard, Ky.",HS,KY,N,
+2018,40,1214,Dodgers,RHP,Ben Specht,"Evangelical Christian School, Fort Myers, Fla.",HS,FL,N,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

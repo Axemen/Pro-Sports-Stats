@@ -1,0 +1,1538 @@
+Year,RD,Pick,Team,Pos,Player,School,Type,ST,Signed,Bonus
+2011,1,1,Pirates,RHP,Gerrit Cole,UCLA,4YR,CA,Y,"$8,000,000"
+2011,1,2,Mariners,LHP,Danny Hultzen,Virginia,4YR,VA,Y,"$6,350,000"
+2011,1,3,Diamondbacks,RHP,Trevor Bauer,UCLA,4YR,CA,Y,"$3,400,000"
+2011,1,4,Orioles,RHP,Dylan Bundy,Owasso (Okla.) HS,HS,OK,Y,"$4,000,000"
+2011,1,5,Royals,OF,Bubba Starling,"Gardner-Edgerton HS, Gardner, Kan.",HS,KS,Y,"$7,500,000"
+2011,1,6,Nationals,3B,Anthony Rendon,Rice,4YR,TX,Y,"$6,000,000"
+2011,1,7,Diamondbacks,RHP,Archie Bradley,Broken Arrow (Okla.) HS,HS,OK,Y,"$5,000,000"
+2011,1,8,Indians,SS,Francisco Lindor,Montverde (Fla.) Academy,HS,FL,Y,"$2,900,000"
+2011,1,9,Cubs,SS,Javier Baez,"Arlington Country Day HS, Jacksonville",HS,FL,Y,"$2,625,000"
+2011,1,10,Padres,2B,Cory Spangenberg,Indian River (Fla.) JC,JC,FL,Y,"$1,863,000"
+2011,1,11,Astros,OF,George Springer,Connecticut,4YR,CT,Y,"$2,525,000"
+2011,1,12,Brewers,RHP,Taylor Jungmann,Texas,4YR,TX,Y,"$2,525,000"
+2011,1,13,Mets,OF,Brandon Nimmo,"East HS, Cheyenne, Wyo.",HS,WY,Y,"$2,100,000"
+2011,1,14,Marlins,RHP,Jose Fernandez,"Alonso HS, Tampa",HS,FL,Y,"$2,000,000"
+2011,1,15,Brewers,LHP,Jed Bradley,Georgia Tech,4YR,GA,Y,"$2,000,000"
+2011,1,16,Dodgers,LHP,Chris Reed,Stanford,4YR,CA,Y,"$1,589,000"
+2011,1,17,Angels,1B,C.J. Cron,Utah,4YR,UT,Y,"$1,467,000"
+2011,1,18,Athletics,RHP,Sonny Gray,Vanderbilt,4YR,TN,Y,"$1,540,000"
+2011,1,19,Red Sox,RHP,Matt Barnes,Connecticut,4YR,CT,Y,"$1,500,000"
+2011,1,20,Rockies,LHP,Tyler Anderson,Oregon,4YR,OR,Y,"$1,400,000"
+2011,1,21,Blue Jays,RHP,Tyler Beede,"Lawrence Academy, Groton, Mass.",HS,MA,N,
+2011,1,22,Cardinals,2B,Kolten Wong,Hawaii,4YR,HI,Y,"$1,300,000"
+2011,1,23,Nationals,RHP,Alex Meyer,Kentucky,4YR,KY,Y,"$2,000,000"
+2011,1,24,Rays,RHP,Taylor Guerrieri,"Spring Valley HS, Columbia, S.C.",HS,SC,Y,"$1,600,000"
+2011,1,25,Padres,RHP,Joe Ross,"Bishop O'Dowd HS, Oakland",HS,CA,Y,"$2,750,000"
+2011,1,26,Red Sox,C,Blake Swihart,"Cleveland HS, Rio Rancho, N.M.",HS,NM,Y,"$2,500,000"
+2011,1,27,Reds,RHP,Robert Stephenson,"Alhambra HS, Martinez, Calif.",HS,CA,Y,"$2,000,000"
+2011,1,28,Braves,LHP,Sean Gilmartin,Florida State,4YR,FL,Y,"$1,134,000"
+2011,1,29,Giants,SS,Joe Panik,St. John's,4YR,NY,Y,"$1,116,000"
+2011,1,30,Twins,SS,Levi Michael,North Carolina,4YR,NC,Y,"$1,175,000"
+2011,1,31,Rays,OF,Mikie Mahtook,Louisiana State,4YR,LA,Y,"$1,150,000"
+2011,1,32,Rays,SS,Jake Hager,"Sierra Vista HS, Las Vegas",HS,NV,Y,"$963,000"
+2011,1,33,Rangers,LHP,Kevin Matthews,Richmond Hill (Ga.) HS,HS,GA,Y,"$936,000"
+2011,1s,34,Nationals,OF,Brian Goodwin,Miami Dade JC,JC,FL,Y,"$3,000,000"
+2011,1s,35,Blue Jays,OF,Jake Anderson,Chino (Calif.) HS,HS,CA,Y,"$990,000"
+2011,1s,36,Red Sox,LHP,Henry Owens,"Edison HS, Huntington Beach, Calif.",HS,CA,Y,"$1,550,000"
+2011,1s,37,Rangers,OF,Zach Cone,Georgia,4YR,GA,Y,"$873,000"
+2011,1s,38,Rays,SS,Brandon Martin,"Santiago HS, Corona, Calif.",HS,CA,Y,"$860,000"
+2011,1s,39,Phillies,OF,Larry Greene,"Berrien County HS, Nashville, Ga.",HS,GA,Y,"$1,000,000"
+2011,1s,40,Red Sox,OF,Jackie Bradley,South Carolina,4YR,SC,Y,"$1,100,000"
+2011,1s,41,Rays,3B,Tyler Goeddel,"St. Francis HS, Mountain View, Calif.",HS,CA,Y,"$1,500,000"
+2011,1s,42,Rays,RHP,Jeff Ames,Lower Columbia (Wash.) JC,JC,WA,Y,"$650,000"
+2011,1s,43,Diamondbacks,LHP,Andrew Chafin,Kent State,4YR,OH,Y,"$875,000"
+2011,1s,44,Mets,RHP,Michael Fulmer,"Deer Creek HS, Edmond, Okla.",HS,OK,Y,"$937,500"
+2011,1s,45,Rockies,SS,Trevor Story,Irving (Texas) HS,HS,TX,Y,"$915,000"
+2011,1s,46,Blue Jays,RHP,Joe Musgrove,"Grossmont HS, El Cajon, Calif.",HS,CA,Y,"$500,000"
+2011,1s,47,White Sox,OF,Keenyn Walker,Central Arizona JC,JC,AZ,Y,"$795,000"
+2011,1s,48,Padres,RHP,Michael Kelly,West Boca Raton (Fla.) HS,HS,FL,Y,"$718,000"
+2011,1s,49,Giants,RHP,Kyle Crick,Sherman (Texas) HS,HS,TX,Y,"$900,000"
+2011,1s,50,Twins,3B,Travis Harrison,Tustin (Calif.) HS,HS,CA,Y,"$1,050,000"
+2011,1s,51,Yankees,OF,Dante Bichette,"Orangewood Christian HS, Orlando",HS,FL,Y,"$750,000"
+2011,1s,52,Rays,LHP,Blake Snell,"Shorewood HS, Shoreline, Wash.",HS,WA,Y,"$684,000"
+2011,1s,53,Blue Jays,OF,Dwight Smith,McIntosh (Ga.) HS,HS,GA,Y,"$800,000"
+2011,1s,54,Padres,C,Brett Austin,"Providence HS, Charlotte",HS,NC,N,
+2011,1s,55,Twins,RHP,Hudson Boyd,"Bishop Verot HS, Fort Myers, Fla.",HS,FL,Y,"$1,000,000"
+2011,1s,56,Rays,OF,Kes Carter,Western Kentucky,4YR,KY,Y,"$625,000"
+2011,1s,57,Blue Jays,RHP,Kevin Comer,"Seneca HS, Tabernacle, N.J.",HS,NJ,Y,"$1,650,000"
+2011,1s,58,Padres,SS,Jace Peterson,McNeese State,4YR,LA,Y,"$624,600"
+2011,1s,59,Rays,LHP,Grayson Garvin,Vanderbilt,4YR,TN,Y,"$370,000"
+2011,1s,60,Rays,OF,James Harris,Oakland Technical HS,HS,CA,Y,"$490,000"
+2011,2,61,Pirates,OF,Josh Bell,Dallas Jesuit HS,HS,TX,Y,"$5,000,000"
+2011,2,62,Mariners,SS,Brad Miller,Clemson,4YR,SC,Y,"$750,000"
+2011,2,63,Diamondbacks,RHP,Anthony Meo,Coastal Carolina,4YR,SC,Y,"$625,000"
+2011,2,64,Orioles,3B,Jason Esposito,Vanderbilt,4YR,TN,Y,"$600,000"
+2011,2,65,Royals,C,Cam Gallagher,"Manheim Township HS, Lancaster, Pa.",HS,PA,Y,"$750,000"
+2011,2,66,Phillies,SS,Roman Quinn,Port St. Joe (Fla.) HS,HS,FL,Y,"$775,000"
+2011,2,67,Indians,RHP,Dillon Howard,Searcy (Ark.) HS,HS,AR,Y,"$1,850,000"
+2011,2,68,Cubs,1B,Daniel Vogelbach,"Bishop Verot HS, Fort Myers, Fla.",HS,FL,Y,"$1,600,000"
+2011,2,69,Astros,RHP,Adrian Houser,Locust Grove (Okla.) HS,HS,OK,Y,"$530,100"
+2011,2,70,Brewers,RHP,Jorge Lopez,"Caguas Military Academy, Gurabo, P.R.",HS,PR,Y,"$690,000"
+2011,2,71,Mets,RHP,Cory Mazzoni,North Carolina State,4YR,NC,Y,"$437,500"
+2011,2,72,Marlins,LHP,Adam Conley,Washington State,4YR,WA,Y,"$625,000"
+2011,2,73,Dodgers,3B,Alex Santana,"Mariner HS, Cape Coral, Fla.",HS,FL,Y,"$499,500"
+2011,2,74,Blue Jays,LHP,Daniel Norris,"Science Hill HS, Johnson City, Tenn.",HS,TN,Y,"$2,000,000"
+2011,2,75,Rays,OF,Granden Goetzman,Palmetto (Fla.) HS,HS,FL,Y,"$490,000"
+2011,2,76,Tigers,C,James McCann,Arkansas,4YR,AR,Y,"$577,900"
+2011,2,77,Rockies,OF,Carl Thomore,East Brunswick (N.J.) HS,HS,NJ,Y,"$480,000"
+2011,2,78,Blue Jays,RHP,Jeremy Gabryszwski,Crosby (Texas) HS,HS,TX,Y,"$575,000"
+2011,2,79,Cardinals,OF,Charlie Tilson,"New Trier HS, Winnetka, Ill.",HS,IL,Y,"$1,275,000"
+2011,2,80,White Sox,RHP,Erik Johnson,California,4YR,CA,Y,"$450,000"
+2011,2,81,Red Sox,OF,Williams Jerez,"Grand Street HS, Brooklyn",HS,NY,Y,"$443,700"
+2011,2,82,Padres,C,Austin Hedges,"JSerra HS, San Juan Capistrano, Calif.",HS,CA,Y,"$3,000,000"
+2011,2,83,Rangers,LHP,Will Lamb,Clemson,4YR,SC,Y,"$430,200"
+2011,2,84,Reds,OF,Gabriel Rosa,"Colegio Hector Urdaneta, Rio Grande, P.R.",HS,PR,Y,"$500,000"
+2011,2,85,Braves,SS,Nick Ahmed,Connecticut,4YR,CT,Y,"$417,600"
+2011,2,86,Giants,C,Andrew Susac,Oregon State,4YR,OR,Y,"$1,100,000"
+2011,2,87,Twins,RHP,Madison Boer,Oregon,4YR,OR,Y,"$405,000"
+2011,2,88,Yankees,LHP,Sam Stafford,Texas,4YR,TX,N,
+2011,2,89,Rays,RHP,Lenny Linsky,Hawaii,4YR,HI,Y,"$392,400"
+2011,2,90,Phillies,3B,Harold Martinez,Miami,4YR,FL,Y,"$387,000"
+2011,3,91,Pirates,1B,Alex Dickerson,Indiana,4YR,IN,Y,"$380,700"
+2011,3,92,Mariners,1B,Kevin Cron,"Mountain Pointe HS, Phoenix",HS,AZ,N,
+2011,3,93,Diamondbacks,OF,Justin Bianco,"Peters Township HS, Canonsburg, Pa.",HS,PA,Y,"$369,000"
+2011,3,94,Orioles,RHP,Mike Wright,East Carolina,4YR,NC,Y,"$363,300"
+2011,3,95,Royals,RHP,Bryan Brickhouse,The Woodlands (Texas) HS,HS,TX,Y,"$1,500,000"
+2011,3,96,Nationals,LHP,Matt Purke,Texas Christian,4YR,TX,Y,"$2,750,000"
+2011,3,97,Indians,RHP,Jake Sisco,Merced (Calif.) JC,JC,CA,Y,"$325,000"
+2011,3,98,Cubs,OF,Zeke DeVoss,Miami,4YR,FL,Y,"$500,000"
+2011,3,99,Astros,RHP,Jack Armstrong,Vanderbilt,4YR,TN,Y,"$750,000"
+2011,3,100,Brewers,RHP,Drew Gagnon,Long Beach State,4YR,CA,Y,"$340,000"
+2011,3,101,Mets,RHP,Logan Verrett,Baylor,4YR,TX,Y,"$425,000"
+2011,3,102,Marlins,SS,Connor Barron,Sumrall (Miss.) HS,HS,MS,N,
+2011,3,103,Dodgers,C,Pratt Maynard,North Carolina State,4YR,NC,Y,"$315,000"
+2011,3,104,Angels,LHP,Nick Maronde,Florida,4YR,FL,Y,"$309,600"
+2011,3,105,Athletics,3B,B.A. Vollmuth,Southern Mississippi,4YR,MS,Y,"$304,200"
+2011,3,106,Tigers,1B,Aaron Westlake,Vanderbilt,4YR,TN,Y,"$310,000"
+2011,3,107,Rockies,C,Peter O'Brien,Bethune-Cookman,4YR,FL,N,
+2011,3,108,Blue Jays,RHP,John Stilson,Texas A&M,4YR,TX,Y,"$500,000"
+2011,3,109,Cardinals,OF,C.J. McElroy,"Clear Creek HS, League City, Texas",HS,TX,Y,"$510,000"
+2011,3,110,White Sox,RHP,Jeff Soptic,Johnson County (Kan.) JC,JC,KS,Y,"$320,000"
+2011,3,111,Red Sox,C,Jordan Weems,Columbus (Ga.) HS,HS,GA,Y,"$500,000"
+2011,3,112,Padres,RHP,Matt Andriese,UC Riverside,4YR,CA,Y,"$270,000"
+2011,3,113,Rangers,RHP,Kyle Castro,"Pleasant Grove HS, Elk Grove, Calif.",HS,CA,Y,"$267,300"
+2011,3,114,Reds,LHP,Tony Cingrani,Rice,4YR,TX,Y,"$210,000"
+2011,3,115,Braves,3B,Kyle Kubitza,Texas State,4YR,TX,Y,"$261,000"
+2011,3,116,Giants,1B,Ricky Oropesa,Southern California,4YR,CA,Y,"$550,000"
+2011,3,117,Twins,LHP,Corey Williams,Vanderbilt,4YR,TN,Y,"$575,000"
+2011,3,118,Yankees,RHP,Jordan Cote,"Winnisquam HS, Northfield, N.H.",HS,NH,Y,"$725,000"
+2011,3,119,Rays,OF,Johnny Eierman,Warsaw (Mo.) HS,HS,MO,Y,"$550,000"
+2011,3,120,Phillies,LHP,Adam Morgan,Alabama,4YR,AL,Y,"$250,000"
+2011,3s,121,Mariners,RHP,Carter Capps,Mount Olive (N.C.),4YR,NC,Y,"$500,000"
+2011,4,122,Pirates,RHP,Colten Brewer,Canton (Texas) HS,HS,TX,Y,"$240,000"
+2011,4,123,Mariners,C,John Hicks,Virginia,4YR,VA,Y,"$240,000"
+2011,4,124,Diamondbacks,RHP,Evan Marshall,Kansas State,4YR,KS,Y,"$232,500"
+2011,4,125,Orioles,RHP,Kyle Simon,Arizona,HS,AZ,Y,"$231,300"
+2011,4,126,Royals,RHP,Kyle Smith,"Santaluces HS, Lantana, Fla.",HS,FL,Y,"$695,000"
+2011,4,127,Nationals,LHP,Kylin Turnbull,Santa Barbara (Calif.) JC,JC,CA,Y,"$325,000"
+2011,4,128,Indians,C,Jake Lowery,James Madison,4YR,VA,Y,"$220,000"
+2011,4,129,Cubs,RHP,Tony Zych,Louisville,4YR,KY,Y,"$400,000"
+2011,4,130,Astros,LHP,Chris Lee,Santa Fe (Fla.) JC,JC,FL,Y,"$215,000"
+2011,4,131,Brewers,1B,Nick Ramirez,Cal State Fullerton,HS,CA,Y,"$213,300"
+2011,4,132,Mets,RHP,Tyler Pill,Cal State Fullerton,4YR,CA,Y,"$200,000"
+2011,4,133,Marlins,2B,Tyler Palmer,"Wayne County HS, Jesup, Ga.",HS,GA,N,
+2011,4,134,Dodgers,RHP,Ryan O'Sullivan,Oklahoma City,4YR,OK,Y,"$100,000"
+2011,4,135,Angels,RHP,Mike Clevinger,Seminole State (Fla.) JC,JC,FL,Y,"$250,000"
+2011,4,136,Athletics,OF,Bobby Crocker,Cal Poly,4YR,CA,Y,"$198,000"
+2011,4,137,Tigers,3B,Jason King,Kansas State,4YR,KS,Y,"$195,300"
+2011,4,138,Rockies,OF,Dillon Thomas,"Westbury Christian HS, Houston",HS,TX,Y,"$300,000"
+2011,4,139,Blue Jays,RHP,Tom Robson,"Delta SS, Ladner, B.C.",HS,CN,Y,"$325,000"
+2011,4,140,Cardinals,SS,Kenny Peoples-Walls,"Westchester HS, Los Angeles",HS,CA,Y,"$200,000"
+2011,4,141,White Sox,RHP,Kyle McMillen,Kent State,4YR,OH,Y,"$120,000"
+2011,4,142,Red Sox,RHP,Noe Ramirez,Cal State Fullerton,HS,CA,Y,"$625,000"
+2011,4,143,Padres,RHP,Cody Hebner,Green River (Wash.) JC,JC,WA,Y,"$200,000"
+2011,4,144,Rangers,OF,Desmond Henry,"Centennial HS, Compton, Calif.",HS,CA,Y,"$200,000"
+2011,4,145,Reds,RHP,Kyle McMyne,Villanova,4YR,PA,Y,"$176,400"
+2011,4,146,Braves,RHP,J.R. Graham,Santa Clara,4YR,CA,Y,"$174,600"
+2011,4,147,Giants,LHP,Bryce Bandilla,Arizona,4YR,AZ,Y,"$185,000"
+2011,4,148,Twins,RHP,Matt Summers,UC Irvine,4YR,CA,Y,"$171,900"
+2011,4,149,Yankees,3B,Matt Duran,New Rochelle (N.Y.) HS,HS,NY,Y,"$335,000"
+2011,4,150,Rays,3B,Riccio Torrez,Arizona State,4YR,AZ,Y,"$180,000"
+2011,4,151,Phillies,3B,Cody Asche,Nebraska,4YR,NE,Y,"$168,300"
+2011,5,152,Pirates,RHP,Tyler Glasnow,"Hart HS, Santa Clarita, Calif.",HS,CA,Y,"$600,000"
+2011,5,153,Mariners,C,Tyler Marlette,"Hagerty HS, Oviedo, Fla.",HS,FL,Y,"$650,000"
+2011,5,154,Diamondbacks,C,Michael Perez,"Colegio Vocacional Para Adultos, San Juan, P.R.",HS,PR,Y,"$235,000"
+2011,5,155,Orioles,LHP,Matt Taylor,Middle Georgia JC,JC,GA,Y,"$160,000"
+2011,5,156,Royals,OF,Patrick Leonard,"St. Thomas HS, Houston",HS,TX,Y,"$600,000"
+2011,5,157,Nationals,3B,Matt Skole,Georgia Tech,4YR,GA,Y,"$161,100"
+2011,5,158,Indians,RHP,Will Roberts,Virginia,4YR,VA,Y,"$150,000"
+2011,5,159,Cubs,RHP,Tayler Scott,"Notre Dame Prep, Scottsdale, Ariz.",HS,AZ,Y,"$279,950"
+2011,5,160,Astros,RHP,Nick Tropeano,Stony Brook,4YR,NY,Y,"$155,700"
+2011,5,161,Brewers,OF,Michael Reed,Leander (Texas) HS,HS,TX,Y,"$500,000"
+2011,5,162,Mets,LHP,Jack Leathersich,Massachusetts-Lowell,4YR,MA,Y,"$110,000"
+2011,5,163,Marlins,RHP,Mason Hope,Broken Arrow (Okla.) HS,HS,OK,Y,"$250,000"
+2011,5,164,Dodgers,RHP,Scott McGough,Oregon,4YR,OR,Y,"$150,300"
+2011,5,165,Angels,OF,Andrew Ray,Northeast Texas JC,JC,TX,Y,"$80,000"
+2011,5,166,Athletics,C,Beau Taylor,Central Florida,4YR,FL,Y,"$147,600"
+2011,5,167,Tigers,SS,Brandon Loy,Texas,4YR,TX,Y,"$212,000"
+2011,5,168,Rockies,SS,Taylor Featherston,Texas Christian,4YR,TX,Y,"$144,900"
+2011,5,169,Blue Jays,LHP,Andrew Chin,"Buckingham Browne & Nichols HS, Cambridge, Mass.",HS,MA,N,
+2011,5,170,Cardinals,RHP,Sam Gaviglio,Oregon State,4YR,OR,Y,"$175,000"
+2011,5,171,White Sox,LHP,Scott Snodgress,Stanford,4YR,CA,Y,"$141,300"
+2011,5,172,Red Sox,SS,Mookie Betts,"Overton HS, Brentwood, Tenn.",HS,TN,Y,"$750,000"
+2011,5,173,Padres,RHP,Mark Pope,Georgia Tech,4YR,GA,Y,"$150,000"
+2011,5,174,Rangers,RHP,Brandon Woodruff,Wheeler (Miss.) HS,HS,MS,N,
+2011,5,175,Reds,2B,Ryan Wright,Louisville,4YR,KY,Y,"$225,000"
+2011,5,176,Braves,C,Nick DeSantiago,Blinn (Texas) JC,JC,TX,Y,"$125,000"
+2011,5,177,Giants,RHP,Chris Marlowe,Oklahoma State,4YR,OK,Y,"$145,000"
+2011,5,178,Twins,SS,Tyler Grimes,Wichita State,4YR,KS,Y,"$132,900"
+2011,5,179,Yankees,C,Greg Bird,"Grandview HS, Aurora, Colo.",HS,CO,Y,"$1,100,000"
+2011,5,180,Rays,3B,J.D. Davis,Elk Grove (Calif.) HS,HS,CA,N,
+2011,5,181,Phillies,SS,Mitch Walding,"St. Mary's HS, Stockton, Calif.",HS,CA,Y,"$800,000"
+2011,6,182,Pirates,3B,Dan Gamache,Auburn,4YR,AL,Y,"$125,000"
+2011,6,183,Mariners,OF,James Zamarripa,Rancho Cucamonga (Calif.) HS,HS,CA,Y,"$200,000"
+2011,6,184,Diamondbacks,RHP,Matt Price,South Carolina,4YR,SC,N,
+2011,6,185,Orioles,3B,Nicky Delmonico,"Farragut HS, Knoxville",HS,TN,Y,"$1,525,000"
+2011,6,186,Royals,LHP,Cesar Ogando,Caribbean (P.R.) JC,JC,PR,Y,"$150,000"
+2011,6,187,Nationals,RHP,Taylor Hill,Vanderbilt,4YR,TN,Y,"$36,000"
+2011,6,188,Indians,OF,Bryson Myles,Stephen F. Austin State,4YR,TX,Y,"$112,500"
+2011,6,189,Cubs,C,Neftali Rosario,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$150,000"
+2011,6,190,Astros,OF,Brandon Meredith,San Diego State,4YR,CA,Y,"$150,000"
+2011,6,191,Brewers,RHP,Danny Keller,"Newbury Park HS, Thousand Oaks, Calif.",HS,CA,Y,"$150,000"
+2011,6,192,Mets,OF,Joe Tuschak,"Northern HS, Dillsburg, Pa.",HS,PA,Y,"$250,000"
+2011,6,193,Marlins,LHP,Charlie Lowell,Wichita State,4YR,KS,Y,"$200,000"
+2011,6,194,Dodgers,RHP,Scott Barlow,"Golden Valley HS, Santa Clarita, Calif.",HS,CA,Y,"$150,000"
+2011,6,195,Angels,RHP,Austin Wood,Southern California,4YR,CA,Y,"$180,000"
+2011,6,196,Athletics,OF,Dayton Alexander,Feather River (Calif.) JC,JC,CA,Y,"$125,000"
+2011,6,197,Tigers,OF,Tyler Collins,Howard (Texas) JC,JC,TX,Y,"$210,000"
+2011,6,198,Rockies,RHP,Chris Jensen,San Diego,4YR,CA,Y,"$135,000"
+2011,6,199,Blue Jays,RHP,Anthony DeSclafani,Florida,4YR,FL,Y,"$250,000"
+2011,6,200,Cardinals,C,Adam Ehrlich,"Campbell Hall HS, North Hollywood, Calif.",HS,CA,Y,"$150,000"
+2011,6,201,White Sox,SS,Marcus Semien,California,4YR,CA,Y,"$130,000"
+2011,6,202,Red Sox,LHP,Miguel Pena,San Jacinto (Texas) JC,JC,TX,Y,"$85,000"
+2011,6,203,Padres,OF,Kyle Gaedele,Valparaiso,4YR,IN,Y,"$125,000"
+2011,6,204,Rangers,OF,Derek Fisher,"Cedar Crest HS, Lebanon, Pa.",HS,PA,N,
+2011,6,205,Reds,3B,Sean Buckley,St. Petersburg (Fla.) JC,JC,FL,Y,"$125,000"
+2011,6,206,Braves,RHP,Mark Lamm,Vanderbilt,4YR,TN,Y,"$60,000"
+2011,6,207,Giants,LHP,Josh Osich,Oregon State,4YR,OR,Y,"$450,000"
+2011,6,208,Twins,OF,Dereck Rodriguez,Pace (Fla.) HS,HS,FL,Y,"$130,000"
+2011,6,209,Yankees,OF,Jake Cave,"Kecoughtan HS, Hampton, Va.",HS,VA,Y,"$800,000"
+2011,6,210,Rays,RHP,Jake Floethe,Cal State Fullerton,4YR,CA,Y,"$105,000"
+2011,6,211,Phillies,C,Zach Wright,East Carolina,4YR,NC,N,
+2011,7,212,Pirates,RHP,Jake Burnette,Buford (Ga.) HS,HS,GA,Y,"$550,000"
+2011,7,213,Mariners,3B,Steve Proscia,Virginia,4YR,VA,Y,"$160,000"
+2011,7,214,Diamondbacks,OF,Ben Roberts,"Sentinel HS, Missoula, Mont.",HS,MT,N,
+2011,7,215,Orioles,LHP,Trent Howard,Central Michigan,4YR,MI,Y,"$125,000"
+2011,7,216,Royals,RHP,Kellen Moen,Oregon,4YR,OR,Y,"$45,000"
+2011,7,217,Nationals,RHP,Brian Dupra,Notre Dame,4YR,IN,Y,"$35,000"
+2011,7,218,Indians,C,Eric Haase,"Divine Child HS, Dearborn, Mich.",HS,MI,Y,"$580,000"
+2011,7,219,Cubs,1B,Trevor Gretzky,"Oaks Christian HS, Westlake Village, Calif.",HS,CA,Y,"$375,000"
+2011,7,220,Astros,OF,Javaris Reynolds,"King HS, Tampa",HS,FL,Y,"$150,000"
+2011,7,221,Brewers,RHP,David Goforth,Mississippi,4YR,MS,Y,"$100,000"
+2011,7,222,Mets,1B,Cole Frenzel,Arizona,4YR,AZ,Y,"$200,000"
+2011,7,223,Marlins,1B,Ryan Rieger,JC of the Sequoias (Calif.),JC,CA,Y,"$200,000"
+2011,7,224,Dodgers,OF,Scott Woodward,Coastal Carolina,4YR,SC,Y,"$50,000"
+2011,7,225,Angels,C,Abel Baker,Grayson County (Texas) JC,JC,TX,Y,"$110,000"
+2011,7,226,Athletics,RHP,Blake Treinen,South Dakota State,4YR,SD,Y,"$52,500"
+2011,7,227,Tigers,LHP,Brian Flynn,Wichita State,4YR,KS,Y,"$125,000"
+2011,7,228,Rockies,1B,Harold Riggins,North Carolina State,4YR,NC,Y,"$125,000"
+2011,7,229,Blue Jays,SS,Christian Lopes,"Edison HS, Huntington Beach, Calif.",HS,CA,Y,"$800,000"
+2011,7,230,Cardinals,OF,Nick Martini,Kansas State,4YR,KS,Y,"$125,000"
+2011,7,231,White Sox,C,Kevan Smith,Pittsburgh,4YR,PA,Y,"$60,000"
+2011,7,232,Red Sox,LHP,Cody Kukuk,"Free State HS, Lawrence, Kan.",HS,KS,Y,"$800,000"
+2011,7,233,Padres,RHP,Matt Wisler,Bryan (Ohio) HS,HS,OH,Y,"$500,000"
+2011,7,234,Rangers,C,Max Pentecost,"Winder-Barrow HS, Winder, Ga.",HS,GA,N,
+2011,7,235,Reds,RHP,James Allen,Kansas State,4YR,KS,Y,"$125,000"
+2011,7,236,Braves,RHP,Cody Martin,Gonzaga,4YR,WA,Y,"$45,000"
+2011,7,237,Giants,RHP,Ray Black,Pittsburgh,4YR,PA,Y,"$225,000"
+2011,7,238,Twins,LHP,Steven Gruver,Tennessee,4YR,TN,Y,"$125,000"
+2011,7,239,Yankees,1B,Bubba Jones,"Edmonds-Woodway HS, Edmonds, Wash.",HS,WA,Y,"$350,000"
+2011,7,240,Rays,LHP,Ryan Carpenter,Gonzaga,4YR,WA,Y,"$200,000"
+2011,7,241,Phillies,RHP,Ken Giles,Yavapai (Ariz.) JC,JC,AZ,Y,"$250,000"
+2011,8,242,Pirates,RHP,Jason Creasy,Clayton (N.C.) HS,HS,NC,Y,"$250,000"
+2011,8,243,Mariners,RHP,Carson Smith,Texas State,4YR,TX,Y,"$215,000"
+2011,8,244,Diamondbacks,RHP,Jesse Darrah,Fresno Pacific,4YR,CA,Y,"$105,000"
+2011,8,245,Orioles,OF,John Ruettiger,Arizona State,4YR,AZ,Y,"$160,000"
+2011,8,246,Royals,RHP,Evan Beal,"South County HS, Lorton, Va.",HS,VA,N,
+2011,8,247,Nationals,RHP,Greg Holt,North Carolina,4YR,NC,Y,"$34,000"
+2011,8,248,Indians,LHP,Stephen Tarpley,Gilbert (Ariz.) HS,HS,AZ,N,
+2011,8,249,Cubs,OF,Taylor Dugas,Alabama,4YR,AL,N,
+2011,8,250,Astros,RHP,Brandon Culbreth,"Forsyth Country Day HS, Lewisville, N.C.",HS,NC,Y,"$150,000"
+2011,8,251,Brewers,C,Dustin Houle,"Brookswood SS, Langley, B.C.",HS,CN,Y,"$150,000"
+2011,8,252,Mets,SS,Danny Muno,Fresno State,4YR,CA,Y,"$10,000"
+2011,8,253,Marlins,RHP,Dejai Oliver,Seminole State (Fla.) JC,JC,FL,Y,"$200,000"
+2011,8,254,Dodgers,LHP,Rick Anton,Utah,4YR,UT,Y,"$25,000"
+2011,8,255,Angels,RHP,Logan Odom,Southern California,4YR,CA,Y,"$60,000"
+2011,8,256,Athletics,RHP,Colin O'Connell,Cal State Fullerton,4YR,CA,Y,"$150,000"
+2011,8,257,Tigers,OF,Jason Krizan,Dallas Baptist,4YR,TX,Y,"$50,000"
+2011,8,258,Rockies,LHP,Roberto Padilla,San Jose State,JC,CA,Y,"$110,000"
+2011,8,259,Blue Jays,RHP,Mark Biggs,"Warren East HS, Bowling Green, Ky.",HS,KY,Y,"$600,000"
+2011,8,260,Cardinals,LHP,Danny Miranda,Miami,4YR,FL,Y,"$125,000"
+2011,8,261,White Sox,RHP,Ian Gardeck,Angelina (Texas) JC,JC,TX,N,
+2011,8,262,Red Sox,OF,Senquez Golson,Pascagoula (Miss.) HS,HS,MS,N,
+2011,8,263,Padres,RHP,Kevin Quackenbush,South Florida,4YR,FL,Y,"$5,000"
+2011,8,264,Rangers,RHP,Kyle Hendricks,Dartmouth,4YR,NH,Y,"$125,000"
+2011,8,265,Reds,OF,Jon Matthews,St. Petersburg (Fla.) JC,JC,FL,Y,"$125,000"
+2011,8,266,Braves,2B,Tommy La Stella,Coastal Carolina,4YR,SC,Y,"$105,000"
+2011,8,267,Giants,SS,Jean Delgado,Caguas (P.R.) Military Academy,HS,PR,Y,"$125,000"
+2011,8,268,Twins,LHP,Jason Wheeler,Loyola Marymount,4YR,CA,Y,"$132,500"
+2011,8,269,Yankees,RHP,Phil Wetherell,Western Kentucky,4YR,KY,Y,"$122,500"
+2011,8,270,Rays,1B,John Alexander,Glendora (Calif.) HS,HS,CA,Y,"$325,000"
+2011,8,271,Phillies,LHP,Austin Wright,Mississippi,4YR,MS,Y,"$125,000"
+2011,9,272,Pirates,RHP,Clay Holmes,Slocomb (Ala.) HS,HS,AL,Y,"$1,200,000"
+2011,9,273,Mariners,SS,Cavan Cohoes,"Patch HS, Stuttgart, Germany",HS,,Y,"$650,000"
+2011,9,274,Diamondbacks,SS,John Leonard,Connellsville (Pa.) Area HS,HS,PA,Y,"$80,000"
+2011,9,275,Orioles,RHP,Devin Jones,Mississippi State,4YR,MS,Y,"$97,500"
+2011,9,276,Royals,RHP,Aaron Brooks,Cal State San Bernardino,4YR,CA,Y,"$90,000"
+2011,9,277,Nationals,RHP,Dixon Anderson,California,4YR,CA,Y,"$95,000"
+2011,9,278,Indians,3B,Jordan Smith,St. Cloud State (Minn.),4YR,MN,Y,"$125,000"
+2011,9,279,Cubs,OF,Garrett Schlecht,Waterloo (Ill.) HS,HS,IL,Y,"$235,000"
+2011,9,280,Astros,RHP,Jonas Dufek,Creighton,4YR,NE,Y,"$40,000"
+2011,9,281,Brewers,OF,Malcolm Dowell,La Grange (Ga.) HS,HS,GA,Y,"$100,000"
+2011,9,282,Mets,LHP,Alex Panteliodis,Florida,4YR,FL,Y,"$175,000"
+2011,9,283,Marlins,C,Austin Barnes,Arizona State,4YR,AZ,Y,"$95,000"
+2011,9,284,Dodgers,C,Tyler Ogle,Oklahoma,4YR,OK,Y,"$100,000"
+2011,9,285,Angels,RHP,Nick Mutz,"Cotati, Calif. (no school)",NS,CA,Y,"$100,000"
+2011,9,286,Athletics,LHP,Jace Fry,"Southridge HS, Beaverton, Ore.",HS,OR,N,
+2011,9,287,Tigers,OF,Chad Wright,Kentucky,4YR,KY,Y,"$95,000"
+2011,9,288,Rockies,RHP,Ross Stripling,Texas A&M,4YR,TX,N,
+2011,9,289,Blue Jays,LHP,Andrew Suarez,"Columbus HS, Miami",HS,FL,N,
+2011,9,290,Cardinals,RHP,Tyler Mills,Michigan,4YR,MI,Y,"$100,000"
+2011,9,291,White Sox,LHP,Matt Lane,Northwest Florida State JC,JC,FL,Y,"$110,000"
+2011,9,292,Red Sox,3B,Travis Shaw,Kent State,4YR,OH,Y,"$110,000"
+2011,9,293,Padres,RHP,Justin Hancock,Lincoln Trail (Ill.) JC,JC,IL,Y,"$100,000"
+2011,9,294,Rangers,OF,Rashad Harlin,"Helix Charter HS, La Mesa, Calif.",HS,CA,Y,"$100,000"
+2011,9,295,Reds,RHP,Cole Green,Texas,4YR,TX,Y,"$90,000"
+2011,9,296,Braves,OF,Chase Larsson,Cameron (Okla.),4YR,OK,Y,"$100,000"
+2011,9,297,Giants,RHP,Derek Law,Miami Dade JC,JC,FL,Y,"$125,000"
+2011,9,298,Twins,SS,Adam Bryant,Troy,4YR,AL,Y,"$25,000"
+2011,9,299,Yankees,RHP,Zach Arneson,Lewis-Clark State (Idaho),4YR,ID,Y,"$20,000"
+2011,9,300,Rays,C,Matt Rice,Western Kentucky,4YR,KY,Y,"$25,000"
+2011,9,301,Phillies,C,Logan Moore,Northeastern (Colo.) JC,JC,CO,Y,"$100,000"
+2011,10,302,Pirates,OF,Taylor Lewis,Maine,4YR,ME,Y,"$100,000"
+2011,10,303,Mariners,2B,Dan Paolini,Siena,4YR,NY,Y,"$125,000"
+2011,10,304,Diamondbacks,RHP,Kyle Winkler,Texas Christian,4YR,TX,Y,"$240,000"
+2011,10,305,Orioles,RHP,Tyler Wilson,Virginia,4YR,VA,Y,"$20,000"
+2011,10,306,Royals,RHP,Matt Murray,Georgia Southern,4YR,GA,Y,"$75,000"
+2011,10,307,Nationals,RHP,Manny Rodriguez,Barry (Fla.),4YR,FL,Y,"$115,000"
+2011,10,308,Indians,RHP,Jeff Johnson,Cal Poly,4YR,CA,Y,"$100,000"
+2011,10,309,Cubs,SS,Danny Lockhart,"Hebron Christian Academy, Dacula, Ga.",HS,GA,Y,"$395,000"
+2011,10,310,Astros,LHP,Kyle Hallock,Kent State,4YR,OH,Y,"$40,000"
+2011,10,311,Brewers,LHP,Mike Strong,Oklahoma State,4YR,OK,Y,"$25,000"
+2011,10,312,Mets,RHP,Matt Budgell,"Woodbridge HS, Irvine, Calif.",HS,CA,Y,"$225,000"
+2011,10,313,Marlins,RHP,Scott Lyman,UC Davis,4YR,CA,Y,"$85,000"
+2011,10,314,Dodgers,LHP,Jamaal Moore,"Westchester HS, Los Angeles",HS,CA,N,
+2011,10,315,Angels,OF,Drew Martinez,Memphis,4YR,TN,Y,"$100,000"
+2011,10,316,Athletics,OF,Dusty Robinson,Fresno State,4YR,CA,Y,"$95,000"
+2011,10,317,Tigers,C,Curt Casali,Vanderbilt,4YR,TN,Y,"$40,000"
+2011,10,318,Rockies,RHP,Ben Hughes,St. Olaf (Minn.),4YR,MN,Y,"$100,000"
+2011,10,319,Blue Jays,RHP,Aaron Garza,"Ball HS, Galveston, Texas",HS,TX,N,
+2011,10,320,Cardinals,OF,Lance Jeffries,"McCluer HS, St. Louis",HS,MO,Y,"$95,000"
+2011,10,321,White Sox,LHP,Ben O'Shea,Santa Fe (Fla.) JC,JC,FL,N,
+2011,10,322,Red Sox,OF,Cody Koback,Wisconsin-Stevens Point,4YR,WI,Y,"$85,000"
+2011,10,323,Padres,C,Robert Kral,College of Charleston,4YR,SC,Y,"$40,000"
+2011,10,324,Rangers,C,Joe Maloney,Limestone (S.C.),4YR,SC,Y,"$90,000"
+2011,10,325,Reds,RHP,Brooks Pinckard,Baylor,4YR,TX,Y,"$125,000"
+2011,10,326,Braves,SS,Logan Robbins,Western Kentucky,4YR,KY,Y,"$100,000"
+2011,10,327,Giants,OF,Kentrell Hill,Arkansas Baptist JC,JC,AR,Y,"$100,000"
+2011,10,328,Twins,LHP,Brett Lee,St. Petersburg (Fla.) JC,JC,FL,Y,"$150,000"
+2011,10,329,Yankees,RHP,Jon Gray,Eastern Oklahoma State JC,JC,OK,N,
+2011,10,330,Rays,RHP,Jacob Faria,"Gahr HS, Cerritos, Calif.",HS,CA,Y,"$150,000"
+2011,10,331,Phillies,SS,Jake Overbey,"University School, Jackson, Tenn.",HS,TN,N,
+2011,11,332,Pirates,OF,Jo-El Bennett,"Houston Academy, Dothan, Ala.",HS,AL,N,
+2011,11,333,Mariners,LHP,Cameron Hobson,Dayton,4YR,OH,Y,
+2011,11,334,Diamondbacks,LHP,Will Locante,Cumberland (Tenn.),4YR,TN,Y,
+2011,11,335,Orioles,C,Adam Davis,Illinois,4YR,IL,Y,
+2011,11,336,Royals,OF,Jerrell Allen,Milford (Del.) HS,HS,DE,Y,"$125,000"
+2011,11,337,Nationals,OF,Caleb Ramsey,Houston,4YR,TX,Y,
+2011,11,338,Indians,RHP,Luis DeJesus,Angelina (Texas) JC,JC,TX,Y,"$100,000"
+2011,11,339,Cubs,OF,Shawon Dunston,"Valley Christian HS, San Jose",HS,CA,Y,"$1,275,000"
+2011,11,340,Astros,OF,Justin Gominsky,Minnesota,4YR,MN,Y,
+2011,11,341,Brewers,RHP,Tommy Toledo,Florida,4YR,FL,Y,
+2011,11,342,Mets,RHP,Christian Montgomery,"Lawrence Central HS, Indianapolis",HS,IN,Y,"$250,000"
+2011,11,343,Marlins,RHP,Jake Esch,Georgia Tech,4YR,GA,Y,"$200,000"
+2011,11,344,Dodgers,SS,Scott Wingo,South Carolina,4YR,SC,Y,
+2011,11,345,Angels,LHP,Garrett Baker,Liberty,4YR,VA,Y,
+2011,11,346,Athletics,LHP,Chris Lamb,Davidson,4YR,NC,Y,
+2011,11,347,Tigers,1B,Dean Green,Barry (Fla.),4YR,FL,Y,
+2011,11,348,Rockies,RHP,Alex Gillingham,Loyola Marymount,4YR,CA,Y,
+2011,11,349,Blue Jays,SS,Andy Burns,Arizona,4YR,AZ,Y,"$250,000"
+2011,11,350,Cardinals,RHP,Seth Maness,East Carolina,4YR,NC,Y,
+2011,11,351,White Sox,LHP,Blair Walters,Hawaii,4YR,HI,Y,
+2011,11,352,Red Sox,LHP,Kevin Brahney,Chico State (Calif.),4YR,CA,Y,
+2011,11,353,Padres,SS,Casey McElroy,Auburn,4YR,AL,Y,"$200,000"
+2011,11,354,Rangers,RHP,Connor Sadzeck,Howard (Texas) JC,JC,TX,Y,"$350,000"
+2011,11,355,Reds,RHP,Vaughn Covington,"Killarney SS, Vancouver, B.C.",HS,CN,Y,"$150,000"
+2011,11,356,Braves,SS,Seth Moranda,"Buchanan HS, Clovis, Calif.",HS,CA,Y,"$210,000"
+2011,11,357,Giants,OF,Christian Diaz,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$100,000"
+2011,11,358,Twins,RHP,Tyler Jones,Louisiana State,4YR,LA,Y,"$105,000"
+2011,11,359,Yankees,RHP,Mark Montgomery,Longwood,4YR,VA,Y,
+2011,11,360,Rays,1B,Cameron Seitzer,Oklahoma,4YR,OK,Y,
+2011,11,361,Phillies,SS,Tyler Greene,West Boca Raton (Fla.) HS,HS,FL,Y,"$375,000"
+2011,12,362,Pirates,OF,Candon Myles,South Grand Prairie (Texas) HS,HS,TX,Y,"$125,000"
+2011,12,363,Mariners,C,Mike Dowd,Franklin Pierce (N.H.),4YR,NH,Y,"$100,000"
+2011,12,364,Diamondbacks,SS,Josh Parr,Illinois,4YR,IL,Y,
+2011,12,365,Orioles,OF,Jason Coats,Texas Christian,4YR,TX,N,
+2011,12,366,Royals,LHP,Adam Schemenauer,"Park Hill South HS, Riverside, Mo.",HS,MO,N,
+2011,12,367,Nationals,LHP,Blake Monar,Indiana,4YR,IN,Y,"$125,000"
+2011,12,368,Indians,RHP,Grant Sides,Samford,4YR,AL,Y,
+2011,12,369,Cubs,LHP,Jacob Lindgren,"St. Stanislaus HS, Bay St. Louis, Miss.",HS,MS,N,
+2011,12,370,Astros,C,Miles Hamblin,Mississippi,4YR,MS,Y,
+2011,12,371,Brewers,OF,Andrew Cain,UNC Wilmington,4YR,NC,N,
+2011,12,372,Mets,LHP,Kenny Mathews,Diamond Bar (Calif.) HS,HS,CA,N,
+2011,12,373,Marlins,OF,Ryan McIntyre,Cal State Bakersfield,4YR,NV,Y,
+2011,12,374,Dodgers,1B,O'Koyea Dickson,Sonoma State (Calif.),4YR,CA,Y,
+2011,12,375,Angels,3B,Joe Krehbiel,Seminole (Fla.) HS,HS,FL,Y,"$125,000"
+2011,12,376,Athletics,OF,Xavier Macklin,North Carolina A&T,4YR,NC,Y,
+2011,12,377,Tigers,OF,Jeff Holm,Michigan State,4YR,MI,Y,
+2011,12,378,Rockies,C,David Schuknecht,Palm Desert (Calif.) HS,HS,CA,N,
+2011,12,379,Blue Jays,OF,John Norwood,"Seton Hall Prep, Orange, N.J.",HS,NJ,N,
+2011,12,380,Cardinals,1B,Danny Stienstra,San Jose State,4YR,CA,Y,
+2011,12,381,White Sox,RHP,Andrew Virgili,Lynn (Fla.),4YR,FL,Y,
+2011,12,382,Red Sox,RHP,Deshorn Lake,"Menchville HS, Newport News, Va.",HS,VA,N,
+2011,12,383,Padres,RHP,Colin Rea,Indiana State,4YR,IN,Y,
+2011,12,384,Rangers,LHP,Greg Williams,Marshall,4YR,WV,Y,"$125,000"
+2011,12,385,Reds,SS,Joe Serrano,"Salpointe HS, Tucson, Ariz.",HS,AZ,N,
+2011,12,386,Braves,LHP,Matt Chaffee,Arizona,4YR,AZ,Y,"$100,000"
+2011,12,387,Giants,SS,Kelby Tomlinson,Texas Tech,4YR,TX,Y,
+2011,12,388,Twins,C,Matt Koch,Loyola Marymount,4YR,CA,Y,
+2011,12,389,Yankees,OF,Cody Grice,Grand Valley State (Mich.),4YR,MI,Y,
+2011,12,390,Rays,1B,Trevor Mitsui,"Shorewood HS, Shoreline, Wash.",HS,WA,N,
+2011,12,391,Phillies,RHP,Yacksel Rios,"Cuevas HS, Gurabo, P.R.",HS,PR,Y,
+2011,13,392,Pirates,RHP,Brandon Platts,Mason City (Iowa) HS,HS,IA,N,
+2011,13,393,Mariners,OF,Jamal Austin,Alabama-Birmingham,4YR,AL,Y,
+2011,13,394,Diamondbacks,LHP,John Pedrotty,Holy Cross,4YR,MA,Y,
+2011,13,395,Orioles,OF,Derek Jones,Washington State,4YR,WA,N,
+2011,13,396,Royals,LHP,Stephen Lumpkins,American (D.C.),4YR,DC,Y,"$150,000"
+2011,13,397,Nationals,1B,Casey Kalenkosky,Texas State,4YR,TX,N,
+2011,13,398,Indians,2B,Zack MacPhee,Arizona State,4YR,AZ,Y,"$150,000"
+2011,13,399,Cubs,OF,Trey Martin,"Brookwood HS, Snellville, Ga.",HS,GA,Y,"$250,000"
+2011,13,400,Astros,2B,John Hinson,Clemson,4YR,SC,Y,
+2011,13,401,Brewers,OF,Mallex Smith,"Rickards HS, Tallahassee, Fla.",HS,FL,N,
+2011,13,402,Mets,RHP,Robert Gsellman,"Westchester HS, Los Angeles",HS,CA,Y,
+2011,13,403,Marlins,SS,Josh Adams,Florida,4YR,FL,Y,
+2011,13,404,Dodgers,RHP,David Palladino,Emerson (N.J.) HS,HS,NJ,N,
+2011,13,405,Angels,1B,Jackson Whitley,North Augusta (S.C.) HS,HS,SC,Y,"$125,000"
+2011,13,406,Athletics,3B,Jacob Tanis,Mercer,4YR,GA,Y,
+2011,13,407,Tigers,RHP,Ryan Woolley,Alabama-Birmingham,4YR,AL,Y,
+2011,13,408,Rockies,LHP,Kyle Roliard,Louisiana Tech,4YR,LA,Y,
+2011,13,409,Blue Jays,3B,Matt Dean,The Colony (Texas) HS,HS,TX,Y,"$737,500"
+2011,13,410,Cardinals,C,Kolby Byrd,Copiah-Lincoln (Miss.) JC,JC,MS,Y,
+2011,13,411,White Sox,C,Chadd Krist,California,4YR,CA,N,
+2011,13,412,Red Sox,RHP,Matty Ott,Louisiana State,4YR,LA,Y,
+2011,13,413,Padres,OF,Lee Orr,McNeese State,4YR,LA,Y,
+2011,13,414,Rangers,OF,Chris Grayson,Lee (Tenn.),4YR,TN,Y,
+2011,13,415,Reds,RHP,Nick Fleece,Texas A&M,4YR,TX,Y,
+2011,13,416,Braves,OF,Tony Mueller,Winona State (Minn.),4YR,MN,Y,
+2011,13,417,Giants,RHP,Adam Paulencu,Vancouver Island (B.C.),4YR,CN,N,
+2011,13,418,Twins,LHP,Steven Evans,Liberty,4YR,VA,Y,
+2011,13,419,Yankees,OF,Justin James,Sacramento JC,JC,CA,Y,
+2011,13,420,Rays,OF,Tanner English,"St. James HS, Murrells Inlet, S.C.",HS,SC,N,
+2011,13,421,Phillies,RHP,Colton Murray,Kansas,4YR,KS,Y,
+2011,14,422,Pirates,OF,Jordan Dunatov,"Horizon HS, Scottsdale, Ariz.",HS,AZ,N,
+2011,14,423,Mariners,RHP,Cody Weiss,La Salle,4YR,PA,Y,
+2011,14,424,Diamondbacks,RHP,Cody Geyer,Walters State (Tenn.) JC,JC,TN,Y,"$115,000"
+2011,14,425,Orioles,3B,K.J. Hockaday,"Carroll School, Bel Air, Md.",HS,MD,N,
+2011,14,426,Royals,OF,D'Andre Toney,Gulf Coast (Fla.) JC,JC,FL,Y,
+2011,14,427,Nationals,OF,Cody Stubbs,Walters State (Tenn.) JC,JC,TN,N,
+2011,14,428,Indians,RHP,Cody Anderson,Feather River (Calif.) JC,JC,CA,Y,"$250,000"
+2011,14,429,Cubs,RHP,Dillon Maples,"Pinecrest HS, Southern Pines, N.C.",HS,NC,Y,"$2,500,000"
+2011,14,430,Astros,RHP,Gandy Stubblefield,Lufkin (Texas) HS,HS,TX,N,
+2011,14,431,Brewers,RHP,Jacob Barnes,Florida Gulf Coast,4YR,FL,Y,
+2011,14,432,Mets,C,Xorge Carrillo,Arizona State,4YR,AZ,Y,
+2011,14,433,Marlins,RHP,Nick Grim,Monterey Peninsula (Calif.) JC,JC,CA,N,
+2011,14,434,Dodgers,SS,Justin Boudreaux,Southeastern Louisiana,4YR,LA,Y,
+2011,14,435,Angels,C,Wayne Taylor,"Memorial HS, Houston",HS,TX,N,
+2011,14,436,Athletics,C,Nick Rickles,Stetson,4YR,FL,Y,
+2011,14,437,Tigers,OF,Pat Smith,Middle Georgia JC,JC,GA,Y,
+2011,14,438,Rockies,OF,Brian Humphries,Pepperdine,4YR,CA,Y,
+2011,14,439,Blue Jays,RHP,Cole Wiper,"Newport HS, Bellevue, Wash.",HS,WA,N,
+2011,14,440,Cardinals,2B,Kevin Medrano,Missouri State,4YR,MO,N,
+2011,14,441,White Sox,3B,Mark Ginther,Oklahoma State,4YR,OK,N,
+2011,14,442,Red Sox,RHP,Mike McCarthy,Cal State Bakersfield,4YR,CA,Y,
+2011,14,443,Padres,RHP,Burch Smith,Oklahoma,4YR,OK,Y,"$250,000"
+2011,14,444,Rangers,LHP,Andrew Faulkner,South Aiken (S.C.) HS,HS,SC,Y,"$125,000"
+2011,14,445,Reds,RHP,Ryan Kemp,St. Joseph's,4YR,PA,Y,
+2011,14,446,Braves,RHP,Navery Moore,Vanderbilt,4YR,TN,Y,"$400,000"
+2011,14,447,Giants,3B,Garrett Buechele,Oklahoma,4YR,OK,Y,
+2011,14,448,Twins,LHP,Adam McCreery,"Bonita HS, La Verne, Calif.",HS,CA,N,
+2011,14,449,Yankees,RHP,Rookie Davis,"Dixon HS, Holly Ridge, N.C.",HS,NC,Y,"$550,000"
+2011,14,450,Rays,OF,Matt Young,Compton (Calif.) JC,JC,CA,N,
+2011,14,451,Phillies,3B,Trey Ford,South Mountain (Ariz.) JC,JC,AZ,Y,
+2011,15,452,Pirates,RHP,Kody Watts,"Skyview HS, Vancouver, Wash.",HS,WA,N,
+2011,15,453,Mariners,OF,Mike McGee,Florida State,4YR,FL,Y,
+2011,15,454,Diamondbacks,C,Steven Rodriguez,UCLA,4YR,CA,Y,
+2011,15,455,Orioles,LHP,Eric Wooten,Central Arizona JC,JC,AZ,Y,
+2011,15,456,Royals,1B,Dean Espy,UCLA,4YR,CA,Y,
+2011,15,457,Nationals,SS,Zach Houchins,Louisburg (N.C.) JC,JC,NC,N,
+2011,15,458,Indians,2B,Todd Hankins,Seminole State (Fla.) JC,JC,FL,Y,"$110,000"
+2011,15,459,Cubs,C,Justin Marra,"Power/St. Joseph HS, Toronto",HS,CN,Y,"$110,000"
+2011,15,460,Astros,1B,Zach Johnson,Oklahoma State,4YR,OK,Y,
+2011,15,461,Brewers,RHP,Andy Moye,Georgia Southern,4YR,GA,Y,
+2011,15,462,Mets,SS,Phillip Evans,"La Costa Canyon HS, Carlsbad, Calif.",HS,CA,Y,"$650,000"
+2011,15,463,Marlins,OF,Jhiomar Veras,Western Oklahoma State JC,JC,OK,Y,
+2011,15,464,Dodgers,RHP,Craig Stem,Trevecca Nazarene (Tenn.),4YR,TN,Y,
+2011,15,465,Angels,OF,Domonic Jose,Boca Raton (Fla.) HS,HS,FL,N,
+2011,15,466,Athletics,RHP,T.J. Walz,Kansas,4YR,KS,Y,
+2011,15,467,Tigers,OF,Tyler Gibson,"Stratford Academy, Macon, Ga.",HS,GA,Y,"$525,000"
+2011,15,468,Rockies,SS,Tim Smalling,Virginia Tech,4YR,VA,Y,
+2011,15,469,Blue Jays,LHP,Cody Glenn,"Westbury Christian HS, Houston",HS,TX,N,
+2011,15,470,Cardinals,SS,Matt Williams,Liberty,4YR,VA,Y,
+2011,15,471,White Sox,SS,David Herbek,James Madison,4YR,VA,Y,
+2011,15,472,Red Sox,RHP,Braden Kapteyn,Kentucky,4YR,KY,Y,"$125,000"
+2011,15,473,Padres,RHP,Greg Gonzalez,Fresno State,4YR,CA,Y,
+2011,15,474,Rangers,RHP,Jerad Eickhoff,Olney Central (Ill.) JC,JC,IL,Y,"$150,000"
+2011,15,475,Reds,RHP,Will Dorton,"Lugoff-Elgin HS, Lugoff, S.C.",HS,SC,N,
+2011,15,476,Braves,RHP,John Cornely,Wofford,4YR,SC,Y,
+2011,15,477,Giants,RHP,Tyler Leslie,"Silverado HS, Victorville, Calif.",HS,CA,N,
+2011,15,478,Twins,LHP,Josue Montanez,Miami Dade JC,JC,FL,Y,"$125,000"
+2011,15,479,Yankees,OF,Tyler Molinaro,Pitt (N.C.) JC,JC,NC,N,
+2011,15,480,Rays,SS,Tyler Parmenter,"Cibola HS, Yuma, Ariz.",HS,AZ,N,
+2011,15,481,Phillies,OF,Ryan Garvey,Palm Desert (Calif.) HS,HS,CA,N,
+2011,16,482,Pirates,LHP,Eric Skoglund,Sarasota (Fla.) HS,HS,FL,N,
+2011,16,483,Mariners,C,Jack Marder,Oregon,4YR,OR,Y,"$200,000"
+2011,16,484,Diamondbacks,LHP,Michael Blake,Hawaii,4YR,HI,Y,
+2011,16,485,Orioles,RHP,Mark Blackmar,Temple (Texas) JC,JC,TX,Y,"$100,000"
+2011,16,486,Royals,SS,Jack Lopez,Deltona (Fla.) HS,HS,FL,Y,"$750,000"
+2011,16,487,Nationals,SS,Deion Williams,"Redan HS, Stone Mountain, Ga.",HS,GA,Y,
+2011,16,488,Indians,LHP,Ryan Merritt,McLennan (Texas) JC,JC,TX,Y,"$150,000"
+2011,16,489,Cubs,C,Raffy Lopez,Florida State,4YR,FL,Y,
+2011,16,490,Astros,LHP,Scott Zuloaga,Scottsdale (Ariz.) JC,JC,AZ,Y,
+2011,16,491,Brewers,LHP,Carlos Rodon,Holly Springs (N.C.) HS,HS,NC,N,
+2011,16,492,Mets,OF,Brad Marquez,Odessa (Texas) HS,HS,TX,Y,"$325,000"
+2011,16,493,Marlins,RHP,Adrian Sampson,Bellevue (Wash.) JC,JC,WA,N,
+2011,16,494,Dodgers,OF,Jeff Schaus,Clemson,4YR,SC,Y,
+2011,16,495,Angels,1B,Frazier Hall,Southern,4YR,LA,Y,
+2011,16,496,Athletics,RHP,Tanner Peters,Nevada-Las Vegas,4YR,NV,Y,
+2011,16,497,Tigers,OF,Ismael Salgado,"International Baseball Academy, Cieba, P.R.",HS,PR,Y,
+2011,16,498,Rockies,1B,Preston Tucker,Florida,4YR,FL,N,
+2011,16,499,Blue Jays,1B,Richard Prigatano,"St. Francis HS, Mountain View, Calif.",HS,CA,N,
+2011,16,500,Cardinals,RHP,Travis Miller,Miami,4YR,FL,Y,
+2011,16,501,White Sox,RHP,Chris Bassitt,Akron,4YR,OH,Y,
+2011,16,502,Red Sox,RHP,Daniel Gossett,"Byrnes HS, Duncan, S.C.",HS,SC,N,
+2011,16,503,Padres,C,Jeremy Rodriguez,Cal State Bakersfield,4YR,CA,Y,
+2011,16,504,Rangers,OF,Trever Adams,Creighton,4YR,NE,Y,
+2011,16,505,Reds,OF,Conor Costello,"Santa Fe HS, Edmond, Okla.",HS,OK,N,
+2011,16,506,Braves,RHP,Adam Holland,St. Joseph's,4YR,PA,Y,
+2011,16,507,Giants,RHP,Clayton Blackburn,"Santa Fe HS, Edmond, Okla.",HS,OK,Y,"$150,000"
+2011,16,508,Twins,LHP,Austin Malinowski,"Centennial HS, Circle Pines, Minn.",HS,MN,Y,"$175,000"
+2011,16,509,Yankees,RHP,Branden Pinder,Long Beach State,4YR,CA,Y,
+2011,16,510,Rays,SS,Brett McAfee,"Pine Tree HS, Longview, Texas",HS,TX,N,
+2011,16,511,Phillies,SS,Taylor Black,Kentucky,4YR,KY,Y,
+2011,17,512,Pirates,OF,Aaron Brown,Chatsworth (Calif.) HS,HS,CA,N,
+2011,17,513,Mariners,OF,Nate Melendres,Miami,4YR,FL,Y,"$150,000"
+2011,17,514,Diamondbacks,LHP,Adam Choplick,"Ryan HS, Denton, Texas",HS,TX,N,
+2011,17,515,Orioles,RHP,Nick Carmichael,Palomar (Calif.) JC,JC,CA,N,
+2011,17,516,Royals,3B,Nick Cuckovich,Riverside (Calif.) JC,JC,CA,Y,
+2011,17,517,Nationals,RHP,Esteban Guzman,San Jose State,4YR,CA,N,
+2011,17,518,Indians,RHP,Kevin Brady,Clemson,4YR,SC,N,
+2011,17,519,Cubs,OF,John Andreoli,Connecticut,4YR,CT,Y,"$134,600"
+2011,17,520,Astros,RHP,Tyson Perez,Fresno JC,JC,CA,Y,"$100,000"
+2011,17,521,Brewers,C,Mario Amaral,"Reagan HS, Hialeah, Fla.",HS,FL,N,
+2011,17,522,Mets,OF,Jonathan Clark,Lee (Tenn.),4YR,TN,Y,
+2011,17,523,Marlins,RHP,Derek Varnadore,Auburn,4YR,AL,N,
+2011,17,524,Dodgers,3B,Jesus Valdez,Oxnard (Calif.) JC,JC,CA,Y,
+2011,17,525,Angels,C,Hunter Lockwood,"Bell HS, Hurst, Texas",HS,TX,N,
+2011,17,526,Athletics,SS,Sean Jamieson,Canisius,4YR,NY,Y,
+2011,17,527,Tigers,RHP,Chad Smith,Southern California,4YR,CA,Y,
+2011,17,528,Rockies,RHP,Will Rankin,Southern Polytechnic State (Ga.),4YR,GA,Y,
+2011,17,529,Blue Jays,RHP,Brady Dragmire,"Bradshaw Christian School, Sacramento",HS,CA,Y,"$250,000"
+2011,17,530,Cardinals,OF,Dutch Deol,"Aliso Niguel HS, Aliso Viejo, Calif.",HS,CA,Y,"$100,000"
+2011,17,531,White Sox,OF,Collin Kuhn,Arkansas,4YR,AR,Y,
+2011,17,532,Red Sox,RHP,Blake Forslund,Liberty,4YR,VA,N,
+2011,17,533,Padres,RHP,Matt Stites,Missouri,4YR,MO,Y,
+2011,17,534,Rangers,SS,Ryan Rua,Lake Erie (Ohio),4YR,OH,Y,
+2011,17,535,Reds,SS,Morgan Phillips,"Douglas Academy, New York",HS,NY,N,
+2011,17,536,Braves,RHP,Gus Schlosser,Florida Southern,4YR,FL,Y,
+2011,17,537,Giants,RHP,Paul Davis,Florida Atlantic,4YR,FL,Y,
+2011,17,538,Twins,RHP,Josh Burris,Louisiana State-Eunice JC,JC,LA,Y,
+2011,17,539,Yankees,RHP,Mathew Troupe,"Chaminade Prep HS, Chatsworth, Calif.",HS,CA,N,
+2011,17,540,Rays,SS,Taylor Motter,Coastal Carolina,4YR,SC,Y,
+2011,17,541,Phillies,RHP,Jesen Therrien,Ahuntsic (Que.) JC,JC,CN,Y,
+2011,18,542,Pirates,LHP,Josh Poytress,Fresno State,4YR,CA,Y,
+2011,18,543,Mariners,LHP,Nick Valenza,"Horizon HS, Scottsdale, Ariz.",HS,AZ,Y,"$140,000"
+2011,18,544,Diamondbacks,LHP,Taylor Siemens,California Baptist,4YR,CA,Y,
+2011,18,545,Orioles,3B,Brad Roney,Wetumpka (Ala.) HS,HS,AL,N,
+2011,18,546,Royals,RHP,Andy Ferguson,Arkansas State,4YR,AR,Y,
+2011,18,547,Nationals,LHP,Nick Lee,Weatherford (Texas) JC,JC,TX,Y,
+2011,18,548,Indians,RHP,Shawn Armstrong,East Carolina,4YR,NC,Y,"$325,000"
+2011,18,549,Cubs,RHP,James Pugliese,Mercer County (N.J.) JC,JC,NJ,Y,
+2011,18,550,Astros,RHP,Kevin Miller,California,4YR,CA,N,
+2011,18,551,Brewers,SS,Chris McFarland,Lufkin (Texas) HS,HS,TX,Y,"$315,000"
+2011,18,552,Mets,OF,Travis Taijeron,Cal Poly Pomona,4YR,CA,Y,
+2011,18,553,Marlins,LHP,Greg Nappo,Connecticut,4YR,CT,Y,
+2011,18,554,Dodgers,C,Chris O'Brien,Wichita State,4YR,KS,Y,
+2011,18,555,Angels,SS,Trevor Hairgrove,UC Riverside,4YR,CA,Y,
+2011,18,556,Athletics,LHP,Brent Powers,Sam Houston State,4YR,TX,Y,
+2011,18,557,Tigers,3B,Brett Harrison,"Green Valley HS, Henderson, Nev.",HS,NV,Y,"$125,000"
+2011,18,558,Rockies,RHP,Ben Alsup,Louisiana State,4YR,LA,Y,
+2011,18,559,Blue Jays,2B,Jon Berti,Bowling Green State,4YR,OH,Y,
+2011,18,560,Cardinals,LHP,Kyle Hald,Old Dominion,4YR,VA,Y,
+2011,18,561,White Sox,RHP,Bryan Blough,Kennesaw State,4YR,GA,Y,
+2011,18,562,Red Sox,RHP,Andrew Jones,Samford,4YR,AL,Y,
+2011,18,563,Padres,OF,Mike Gallic,Marist,4YR,NY,Y,
+2011,18,564,Rangers,RHP,Nick Martinez,Fordham,4YR,NY,Y,
+2011,18,565,Reds,RHP,Jimmy Moran,South Florida,4YR,FL,Y,
+2011,18,566,Braves,RHP,Greg Ross,Frostburg State (Md.),4YR,MD,Y,
+2011,18,567,Giants,SS,Cristian Otero,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,"$150,000"
+2011,18,568,Twins,LHP,Corey Kimes,Illinois,4YR,IL,Y,
+2011,18,569,Yankees,RHP,Hayden Sharp,Morris (Okla.) HS,HS,OK,Y,"$200,000"
+2011,18,570,Rays,RHP,Andy Bass,Davidson,4YR,NC,Y,
+2011,18,571,Phillies,3B,Drew Hillman,UC Irvine,4YR,CA,Y,
+2011,19,572,Pirates,RHP,Taylor Nunez,"Salmen HS, Slidell, La.",HS,LA,N,
+2011,19,573,Mariners,C,Luke Guarnaccia,Palm Beach (Fla.) JC,JC,FL,Y,"$250,000"
+2011,19,574,Diamondbacks,2B,Daniel Pulfer,Oregon,4YR,OR,Y,
+2011,19,575,Orioles,LHP,Dustin Ward,Central Arkansas,4YR,AR,Y,
+2011,19,576,Royals,RHP,Matt Flemer,California,4YR,CA,N,
+2011,19,577,Nationals,RHP,Hawtin Buchanan,Biloxi (Miss.) HS,HS,MS,N,
+2011,19,578,Indians,LHP,Shawn Morimando,"Ocean Lakes HS, Virginia Beach",HS,VA,Y,"$350,000"
+2011,19,579,Cubs,1B,Paul Hoilman,East Tennessee State,4YR,TN,Y,
+2011,19,580,Astros,LHP,Mitch Lambson,Arizona State,4YR,AZ,Y,"$100,000"
+2011,19,581,Brewers,SS,Renaldo Jenkins,"Whitewater HS, Fayetteville, Ga.",HS,GA,Y,"$125,000"
+2011,19,582,Mets,OF,Dustin Lawley,West Florida,4YR,FL,Y,
+2011,19,583,Marlins,2B,Connor Burke,"La Serna HS, Whittier, Calif.",HS,CA,Y,
+2011,19,584,Dodgers,RHP,Garrett Bush,Seminole State (Fla.) JC,JC,FL,N,
+2011,19,585,Angels,LHP,Ryan Crowley,Northwest Florida State JC,JC,FL,Y,
+2011,19,586,Athletics,LHP,Eric Potter,Maryland,4YR,MD,Y,
+2011,19,587,Tigers,RHP,Daniel Bennett,Florida State,4YR,FL,Y,
+2011,19,588,Rockies,RHP,Jesse Meaux,UC Santa Barbara,4YR,CA,Y,
+2011,19,589,Blue Jays,RHP,Luke Weaver,DeLand (Fla.) HS,HS,FL,N,
+2011,19,590,Cardinals,LHP,Nick Gillung,Mercyhurst (Pa.),4YR,PA,Y,
+2011,19,591,White Sox,RHP,Kevin Vance,Connecticut,4YR,CT,Y,
+2011,19,592,Red Sox,1B,Sikes Orvis,"Freedom HS, Orlando",HS,FL,N,
+2011,19,593,Padres,LHP,Jeremy Gigliotti,East Stroudsburg (Pa.),4YR,PA,Y,
+2011,19,594,Rangers,LHP,Nathan Harsh,Brunswick (Ga.) HS,HS,GA,N,
+2011,19,595,Reds,LHP,Chris Joyce,Santa Barbara (Calif.) JC,JC,CA,Y,
+2011,19,596,Braves,C,Troy Snitker,North Georgia College and State,4YR,GA,Y,
+2011,19,597,Giants,RHP,Cody Hall,Southern,4YR,LA,Y,
+2011,19,598,Twins,OF,Tyler Koelling,Southern Mississippi,4YR,MS,Y,
+2011,19,599,Yankees,RHP,Ben Paullus,Memphis,4YR,TN,Y,
+2011,19,600,Rays,RHP,Matt Ramsey,Tennessee,4YR,TN,Y,
+2011,19,601,Phillies,C,John Hill,Concordia (Calif.),4YR,CA,Y,
+2011,20,602,Pirates,SS,Trea Turner,"Park Vista HS, Lake Worth, Fla.",HS,FL,N,
+2011,20,603,Mariners,2B,Dillon Hazlett,Emporia State (Kan.),4YR,KS,Y,
+2011,20,604,Diamondbacks,SS,Tommy Williams,Palm Beach Gardens (Fla.) HS,HS,FL,N,
+2011,20,605,Orioles,OF,Marc Wik,Chabot (Calif.) JC,JC,CA,N,
+2011,20,606,Royals,OF,Terrance Gore,Gulf Coast (Fla.) JC,JC,FL,Y,
+2011,20,607,Nationals,RHP,Josh Laxer,Madison (Miss.) Central HS,HS,MS,N,
+2011,20,608,Indians,LHP,Dillon Peters,"Cathedral HS, Indianapolis",HS,IN,N,
+2011,20,609,Cubs,OF,Ben Klafczynski,Kent State,4YR,OH,Y,
+2011,20,610,Astros,3B,Matt Duffy,Tennessee,4YR,TN,Y,
+2011,20,611,Brewers,RHP,Brandon Williamson,Dallas Baptist,4YR,TX,Y,
+2011,20,612,Mets,OF,Mason Robbins,"George County HS, Lucedale, Miss.",HS,MS,N,
+2011,20,613,Marlins,SS,Devon Reed,Milford (Del.) HS,HS,DE,N,
+2011,20,614,Dodgers,RHP,Vince Spilker,Johnson County (Kan.) JC,JC,KS,N,
+2011,20,615,Angels,LHP,Junior Carlin,South Florida,4YR,FL,Y,
+2011,20,616,Athletics,RHP,Kurt Wunderlich,Michigan State,4YR,MI,Y,
+2011,20,617,Tigers,LHP,Tyler Barrett,Lewis-Clark State (Idaho),4YR,ID,Y,
+2011,20,618,Rockies,RHP,Dan Winkler,Central Florida,4YR,FL,Y,
+2011,20,619,Blue Jays,RHP,Joel Seddon,St. Clair (Mich.) HS,HS,MI,N,
+2011,20,620,Cardinals,C,Aramis Garcia,Pembroke Pines (Fla.) HS,HS,FL,N,
+2011,20,621,White Sox,C,Martin Medina,Cal State Bakersfield,4YR,CA,Y,
+2011,20,622,Red Sox,LHP,Zach Good,Grayson County (Texas) JC,JC,TX,Y,"$140,000"
+2011,20,623,Padres,RHP,Chris Haney,Dallas Baptist,4YR,TX,Y,
+2011,20,624,Rangers,SS,Nick Vickerson,Mississippi State,4YR,MS,Y,
+2011,20,625,Reds,RHP,Dan Jensen,Cincinnati,4YR,OH,Y,
+2011,20,626,Braves,LHP,Carlos Rodriguez,"Iolani HS, Honolulu",HS,HI,N,
+2011,20,627,Giants,LHP,Mitchell Beacom,UCLA,4YR,CA,Y,
+2011,20,628,Twins,SS,Brian Anderson,"Deer Creek HS, Edmond, Okla.",HS,OK,N,
+2011,20,629,Yankees,LHP,Daniel Camarena,"Cathedral Catholic HS, San Diego",HS,CA,Y,"$335,000"
+2011,20,630,Rays,SS,Garret Smith,Boston College,4YR,MA,Y,
+2011,20,631,Phillies,OF,Peter Lavin,San Francisco,4YR,CA,Y,
+2011,21,632,Pirates,OF,Alex Fuselier,Louisiana-Lafayette,4YR,LA,Y,
+2011,21,633,Mariners,RHP,Joe DiRocco,Seton Hall,4YR,NJ,Y,
+2011,21,634,Diamondbacks,1B,Jon Griffin,Central Florida,4YR,FL,Y,
+2011,21,635,Orioles,RHP,Jose Rivera,Hill (Texas) JC,JC,TX,Y,
+2011,21,636,Royals,C,Kenny Swab,Virginia,4YR,VA,Y,
+2011,21,637,Nationals,LHP,Todd Simko,Texas A&M-Corpus Christi,4YR,TX,Y,
+2011,21,638,Indians,OF,Cody Elliott,Ball State,4YR,IN,Y,
+2011,21,639,Cubs,LHP,Andrew McKirahan,Texas,4YR,TX,Y,
+2011,21,640,Astros,SS,Jimmy Howick,Jacksonville,4YR,FL,Y,
+2011,21,641,Brewers,1B,Michael Nemeth,Connecticut,4YR,CT,Y,
+2011,21,642,Mets,RHP,John Gant,"Wiregrass Ranch HS, Wesley Chapel, Fla.",HS,FL,Y,"$185,000"
+2011,21,643,Marlins,RHP,Chase Wier,Stephen F. Austin State,4YR,TX,Y,
+2011,21,644,Dodgers,LHP,Zak Qualls,"Rancho HS, Las Vegas",HS,NV,N,
+2011,21,645,Angels,RHP,Shane Riedie,Tampa,4YR,FL,Y,
+2011,21,646,Athletics,OF,Brandon Magee,Arizona State,4YR,AZ,N,
+2011,21,647,Tigers,LHP,Scott Squier,"Greenway HS, Phoenix",HS,AZ,N,
+2011,21,648,Rockies,1B,Jordan Ribera,Fresno State,4YR,CA,Y,
+2011,21,649,Blue Jays,SS,Peter Mooney,South Carolina,4YR,SC,Y,
+2011,21,650,Cardinals,LHP,Chris Kirsch,Lackawanna (Pa.) JC,JC,PA,N,
+2011,21,651,White Sox,2B,Joe De Pinto,Southern California,4YR,CA,Y,
+2011,21,652,Red Sox,2B,Austin Davidson,Oxnard (Calif.) HS,,CA,N,
+2011,21,653,Padres,1B,Zach Kometani,San Diego,4YR,CA,Y,
+2011,21,654,Rangers,RHP,Chance Sossamon,Wichita State,4YR,KS,Y,
+2011,21,655,Reds,RHP,Carlos Gonzalez,Cal State Northridge,4YR,CA,Y,
+2011,21,656,Braves,RHP,Jarrett Miller,UNC Greensboro,4YR,NC,Y,
+2011,21,657,Giants,RHP,Andrew Triggs,Southern California,4YR,CA,N,
+2011,21,658,Twins,LHP,Michael Howard,Prescott (Ariz.) HS,HS,AZ,N,
+2011,21,659,Yankees,1B,Zach Wilson,Arizona State,4YR,AZ,Y,"$100,000"
+2011,21,660,Rays,3B,Ryan Terry,Monmouth,4YR,NJ,Y,
+2011,21,661,Phillies,C,Riley Moore,San Marcos (Calif.) HS,HS,CA,N,
+2011,22,662,Pirates,LHP,Mike Jefferson,Louisiana Tech,4YR,LA,Y,
+2011,22,663,Mariners,RHP,John Taylor,South Carolina,4YR,SC,Y,
+2011,22,664,Diamondbacks,SS,Garrett Weber,Fresno State,4YR,CA,Y,
+2011,22,665,Orioles,SS,Mike Miedzianowski,"Martin County HS, Stuart, Fla.",HS,FL,N,
+2011,22,666,Royals,LHP,Dave Middendorf,Northern Kentucky,4YR,KY,Y,
+2011,22,667,Nationals,RHP,Travis Henke,Arkansas-Little Rock,4YR,AR,Y,
+2011,22,668,Indians,RHP,Matthew Reckling,Rice,4YR,TX,N,
+2011,22,669,Cubs,RHP,Ethan Elias,"Grand Trunk HS, Evansburg, Alb.",HS,CN,Y,
+2011,22,670,Astros,OF,Drew Muren,Cal State Northridge,4YR,CA,Y,
+2011,22,671,Brewers,OF,Dennis Jones,"Davis HS, Montgomery, Ala.",HS,AL,N,
+2011,22,672,Mets,SS,Casey Turgeon,Dunedin (Fla.) HS,HS,FL,N,
+2011,22,673,Marlins,RHP,Collin Cargill,Southern Mississippi,4YR,MS,Y,
+2011,22,674,Dodgers,OF,Kyle Conwell,Bellevue (Wash.) JC,JC,WA,N,
+2011,22,675,Angels,OF,Brennan Gowens,Fresno State,4YR,CA,Y,
+2011,22,676,Athletics,OF,Rhett Stafford,Marshall,4YR,WV,Y,
+2011,22,677,Tigers,RHP,Tommy Collier,San Jacinto (Texas) JC,JC,TX,Y,
+2011,22,678,Rockies,LHP,Logan Mahon,Southeast Missouri State,4YR,MO,Y,
+2011,22,679,Blue Jays,RHP,Aaron Nola,"Catholic HS, Baton Rouge",HS,LA,N,
+2011,22,680,Cardinals,LHP,Justin Kamplain,"Walker HS, Jasper, Ala.",HS,AL,N,
+2011,22,681,White Sox,RHP,Blake Drake,Indiana State,4YR,IN,Y,
+2011,22,682,Red Sox,RHP,Joe Holtmeyer,Nebraska-Omaha,4YR,NE,Y,
+2011,22,683,Padres,C,Matt Colantonio,Brown,4YR,RI,Y,
+2011,22,684,Rangers,SS,T.J. Costen,"First Colonial HS, Virginia Beach",HS,VA,N,
+2011,22,685,Reds,LHP,Amir Garrett,Henderson (Nev.) International School,HS,NV,Y,"$1,000,000"
+2011,22,686,Braves,RHP,Clint Wright,Columbia State (Tenn.) JC,JC,TN,Y,
+2011,22,687,Giants,RHP,Cameron McVey,Biola (Calif.),4YR,CA,Y,
+2011,22,688,Twins,OF,James Ramsey,Florida State,4YR,FL,N,
+2011,22,689,Yankees,RHP,Nick Goody,State JC of Florida,JC,FL,N,
+2011,22,690,Rays,RHP,Brad Hendrix,Auburn,4YR,AL,N,
+2011,22,691,Phillies,OF,Matt Holland,Texas A&M-Corpus Christi,4YR,TX,Y,
+2011,23,692,Pirates,RHP,Jordan Cooper,Kentucky,4YR,KY,Y,"$100,000"
+2011,23,693,Mariners,RHP,Richard White,"St. Croix Educational HS, St. Thomas, V.I.",HS,VI,Y,
+2011,23,694,Diamondbacks,3B,Ryan Court,Illinois State,4YR,IL,Y,
+2011,23,695,Orioles,OF,Adam Matthews,South Carolina,4YR,SC,N,
+2011,23,696,Royals,C,Lance Harper,Scottsdale (Ariz.) JC,JC,AZ,Y,
+2011,23,697,Nationals,2B,Khayyan Norfork,Tennessee,4YR,TN,Y,
+2011,23,698,Indians,RHP,Cody Allen,High Point,4YR,NC,Y,
+2011,23,699,Cubs,OF,Bradley Zimmer,"La Jolla HS, Country Club, Calif.",HS,CA,N,
+2011,23,700,Astros,2B,Ruben Sosa,Oklahoma City,4YR,OK,Y,
+2011,23,701,Brewers,C,Ben McMahan,Florida,4YR,FL,Y,
+2011,23,702,Mets,C,Jeff Diehl,Cranston (R.I.) West HS,HS,RI,Y,"$135,000"
+2011,23,703,Marlins,RHP,Tyler Higgins,Lansing (Mich.) JC,JC,MI,Y,
+2011,23,704,Dodgers,RHP,Garrett Bolt,Western Illinois,4YR,IL,Y,
+2011,23,705,Angels,OF,Zach Borenstein,Eastern Illinois,4YR,IL,Y,
+2011,23,706,Athletics,RHP,Cecil Tanner,Georgia,4YR,GA,Y,
+2011,23,707,Tigers,LHP,Trent Daniel,Arkansas,4YR,AR,N,
+2011,23,708,Rockies,LHP,Brook Hart,Yale,4YR,CT,Y,
+2011,23,709,Blue Jays,SS,K'Shawn Smith,Indian River (Fla.) JC,JC,FL,N,
+2011,23,710,Cardinals,RHP,Kyle Deese,Western Carolina,4YR,NC,N,
+2011,23,711,White Sox,C,Mike Marjama,Long Beach State,4YR,CA,Y,
+2011,23,712,Red Sox,LHP,Jarrett Brown,"Salem HS, Conyers, Ga.",HS,GA,N,
+2011,23,713,Padres,LHP,R.L. Eisenbach,Faulkner (Ala.),4YR,AL,Y,
+2011,23,714,Rangers,LHP,Mike Mason,Marshall,4YR,WV,N,
+2011,23,715,Reds,RHP,Sal Romano,Southington (Conn.) HS,HS,CT,Y,"$450,000"
+2011,23,716,Braves,OF,Sam Munson,Tennessee Weslyan,4YR,TN,Y,
+2011,23,717,Giants,3B,Jonathan Jones,Vanier (Que.) JC,JC,CN,Y,
+2011,23,718,Twins,RHP,Tim Shibuya,UC San Diego,4YR,CA,Y,
+2011,23,719,Yankees,RHP,Corey Maines,Illinois State,4YR,IL,Y,
+2011,23,720,Rays,OF,Matt Johnson,Arkansas Tech,4YR,AR,Y,
+2011,23,721,Phillies,RHP,Cody Fick,Evansville,4YR,IN,Y,
+2011,24,722,Pirates,SS,Brian Sharp,California Baptist,4YR,CA,Y,
+2011,24,723,Mariners,RHP,Tanner Chleborad,"Stevens HS, Rapid City, S.D.",HS,SD,N,
+2011,24,724,Diamondbacks,RHP,Matt Ogden,"Smoky Hill HS, Aurora, Colo.",HS,CO,N,
+2011,24,725,Orioles,OF,Jalen Simmons,"Camden County HS, Kingsland, Ga.",HS,GA,Y,
+2011,24,726,Royals,RHP,Spencer Patton,Southern Illinois-Edwardsville,4YR,IL,Y,
+2011,24,727,Nationals,LHP,Kyle Ottoson,Arizona State,4YR,AZ,N,
+2011,24,728,Indians,3B,Taylor Sparks,"St. John Bosco HS, Bellflower, Calif.",HS,CA,N,
+2011,24,729,Cubs,RHP,George Asmus,Ohlone (Calif.) JC,JC,CA,N,
+2011,24,730,Astros,1B,Jesse Wierzbicki,North Carolina,4YR,NC,Y,
+2011,24,731,Brewers,RHP,Michael Palazzone,Georgia,4YR,GA,N,
+2011,24,732,Mets,1B,Tant Shepherd,Texas,4YR,TX,Y,
+2011,24,733,Marlins,C,Tony Caldwell,Auburn,4YR,AL,Y,
+2011,24,734,Dodgers,RHP,Matt Shelton,Sam Houston State,4YR,TX,Y,
+2011,24,735,Angels,3B,Jarrod Parks,Mississippi State,4YR,MS,Y,
+2011,24,736,Athletics,SS,Max Kuhn,Zionsville (Ind.) Community HS,HS,IN,N,
+2011,24,737,Tigers,LHP,Matt Crouse,Mississippi,4YR,MS,Y,
+2011,24,738,Rockies,OF,Connor McKay,"Regis Jesuit HS, Aurora, Colo.",HS,CO,N,
+2011,24,739,Blue Jays,LHP,David Rollins,San Jacinto (Texas) JC,JC,TX,Y,
+2011,24,740,Cardinals,LHP,Jonathan Cornelius,Florida Tech,4YR,FL,Y,
+2011,24,741,White Sox,OF,Mark Haddow,UC Santa Barbara,4YR,CA,Y,
+2011,24,742,Red Sox,OF,Drew Turocy,Akron,4YR,OH,Y,
+2011,24,743,Padres,RHP,Erick Fedde,Las Vegas HS,HS,NV,N,
+2011,24,744,Rangers,C,Zach Fish,"Gull Lake HS, Richland, Mich.",HS,MI,N,
+2011,24,745,Reds,1B,Nick O'Shea,Minnesota,4YR,MN,Y,
+2011,24,746,Braves,OF,Brian Stamps,Oregon State,4YR,OR,Y,
+2011,24,747,Giants,RHP,Keith Bilodeau,Maine,4YR,ME,Y,
+2011,24,748,Twins,RHP,Nick Burdi,Downers Grove (Ill.) South HS,HS,IL,N,
+2011,24,749,Yankees,LHP,Matt Tracy,Mississippi,4YR,MS,Y,
+2011,24,750,Rays,RHP,Charlie Cononie,Towson,4YR,MD,Y,
+2011,24,751,Phillies,RHP,Matt Campbell,Florida,4YR,FL,Y,
+2011,25,752,Pirates,RHP,Josh Martin,Samford,4YR,AL,N,
+2011,25,753,Mariners,RHP,Gabe Saquilon,"Horizon Christian HS, San Diego",HS,CA,Y,"$100,000"
+2011,25,754,Diamondbacks,OF,Brett Williams,North Carolina State,4YR,NC,N,
+2011,25,755,Orioles,LHP,Mike Finnigan,San Bernardino Valley (Calif.) JC,JC,CA,N,
+2011,25,756,Royals,3B,Mark Threlkeld,Louisiana Tech,4YR,LA,Y,
+2011,25,757,Nationals,C,Erick Fernandez,Georgetown,4YR,DC,Y,
+2011,25,758,Indians,SS,Kevin Kramer,Turlock (Calif.) HS,HS,CA,N,
+2011,25,759,Cubs,1B,Rock Shoulders,State JC of Florida,JC,FL,Y,"$294,000"
+2011,25,760,Astros,OF,Billy Flamion,"Central Catholic HS, Modesto, Calif.",HS,CA,N,
+2011,25,761,Brewers,C,Parker Berberet,Oregon State,4YR,OR,Y,
+2011,25,762,Mets,LHP,AJ Reed,Terre Haute (Ind.) South HS,HS,IN,N,
+2011,25,763,Marlins,RHP,Sean Donatello,Connecticut-Avery Point JC,JC,CT,Y,
+2011,25,764,Dodgers,OF,Travis Burnside,Spartanburg Methodist (S.C.) JC,JC,SC,N,
+2011,25,765,Angels,RHP,Josh Alvarado,Phoenix (No school),NS,AZ,Y,
+2011,25,766,Athletics,OF,Chad Oberacker,Tennessee Tech,4YR,TN,Y,
+2011,25,767,Tigers,RHP,Mitch Mormann,Wichita State,4YR,KS,N,
+2011,25,768,Rockies,RHP,Patrick Johnson,North Carolina,4YR,NC,Y,
+2011,25,769,Blue Jays,1B,Eric Arce,Tampa (no school),NS,FL,Y,"$100,000"
+2011,25,770,Cardinals,RHP,Todd McInnis,Southern Mississippi,4YR,MS,Y,
+2011,25,771,White Sox,RHP,Chris Devenski,Cal State Fullerton,4YR,CA,Y,
+2011,25,772,Red Sox,1B,Taylor Ard,Washington State,4YR,WA,N,
+2011,25,773,Padres,1B,Paul Karmas,St. John's,4YR,NY,Y,
+2011,25,774,Rangers,LHP,Jordan Remer,San Francisco,4YR,CA,N,
+2011,25,775,Reds,RHP,Justice French,Mercer,4YR,GA,Y,
+2011,25,776,Braves,OF,Will Skinner,Middle Tennessee State,4YR,TN,Y,
+2011,25,777,Giants,RHP,Demondre Arnold,Middle Georgia JC,JC,GA,Y,
+2011,25,778,Twins,SS,Adam Pettersen,Minnesota,4YR,MN,Y,
+2011,25,779,Yankees,RHP,Adam Smith,Texas A&M,4YR,TX,Y,"$157,500"
+2011,25,780,Rays,RHP,Brooks Belter,Occidental (Calif.),4YR,CA,Y,
+2011,25,781,Phillies,RHP,Ryan Duke,Oklahoma,4YR,OK,Y,
+2011,26,782,Pirates,SS,Nick Flair,Belle Chasse (La.) HS,HS,LA,N,
+2011,26,783,Mariners,3B,Kenny Straus,Georgia Perimeter JC,JC,GA,Y,
+2011,26,784,Diamondbacks,RHP,Austin Platt,"Bradenton, Fla. (No school)",NS,FL,Y,
+2011,26,785,Orioles,RHP,Zach Davies,"Mesquite HS, Gilbert, Ariz.",HS,AZ,Y,"$575,000"
+2011,26,786,Royals,LHP,Joseph Moorefield,Clemson,4YR,SC,N,
+2011,26,787,Nationals,OF,Shawn Pleffner,Tampa,4YR,FL,Y,
+2011,26,788,Indians,OF,Austin Diemer,Rocklin (Calif.) HS,HS,CA,N,
+2011,26,789,Cubs,RHP,Michael Jensen,Hartnell (Calif.) JC,JC,CA,Y,"$225,000"
+2011,26,790,Astros,RHP,Jared Fisher,"Newport HS, Bellevue, Wash.",HS,WA,N,
+2011,26,791,Brewers,LHP,Josh D. Smith,Wichita State,4YR,KS,N,
+2011,26,792,Mets,RHP,Casey Hauptman,Nebraska,4YR,NE,Y,
+2011,26,793,Marlins,3B,Ryan Goetz,UC Riverside,4YR,CA,Y,
+2011,26,794,Dodgers,RHP,Freddie Cabrera,Central Methodist (Mo.),4YR,MO,Y,
+2011,26,795,Angels,OF,John Gianis,North Carolina State,4YR,NC,N,
+2011,26,796,Athletics,RHP,Sam Roberts,Virginia Military Institute,4YR,VA,Y,
+2011,26,797,Tigers,2B,Colin Kaline,Florida Southern,4YR,FL,Y,
+2011,26,798,Rockies,RHP,Mike Wolford,UC Riverside,4YR,CA,Y,
+2011,26,799,Blue Jays,SS,Justin Atkinson,North Surrey (B.C.) SS,HS,CN,Y,"$100,000"
+2011,26,800,Cardinals,RHP,Brett Graves,"Howell HS, St. Charles, Mo.",HS,MO,N,
+2011,26,801,White Sox,3B,Grant Buckner,West Virginia,4YR,WV,Y,
+2011,26,802,Red Sox,RHP,Cody Dill,"Los Osos HS, Rancho Cucamonga, Calif.",HS,CA,N,
+2011,26,803,Padres,RHP,Roberto Suppa,"St. Thomas Aquinas SS, West London, Ont.",HS,CN,N,
+2011,26,804,Rangers,RHP,Ryan Bores,Cuyahoga (Ohio) JC,JC,OH,N,
+2011,26,805,Reds,2B,Juan Perez,JC of the Canyons (Calif.),JC,CA,Y,
+2011,26,806,Braves,SS,Kirk Walker,Oklahoma City,4YR,OK,Y,
+2011,26,807,Giants,RHP,Joe Biagini,UC Davis,4YR,CA,Y,"$175,000"
+2011,26,808,Twins,RHP,Trent Higginbotham,"Clay-Chalkville HS, Trussville, Ala.",HS,AL,Y,"$195,000"
+2011,26,809,Yankees,RHP,Jordan Foley,The Colony (Texas) HS,HS,TX,N,
+2011,26,810,Rays,2B,Raymond Church,Florida Atlantic,4YR,FL,Y,
+2011,26,811,Phillies,RHP,Michael Rocha,Oklahoma,4YR,OK,N,
+2011,27,812,Pirates,C,Ryan Hornback,San Jacinto (Texas) JC,JC,TX,Y,
+2011,27,813,Mariners,RHP,David Colvin,Pomona Pitzer (Calif.),4YR,CA,Y,
+2011,27,814,Diamondbacks,RHP,Wyatt Strahan,Villa Park (Calif.) HS,HS,CA,N,
+2011,27,815,Orioles,RHP,Chris Oliver,"Shiloh Christian HS, Springdale, Ark.",HS,AR,N,
+2011,27,816,Royals,OF,Lee Clubb,Iowa Park (Texas) HS,HS,TX,N,
+2011,27,817,Nationals,RHP,Bobby Lucas,George Washington,4YR,DC,Y,
+2011,27,818,Indians,SS,Evan Frazar,Galveston (Texas) JC,JC,TX,Y,
+2011,27,819,Cubs,OF,Taiwan Easterling,Florida State,4YR,FL,Y,"$150,000"
+2011,27,820,Astros,SS,Alex Todd,Sonoma State (Calif.),4YR,CA,Y,
+2011,27,821,Brewers,RHP,Chad Thompson,Orange Coast (Calif.) JC,JC,CA,Y,
+2011,27,822,Mets,RHP,Randy Fontanez,South Florida,4YR,FL,Y,
+2011,27,823,Marlins,LHP,Frankie Reed,Cal Poly,4YR,CA,Y,
+2011,27,824,Dodgers,RHP,Taylor Garrison,Fresno State,4YR,CA,N,
+2011,27,825,Angels,3B,Brian Hernandez,UC Irvine,4YR,CA,Y,
+2011,27,826,Athletics,RHP,Derek Self,Louisville,4YR,KY,N,
+2011,27,827,Tigers,RHP,Scott Matyas,Minnesota,4YR,MN,Y,
+2011,27,828,Rockies,3B,Matt Argyropoulos,Washington State,4YR,WA,Y,
+2011,27,829,Blue Jays,OF,Derrick Loveless,Solon (Iowa) HS,HS,IA,Y,"$125,000"
+2011,27,830,Cardinals,OF,Gary Apelian,Santa Ana (Calif.) JC,JC,CA,Y,
+2011,27,831,White Sox,RHP,Jake Cose,San Joaquin Delta (Calif.) JC,JC,CA,Y,
+2011,27,832,Red Sox,RHP,Alex Massey,"Catholic HS, Baton Rouge",HS,LA,N,
+2011,27,833,Padres,OF,Arby Fields,Cypress (Calif.) JC,JC,CA,N,
+2011,27,834,Rangers,RHP,Kyle Devore,Sacramento JC,JC,CA,Y,
+2011,27,835,Reds,2B,Taylor Wrenn,Tampa,4YR,FL,Y,
+2011,27,836,Braves,RHP,Charlie Robertson,Fresno State,4YR,CA,Y,
+2011,27,837,Giants,LHP,Jack Snodgrass,Austin Peay State,4YR,TN,Y,
+2011,27,838,Twins,RHP,Chris Mazza,Menlo (Calif.),4YR,CA,Y,
+2011,27,839,Yankees,LHP,Chaz Hebert,Breaux Bridge (La.) HS,HS,LA,Y,"$148,000"
+2011,27,840,Rays,RHP,Luke Irvine,Northwestern State,4YR,LA,Y,
+2011,27,841,Phillies,LHP,Braden Shull,Mount Pleasant (Iowa) HS,HS,IA,Y,"$137,500"
+2011,28,842,Pirates,LHP,Brandon Zajac,"Walker Valley HS, Cleveland, Tenn.",HS,TN,N,
+2011,28,843,Mariners,RHP,Brett Shankin,Wayne State (Mich.),4YR,MI,Y,
+2011,28,844,Diamondbacks,RHP,Mat Sample,Rogers State (Okla.),4YR,OK,Y,
+2011,28,845,Orioles,1B,Nate Raubinger,Arroyo Grande (Calif.) HS,HS,CA,N,
+2011,28,846,Royals,RHP,Jordan Ramsey,"North Davidson HS, Lexington, N.C.",HS,NC,N,
+2011,28,847,Nationals,RHP,Ken Ferrer,Elon,4YR,NC,Y,
+2011,28,848,Indians,LHP,Tyler Nurdin,Temple (Texas) JC,JC,TX,N,
+2011,28,849,Cubs,RHP,Chris Garrison,Western Nevada JC,JC,NV,N,
+2011,28,850,Astros,LHP,Jordan John,Oklahoma,4YR,OK,N,
+2011,28,851,Brewers,C,BreShon Kimbrell,Mesquite (Texas) HS,HS,TX,N,
+2011,28,852,Mets,RHP,Jharel Cotton,Miami Dade JC,JC,FL,N,
+2011,28,853,Marlins,RHP,Brad Mincey,East Carolina,4YR,NC,Y,
+2011,28,854,Dodgers,OF,Joey Winker,Mercer,4YR,GA,Y,
+2011,28,855,Angels,RHP,Daniel Vargas-Vila,West Florida,4YR,FL,Y,
+2011,28,856,Athletics,RHP,Thomas Girdwood,Elon,4YR,NC,N,
+2011,28,857,Tigers,RHP,Guido Knudson,UC San Diego,4YR,CA,Y,
+2011,28,858,Rockies,OF,Joshua Correa,"Caguas Military Academy, Caguas, P.R.",HS,PR,N,
+2011,28,859,Blue Jays,SS,Jorge Vega-Rosado,Miami Dade JC,JC,FL,Y,
+2011,28,860,Cardinals,LHP,Ryan Sherriff,Glendale (Calif.) JC,JC,CA,Y,
+2011,28,861,White Sox,1B,Kyle Robinson,Arkansas,4YR,AR,Y,
+2011,28,862,Red Sox,RHP,Brenden Shepard,Stonehill (Mass.),4YR,MA,Y,
+2011,28,863,Padres,2B,Rashaad Ingram,St. Augustine's (N.C.),4YR,NC,Y,
+2011,28,864,Rangers,OF,Saquan Johnson,"East Bladen HS, Elizabethtown, N.C.",HS,NC,Y,
+2011,28,865,Reds,OF,Yordanys Perez,"Calabasas, Calif. (No school)",NS,CA,Y,
+2011,28,866,Braves,LHP,Matt Talley,The Citadel,4YR,SC,Y,
+2011,28,867,Giants,RHP,Tyler Mizenko,Winthrop,4YR,SC,Y,
+2011,28,868,Twins,LHP,David Hurlbut,Cal State Fullerton,4YR,CA,Y,
+2011,28,869,Yankees,RHP,Josean Lazaro,"North Broward Prep, Coconut Creek, Fla.",HS,FL,N,
+2011,28,870,Rays,C,Blake Grant-Parks,Yuba City (Calif.) HS,HS,CA,N,
+2011,28,871,Phillies,RHP,Ian Durham,California Lutheran,4YR,CA,Y,
+2011,29,872,Pirates,SS,Kirk Singer,Long Beach State,4YR,CA,Y,
+2011,29,873,Mariners,RHP,Keone Kela,"Chief Sealth HS, Seattle",HS,WA,N,
+2011,29,874,Diamondbacks,3B,Carter Bell,Oregon State,4YR,OR,Y,
+2011,29,875,Orioles,C,Cameron Edman,Gonzaga,4YR,WA,Y,
+2011,29,876,Royals,RHP,Jake Junis,Rock Falls (Ill.) HS,HS,IL,Y,"$675,000"
+2011,29,877,Nationals,C,Sean Cotten,Tusculum (Tenn.),4YR,TN,N,
+2011,29,878,Indians,RHP,Jared Ruxer,"Lawrence Central HS, Indianapolis",HS,IN,N,
+2011,29,879,Cubs,3B,Drew Weeks,"Clay HS, Green Cove Springs, Fla.",HS,FL,N,
+2011,29,880,Astros,OF,Wallace Gonzalez,"Bishop Amat HS, La Puente, Calif.",HS,CA,Y,"$120,000"
+2011,29,881,Brewers,RHP,David Lucroy,Umatila (Fla.) HS,HS,FL,N,
+2011,29,882,Mets,SS,Josh Ake,"Hunterdon Central HS, Flemington, N.J.",HS,NJ,N,
+2011,29,883,Marlins,RHP,Matt Neil,Brigham Young,4YR,UT,Y,
+2011,29,884,Dodgers,RHP,Joe Robinson,Nevada-Las Vegas,4YR,NV,N,
+2011,29,885,Angels,RHP,Greg Larson,Florida,4YR,FL,N,
+2011,29,886,Athletics,RHP,Nate Eppley,Rider,4YR,NJ,Y,
+2011,29,887,Tigers,RHP,Montreal Robertson,Coahoma (Miss.) JC,JC,MS,Y,
+2011,29,888,Rockies,LHP,Matt Dermody,Iowa,4YR,IA,N,
+2011,29,889,Blue Jays,RHP,Taylor Cole,Brigham Young,4YR,UT,Y,
+2011,29,890,Cardinals,LHP,Chris Matulis,Central Florida,4YR,FL,N,
+2011,29,891,White Sox,OF,Dustin Hayes,"Langley, B.C. (No school)",NS,CN,Y,
+2011,29,892,Red Sox,RHP,Matt Spalding,"St. Xavier HS, Louisville",HS,KY,Y,"$275,000"
+2011,29,893,Padres,C,Vimael Machin,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,N,
+2011,29,894,Rangers,RHP,Nick Sawyer,Howard (Texas) JC,JC,TX,N,
+2011,29,895,Reds,RHP,Dariel Delgado,Miami (No school),NS,FL,N,
+2011,29,896,Braves,C,Chad Comer,Texas-Arlington,4YR,TX,Y,
+2011,29,897,Giants,OF,Eldred Barnett,Grambling State,4YR,LA,Y,
+2011,29,898,Twins,LHP,Derek Thompson,Teutopolis (Ill.) HS,HS,IL,N,
+2011,29,899,Yankees,RHP,Scot Hoffman,"Desert Ridge HS, Mesa, Ariz.",HS,AZ,N,
+2011,29,900,Rays,2B,Jonathan Koscso,South Florida,4YR,FL,Y,
+2011,29,901,Phillies,RHP,Paul Cusick,Pennsylvania,4YR,PA,Y,
+2011,30,902,Pirates,RHP,Matt Benedict,Western Carolina,4YR,NC,Y,
+2011,30,903,Mariners,RHP,Jordan Pries,Stanford,4YR,CA,Y,
+2011,30,904,Diamondbacks,RHP,Dexter Price,South Carolina-Beaufort,4YR,SC,Y,
+2011,30,905,Orioles,SS,Mikey Reynolds,Paradise Valley (Ariz.) JC,JC,AZ,N,
+2011,30,906,Royals,RHP,Christian Binford,Mercersburg (Pa.) Academy,HS,PA,Y,"$575,000"
+2011,30,907,Nationals,LHP,Bryan Harper,South Carolina,4YR,SC,Y,
+2011,30,908,Indians,SS,John Polonius,Genesee (N.Y.) JC,JC,NY,N,
+2011,30,909,Cubs,RHP,Arturo Maltos-Garcia,Lamar (Colo.) JC,JC,CO,Y,
+2011,30,910,Astros,3B,Jordan Steranka,Penn State,4YR,PA,N,
+2011,30,911,Brewers,3B,Trent Boras,"JSerra HS, San Juan Capistrano, Calif.",HS,CA,N,
+2011,30,912,Mets,LHP,Jake Hansen,"Walshe HS, Fort Macleod, Alb.",HS,CN,N,
+2011,30,913,Marlins,C,Jose Behar,Florida International,4YR,FL,Y,
+2011,30,914,Dodgers,SS,Adam McConnell,Richmond,4YR,VA,N,
+2011,30,915,Angels,OF,Mike Papi,Tunkhannock (Pa.) Area HS,HS,PA,N,
+2011,30,916,Athletics,RHP,Nathan Kilcrease,Alabama,4YR,AL,Y,
+2011,30,917,Tigers,RHP,Greg Milhorn,"Arkansas HS, Texarkana, Ark.",HS,AR,N,
+2011,30,918,Rockies,RHP,John Curtiss,"Carroll HS, Southlake, Texas",HS,TX,N,
+2011,30,919,Blue Jays,1B,Kevin Patterson,Auburn,4YR,AL,Y,
+2011,30,920,Cardinals,RHP,David Bergin,Tennessee Wesleyan,4YR,TN,Y,
+2011,30,921,White Sox,LHP,Brandon Parrent,Texas A&M,4YR,TX,Y,"$100,000"
+2011,30,922,Red Sox,3B,Nick Moore,"Brookwood HS, Snellville, Ga.",HS,GA,Y,"$200,000"
+2011,30,923,Padres,OF,Justin Miller,Southeastern Oklahoma State,4YR,OK,Y,
+2011,30,924,Rangers,RHP,Phil Klein,Youngstown State,4YR,OH,Y,
+2011,30,925,Reds,3B,Joe Terry,Cal State Fullerton,4YR,CA,Y,
+2011,30,926,Braves,OF,Jon Youngblood,"Lafayette HS, Lexington, Ky.",HS,KY,N,
+2011,30,927,Giants,RHP,David Fischer,Connecticut,4YR,CT,N,
+2011,30,928,Twins,RHP,Will Clinard,Vanderbilt,4YR,TN,N,
+2011,30,929,Yankees,RHP,John Brebbia,Elon,4YR,NC,Y,
+2011,30,930,Rays,RHP,Chris Burgess,Black Hawk (Ill.) JC,JC,IL,N,
+2011,30,931,Phillies,1B,Mike Marshall,Lubbock Christian (Texas),4YR,TX,Y,
+2011,31,932,Pirates,C,Derek Trent,East Tennessee State,4YR,TN,Y,
+2011,31,933,Mariners,LHP,Kyle Hunter,Kansas State,4YR,KS,Y,
+2011,31,934,Diamondbacks,2B,Matt Jensen,Cal Poly,4YR,CA,Y,
+2011,31,935,Orioles,RHP,John Costa,"Summit Christian HS, West Palm Beach, Fla.",HS,FL,N,
+2011,31,936,Royals,1B,Chris Serritella,Southern Illinois,4YR,IL,N,
+2011,31,937,Nationals,SS,Josh Tobias,"Southeast Guilford HS, Greensboro, N.C.",HS,NC,N,
+2011,31,938,Indians,LHP,Michael Roth,South Carolina,4YR,SC,N,
+2011,31,939,Cubs,OF,Ronnie Richardson,Central Florida,4YR,FL,N,
+2011,31,940,Astros,OF,Jarrod McKinney,Arkansas,4YR,AR,Y,
+2011,31,941,Brewers,RHP,Sean Albury,Nova Southeastern (Fla.),4YR,FL,Y,
+2011,31,942,Mets,SS,Chad Zurcher,Memphis,4YR,TN,Y,
+2011,31,943,Marlins,3B,Kenny Jackson,Texas A&M,4YR,TX,Y,
+2011,31,944,Dodgers,SS,Mickey McConnell,St. Mary's,4YR,CA,N,
+2011,31,945,Angels,C,Jett Bandy,Arizona,4YR,AZ,Y,
+2011,31,946,Athletics,LHP,Sasha Kuebel,St. Louis University HS,HS,MO,N,
+2011,31,947,Tigers,RHP,Brian Stroud,Western Michigan,4YR,MI,Y,
+2011,31,948,Rockies,SS,Sam Mende,South Florida,4YR,FL,Y,
+2011,31,949,Blue Jays,SS,Austin Nola,Louisiana State,4YR,LA,N,
+2011,31,950,Cardinals,RHP,Kevin Jacob,Georgia Tech,4YR,GA,Y,
+2011,31,951,White Sox,SS,Michael Johnson,Samford,4YR,AL,Y,
+2011,31,952,Red Sox,OF,Tyler Wells,Lexington (Ky.) Catholic HS,HS,KY,N,
+2011,31,953,Padres,SS,Clint Moore,Army,4YR,NY,Y,
+2011,31,954,Rangers,3B,Matt Leeds,College of Charleston,4YR,SC,Y,
+2011,31,955,Reds,RHP,Erik Miller,Texas Christian,4YR,TX,Y,"$100,000"
+2011,31,956,Braves,1B,Jackson Laumann,"Boone County HS, Florence, Ky.",HS,KY,Y,"$150,000"
+2011,31,957,Giants,LHP,Phil McCormick,Missouri,4YR,MO,Y,
+2011,31,958,Twins,RHP,Garrett Jewell,Southern New Hampshire,4YR,NH,Y,
+2011,31,959,Yankees,LHP,Aaron Bummer,"Sunrise Mountain HS, Peoria, Ariz.",HS,AZ,N,"$100,000"
+2011,31,960,Rays,RHP,Isaac Gil,Advanced Software Analysis (N.Y.) JC,JC,NY,Y,
+2011,31,961,Phillies,C,Kyle Olson,"Jackson HS, Mill Creek, Wash.",HS,WA,N,
+2011,32,962,Pirates,RHP,David Jagoditsh,Pima (Ariz.) JC,JC,AZ,Y,
+2011,32,963,Mariners,LHP,Ryan Hawthorne,Loyola Marymount,4YR,CA,N,
+2011,32,964,Diamondbacks,RHP,Alex Vetter,Feather River (Calif.) JC,JC,CA,N,
+2011,32,965,Orioles,RHP,Ryan Meyer,Oviedo (Fla.)  HS,HS,FL,N,
+2011,32,966,Royals,RHP,Nick Piscotty,"Amador Valley HS, Pleasanton, Calif.",HS,CA,N,
+2011,32,967,Nationals,OF,Billy Burns,Mercer,4YR,GA,Y,
+2011,32,968,Indians,RHP,Cole Pitts,"Colquitt County HS, Moultrie, Ga.",HS,GA,N,
+2011,32,969,Cubs,RHP,Pete Levitt,Mount Olive (N.C.),4YR,NC,Y,
+2011,32,970,Astros,RHP,Zach Dando,Central Arizona JC,JC,AZ,Y,
+2011,32,971,Brewers,SS,Alfredo Rodriguez,Maryland,4YR,MD,N,
+2011,32,972,Mets,SS,Carlos Leyva,Cal State Dominguez Hills,4YR,CA,Y,
+2011,32,973,Marlins,C,Sharif Othman,California Baptist,4YR,CA,Y,
+2011,32,974,Dodgers,OF,Hunter Jennings,Delgado (La.) JC,JC,LA,N,
+2011,32,975,Angels,RHP,John Leonard,Boston College,4YR,MA,Y,
+2011,32,976,Athletics,RHP,Drew Granier,Louisiana-Monroe,4YR,LA,Y,
+2011,32,977,Tigers,OF,Brandon Eckerle,Michigan State,4YR,MI,Y,
+2011,32,978,Rockies,OF,Jarod Berggren,Northern Colorado,4YR,CO,Y,
+2011,32,979,Blue Jays,OF,Kevin Pillar,Cal State Dominguez Hills,4YR,CA,Y,
+2011,32,980,Cardinals,C,Jonathan Keener,Cal State Dominguez Hills,4YR,CA,Y,
+2011,32,981,White Sox,C,Brent Tanner,South Alabama,4YR,AL,Y,
+2011,32,982,Red Sox,SS,Julius Gaines,"Luella HS, Locust Grove, Ga.",HS,GA,N,
+2011,32,983,Padres,RHP,Kyle Brule,Oklahoma Baptist,4YR,OK,Y,
+2011,32,984,Rangers,LHP,Sam Robinson,Miami,4YR,FL,Y,
+2011,32,985,Reds,RHP,Mike Dennhardt,Boston College,4YR,MA,Y,
+2011,32,986,Braves,RHP,Matt Kimbrel,Shelton State (Ala.) JC,JC,AL,N,
+2011,32,987,Giants,OF,Mike Mergenthaler,Richmond,4YR,VA,Y,
+2011,32,988,Twins,LHP,Dylan Chavez,American River (Calif.) JC,JC,CA,N,
+2011,32,989,Yankees,RHP,Garrett Nuss,"Mount Dora HS, Sorrento, Fla.",HS,FL,N,
+2011,32,990,Rays,RHP,Ryan Turner,Tarleton State (Texas),4YR,TX,Y,
+2011,32,991,Phillies,RHP,Greg Herbst,St. Mary's (Texas),4YR,TX,Y,
+2011,33,992,Pirates,3B,Chris Lashmet,Northwestern,4YR,IL,Y,
+2011,33,993,Mariners,LHP,Jeremy Dobbs,Austin Peay State,4YR,TN,Y,
+2011,33,994,Diamondbacks,LHP,Anthony Banda,Sinton (Texas) HS,HS,TX,N,
+2011,33,995,Orioles,RHP,Sander Beck,Maryland,4YR,MD,N,
+2011,33,996,Royals,LHP,Abel Gonzales,Rice,4YR,TX,N,
+2011,33,997,Nationals,2B,Trey Karlen,Tennessee-Martin,4YR,TN,Y,
+2011,33,998,Indians,RHP,Jack Wagoner,Florida Gulf Coast,4YR,FL,Y,
+2011,33,999,Cubs,LHP,Sheldon McDonald,British Columbia,4YR,CN,Y,
+2011,33,1000,Astros,OF,Dominique Taylor,Salt Lake JC,JC,UT,N,
+2011,33,1001,Brewers,LHP,Steven Okert,Grayson County (Texas) JC,JC,TX,N,
+2011,33,1002,Mets,RHP,Tyson Seng,Oklahoma,4YR,OK,Y,
+2011,33,1003,Marlins,RHP,James Nygren,Oregon State,4YR,OR,Y,
+2011,33,1004,Dodgers,2B,Malcolm Holland,"Hamilton HS, Chandler, Ariz.",HS,AZ,Y,"$150,000"
+2011,33,1005,Angels,SS,Erik Forgione,"West HS, Chehalis, Wash.",HS,WA,N,
+2011,33,1006,Athletics,2B,Austin Booker,California,4YR,CA,Y,
+2011,33,1007,Tigers,RHP,Dan Kickham,Missouri State,4YR,MO,Y,
+2011,33,1008,Rockies,OF,Jaron Shepherd,Mississippi State,4YR,MS,Y,
+2011,33,1009,Blue Jays,RHP,Kramer Champlin,Arizona State,4YR,AZ,Y,
+2011,33,1010,Cardinals,RHP,Heath Wyatt,Southeastern Oklahoma State,4YR,OK,Y,
+2011,33,1011,White Sox,C,Bryce Mosier,"Valhalla HS, El Cajon, Calif.",HS,CA,Y,
+2011,33,1012,Red Sox,1B,David Chester,Pittsburgh,4YR,PA,Y,
+2011,33,1013,Padres,RHP,James Jones,Louisiana-Monroe,4YR,LA,Y,
+2011,33,1014,Rangers,OF,Jonathan Taylor,Georgia,4YR,GA,N,
+2011,33,1015,Reds,OF,Steve Selsky,Arizona,4YR,AZ,Y,
+2011,33,1016,Braves,3B,Nick Popescu,Texas Tech,4YR,TX,Y,
+2011,33,1017,Giants,C,Brock Bennett,Alabama,4YR,AL,N,
+2011,33,1018,Twins,SS,Stephen Wickens,Florida Gulf Coast,4YR,FL,Y,
+2011,33,1019,Yankees,OF,Spencer O'Neil,"Southridge HS, Kennewick, Wash.",HS,WA,N,
+2011,33,1020,Rays,RHP,Dan Bream,Southern Arkansas,4YR,AR,Y,
+2011,33,1021,Phillies,OF,Brock Stassi,Nevada,4YR,NV,Y,
+2011,34,1022,Pirates,1B,Hommy Rosado,Louisiana State-Eunice JC,JC,LA,N,
+2011,34,1023,Mariners,2B,Taylor Smith-Brennan,Edmonds (Wash.) JC,JC,WA,N,
+2011,34,1024,Diamondbacks,C,Zach Jones,Stanford,4YR,CA,Y,
+2011,34,1025,Orioles,LHP,Zach Fowler,Texas Tech,4YR,TX,Y,
+2011,34,1026,Royals,RHP,Ali Williams,Charleston Southern,4YR,SC,Y,
+2011,34,1027,Nationals,RHP,Calvin Drummond,San Diego,4YR,CA,N,
+2011,34,1028,Indians,RHP,Tyler Maloof,Georgia,4YR,GA,N,
+2011,34,1029,Cubs,OF,Bobby Kelley,Calhoun (Ala.) JC,JC,AL,N,
+2011,34,1030,Astros,RHP,Dustin Kellogg,"Caney Creek HS, Conroe, Texas",HS,TX,Y,
+2011,34,1031,Brewers,C,Adam Weisenburger,Miami (Ohio),4YR,OH,Y,
+2011,34,1032,Mets,RHP,Seth Lugo,Centenary,4YR,NJ,Y,
+2011,34,1033,Marlins,OF,John Schultz,Pittsburgh,4YR,PA,Y,
+2011,34,1034,Dodgers,RHP,Rob Chamra,North Carolina State,4YR,NC,Y,
+2011,34,1035,Angels,OF,Andy Workman,Arizona State,4YR,AZ,Y,
+2011,34,1036,Athletics,LHP,Alfredo Unzue,"Calabasas, Calif. (No school)",NS,CA,N,
+2011,34,1037,Tigers,C,Zach Maggard,Florida Southern,4YR,FL,Y,
+2011,34,1038,Rockies,RHP,Chris Dennis,Portland,4YR,OR,Y,
+2011,34,1039,Blue Jays,C,Aaron Munoz,Northwestern State,4YR,LA,Y,
+2011,34,1040,Cardinals,2B,Tyler Rahmatulla,UCLA,4YR,CA,Y,
+2011,34,1041,White Sox,RHP,Dakota Freese,"Washington HS, Cedar Rapids, Iowa",HS,IA,N,
+2011,34,1042,Red Sox,LHP,Sean Dartnell,Vauxhall (Alb.) HS,HS,CN,N,
+2011,34,1043,Padres,RHP,Dennis O'Grady,Duke,4YR,NC,Y,
+2011,34,1044,Rangers,RHP,Taylor Dennis,Southern Indiana,4YR,IN,Y,
+2011,34,1045,Reds,OF,Bryson Smith,Florida,4YR,FL,Y,
+2011,34,1046,Braves,OF,Chris Bullard,Western Kentucky,4YR,KY,Y,
+2011,34,1047,Giants,1B,Ben Thomas,Xavier,4YR,OH,Y,
+2011,34,1048,Twins,OF,Ryan Tella,Ohlone (Calif.) JC,JC,CA,N,
+2011,34,1049,Yankees,RHP,Skylar Janisse,"St. Thomas of Villanova SS, LaSalle, Ont.",HS,CN,N,
+2011,34,1050,Rays,RHP,Zach Butler,McNeese State,4YR,LA,Y,
+2011,34,1051,Phillies,SS,Brandon Pletsch,"Rancho HS, Las Vegas",HS,NV,N,
+2011,35,1052,Pirates,2B,Reid Matthews,"Dobyns-Bennett HS, Kingsport, Tenn.",HS,TN,N,
+2011,35,1053,Mariners,OF,Cory Scammell,"St. Francis Xavier HS, Edmonton",HS,CN,Y,
+2011,35,1054,Diamondbacks,RHP,Ross Gerdeman,Bowling Green State,4YR,OH,Y,
+2011,35,1055,Orioles,RHP,Lindsey Caughel,Stetson,4YR,FL,N,
+2011,35,1056,Royals,OF,Gabriel Gray,Hazelhurst (Miss.) HS,HS,MS,Y,
+2011,35,1057,Nationals,RHP,Alex Kreis,Jamestown (N.D.),4YR,ND,Y,
+2011,35,1058,Indians,RHP,Mason Radeke,Cal Poly,4YR,CA,Y,
+2011,35,1059,Cubs,RHP,Ian Dickson,Lafayette (Pa.),4YR,PA,Y,"$100,000"
+2011,35,1060,Astros,RHP,Chris Morales,"Clear Creek HS, League City, Texas",HS,TX,N,
+2011,35,1061,Brewers,C,Doug Elliot,Connecticut,4YR,CT,Y,
+2011,35,1062,Mets,RHP,Chasen Bradford,Central Florida,4YR,FL,Y,
+2011,35,1063,Marlins,RHP,Johnny Omahen,Cal State San Marcos,4YR,CA,Y,
+2011,35,1064,Dodgers,LHP,Mike Thomas,Rider,4YR,NJ,Y,
+2011,35,1065,Angels,LHP,Stephen Tromblee,Lamar,4YR,TX,Y,
+2011,35,1066,Athletics,RHP,Max Perlman,Harvard,4YR,MA,Y,
+2011,35,1067,Tigers,RHP,Eric Heckaman,Western Michigan,4YR,MI,Y,
+2011,35,1068,Rockies,C,Richard Pirkle,Georgia College & State,4YR,GA,Y,
+2011,35,1069,Blue Jays,RHP,Jerrick Suiter,Valparaiso (Ind.) HS,HS,IN,N,
+2011,35,1070,Cardinals,RHP,Drew Madrigal,California Baptist,4YR,CA,N,
+2011,35,1071,White Sox,RHP,Joe Dvorsky,Texas State,4YR,TX,Y,
+2011,35,1072,Red Sox,C,Carlos Coste,"Academia Bautista HS, San Juan, P.R.",HS,PR,Y,
+2011,35,1073,Padres,2B,Travis Whitmore,Pittsburgh,4YR,PA,Y,
+2011,35,1074,Rangers,RHP,Cy Sneed,Twin Falls (Idaho) HS,HS,ID,N,
+2011,35,1075,Reds,2B,Sam Kimmel,Indian River (Fla.) JC,JC,FL,N,
+2011,35,1076,Braves,LHP,Mike Hashem,Fisher (Mass.),4YR,MA,Y,
+2011,35,1077,Giants,OF,Shawn Payne,Georgia Southern,4YR,GA,Y,
+2011,35,1078,Twins,C,Phillip Chapman,Memphis,4YR,TN,Y,
+2011,35,1079,Yankees,RHP,Chris McCue,"Ardrey Kell HS, Charlotte",HS,NC,N,
+2011,35,1080,Rays,RHP,Johnny Magliozzi,"Dexter HS, Brookline, Mass.",HS,MA,N,
+2011,35,1081,Phillies,LHP,Kyle Freeland,"Jefferson HS, Denver",HS,CO,N,
+2011,36,1082,Pirates,OF,Isaac Ballou,Marshall,4YR,WV,N,
+2011,36,1083,Mariners,RHP,Bo Reeder,East Tennessee State,4YR,TN,Y,
+2011,36,1084,Diamondbacks,C,Bryan Henry,Keystone (Pa.),4YR,PA,Y,
+2011,36,1085,Orioles,RHP,Jeffrey Zona,"Hanover HS, Mechanicsville, Va.",HS,VA,N,
+2011,36,1086,Royals,RHP,Christian Witt,Truman State (Mo.),4YR,MO,Y,
+2011,36,1087,Nationals,LHP,Ben Hawkins,West Florida,4YR,FL,Y,
+2011,36,1088,Indians,LHP,Abel Guerrero,Galveston (Texas) JC,JC,TX,Y,
+2011,36,1089,Cubs,3B,Travis Garcia,Martin Methodist (Tenn.),4YR,TN,Y,
+2011,36,1090,Astros,C,Kevin Gonzalez,Texas A&M,4YR,TX,Y,
+2011,36,1091,Brewers,RHP,Mitchell Conner,Elon,4YR,NC,Y,
+2011,36,1092,Mets,1B,Ryan Hutson,Texas-San Antonio,4YR,TX,Y,
+2011,36,1093,Marlins,3B,Damek Tomscha,Iowa Western JC,JC,IA,N,
+2011,36,1094,Dodgers,2B,Kevin Taylor,Western Nevada JC,JC,NV,Y,
+2011,36,1095,Angels,SS,Brandon Brewer,West Florida,4YR,FL,Y,
+2011,36,1096,Athletics,SS,Brenden Farney,Vacaville (Calif.) HS,HS,CA,N,
+2011,36,1097,Tigers,RHP,Jake Sabol,Central Michigan,4YR,MI,Y,
+2011,36,1098,Rockies,C,Tyler Servais,"Douglas County HS, Castle Rock, Colo.",HS,CO,N,
+2011,36,1099,Blue Jays,RHP,Arik Sikula,Marshall,4YR,WV,Y,
+2011,36,1100,Cardinals,C,Casey Rasmus,Liberty,4YR,VA,Y,
+2011,36,1101,White Sox,RHP,Cody Winiarski,Virginia,4YR,VA,Y,
+2011,36,1102,Red Sox,RHP,Jace Herrera,"Wekiva HS, Apopka, Fla.",HS,FL,N,
+2011,36,1103,Padres,OF,Andrew Rash,Virginia Tech,4YR,VA,N,
+2011,36,1104,Rangers,OF,Jeremy Williams,Mobile (Ala.),4YR,AL,Y,
+2011,36,1105,Reds,RHP,Randall Yard,Hawaii,4YR,HI,Y,
+2011,36,1106,Braves,RHP,Gardner Adams,Asbury (Ky.),4YR,KY,Y,
+2011,36,1107,Giants,RHP,Austin Lubinsky,Minnesota,4YR,MN,N,
+2011,36,1108,Twins,OF,Austin Barrois,Belle Chasse (La.) HS,HS,LA,N,
+2011,36,1109,Yankees,RHP,Ryan Thompson,Franklin Pierce (N.H.),4YR,NH,N,
+2011,36,1110,Rays,RHP,Dave Kubiak,Albany,4YR,NY,Y,
+2011,36,1111,Phillies,RHP,Brendon Hayden,"Wilmot Union HS, Twin Lakes, Wis.",HS,WI,N,
+2011,37,1112,Pirates,OF,Rodarrick Jones,Southern,4YR,LA,Y,
+2011,37,1113,Mariners,RHP,Jeremy Null,"Bunker Hill HS, Claremont, N.C.",HS,NC,N,
+2011,37,1114,Diamondbacks,LHP,Elroy Urbina,Incarnate Word (Texas),4YR,TX,Y,
+2011,37,1115,Orioles,C,Nick Skala,Concordia (Ill.),4YR,IL,N,
+2011,37,1116,Royals,SS,Matt Wessinger,St. John's,4YR,NY,N,
+2011,37,1117,Nationals,RHP,Derrick Bleeker,Howard (Texas) JC,JC,TX,N,
+2011,37,1118,Indians,RHP,Taylor Starr,Oregon State,4YR,OR,N,
+2011,37,1119,Cubs,RHP,Steven Maxwell,Texas Christian,4YR,TX,Y,
+2011,37,1120,Astros,RHP,Steve Martin,Texas A&M,4YR,TX,Y,
+2011,37,1121,Brewers,RHP,Casey Medlen,North Florida,4YR,FL,Y,
+2011,37,1122,Mets,RHP,Craig Missigman,"Olympic HS, Charlotte",HS,NC,Y,
+2011,37,1123,Marlins,RHP,Jake Ehret,San Dimas (Calif.) HS,HS,CA,N,
+2011,37,1124,Dodgers,3B,Reid Redman,Texas Tech,4YR,TX,N,
+2011,37,1125,Angels,RHP,Brandon Efferson,Southeastern Louisiana,4YR,LA,Y,
+2011,37,1126,Athletics,3B,Eric Wood,"Oshawa, Ontario (No school)",NS,CN,N,
+2011,37,1127,Tigers,RHP,Nick Avila,Nova Southeastern (Fla.),4YR,FL,Y,
+2011,37,1128,Rockies,LHP,Brandon Bonilla,"Pendleton School, Bradenton, Fla.",HS,FL,N,
+2011,37,1129,Blue Jays,RHP,Les Williams,Northeastern,4YR,MA,Y,
+2011,37,1130,Cardinals,RHP,Brad Watson,Wartburg (Iowa),4YR,IA,Y,
+2011,37,1131,White Sox,LHP,Todd Kibby,St. Petersburg (Fla.) JC,JC,FL,Y,
+2011,37,1132,Red Sox,OF,Robert Youngdahl,"Hill-Murray HS, Maplewood, Minn.",HS,MN,N,
+2011,37,1133,Padres,SS,Cody Semler,Allen (Texas) HS,HS,TX,N,
+2011,37,1134,Rangers,SS,Bryce Greager,Fountain Hills (Ariz.) HS,HS,AZ,N,
+2011,37,1135,Reds,OF,Michael Suiter,"Punahou HS, Honolulu",HS,HI,N,
+2011,37,1136,Braves,RHP,Ryne Harper,Austin Peay State,4YR,TN,Y,
+2011,37,1137,Giants,C,Michael Williams,Kentucky,4YR,KY,N,
+2011,37,1138,Twins,OF,Drew Leachman,Birmingham-Southern,4YR,AL,Y,
+2011,37,1139,Yankees,RHP,Ryan Harris,Jupiter (Fla.) HS,HS,FL,N,
+2011,37,1140,Rays,RHP,Tanner Poppe,Kansas,4YR,KS,N,
+2011,37,1141,Phillies,RHP,Mike Nastold,Louisville,4YR,KY,N,
+2011,38,1142,Pirates,SS,D.J. Crumlich,UC Irvine,4YR,CA,N,
+2011,38,1143,Mariners,RHP,Alex Sunderland,Claremont McKenna (Calif.),4YR,CA,Y,
+2011,38,1144,Diamondbacks,OF,Kerry Jenkins,San Jose State,4YR,CA,Y,
+2011,38,1145,Orioles,2B,Jerome Pena,Texas Christian,4YR,TX,Y,
+2011,38,1146,Royals,RHP,Andrew Durden,Nova Southeastern (Fla.),4YR,FL,Y,
+2011,38,1147,Nationals,LHP,Brett Mooneyham,Stanford,4YR,CA,N,
+2011,38,1148,Indians,SS,Yhoxian Medina,Southeastern (Iowa) JC,JC,IA,Y,
+2011,38,1149,Cubs,RHP,Casey Lucchese,College of Charleston,4YR,SC,N,
+2011,38,1150,Astros,RHP,Brad Propst,Oklahoma State,4YR,OK,Y,
+2011,38,1151,Brewers,RHP,Chad Pierce,Wisconsin-Milwaukee,4YR,WI,Y,
+2011,38,1152,Mets,RHP,Dustin Emmons,UC Riverside,4YR,CA,Y,
+2011,38,1153,Marlins,RHP,Joe Ceja,"Marquette HS, Ottawa, Ill.",HS,IL,N,
+2011,38,1154,Dodgers,OF,Devin Shines,Oklahoma State,4YR,OK,Y,
+2011,38,1155,Angels,RHP,Frank DeJiulio,Tampa,4YR,FL,Y,
+2011,38,1156,Athletics,SS,Alex Blandino,"St. Francis HS, Mountain View, Calif.",HS,CA,N,
+2011,38,1157,Tigers,C,Blaise Salter,"St. Mary's Prep HS, Orchard Lake Village, Mich.",HS,MI,N,
+2011,38,1158,Rockies,OF,Boo Vazquez,"Cardinal Mooney HS, Youngstown, Ohio",HS,OH,N,
+2011,38,1159,Blue Jays,OF,Nico Taylor,Northwood (Texas),4YR,TX,Y,
+2011,38,1160,Cardinals,3B,Jeremy Patton,Florida International,4YR,FL,Y,
+2011,38,1161,White Sox,RHP,Keegan Linza,Liberty,4YR,VA,Y,
+2011,38,1162,Red Sox,RHP,Tyler Poole,Hickory (N.C.) HS,HS,NC,N,
+2011,38,1163,Padres,RHP,Pat Connaughton,"St. John's Prep, Danvers, Mass.",HS,MA,N,
+2011,38,1164,Rangers,RHP,Tucker Donahue,Stetson,4YR,FL,N,
+2011,38,1165,Reds,OF,Dan Bowman,Coastal Carolina,4YR,SC,N,
+2011,38,1166,Braves,RHP,Nate Williams,Valley Center (Kan.) HS,HS,KS,N,
+2011,38,1167,Giants,1B,Bryan Nicholson,Concordia (Calif.),4YR,CA,Y,
+2011,38,1168,Twins,RHP,Alex Keudell,Oregon,4YR,OR,N,
+2011,38,1169,Yankees,RHP,Joey Maher,Bedford (N.H) HS,HS,NH,Y,"$300,000"
+2011,38,1170,Rays,C,Brandon Choate,Southern Arkansas,4YR,AR,Y,
+2011,38,1171,Phillies,LHP,Brett Maggard,"Hernando HS, Brooksville, Fla.",HS,FL,N,
+2011,39,1172,Pirates,OF,Rand Ravnaas,Georgetown,4YR,DC,N,
+2011,39,1173,Mariners,OF,Chris Andreas,Sam Houston State,4YR,TX,Y,
+2011,39,1174,Diamondbacks,OF,Chris Ellison,Oklahoma,4YR,OK,Y,
+2011,39,1175,Orioles,C,Pat Cantwell,Stony Brook,4YR,NY,N,
+2011,39,1176,Royals,SS,Garrett Mattlage,"West HS, Stinnett, Texas",HS,TX,N,
+2011,39,1177,Nationals,OF,Peter Verdin,Georgia,4YR,GA,N,
+2011,39,1178,Indians,OF,John Barr,Virginia,4YR,VA,Y,
+2011,39,1179,Cubs,RHP,Ricky Jacquez,"Franklin HS, El Paso",HS,TX,N,
+2011,39,1180,Astros,RHP,David Haerle,JC of the Canyons (Calif.),JC,CA,N,
+2011,39,1181,Brewers,LHP,Elliott Glynn,Connecticut,4YR,CT,Y,
+2011,39,1182,Mets,OF,Charley Thurber,Tennessee,4YR,TN,Y,
+2011,39,1183,Marlins,RHP,Travis Huber,JC of Southern Idaho,JC,ID,N,
+2011,39,1184,Dodgers,RHP,Jordan Kipper,"Mountain Pointe HS, Phoenix",HS,AZ,N,
+2011,39,1185,Angels,OF,Chris Giovinazzo,UCLA,4YR,CA,Y,
+2011,39,1186,Athletics,2B,Shane Boras,Southern California,4YR,CA,Y,
+2011,39,1187,Tigers,RHP,Cole Brocker,Sacramento JC,JC,CA,N,
+2011,39,1188,Rockies,RHP,Chase Williams,Broken Arrow (Okla.) HS,HS,OK,N,
+2011,39,1189,Blue Jays,RHP,Chris Cox,Canisus,4YR,NY,N,
+2011,39,1190,Cardinals,LHP,Tyler Melling,Miami (Ohio),4YR,OH,Y,
+2011,39,1191,White Sox,LHP,Javier Reynoso,"Brooks-DeBartolo Collegiate HS, Tampa",HS,FL,N,
+2011,39,1192,Red Sox,RHP,Corey Vogt,Keene State (N.H.),4YR,NH,Y,
+2011,39,1193,Padres,RHP,Josh Pond,Cal State San Bernardino,4YR,CA,N,
+2011,39,1194,Rangers,OF,Trumon Jefferson,Decatur (Ga.) HS,HS,GA,N,
+2011,39,1195,Reds,RHP,Justin Amlung,Louisville,4YR,KY,N,
+2011,39,1196,Braves,OF,Daniel Arellano,"Centennial HS, Corona, Calif.",HS,CA,N,
+2011,39,1197,Giants,LHP,Ryan Holland,Memphis,4YR,TN,N,
+2011,39,1198,Twins,RHP,Rocky McCord,Spanish Fort (Ala.) HS,HS,AL,N,
+2011,39,1199,Yankees,LHP,Taylor Guilbeau,Zachary (La.) HS,HS,LA,N,
+2011,39,1200,Rays,LHP,T.J. Geith,Scottsdale (Ariz.) JC,JC,AZ,Y,
+2011,39,1201,Phillies,RHP,Tim Ponto,"Roberts HS, Pottstown, Pa.",HS,PA,N,
+2011,40,1202,Pirates,2B,Raph Rhymes,Louisiana State,4YR,LA,N,
+2011,40,1203,Mariners,RHP,Trevor Miller,San Joaquin Delta (Calif.) JC,JC,CA,Y,
+2011,40,1204,Diamondbacks,RHP,Seth Simmons,East Carolina,4YR,NC,Y,
+2011,40,1205,Orioles,LHP,Bennett Parry,"Poway, Calif. (No school)",NS,CA,Y,
+2011,40,1206,Royals,1B,Ben Waldrip,Jacksonville State,4YR,AL,N,
+2011,40,1207,Nationals,OF,Cory Collum,Cartersville (Ga.) HS,HS,GA,N,
+2011,40,1208,Indians,SS,Matt Eureste,"St. Pius X HS, Houston",HS,TX,N,
+2011,40,1209,Cubs,RHP,Patrick Francescon,Trevecca Nazarene (Tenn.),4YR,TN,Y,
+2011,40,1210,Astros,RHP,Buddy Lamothe,San Jacinto (Texas) JC,JC,TX,N,
+2011,40,1211,Brewers,C,Keaton Aldridge,"Glenwood School, Smiths Station, Ala.",HS,AL,N,
+2011,40,1212,Mets,C,Alexis Mercado,"Otay Ranch HS, Chula Vista, Calif.",HS,CA,N,
+2011,40,1213,Marlins,SS,Trent Gilbert,Torrance (Calif.) HS,HS,CA,N,
+2011,40,1214,Dodgers,2B,Stefan Jarrin,"San Gabriel, Calif. (No school)",NS,CA,Y,
+2011,40,1215,Angels,RHP,Joe Church,Marshall,4YR,WV,N,
+2011,40,1216,Athletics,3B,Nic Coffman,"Wilson HS, Portland, Ore.",HS,OR,N,
+2011,40,1217,Tigers,1B,Ryan Krill,Portage (Mich.) Central HS,HS,MI,N,
+2011,40,1218,Rockies,2B,Drew Stankiewicz,Gilbert (Ariz.) HS,HS,AZ,N,
+2011,40,1219,Blue Jays,OF,Nick Baligod,Oral Roberts,4YR,OK,Y,
+2011,40,1220,Cardinals,C,Kyle Arnsberg,McLennan (Texas) JC,JC,TX,N,
+2011,40,1221,White Sox,RHP,Jake Reed,"Helix Charter HS, La Mesa, Calif.",HS,CA,N,
+2011,40,1222,Red Sox,LHP,Jordan Gross,"Don Bosco Prep, Ramsey, N.J.",HS,NJ,N,
+2011,40,1223,Padres,3B,Taylor Murphy,"Torrey Pines HS, San Diego",HS,CA,N,
+2011,40,1224,Rangers,RHP,Josh Peterson,"Unaka HS, Elizabethton, Tenn.",HS,TN,N,
+2011,40,1225,Reds,3B,Sam Travis,"Providence Catholic HS, New Lenox, Ill.",HS,IL,N,
+2011,40,1226,Braves,3B,Jacoby Almaraz,San Jacinto (Texas) JC,JC,TX,N,
+2011,40,1227,Giants,RHP,Alan Garcia,Eastern Arizona JC,JC,AZ,N,
+2011,40,1228,Twins,RHP,Kyle Barraclough,St. Mary's,4YR,CA,N,
+2011,40,1229,Yankees,SS,Tyler Hanover,Louisiana State,4YR,LA,N,
+2011,40,1230,Rays,RHP,Joe Perricone,"Hersey HS, Arlington Heights, Ill.",HS,IL,N,
+2011,40,1231,Phillies,1B,Brendan Hendriks,Vauxhall (Alb.) HS,HS,CN,N,
+2011,41,1232,Pirates,C,Jonathan Schwind,Marist,4YR,NY,Y,
+2011,41,1233,Mariners,RHP,Bobby Shore,Oklahoma,4YR,OK,Y,
+2011,41,1234,Diamondbacks,RHP,Michael Cederoth,"Steele Canyon HS, Spring Valley, Calif.",HS,CA,N,
+2011,41,1235,Orioles,SS,Chris Mariscal,"Clovis North HS, Fresno",HS,CA,N,
+2011,41,1236,Royals,C,Travis Lane,Central Arizona JC,JC,AZ,Y,
+2011,41,1237,Nationals,3B,Bryce Ortega,Arizona,4YR,AZ,Y,
+2011,41,1238,Indians,OF,Brian Ruiz,"Lincoln West HS, Cleveland",HS,OH,Y,
+2011,41,1239,Cubs,RHP,Austin Urban,Des Moines Area JC,JC,IA,Y,"$100,000"
+2011,41,1240,Astros,1B,Chase Davidson,Georgia,4YR,GA,Y,
+2011,41,1241,Brewers,3B,Jalen Harris,"Lambrick Park SS, Victoria, B.C.",HS,CN,Y,
+2011,41,1242,Mets,LHP,Mark Picca,Texas-Arlington,4YR,TX,Y,
+2011,41,1243,Marlins,RHP,Matt Anderson,Chaffey (Calif.) JC,JC,CA,N,
+2011,41,1244,Dodgers,2B,Casey Thomas,"Desert Vista HS, Phoenix",HS,AZ,N,
+2011,41,1245,Angels,RHP,Brandon McNelis,Northeastern,4YR,MA,Y,
+2011,41,1246,Athletics,SS,Brett Bittiger,"Pius X HS, Bangor, Pa.",HS,PA,N,
+2011,41,1247,Tigers,OF,Jimmy Pickens,"Brother Rice HS, Bloomfield Hills, Mich.",HS,MI,N,
+2011,41,1248,Rockies,RHP,Taylor Martin,Lexington (Ky.) Catholic HS,HS,KY,N,
+2011,41,1249,Blue Jays,SS,Cody Bartlett,Washington State,4YR,WA,Y,
+2011,41,1250,Cardinals,1B,Mike Knox,Mount Olive (N.C.),4YR,NC,Y,
+2011,41,1251,White Sox,RHP,Chandler Shepherd,"Lawrence County HS, Louisa, Ky.",HS,KY,N,
+2011,41,1252,Red Sox,OF,Matt Marquis,Maryland,4YR,MD,Y,
+2011,41,1253,Padres,2B,Dante Flores,"St. John Bosco HS, Bellflower, Calif.",HS,CA,N,
+2011,41,1254,Rangers,OF,Tyler Scott,"Marin Catholic HS, Kentfield, Calif.",HS,CA,N,
+2011,41,1255,Reds,RHP,Carson Baranik,"Parkway HS, Bossier City, La.",HS,LA,N,
+2011,41,1256,Braves,C,Keelin Rasch,Harrisburg (Ill.) HS,HS,IL,N,
+2011,41,1257,Giants,LHP,Steven Neff,South Carolina,4YR,SC,Y,
+2011,41,1258,Twins,RHP,T.J. Oakes,Minnesota,4YR,MN,N,
+2011,41,1259,Yankees,OF,Jeremy Rathjen,Rice,4YR,TX,N,
+2011,41,1260,Rays,LHP,Shay Crawford,Lee (Tenn.),4YR,TN,Y,
+2011,41,1261,Phillies,RHP,Austin Dicharry,Texas,4YR,TX,N,
+2011,42,1262,Pirates,RHP,Nick Hibbing,"Lakes Community HS, Lake Villa, Ill.",HS,IL,N,
+2011,42,1263,Mariners,C,David Villasuso,Miami,4YR,FL,Y,
+2011,42,1264,Diamondbacks,3B,Tyler Bream,Liberty,4YR,VA,Y,
+2011,42,1265,Orioles,RHP,Jason McCracken,Pierce (Calif.) JC,JC,CA,Y,
+2011,42,1266,Royals,2B,Joey Hawkins,"Sinclair SS, Whitby, Ontario",HS,CN,N,
+2011,42,1267,Nationals,SS,David Kerian,"Bishop Heelan HS, Sioux City, Iowa",HS,IA,N,
+2011,42,1268,Indians,SS,K.C. Serna,Oregon,4YR,OR,Y,
+2011,42,1269,Cubs,SS,Brad Zapenas,Boston College,4YR,MA,Y,
+2011,42,1270,Astros,OF,Hoke Granger,"Northside Methodist Academy, Dothan, Ala.",HS,AL,N,
+2011,42,1271,Brewers,SS,Caleb Whalen,"Union HS, Camas, Wash.",HS,WA,N,
+2011,42,1272,Mets,OF,Greg Pron,West Florida,4YR,FL,Y,
+2011,42,1273,Marlins,LHP,Jerad Grundy,Heartland (Ill.) JC,JC,IL,N,
+2011,42,1274,Dodgers,RHP,Max Povse,"Green Hope HS, Cary, N.C.",HS,NC,N,
+2011,42,1275,Angels,3B,Jason Nappi,Harding (Ark.),4YR,AR,Y,
+2011,42,1276,Athletics,C,Brett Geren,"San Ramon Valley HS, Danville, Calif.",HS,CA,N,
+2011,42,1277,Tigers,C,Tim Chadd,"Bishop Carroll HS, Wichita, Kan.",HS,KS,N,
+2011,42,1278,Rockies,RHP,Jordan Johnson,"Franklin HS, Elk Grove, Calif.",HS,CA,N,
+2011,42,1279,Blue Jays,LHP,Shane Davis,Canisius,4YR,NY,Y,
+2011,42,1280,Cardinals,RHP,Cody Poarch,Walters State (Tenn.) JC,JC,TN,N,
+2011,42,1281,White Sox,RHP,Aaron Pangilinan,Escalon (Calif.) HS,HS,CA,N,
+2011,42,1282,Red Sox,3B,Derek O'Dell,Canyon (Texas) HS,HS,TX,N,
+2011,42,1283,Padres,C,Garrett Boulware,"Hanna HS, Anderson, S.C.",HS,SC,N,
+2011,42,1284,Rangers,RHP,Joey Pankake,Easley (S.C.) HS,HS,SC,N,
+2011,42,1285,Reds,C,Jacob Stallings,North Carolina,HS,NC,N,
+2011,42,1286,Braves,OF,Cody Livesay,"Anna-Jonesboro HS, Jonesboro, Ill.",HS,IL,Y,
+2011,42,1287,Giants,RHP,Danny Sandbrink,Stanford,4YR,CA,Y,
+2011,42,1288,Twins,LHP,Matt Tomshaw,Jacksonville,4YR,FL,Y,
+2011,42,1289,Yankees,SS,Kevin Cornelius,Weatherford (Texas) HS,HS,TX,N,
+2011,42,1290,Rays,C,Mike Bourdon,Tampa,4YR,FL,Y,
+2011,42,1291,Phillies,LHP,Andre Kinder,Peru State (Neb.),4YR,NE,Y,
+2011,43,1292,Pirates,OF,Willie Argo,Illinois,4YR,IL,N,
+2011,43,1293,Mariners,RHP,Marcos Reyna,Bakersfield (Calif.) JC,JC,CA,Y,
+2011,43,1294,Diamondbacks,RHP,Alex Capaul,Hawaii,4YR,HI,Y,
+2011,43,1295,Orioles,RHP,David Reynolds,Edmonds (Wash.) JC,JC,WA,N,
+2011,43,1296,Royals,OF,Tyler Chism,Gonzaga,4YR,WA,Y,
+2011,43,1297,Nationals,SS,Mitch Morales,Wellington (Fla.) HS,HS,FL,N,
+2011,43,1298,Indians,LHP,Geoff Davenport,Arkansas,4YR,AR,Y,"$100,000"
+2011,43,1299,Cubs,RHP,Jay Calhoun,"Second Baptist HS, Houston",HS,TX,N,
+2011,43,1300,Astros,OF,David Grimes,"Upton Lakes Christian HS, Clinton Corners, N.Y.",HS,NY,N,
+2011,43,1301,Brewers,RHP,Clint Wilson,Navarro (Texas) JC,JC,TX,N,
+2011,43,1302,Mets,SS,Jacob Decker,Piedmont (Okla.) HS,HS,OK,N,
+2011,43,1303,Marlins,LHP,Drew Leenhouts,Northeastern,4YR,MA,N,
+2011,43,1304,Dodgers,RHP,Alex Hermeling,"Glenbrook North HS, Northbrook, Ill.",HS,IL,N,
+2011,43,1305,Angels,C,Kyle Mahoney,High Point,4YR,NC,Y,
+2011,43,1306,Athletics,LHP,Adam Frank,"Field HS, Gilbert, Ariz.",HS,AZ,N,
+2011,43,1307,Tigers,C,Greg Fettes,"Lamphere HS, Madison Heights, Mich.",HS,MI,N,
+2011,43,1308,Rockies,OF,Garrett Brown,"Erwin HS, Asheville, N.C.",HS,NC,N,
+2011,43,1309,Blue Jays,LHP,Jake Eliopoulos,"Newmarket, Ont. (No school)",NS,CN,N,
+2011,43,1310,Cardinals,RHP,Chris Costantino,Walters State (Tenn.) JC,JC,TN,Y,"$100,000"
+2011,43,1311,White Sox,RHP,Joel Effertz,Madison (Wis.) JC,JC,WI,N,
+2011,43,1312,Red Sox,OF,Brandon Downes,South Plainfield (N.J.) HS,HS,NJ,N,
+2011,43,1313,Padres,SS,Cody Gabella,Southeastern (Iowa) JC,JC,IA,Y,
+2011,43,1314,Rangers,RHP,Kaleb Merck,Texas Christian,4YR,TX,N,
+2011,43,1315,Reds,2B,Ty Washington,Plano (Texas) East HS,HS,TX,Y,"$300,000"
+2011,43,1316,Braves,1B,Jake Lueneberg,Kishwaukee (Ill.) JC,JC,IL,N,
+2011,43,1317,Giants,C,Drew Stiner,Owasso (Okla.) HS,HS,OK,Y,
+2011,43,1318,Twins,RHP,Bobby O'Neill,Biola (Calif.),4YR,CA,Y,
+2011,43,1319,Yankees,RHP,Tyler Farrell,Galesburg (Ill.) HS,HS,IL,N,
+2011,43,1320,Rays,RHP,Stayton Thomas,Texas,4YR,TX,Y,
+2011,43,1321,Phillies,C,Austin Knight,Sumrall (Miss.) HS,HS,MS,N,
+2011,44,1322,Pirates,3B,Bobby LeCount,Edmonds (Wash.) JC,JC,WA,N,
+2011,44,1323,Mariners,RHP,Josh Corrales,Cal State Dominguez Hills,4YR,CA,Y,
+2011,44,1324,Diamondbacks,3B,Derek Luciano,Central Florida,4YR,FL,Y,
+2011,44,1325,Orioles,LHP,Patrick Merkling,Chattanooga State (Tenn.) JC,JC,TN,N,
+2011,44,1326,Royals,LHP,Andrew Vasquez,"Los Osos HS, Rancho Cucamonga, Calif.",HS,CA,N,
+2011,44,1327,Nationals,3B,Matt Snyder,Mississippi,4YR,MS,N,
+2011,44,1328,Indians,RHP,Adam Griffin,"Forsyth Country Day HS, Lewisville, N.C.",HS,NC,N,
+2011,44,1329,Cubs,SS,Kenny Socorro,Marshall,4YR,WV,Y,
+2011,44,1330,Astros,RHP,Blake Ford,Lamar,4YR,TX,Y,
+2011,44,1331,Brewers,OF,Steve Adam,"Ecole Secondaire L'Essor, Tecumseh, Ont.",HS,CN,N,
+2011,44,1332,Mets,RHP,Clint Sharp,Howard (Texas) JC,JC,TX,N,
+2011,44,1333,Marlins,SS,Zack LaNeve,"Pine-Richland HS, Gibsonia, Pa.",HS,PA,N,
+2011,44,1334,Dodgers,SS,Austin Slater,"Bolles School, Jacksonville",HS,FL,N,
+2011,44,1335,Angels,2B,Landis Ware,Baylor,4YR,TX,Y,
+2011,44,1336,Athletics,SS,Christopher Bostick,"Aquinas Institute, Rochester, N.Y.",HS,NY,Y,"$125,000"
+2011,44,1337,Tigers,OF,Chretien Matz,Arkansas-Pine Bluff,4YR,AR,Y,
+2011,44,1338,Rockies,RHP,Robert Kahana,"Campbell HS, Ewa Beach, Hawaii",HS,HI,N,
+2011,44,1339,Blue Jays,RHP,Colby Broussard,Faulkner (Ala.),4YR,AL,Y,
+2011,44,1340,Cardinals,RHP,Brandon Creath,Embry-Riddle (Fla.),4YR,FL,Y,
+2011,44,1341,White Sox,LHP,Joe Pistorese,"Flathead HS, Kalispell, Mont.",HS,MT,N,
+2011,44,1342,Red Sox,C,Matt Martin,"Pendleton School, Bradenton, Fla.",HS,FL,N,
+2011,44,1343,Padres,LHP,Spenser Linney,"Head-Royce School, Oakland",HS,CA,N,
+2011,44,1344,Rangers,LHP,Phil Pfeifer,"Farragut HS, Knoxville",HS,TN,N,
+2011,44,1345,Reds,OF,Shon Carson,Lake City (S.C.) HS,HS,SC,N,
+2011,44,1346,Braves,2B,Sutton Whiting,"Ballard HS, Louisville",HS,KY,N,
+2011,44,1347,Giants,SS,Travious Relaford,Hinds (Miss.) JC,JC,MS,Y,"$100,000"
+2011,44,1348,Twins,RHP,Cole Johnson,Notre Dame,4YR,IN,Y,
+2011,44,1349,Yankees,RHP,Adam Ravenelle,"Lincoln-Sudbury HS, Sudbury, Mass.",HS,MA,N,
+2011,44,1350,Rays,1B,Jordan Leyland,UC Irvine,4YR,CA,N,
+2011,44,1351,Phillies,LHP,Nevin Wilson,"Chaparral HS, Scottsdale, Ariz.",HS,AZ,N,
+2011,45,1352,Pirates,LHP,Robbie Ingram,Yavapai (Ariz.) JC,JC,AZ,N,
+2011,45,1353,Mariners,OF,Charles Jimenez,Milton (Fla.) HS,HS,FL,Y,
+2011,45,1354,Diamondbacks,OF,Jake Lane,"Coral Shores HS, Tavernier, Fla.",HS,FL,N,
+2011,45,1355,Orioles,RHP,Andrew Millner,Feather River (Calif.) JC,JC,CA,N,
+2011,45,1356,Royals,RHP,Julio Morales,Bethune-Cookman,4YR,FL,Y,
+2011,45,1357,Nationals,RHP,Richie Mirowski,Oklahoma Baptist,4YR,OK,Y,
+2011,45,1358,Indians,OF,Will Jamison,"Evangelical Christian HS, Cordova, Tenn.",HS,TN,N,
+2011,45,1359,Cubs,RHP,Tanner Kichler,Sherwood (Ore.) HS,HS,OR,N,
+2011,45,1360,Astros,OF,Chris Epps,Clemson,4YR,SC,Y,
+2011,45,1361,Brewers,SS,Adrian Williams,UCLA,4YR,CA,Y,
+2011,45,1362,Mets,RHP,Andrew Marra,"St. Thomas of Villanova SS, LaSalle, Ont.",HS,CN,N,
+2011,45,1363,Marlins,OF,Tim Zufall,Lamar (Colo.) JC,JC,CO,N,
+2011,45,1364,Dodgers,OF,James Lynch,Salisbury (Conn.) HS,HS,CT,N,
+2011,45,1365,Angels,C,Matt Scioscia,Notre Dame,4YR,IN,Y,
+2011,45,1366,Athletics,OF,C.J. Jacobe,Vacaville (Calif.) HS,HS,CA,N,
+2011,45,1367,Tigers,1B,Andrew Allen,Cal State Los Angeles,4YR,CA,N,
+2011,45,1368,Rockies,OF,Will Price,"Greenbrier HS, Evans, Ga.",HS,GA,N,
+2011,45,1369,Blue Jays,3B,Johnny Coy,Wichita State,4YR,KS,N,
+2011,45,1370,Cardinals,2B,Cooper Moseley,Central Alabama JC,JC,AL,N,
+2011,45,1371,White Sox,OF,Cory Farris,Cumberland (Tenn.),4YR,TN,Y,
+2011,45,1372,Red Sox,2B,Matt Gedman,Massachusetts,4YR,MA,Y,
+2011,45,1373,Padres,OF,Will Gross,Tupelo (Miss.) HS,HS,MS,N,
+2011,45,1374,Rangers,LHP,Brandon Finnegan,"Southwest HS, Fort Worth",HS,TX,N,
+2011,45,1375,Reds,LHP,Travis Radke,"Oaks Christian HS, Westlake Village, Calif.",HS,CA,N,
+2011,45,1376,Braves,3B,Sako Chapjian,Glendale (Calif.) JC,JC,CA,N,
+2011,45,1377,Giants,LHP,Brian Maloney,Franklin Pierce (N.H.),4YR,NH,Y,
+2011,45,1378,Twins,2B,Julio Torres,"Puerto Rico Baseball Academy, Gurabo, P.R.",HS,PR,Y,
+2011,45,1379,Yankees,RHP,Cass Ingvardsen,Weatherford (Texas) JC,JC,TX,N,
+2011,45,1380,Rays,C,Kevin Lusson,Texas,4YR,TX,N,
+2011,45,1381,Phillies,RHP,A.J. Ladwig,"Millard West HS, Omaha",HS,NE,N,
+2011,46,1382,Pirates,OF,Jeff Schalk,Wheaton (Ill.) North HS,HS,IL,N,
+2011,46,1383,Mariners,RHP,Maxx Catapano,Lee (Tenn.),4YR,TN,Y,
+2011,46,1384,Diamondbacks,OF,Joe Loftus,Vanderbilt,4YR,TN,Y,
+2011,46,1385,Orioles,LHP,Mark Reyes,"Jessieville HS, Hale, Ark.",HS,AR,N,
+2011,46,1386,Royals,3B,Adrian Bringas,Chico State (Calif.),4YR,CA,Y,
+2011,46,1387,Nationals,OF,Tyler Thompson,Florida,4YR,FL,N,
+2011,46,1388,Indians,RHP,Robert Nixon,Adelphi (N.Y.),4YR,NY,Y,
+2011,46,1389,Cubs,RHP,Scott Weismann,Clemson,4YR,SC,Y,
+2011,46,1390,Astros,1B,Justin Shults,UC Riverside,4YR,CA,Y,
+2011,46,1391,Brewers,SS,Ahmad Christian,"Trinity Christian Academy, Deltona, Fla.",HS,FL,N,
+2011,46,1392,Mets,RHP,Rich Ruff,Quincy (Ill.),4YR,IL,Y,
+2011,46,1393,Marlins,RHP,Zach Cooper,Central Michigan,4YR,MI,N,
+2011,46,1394,Dodgers,C,Victor Munoz,Claremont (Calif.) HS,HS,CA,N,
+2011,46,1395,Angels,LHP,Michael Johnson,Hillsborough (Fla.) CC,HS,FL,Y,"$140,000"
+2011,46,1396,Athletics,C,Nate Esposito,Granite Bay (Calif.) HS,HS,CA,N,
+2011,46,1397,Tigers,OF,Alex Fernandez,"Archbishop McCarthy HS, Southwest Ranches, Fla.",HS,FL,N,
+2011,46,1398,Rockies,C,Nate Causey,Gilbert (Ariz.) HS,HS,AZ,N,
+2011,46,1399,Blue Jays,RHP,Shane Farrell,Marshall,4YR,WV,Y,
+2011,46,1400,Cardinals,C,Chadwick Kaalekahi,"Campbell HS, Ewa Beach, Hawaii",HS,HI,N,
+2011,46,1401,White Sox,RHP,Mike Mancuso,"Brecksville-Broadview Heights HS, Broadview Heights, Ohio",HS,OH,N,
+2011,46,1402,Red Sox,OF,Mac Williamson,Wake Forest,4YR,NC,N,
+2011,46,1403,Padres,2B,Eddie Salomon,Beaumont (Calif.) HS,HS,CA,N,
+2011,46,1404,Rangers,RHP,Tyler Powell,"Myers Park HS, Charlotte",HS,NC,N,
+2011,46,1405,Reds,3B,Jose Brizuela,"Archbishop McCarthy HS, Southwest Ranches, Fla.",HS,FL,N,
+2011,46,1406,Braves,LHP,John Means,"Gardner-Edgerton HS, Gardner, Kan.",HS,KS,N,
+2011,46,1407,Giants,OF,Elliott Blair,Oklahoma,4YR,OK,Y,
+2011,46,1408,Twins,LHP,Jared Dettmann,Somerset (Wis.) HS,HS,WI,N,
+2011,46,1409,Yankees,3B,Conner Mach,Missouri,4YR,MO,N,
+2011,46,1410,Rays,C,Max Rossiter,Central Arizona JC,JC,AZ,N,
+2011,46,1411,Phillies,C,Scott Tomassetti,"Sierra Vista HS, Las Vegas",HS,NV,N,
+2011,47,1412,Pirates,OF,Jordan DeLuca,"Tussey Mountain HS, Saxton, Pa.",HS,PA,N,
+2011,47,1413,Mariners,RHP,Brandon Plotz,Chabot (Calif.) JC,JC,CA,Y,
+2011,47,1414,Diamondbacks,RHP,Tucker Ward,"UMS-Wright Prep HS, Mobile, Ala.",HS,AL,N,
+2011,47,1415,Orioles,OF,Devon Conley,New Mexico JC,JC,NM,N,
+2011,47,1416,Royals,RHP,Patrick Corbett,"Tabb HS, Yorktown, Va.",HS,VA,N,
+2011,47,1417,Nationals,LHP,Tim Montgomery,Rockmart (Ga.) HS,HS,GA,N,
+2011,47,1418,Indians,OF,Corey Embree,Moberly (Mo.) HS,HS,MO,N,
+2011,47,1419,Cubs,RHP,David Ernst,"South HS, Fargo, N.D.",HS,ND,N,
+2011,47,1420,Astros,LHP,Zack Hardoin,Missouri,4YR,MO,Y,
+2011,47,1421,Brewers,OF,Jecid Tarazona,"North Broward Prep, Coconut Creek, Fla.",HS,FL,N,
+2011,47,1422,Mets,RHP,Cole Limbaugh,Childersburg (Ala.) HS,HS,AL,N,
+2011,47,1423,Marlins,C,Joel Thys,Ohlone (Calif.) JC,JC,CA,N,
+2011,47,1424,Dodgers,LHP,Gregg Downing,Franklin Pierce (N.H.),4YR,NH,Y,
+2011,47,1425,Angels,RHP,Brandon Lodge,UCLA,4YR,CA,Y,
+2011,47,1426,Athletics,OF,Jeriel Waller,Grossmont (Calif.) JC,JC,CA,N,
+2011,47,1427,Tigers,C,Ryan MacPhail,"Dutch Fork HS, Irmo, S.C.",HS,SC,N,
+2011,47,1428,Rockies,2B,Casey Scott,"Notre Dame Prep, Scottsdale, Ariz.",HS,AZ,N,
+2011,47,1429,Blue Jays,3B,Austin Davis,"Central Columbia HS, Bloomsburg, Pa.",HS,PA,N,
+2011,47,1430,Cardinals,RHP,David Schmidt,"Christian Brothers College HS, St. Louis",HS,MO,N,
+2011,47,1431,White Sox,C,Robert Llera,Hialeah (Fla.) HS,HS,FL,N,
+2011,47,1432,Red Sox,RHP,Sam Wolff,JC of Southern Nevada,JC,NV,N,
+2011,47,1433,Padres,RHP,Vince Voiro,Pennsylvania,4YR,PA,N,
+2011,47,1434,Rangers,RHP,Kevin Moriarty,"Shorewood HS, Shoreline, Wash.",HS,WA,N,
+2011,47,1435,Reds,2B,Kirby Pellant,Chandler-Gilbert (Ariz.) JC,JC,AZ,N,
+2011,47,1436,Braves,LHP,Dane Gronewald,Jefferson (Mo.) JC,JC,MO,N,
+2011,47,1437,Giants,3B,Marc Frazier,Newnan (Ga.) HS,HS,GA,N,
+2011,47,1438,Twins,LHP,John Hochstatter,"San Ramon Valley HS, Danville, Calif.",HS,CA,N,
+2011,47,1439,Yankees,OF,Ethan Springston,"Seton Catholic HS, Chandler, Ariz.",HS,AZ,N,
+2011,47,1440,Rays,RHP,Derek Vaughn,Texas Wesleyan,4YR,TX,N,
+2011,47,1441,Phillies,2B,Andrew Amaro,"Penn Charter HS, Philadelphia",HS,PA,N,
+2011,48,1442,Pirates,RHP,Zach Thompson,"Grace Prep Academy, Arlington, Arlington, Texas",HS,TX,N,
+2011,48,1443,Mariners,RHP,Max Krakowiak,Fordham,4YR,NY,Y,
+2011,48,1444,Diamondbacks,RHP,Ray Hernandez,Cal State Fullerton,4YR,CA,Y,
+2011,48,1445,Orioles,OF,Tyler Hunter,"Lowndes HS, Valdosta, Ga.",HS,GA,N,
+2011,48,1446,Royals,C,Matt Beaty,Dresden (Tenn.) HS,HS,TN,N,
+2011,48,1447,Nationals,OF,Mike Bisenius,Wayne State (Mich.),4YR,MI,N,
+2011,48,1448,Indians,RHP,Blaine O'Brien,Keystone (Pa.),4YR,PA,N,
+2011,48,1449,Cubs,LHP,Sam Howard,Cartersville (Ga.) HS,HS,GA,N,
+2011,48,1450,Astros,C,A.J. Murray,Westfield (N.J.) HS,HS,NJ,N,
+2011,48,1451,Brewers,LHP,Mike Francisco,Villanova,4YR,PA,Y,
+2011,48,1452,Mets,RHP,Malcolm Clapsaddle,Santa Fe (Fla.) JC,JC,FL,N,
+2011,48,1453,Marlins,2B,Chris Nunez,"Goddard HS, Roswell, N.M.",HS,NM,N,
+2011,48,1454,Dodgers,SS,Kevin Thompson,Eastern New Mexico,4YR,NM,Y,
+2011,48,1455,Angels,C,Ricky Pacione,Marist,4YR,NY,Y,
+2011,48,1456,Athletics,OF,Travis Feeney,"Pinole Valley HS, Pinole, Calif.",HS,CA,N,
+2011,48,1457,Tigers,OF,Lavaris McCullough,Palatka (Fla.) HS,HS,FL,N,
+2011,48,1458,Rockies,RHP,Clay Bauer,JC of San Mateo (Calif.),JC,CA,N,
+2011,48,1459,Blue Jays,OF,Jake Wakamatsu,Keller (Texas) HS,HS,TX,N,
+2011,48,1460,Cardinals,OF,Brock Asher,Aiea (Hawaii) HS,HS,HI,N,
+2011,48,1461,White Sox,OF,Dontrell Rush,"Harlan Community HS, Chicago",HS,IL,N,
+2011,48,1462,Red Sox,RHP,David Sosebee,"White County HS, Cleveland, Ga.",HS,GA,N,
+2011,48,1463,Padres,SS,Kent Rollins,"South Gwinnett HS, Snellville, Ga.",HS,GA,N,
+2011,48,1464,Rangers,RHP,Carl Edwards,"Mid-Carolina HS, Prosperity, S.C.",HS,SC,Y,
+2011,48,1465,Reds,LHP,Tyler Webb,South Carolina,4YR,SC,N,
+2011,48,1466,Braves,3B,Alex Real,"Boulder Creek HS, Anthem, Ariz.",HS,AZ,N,
+2011,48,1467,Giants,RHP,Jake Smith,Campbell,4YR,NC,Y,
+2011,48,1468,Twins,RHP,Garret Peterson,DuBois (Pa.) Area HS,HS,PA,N,
+2011,48,1469,Yankees,LHP,Wes Benjamin,St. Charles (Ill.) East HS,HS,IL,N,
+2011,48,1470,Rays,LHP,Brandon Leibrandt,"Marist School, Atlanta",HS,GA,N,
+2011,48,1471,Phillies,1B,Kewby Meyer,"Kamehameha HS, Honolulu",HS,HI,N,
+2011,49,1472,Pirates,3B,Austin White,"Arkansas HS, Texarkana, Ark.",HS,AR,N,
+2011,49,1473,Mariners,1B,Andrew Grifol,Santa Fe (Fla.) JC,JC,FL,N,
+2011,49,1474,Diamondbacks,1B,Jake Williams,South Mountain (Ariz.) JC,JC,AZ,Y,
+2011,49,1475,Orioles,RHP,Ronnie Shaban,Virginia Tech,4YR,VA,N,
+2011,49,1476,Royals,3B,Adrian Morales,South Carolina,4YR,SC,Y,
+2011,49,1477,Nationals,OF,Hunter Cole,"Dorman HS, Roebuck, S.C.",HS,SC,N,
+2011,49,1478,Indians,OF,Brian Hansen,St. Cloud State (Minn.),4YR,MN,N,
+2011,49,1479,Cubs,LHP,Antonio Gonzales,"Damien HS, La Verne, Calif.",HS,CA,N,
+2011,49,1480,Astros,RHP,Dave Peterson,College of Charleston,4YR,SC,N,
+2011,49,1481,Brewers,2B,Gant Elmore,Yale,4YR,CT,Y,
+2011,49,1482,Mets,LHP,Sean Buckle,"Wilson HS, Long Beach",HS,CA,N,
+2011,49,1483,Marlins,RHP,Connor Little,Hawaii,4YR,HI,N,
+2011,49,1484,Dodgers,C,J.J. Ethel,Louisville,4YR,KY,Y,
+2011,49,1485,Angels,RHP,Matt Vedo,UC Santa Barbara,4YR,CA,N,
+2011,49,1486,Athletics,OF,Charles Sheffield,"Pendleton School, Bradenton, Fla.",HS,FL,N,
+2011,49,1487,Tigers,OF,Brett Impemba,"Dakota HS, Macomb, Mich.",HS,MI,N,
+2011,49,1488,Rockies,SS,Tyler Bernard,Palomar (Calif.) JC,JC,CA,N,
+2011,49,1489,Blue Jays,LHP,Charlie LaMar,Clearwater (Fla.) Central Catholic HS,HS,FL,N,
+2011,49,1490,Cardinals,RHP,Corey Baker,Pittsburgh,4YR,PA,Y,
+2011,49,1491,White Sox,OF,Zach Regier,Gilbert (Ariz.) HS,HS,AZ,N,
+2011,49,1492,Red Sox,RHP,Jadd Schmeltzer,Cornell,4YR,NY,Y,
+2011,49,1493,Padres,OF,Ryan Hutchison,Western Kentucky,4YR,KY,N,
+2011,49,1494,Rangers,RHP,Mick VanVossen,"Forest Hills Central HS, Grand Rapids, Mich.",HS,MI,N,
+2011,49,1495,Reds,RHP,Eric Alessio,Marist,4YR,NY,Y,
+2011,49,1496,Braves,RHP,Cody Cox,Thomas Nelson (Va.) JC,JC,VA,N,
+2011,49,1497,Giants,2B,Benny Sosnick,"Jewish Community HS of the Bay, San Francisco",HS,CA,N,
+2011,49,1498,Twins,2B,Drake Roberts,Brenham (Texas) HS,HS,TX,N,
+2011,49,1499,Yankees,RHP,Tyler Mapes,Navarro (Texas) JC,JC,TX,N,
+2011,49,1500,Rays,C,Alan Baldwin,Kailua (Hawaii) HS,HS,HI,N,
+2011,49,1501,Phillies,OF,Johnny Knight,Sebring (Fla.) HS,HS,FL,Y,
+2011,50,1502,Pirates,RHP,Zech Lemond,"Waltrip HS, Houston",HS,TX,N,
+2011,50,1503,Mariners,1B,Esteban Tresgallo,Colegio Marista de Guaynabo (P.R.),HS,PR,N,
+2011,50,1504,Diamondbacks,SS,David Masters,"Timberland HS, Wentzville, Mo.",HS,MO,N,
+2011,50,1505,Orioles,OF,Brendan Butler,"Carroll School, Bel Air, Md.",HS,MD,N,
+2011,50,1506,Royals,3B,Kash Kalkowski,Nebraska,4YR,NE,N,
+2011,50,1507,Nationals,OF,Tony Nix,UC Riverside,4YR,CA,N,
+2011,50,1508,Indians,C,Tyler Baker,"Shawnee Heights HS, Tecumseh, Kan.",HS,KS,N,
+2011,50,1509,Cubs,RHP,Cody Edwards,Bellevue (Wash.) JC,JC,WA,N,
+2011,50,1510,Astros,OF,Colton Davis,Lake Wales (Fla.) HS,HS,FL,N,
+2011,50,1511,Brewers,OF,Matt Franco,"St. Thomas Aquinas HS, Fort Lauderdale, Fla.",HS,FL,Y,
+2011,50,1512,Mets,C,Eddie Rohan,Winthrop,4YR,SC,Y,
+2011,50,1513,Marlins,LHP,Cory Caruso,Cal State San Bernadino,4YR,CA,N,
+2011,50,1514,Dodgers,RHP,Chris Ellis,"Spain Park HS, Birmingham",HS,AL,N,
+2011,50,1515,Angels,C,Trent Garrison,Fresno State,4YR,CA,N,
+2011,50,1516,Athletics,RHP,Travis Pitcher,Cypress (Calif.) JC,4YR,CA,N,
+2011,50,1517,Tigers,OF,Brandon Webber,"Bishop Carroll HS, Wichita, Kan.",HS,KS,N,
+2011,50,1518,Rockies,OF,Heath Holder,Loganville (Ga.) HS,HS,GA,N,
+2011,50,1519,Blue Jays,RHP,Eric Brown,British Columbia,4YR,CN,Y,
+2011,50,1520,Cardinals,2B,Tyler Sibley,Texas State,4YR,TX,N,
+2011,50,1521,White Sox,2B,Jack Graham,"Seneca Valley HS, Harmony, Pa.",HS,PA,N,
+2011,50,1522,Red Sox,RHP,John Gorman,"Catholic Memorial HS, West Roxbury, Mass.",HS,MA,N,
+2011,50,1523,Rangers,RHP,K.C. Wiser,Linfield (Ore.),4YR,OR,Y,
+2011,50,1524,Reds,RHP,Austin Robichaux,"Notre Dame HS, Crowley, La.",HS,LA,N,
+2011,50,1525,Braves,RHP,Kevin McKague,Army,4YR,NY,N,
+2011,50,1526,Giants,OF,Waldyvan Estrada,"International Baseball Academy, Cieba, P.R.",HS,PR,N,
+2011,50,1527,Twins,RHP,Bryan Burgher,"Emerald Ridge HS, Puyallup, Wash.",HS,WA,N,
+2011,50,1528,Yankees,OF,Cody Stewart,"Great Oak HS, Temecula, Calif.",HS,CA,N,
+2011,50,1529,Rays,C,Ian Tomkins,Abilene Christian (Texas),4YR,TX,Y,
+2011,50,1530,Phillies,RHP,Koyla Stephenson,Ocean City (N.J.) HS,HS,NJ,N,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
