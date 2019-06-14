@@ -1,9 +1,9 @@
 from flask import Flask, jsonify, render_template
-import pymysql
-import sqlalchemy
-import flask_sqlalchemy
-import pandas
-import os
+# import pymysql
+# import sqlalchemy
+# import flask_sqlalchemy
+# import pandas
+# import os
 # from libs import scraper
 
 ##detect your environment, and conditionally load config file
