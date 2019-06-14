@@ -4,7 +4,7 @@ import sqlalchemy
 import flask_sqlalchemy
 import pandas
 import os
-from libs import scraper
+# from libs import scraper
 
 ##detect your environment, and conditionally load config file
 if not os.environ.get('DYNO'):
@@ -36,9 +36,9 @@ def home():
 def data():
     return jsonify(df.to_json(orient="records"))
 
-@app.route("/scrape")
-def scrape():
-    return jsonify(scraper.scrape_news())
+# @app.route("/scrape")
+# def scrape():
+#     return jsonify(scraper.scrape_news())
 
 if __name__ == "__main__":
     app.run()
