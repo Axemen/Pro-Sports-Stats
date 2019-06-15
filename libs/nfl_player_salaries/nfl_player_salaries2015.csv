@@ -1,0 +1,4001 @@
+rank,team,name,salary,year
+1,,"
+Drew Brees
+Quarterback
+","$23,800,000  ",2015
+2,,"
+Philip Rivers
+Quarterback
+","$21,166,668  ",2015
+3,,"
+Calvin Johnson
+Wide Receiver
+","$20,558,000  ",2015
+4,,"
+Charles Johnson
+Defensive End
+","$20,020,000  ",2015
+5,,"
+Matt Ryan
+Quarterback
+","$19,500,000  ",2015
+6,,"
+Mario Williams
+Defensive End
+","$19,400,000  ",2015
+7,,"
+Aaron Rodgers
+Quarterback
+","$18,250,000  ",2015
+8,,"
+Matthew Stafford
+Quarterback
+","$17,721,250  ",2015
+9,,"
+Peyton Manning
+Quarterback
+","$17,500,000  ",2015
+10,,"
+Ben Roethlisberger
+Quarterback
+","$17,245,000  ",2015
+11,,"
+Robert Quinn
+Outside Linebacker
+","$16,744,111  ",2015
+12,,"
+Jay Cutler
+Quarterback
+","$16,500,000  ",2015
+13,,"
+Darrelle Revis
+Cornerback
+","$16,000,000  ",2015
+14,,"
+Alex Smith
+Quarterback
+","$15,600,000  ",2015
+15,,"
+Adrian Peterson
+Running Back
+","$15,400,000  ",2015
+16,,"
+Colin Kaepernick
+Quarterback
+","$15,265,753  ",2015
+17,,"
+Tony Romo
+Quarterback
+","$14,973,000  ",2015
+18,,"
+Patrick Peterson
+Cornerback
+","$14,791,491  ",2015
+19,,"
+A.J. Green
+Wide Receiver
+","$14,750,000  ",2015
+,,"
+Calais Campbell
+Defensive End
+","$14,750,000  ",2015
+21,,"
+Gerald McCoy
+Defensive Tackle
+","$14,595,000  ",2015
+22,,"
+Joe Flacco
+Quarterback
+","$14,550,000  ",2015
+23,,"
+Eli Manning
+Quarterback
+","$14,450,000  ",2015
+24,,"
+Tom Brady
+Quarterback
+","$14,000,000  ",2015
+25,,"
+J.J. Watt
+Defensive End
+","$13,969,000  ",2015
+26,,"
+Demaryius Thomas
+Wide Receiver
+","$13,200,000  ",2015
+27,,"
+Rodney Hudson
+Center
+","$13,000,000  ",2015
+,,"
+Cam Newton
+Quarterback
+","$13,000,000  ",2015
+29,,"
+Sam Bradford
+Quarterback
+","$12,985,000  ",2015
+30,,"
+Brandon Carr
+Cornerback
+","$12,717,000  ",2015
+31,,"
+Clay Matthews
+Outside Linebacker
+","$12,700,000  ",2015
+32,,"
+Chris Long
+Defensive End
+","$12,500,000  ",2015
+33,,"
+Julio Jones
+Wide Receiver
+","$12,400,000  ",2015
+34,,"
+Vincent Jackson
+Wide Receiver
+","$12,209,777  ",2015
+35,,"
+Richard Sherman
+Cornerback
+","$12,200,000  ",2015
+36,,"
+Julius Peppers
+Defensive End
+","$12,000,000  ",2015
+37,,"
+Ryan Kalil
+Center
+","$11,795,000  ",2015
+38,,"
+Johnathan Joseph
+Cornerback
+","$11,750,000  ",2015
+39,,"
+Joe Haden
+Cornerback
+","$11,700,000  ",2015
+40,,"
+D'Brickashaw Ferguson
+Left Tackle
+","$11,698,666  ",2015
+41,,"
+Vontae Davis
+Cornerback
+","$11,250,000  ",2015
+42,,"
+Larry Fitzgerald
+Wide Receiver
+","$10,850,000  ",2015
+43,,"
+Branden Albert
+Left Tackle
+","$10,725,000  ",2015
+44,,"
+Trent Williams
+Left Tackle
+","$10,600,388  ",2015
+45,,"
+Ryan Clady
+Left Tackle
+","$10,600,000  ",2015
+46,,"
+Cameron Wake
+Defensive End
+","$10,450,000  ",2015
+47,,"
+Nick Mangold
+Center
+","$10,407,100  ",2015
+48,,"
+Julius Thomas
+Tight End
+","$10,300,000  ",2015
+49,,"
+Joe Thomas
+Left Tackle
+","$10,200,000  ",2015
+50,,"
+Eric Weddle
+Free Safety
+","$10,100,000  ",2015
+51,,"
+Brent Grimes
+Cornerback
+","$10,000,000  ",2015
+52,,"
+Mike Wallace
+Wide Receiver
+","$9,900,000  ",2015
+53,,"
+Von Miller
+Outside Linebacker
+","$9,754,000  ",2015
+54,,"
+Pierre Garcon
+Wide Receiver
+","$9,700,000  ",2015
+55,,"
+Andy Dalton
+Quarterback
+","$9,600,000  ",2015
+,,"
+Leon Hall
+Cornerback
+","$9,600,000  ",2015
+57,,"
+Duane Brown
+Left Tackle
+","$9,500,000  ",2015
+58,,"
+Lawrence Timmons
+Inside Linebacker
+","$9,251,250  ",2015
+59,,"
+Lardarius Webb
+Cornerback
+","$9,250,000  ",2015
+,,"
+DeSean Jackson
+Wide Receiver
+","$9,250,000  ",2015
+61,,"
+Matt Forte
+Running Back
+","$9,200,000  ",2015
+62,,"
+Sam Shields
+Cornerback
+","$9,062,500  ",2015
+63,,"
+Jason Peters
+Left Tackle
+","$9,050,000  ",2015
+64,,"
+Jared Odrick
+Defensive End
+","$9,000,000  ",2015
+,,"
+Geno Atkins
+Defensive Tackle
+","$9,000,000  ",2015
+,,"
+Brandon Marshall
+Wide Receiver
+","$9,000,000  ",2015
+67,,"
+Arian Foster
+Running Back
+","$8,706,250  ",2015
+68,,"
+Byron Maxwell
+Cornerback
+","$8,700,000  ",2015
+69,,"
+DeMarcus Ware
+Outside Linebacker
+","$8,666,666  ",2015
+70,,"
+Rob Gronkowski
+Tight End
+","$8,650,000  ",2015
+71,,"
+Jason McCourty
+Cornerback
+","$8,600,000  ",2015
+72,,"
+Haloti Ngata
+Defensive Tackle
+","$8,500,000  ",2015
+,,"
+Marshawn Lynch
+Running Back
+","$8,500,000  ",2015
+,,"
+Jared Veldheer
+Right Tackle
+","$8,500,000  ",2015
+75,,"
+Antonio Gates
+Tight End
+","$8,374,264  ",2015
+76,,"
+Eric Berry
+Free Safety
+","$8,357,700  ",2015
+77,,"
+Jared Cook
+Tight End
+","$8,300,441  ",2015
+78,,"
+Jonathan Stewart
+Running Back
+","$8,300,000  ",2015
+79,,"
+Rodger Saffold
+Guard
+","$8,250,000  ",2015
+80,,"
+Paul Kruger
+Outside Linebacker
+","$8,200,000  ",2015
+,,"
+Everson Griffen
+Defensive End
+","$8,200,000  ",2015
+82,,"
+Victor Cruz
+Wide Receiver
+","$8,125,000  ",2015
+83,,"
+Michael Griffin
+Free Safety
+","$8,100,000  ",2015
+84,,"
+William Beatty
+Left Tackle
+","$8,050,000  ",2015
+,,"
+Jermon Bushrod
+Guard
+","$8,050,000  ",2015
+86,,"
+Jermey Parnell
+Right Tackle
+","$8,000,000  ",2015
+,,"
+Dan Williams
+Defensive Tackle
+","$8,000,000  ",2015
+,,"
+Alex Mack
+Center
+","$8,000,000  ",2015
+,,"
+Michael Bennett
+Defensive End
+","$8,000,000  ",2015
+,,"
+Cliff Avril
+Defensive End
+","$8,000,000  ",2015
+,,"
+Jimmy Graham
+Tight End
+","$8,000,000  ",2015
+92,,"
+Corey Liuget
+Defensive Tackle
+","$7,977,000  ",2015
+93,,"
+Jamaal Charles
+Running Back
+","$7,970,835  ",2015
+94,,"
+Brian Cushing
+Inside Linebacker
+","$7,891,250  ",2015
+95,,"
+Marcell Dareus
+Defensive Tackle
+","$7,823,530  ",2015
+96,,"
+Reshad Jones
+Strong Safety
+","$7,712,942  ",2015
+97,,"
+Eugene Monroe
+Left Tackle
+","$7,700,000  ",2015
+98,,"
+Navorro Bowman
+Inside Linebacker
+","$7,654,000  ",2015
+99,,"
+Thomas Davis
+Outside Linebacker
+","$7,650,000  ",2015
+100,,"
+Joe Staley
+Left Tackle
+","$7,600,000  ",2015
+101,,"
+T.J. Ward
+Strong Safety
+","$7,514,705  ",2015
+102,,"
+Andre Johnson
+Wide Receiver
+","$7,500,000  ",2015
+,,"
+David Harris
+Inside Linebacker
+","$7,500,000  ",2015
+104,,"
+Robert Mathis
+Outside Linebacker
+","$7,470,586  ",2015
+105,,"
+Kareem Jackson
+Cornerback
+","$7,453,125  ",2015
+106,,"
+Earl Thomas
+Free Safety
+","$7,400,000  ",2015
+107,,"
+Carson Palmer
+Quarterback
+","$7,375,000  ",2015
+,,"
+Elvis Dumervil
+Outside Linebacker
+","$7,375,000  ",2015
+109,,"
+Jason Pierre-Paul
+Defensive End
+","$7,350,000  ",2015
+110,,"
+John Sullivan
+Center
+","$7,333,333  ",2015
+111,,"
+Russell Okung
+Left Tackle
+","$7,280,000  ",2015
+112,,"
+Dominique Rodgers-Cromartie
+Cornerback
+","$7,250,000  ",2015
+113,,"
+Andrew Whitworth
+Left Tackle
+","$7,200,000  ",2015
+114,,"
+Rey Maualuga
+Inside Linebacker
+","$7,137,500  ",2015
+115,,"
+Antonio Brown
+Wide Receiver
+","$7,120,833  ",2015
+116,,"
+Arthur Jones
+Defensive Tackle
+","$7,100,000  ",2015
+117,,"
+Ahmad Brooks
+Outside Linebacker
+","$7,055,000  ",2015
+118,,"
+Russell Wilson
+Quarterback
+","$7,054,868  ",2015
+119,,"
+Andrew Luck
+Quarterback
+","$7,034,363  ",2015
+120,,"
+Sebastian Vollmer
+Right Tackle
+","$7,020,833  ",2015
+121,,"
+Jahri Evans
+Guard
+","$7,000,000  ",2015
+,,"
+Nate Allen
+Free Safety
+","$7,000,000  ",2015
+,,"
+Josh Sitton
+Guard
+","$7,000,000  ",2015
+,,"
+Connor Barwin
+Outside Linebacker
+","$7,000,000  ",2015
+,,"
+Desmond Bryant
+Defensive End
+","$7,000,000  ",2015
+,,"
+Antonio Cromartie
+Cornerback
+","$7,000,000  ",2015
+,,"
+Logan Mankins
+Guard
+","$7,000,000  ",2015
+,,"
+Sean Smith
+Cornerback
+","$7,000,000  ",2015
+,,"
+Mike Pouncey
+Center
+","$7,000,000  ",2015
+,,"
+Dez Bryant
+Wide Receiver
+","$7,000,000  ",2015
+131,,"
+Lamarr Houston
+Outside Linebacker
+","$6,990,000  ",2015
+132,,"
+Marshal Yanda
+Guard
+","$6,981,764  ",2015
+133,,"
+Cortez Allen
+Cornerback
+","$6,981,000  ",2015
+134,,"
+Muhammad Wilkerson
+Defensive End
+","$6,969,000  ",2015
+135,,"
+Aqib Talib
+Cornerback
+","$6,968,750  ",2015
+136,,"
+Trent Cole
+Outside Linebacker
+","$6,953,125  ",2015
+137,,"
+Kyle Williams
+Defensive Tackle
+","$6,950,000  ",2015
+138,,"
+Anquan Boldin
+Wide Receiver
+","$6,909,000  ",2015
+139,,"
+Prince Amukamara
+Cornerback
+","$6,898,000  ",2015
+140,,"
+Paul Posluszny
+Outside Linebacker
+","$6,885,416  ",2015
+141,,"
+Anthony Castonzo
+Left Tackle
+","$6,800,000  ",2015
+142,,"
+Donte Whitner
+Strong Safety
+","$6,750,000  ",2015
+,,"
+Phillip Loadholt
+Right Tackle
+","$6,750,000  ",2015
+144,,"
+Jurrell Casey
+Defensive Tackle
+","$6,720,000  ",2015
+145,,"
+Robert Griffin III
+Quarterback
+","$6,719,713  ",2015
+146,,"
+Mike Iupati
+Guard
+","$6,700,000  ",2015
+147,,"
+Luke Kuechly
+Inside Linebacker
+","$6,697,018  ",2015
+148,,"
+Pernell McPhee
+Outside Linebacker
+","$6,675,000  ",2015
+149,,"
+Eric Wood
+Center
+","$6,650,000  ",2015
+150,,"
+Davon House
+Cornerback
+","$6,500,000  ",2015
+,,"
+Marques Colston
+Wide Receiver
+","$6,500,000  ",2015
+,,"
+Curtis Lofton
+Inside Linebacker
+","$6,500,000  ",2015
+,,"
+Tramon Williams
+Cornerback
+","$6,500,000  ",2015
+,,"
+Eric Decker
+Wide Receiver
+","$6,500,000  ",2015
+155,,"
+Kyle Rudolph
+Tight End
+","$6,440,625  ",2015
+156,,"
+Austin Howard
+Right Tackle
+","$6,400,000  ",2015
+,,"
+Cameron Heyward
+Defensive End
+","$6,400,000  ",2015
+158,,"
+Andre Smith
+Guard
+","$6,362,500  ",2015
+159,,"
+Greg Olsen
+Tight End
+","$6,300,000  ",2015
+160,,"
+Matt Kalil
+Left Tackle
+","$6,290,644  ",2015
+161,,"
+Louis Vasquez
+Guard
+","$6,250,000  ",2015
+162,,"
+Ryan Kerrigan
+Outside Linebacker
+","$6,238,000  ",2015
+163,,"
+Dennis Pitta
+Tight End
+","$6,200,000  ",2015
+164,,"
+Jerry Hughes
+Defensive End
+","$6,175,000  ",2015
+165,,"
+Martellus Bennett
+Tight End
+","$6,125,000  ",2015
+166,,"
+Jason Witten
+Tight End
+","$6,112,000  ",2015
+167,,"
+Lavonte David
+Outside Linebacker
+","$6,104,642  ",2015
+168,,"
+Jerod Mayo
+Inside Linebacker
+","$6,100,000  ",2015
+,,"
+Ndamukong Suh
+Defensive Tackle
+","$6,100,000  ",2015
+170,,"
+Eric Fisher
+Left Tackle
+","$6,051,954  ",2015
+171,,"
+Brandon Graham
+Defensive End
+","$6,000,000  ",2015
+,,"
+Devin McCourty
+Free Safety
+","$6,000,000  ",2015
+173,,"
+Emmanuel Sanders
+Wide Receiver
+","$5,850,000  ",2015
+174,,"
+Greg Toler
+Cornerback
+","$5,833,334  ",2015
+175,,"
+Stephen Tulloch
+Inside Linebacker
+","$5,800,000  ",2015
+,,"
+T.J. Lang
+Guard
+","$5,800,000  ",2015
+177,,"
+Luke Joeckel
+Guard
+","$5,782,254  ",2015
+178,,"
+D'Qwell Jackson
+Inside Linebacker
+","$5,750,000  ",2015
+179,,"
+Brandon Mebane
+Defensive Tackle
+","$5,700,000  ",2015
+180,,"
+Malcolm Jenkins
+Free Safety
+","$5,666,666  ",2015
+181,,"
+Brian Robison
+Defensive End
+","$5,650,000  ",2015
+182,,"
+Nate Solder
+Left Tackle
+","$5,604,666  ",2015
+183,,"
+Lance Kendricks
+Tight End
+","$5,600,000  ",2015
+184,,"
+Chad Greenway
+Outside Linebacker
+","$5,575,000  ",2015
+185,,"
+Roddy White
+Wide Receiver
+","$5,556,250  ",2015
+186,,"
+Jairus Byrd
+Free Safety
+","$5,500,000  ",2015
+,,"
+Karlos Dansby
+Inside Linebacker
+","$5,500,000  ",2015
+,,"
+LeSean McCoy
+Running Back
+","$5,500,000  ",2015
+,,"
+Eddie Royal
+Wide Receiver
+","$5,500,000  ",2015
+190,,"
+Donald Butler
+Inside Linebacker
+","$5,480,000  ",2015
+191,,"
+Sean Lee
+Outside Linebacker
+","$5,450,000  ",2015
+192,,"
+Sen'Derrick Marks
+Defensive Tackle
+","$5,425,000  ",2015
+193,,"
+Donald Penn
+Left Tackle
+","$5,400,000  ",2015
+194,,"
+William Moore
+Strong Safety
+","$5,368,750  ",2015
+195,,"
+Randall Cobb
+Wide Receiver
+","$5,350,000  ",2015
+,,"
+Jerraud Powers
+Cornerback
+","$5,350,000  ",2015
+197,,"
+Delanie Walker
+Tight End
+","$5,275,000  ",2015
+198,,"
+Dion Jordan
+Defensive End
+","$5,267,276  ",2015
+199,,"
+Derrick Johnson
+Inside Linebacker
+","$5,250,000  ",2015
+200,,"
+Lane Johnson
+Right Tackle
+","$5,225,974  ",2015
+201,,"
+Brian Hoyer
+Quarterback
+","$5,218,750  ",2015
+202,,"
+Jason Hatcher
+Defensive End
+","$5,203,125  ",2015
+203,,"
+Morris Claiborne
+Cornerback
+","$5,175,069  ",2015
+204,,"
+Vontaze Burfict
+Outside Linebacker
+","$5,175,000  ",2015
+205,,"
+Morgan Burnett
+Strong Safety
+","$5,131,250  ",2015
+206,,"
+Breno Giacomini
+Right Tackle
+","$5,125,000  ",2015
+207,,"
+Kam Chancellor
+Strong Safety
+","$5,119,117  ",2015
+208,,"
+Clint Boling
+Guard
+","$5,100,000  ",2015
+,,"
+Justin Houston
+Outside Linebacker
+","$5,100,000  ",2015
+210,,"
+Ezekiel Ansah
+Defensive End
+","$5,071,232  ",2015
+211,,"
+Jadeveon Clowney
+Outside Linebacker
+","$5,062,045  ",2015
+212,,"
+Tyron Smith
+Left Tackle
+","$5,039,000  ",2015
+213,,"
+Zane Beadles
+Guard
+","$5,000,000  ",2015
+,,"
+Chris Clemons
+Defensive End
+","$5,000,000  ",2015
+,,"
+DeMarco Murray
+Running Back
+","$5,000,000  ",2015
+,,"
+Andrew Hawkins
+Wide Receiver
+","$5,000,000  ",2015
+,,"
+Charles Clay
+Tight End
+","$5,000,000  ",2015
+,,"
+Antrel Rolle
+Strong Safety
+","$5,000,000  ",2015
+219,,"
+Justin Tuck
+Defensive End
+","$4,968,750  ",2015
+220,,"
+Tamba Hali
+Outside Linebacker
+","$4,964,706  ",2015
+221,,"
+Carlos Dunlap
+Defensive End
+","$4,900,000  ",2015
+,,"
+Leodis McKelvin
+Cornerback
+","$4,900,000  ",2015
+223,,"
+Ryan Tannehill
+Quarterback
+","$4,873,364  ",2015
+224,,"
+Greg Robinson
+Left Tackle
+","$4,837,295  ",2015
+225,,"
+DeAngelo Hall
+Cornerback
+","$4,812,500  ",2015
+226,,"
+Riley Cooper
+Wide Receiver
+","$4,800,000  ",2015
+,,"
+Brent Celek
+Tight End
+","$4,800,000  ",2015
+,,"
+Chase Daniel
+Quarterback
+","$4,800,000  ",2015
+229,,"
+Reggie Nelson
+Free Safety
+","$4,775,000  ",2015
+230,,"
+Antoine Bethea
+Strong Safety
+","$4,750,000  ",2015
+,,"
+Nick Fairley
+Defensive Tackle
+","$4,750,000  ",2015
+,,"
+Rob Ninkovich
+Outside Linebacker
+","$4,750,000  ",2015
+,,"
+K.J. Wright
+Outside Linebacker
+","$4,750,000  ",2015
+234,,"
+Malcom Floyd
+Wide Receiver
+","$4,716,668  ",2015
+235,,"
+Blake Bortles
+Quarterback
+","$4,694,275  ",2015
+236,,"
+Sammie Lee Hill
+Defensive Tackle
+","$4,666,668  ",2015
+237,,"
+Julian Edelman
+Wide Receiver
+","$4,656,250  ",2015
+238,,"
+Doug Baldwin
+Wide Receiver
+","$4,650,000  ",2015
+239,,"
+Jameis Winston
+Quarterback
+","$4,609,323  ",2015
+240,,"
+Dan Skuta
+Outside Linebacker
+","$4,600,000  ",2015
+,,"
+Jordy Nelson
+Wide Receiver
+","$4,600,000  ",2015
+,,"
+Orlando Franklin
+Guard
+","$4,600,000  ",2015
+,,"
+Linval Joseph
+Defensive Tackle
+","$4,600,000  ",2015
+244,,"
+Jordan Cameron
+Tight End
+","$4,562,500  ",2015
+245,,"
+Sammy Watkins
+Wide Receiver
+","$4,530,819  ",2015
+246,,"
+Frank Gore
+Running Back
+","$4,500,000  ",2015
+,,"
+Derek Newton
+Right Tackle
+","$4,500,000  ",2015
+,,"
+Keenan Lewis
+Cornerback
+","$4,500,000  ",2015
+,,"
+Dwayne Bowe
+Wide Receiver
+","$4,500,000  ",2015
+,,"
+Earl Mitchell
+Defensive Tackle
+","$4,500,000  ",2015
+251,,"
+William Hayes
+Defensive End
+","$4,480,000  ",2015
+252,,"
+Brian Orakpo
+Outside Linebacker
+","$4,468,750  ",2015
+253,,"
+Barkevious Mingo
+Outside Linebacker
+","$4,458,273  ",2015
+254,,"
+Corey Graham
+Free Safety
+","$4,450,000  ",2015
+255,,"
+Koa Misi
+Outside Linebacker
+","$4,438,000  ",2015
+256,,"
+Marcus Mariota
+Quarterback
+","$4,402,541  ",2015
+257,,"
+Paul Soliai
+Defensive Tackle
+","$4,400,000  ",2015
+,,"
+DeAndre Levy
+Outside Linebacker
+","$4,400,000  ",2015
+,,"
+Jason Kelce
+Center
+","$4,400,000  ",2015
+260,,"
+Orlando Scandrick
+Cornerback
+","$4,382,271  ",2015
+261,,"
+Mike Scifres
+Punter
+","$4,347,500  ",2015
+262,,"
+Captain Munnerlyn
+Cornerback
+","$4,333,333  ",2015
+263,,"
+Kenny Britt
+Wide Receiver
+","$4,300,000  ",2015
+,,"
+Kory Lichtensteiger
+Center
+","$4,300,000  ",2015
+265,,"
+Maurkice Pouncey
+Center
+","$4,296,000  ",2015
+266,,"
+James Laurinaitis
+Inside Linebacker
+","$4,275,000  ",2015
+267,,"
+Dante Fowler Jr.
+Defensive End
+","$4,270,955  ",2015
+268,,"
+Kendall Langford
+Defensive End
+","$4,250,000  ",2015
+,,"
+Erik Walden
+Outside Linebacker
+","$4,250,000  ",2015
+,,"
+Michael Neal
+Outside Linebacker
+","$4,250,000  ",2015
+,,"
+Brandon Flowers
+Cornerback
+","$4,250,000  ",2015
+,,"
+Bruce Carter
+Inside Linebacker
+","$4,250,000  ",2015
+,,"
+Alterraun Verner
+Cornerback
+","$4,250,000  ",2015
+,,"
+Stephen Paea
+Defensive Tackle
+","$4,250,000  ",2015
+275,,"
+Khalil Mack
+Defensive End
+","$4,244,773  ",2015
+276,,"
+Charles Woodson
+Strong Safety
+","$4,200,000  ",2015
+277,,"
+Cameron Jordan
+Defensive End
+","$4,169,000  ",2015
+278,,"
+Steve Smith
+Wide Receiver
+","$4,166,666  ",2015
+279,,"
+Jon Beason
+Inside Linebacker
+","$4,154,166  ",2015
+280,,"
+Heath Miller
+Tight End
+","$4,151,666  ",2015
+281,,"
+Phil Dawson
+Kicker
+","$4,134,000  ",2015
+282,,"
+King Dunlap
+Left Tackle
+","$4,125,000  ",2015
+283,,"
+Amari Cooper
+Wide Receiver
+","$4,120,566  ",2015
+284,,"
+Darren Sproles
+Running Back
+","$4,100,000  ",2015
+285,,"
+Chris Culliver
+Cornerback
+","$4,073,529  ",2015
+286,,"
+Perry Riley
+Inside Linebacker
+","$4,049,804  ",2015
+287,,"
+Nick Foles
+Quarterback
+","$4,042,000  ",2015
+288,,"
+Mike Daniels
+Defensive Tackle
+","$4,022,996  ",2015
+289,,"
+David Hawthorne
+Inside Linebacker
+","$4,010,000  ",2015
+290,,"
+Derrick Morgan
+Outside Linebacker
+","$4,000,000  ",2015
+,,"
+Malcolm Smith
+Outside Linebacker
+","$4,000,000  ",2015
+,,"
+Jabaal Sheard
+Outside Linebacker
+","$4,000,000  ",2015
+,,"
+Percy Harvin
+Wide Receiver
+","$4,000,000  ",2015
+,,"
+Terrance Knighton
+Defensive Tackle
+","$4,000,000  ",2015
+,,"
+Shawn Lauvao
+Guard
+","$4,000,000  ",2015
+,,"
+Dashon Goldson
+Free Safety
+","$4,000,000  ",2015
+297,,"
+Jason Jones
+Defensive End
+","$3,983,333  ",2015
+298,,"
+Jonathan Cooper
+Guard
+","$3,967,910  ",2015
+299,,"
+Terrell Suggs
+Outside Linebacker
+","$3,950,000  ",2015
+300,,"
+Garrett Graham
+Tight End
+","$3,921,875  ",2015
+301,,"
+Josh McCown
+Quarterback
+","$3,916,666  ",2015
+302,,"
+Aaron Williams
+Strong Safety
+","$3,900,000  ",2015
+303,,"
+Daryl Smith
+Inside Linebacker
+","$3,875,000  ",2015
+304,,"
+Drew Stanton
+Quarterback
+","$3,866,668  ",2015
+305,,"
+Brandon Scherff
+Guard
+","$3,857,388  ",2015
+306,,"
+Tyson Jackson
+Defensive End
+","$3,850,000  ",2015
+,,"
+Marcedes Lewis
+Tight End
+","$3,850,000  ",2015
+,,"
+Roy Miller
+Defensive Tackle
+","$3,850,000  ",2015
+,,"
+Sean Weatherspoon
+Inside Linebacker
+","$3,850,000  ",2015
+310,,"
+Stephon Gilmore
+Cornerback
+","$3,844,959  ",2015
+311,,"
+Brandon Pettigrew
+Tight End
+","$3,800,000  ",2015
+,,"
+Dustin Colquitt
+Punter
+","$3,800,000  ",2015
+313,,"
+Mark Sanchez
+Quarterback
+","$3,750,000  ",2015
+,,"
+Henry Melton
+Defensive Tackle
+","$3,750,000  ",2015
+,,"
+Evan Smith
+Center
+","$3,750,000  ",2015
+,,"
+Andre Roberts
+Wide Receiver
+","$3,750,000  ",2015
+317,,"
+Jake Matthews
+Left Tackle
+","$3,733,978  ",2015
+318,,"
+Alex Boone
+Guard
+","$3,723,000  ",2015
+319,,"
+Devin Hester
+Wide Receiver
+","$3,708,333  ",2015
+320,,"
+Domata Peko
+Defensive Tackle
+","$3,700,000  ",2015
+321,,"
+Da'Norris Searcy
+Strong Safety
+","$3,625,000  ",2015
+322,,"
+Jonathan Babineaux
+Defensive Tackle
+","$3,619,791  ",2015
+323,,"
+Ropati Pitoitua
+Defensive End
+","$3,612,500  ",2015
+324,,"
+Sebastian Janikowski
+Kicker
+","$3,610,000  ",2015
+325,,"
+Dontari Poe
+Defensive Tackle
+","$3,601,822  ",2015
+326,,"
+Torrey Smith
+Wide Receiver
+","$3,600,000  ",2015
+,,"
+Stephen Gostkowski
+Kicker
+","$3,600,000  ",2015
+,,"
+Robbie Gould
+Kicker
+","$3,600,000  ",2015
+,,"
+Jimmy Smith
+Cornerback
+","$3,600,000  ",2015
+330,,"
+Marcel Reece
+Fullback
+","$3,580,838  ",2015
+331,,"
+Glover Quin
+Free Safety
+","$3,572,500  ",2015
+332,,"
+Bryan Bulaga
+Right Tackle
+","$3,568,750  ",2015
+333,,"
+Mason Crosby
+Kicker
+","$3,550,000  ",2015
+334,,"
+Vince Wilfork
+Defensive Tackle
+","$3,500,000  ",2015
+,,"
+Chad Henne
+Quarterback
+","$3,500,000  ",2015
+,,"
+Joique Bell
+Running Back
+","$3,500,000  ",2015
+,,"
+Wesley Woodyard
+Inside Linebacker
+","$3,500,000  ",2015
+,,"
+Brandon LaFell
+Wide Receiver
+","$3,500,000  ",2015
+339,,"
+Brandon Fusco
+Guard
+","$3,485,000  ",2015
+340,,"
+Tavon Austin
+Wide Receiver
+","$3,477,546  ",2015
+341,,"
+Dee Milliner
+Cornerback
+","$3,453,010  ",2015
+342,,"
+Mike Tolbert
+Fullback
+","$3,425,000  ",2015
+343,,"
+Thomas Morstead
+Punter
+","$3,400,000  ",2015
+,,"
+Jeremy Maclin
+Wide Receiver
+","$3,400,000  ",2015
+345,,"
+Leonard Williams
+Defensive End
+","$3,387,430  ",2015
+346,,"
+Matt Bosher
+Punter
+","$3,355,000  ",2015
+347,,"
+Erik Pears
+Right Tackle
+","$3,350,000  ",2015
+,,"
+Dexter McCluster
+Running Back
+","$3,350,000  ",2015
+,,"
+Lee Smith
+Tight End
+","$3,350,000  ",2015
+350,,"
+Perrish Cox
+Cornerback
+","$3,333,333  ",2015
+351,,"
+Mike Evans
+Wide Receiver
+","$3,325,341  ",2015
+352,,"
+Steven Hauschka
+Kicker
+","$3,325,000  ",2015
+353,,"
+Chance Warmack
+Guard
+","$3,318,177  ",2015
+354,,"
+Matt Slauson
+Guard
+","$3,267,500  ",2015
+355,,"
+Fletcher Cox
+Defensive Tackle
+","$3,258,036  ",2015
+356,,"
+Marcus Gilbert
+Right Tackle
+","$3,256,000  ",2015
+357,,"
+Barry Church
+Strong Safety
+","$3,250,000  ",2015
+,,"
+Walter Thurmond
+Free Safety
+","$3,250,000  ",2015
+,,"
+Ryan Fitzpatrick
+Quarterback
+","$3,250,000  ",2015
+,,"
+Clinton McDonald
+Defensive Tackle
+","$3,250,000  ",2015
+,,"
+Shaun Hill
+Quarterback
+","$3,250,000  ",2015
+362,,"
+Allen Bailey
+Defensive End
+","$3,231,250  ",2015
+363,,"
+Pat McAfee
+Punter
+","$3,200,000  ",2015
+,,"
+Zach Strief
+Right Tackle
+","$3,200,000  ",2015
+,,"
+Michael Crabtree
+Wide Receiver
+","$3,200,000  ",2015
+366,,"
+Michael Floyd
+Wide Receiver
+","$3,172,750  ",2015
+367,,"
+Willie Young
+Outside Linebacker
+","$3,166,666  ",2015
+368,,"
+Brooks Reed
+Defensive End
+","$3,140,000  ",2015
+369,,"
+T.Y. Hilton
+Wide Receiver
+","$3,131,850  ",2015
+370,,"
+Marcus Gilchrist
+Strong Safety
+","$3,125,000  ",2015
+371,,"
+Danny Amendola
+Wide Receiver
+","$3,116,666  ",2015
+372,,"
+D.J. Fluker
+Guard
+","$3,109,771  ",2015
+373,,"
+Jermaine Gresham
+Tight End
+","$3,109,375  ",2015
+374,,"
+Mike Adams
+Strong Safety
+","$3,100,000  ",2015
+,,"
+Graham Gano
+Kicker
+","$3,100,000  ",2015
+,,"
+Vincent Rey
+Inside Linebacker
+","$3,100,000  ",2015
+,,"
+Manny Lawson
+Outside Linebacker
+","$3,100,000  ",2015
+,,"
+Daryl Washington
+Inside Linebacker
+","$3,100,000  ",2015
+379,,"
+Golden Tate
+Wide Receiver
+","$3,096,250  ",2015
+380,,"
+Joe Reitz
+Guard
+","$3,062,500  ",2015
+381,,"
+Greg Hardy
+Defensive End
+","$3,041,379  ",2015
+382,,"
+Michael Brockers
+Defensive Tackle
+","$3,029,727  ",2015
+383,,"
+Mychal Kendricks
+Outside Linebacker
+","$3,014,141  ",2015
+384,,"
+Kevin White
+Wide Receiver
+","$3,011,463  ",2015
+385,,"
+Doug Free
+Right Tackle
+","$3,000,000  ",2015
+,,"
+Rahim Moore
+Free Safety
+","$3,000,000  ",2015
+,,"
+Matt Hasselbeck
+Quarterback
+","$3,000,000  ",2015
+,,"
+Tyson Alualu
+Defensive End
+","$3,000,000  ",2015
+,,"
+Toby Gerhart
+Running Back
+","$3,000,000  ",2015
+,,"
+Manuel Ramirez
+Guard
+","$3,000,000  ",2015
+,,"
+Max Unger
+Center
+","$3,000,000  ",2015
+,,"
+Aldon Smith
+Outside Linebacker
+","$3,000,000  ",2015
+,,"
+DeMeco Ryans
+Inside Linebacker
+","$3,000,000  ",2015
+,,"
+Alan Ball
+Cornerback
+","$3,000,000  ",2015
+,,"
+Chris Harris
+Cornerback
+","$3,000,000  ",2015
+396,,"
+Chris Baker
+Defensive Tackle
+","$2,984,375  ",2015
+397,,"
+Whitney Mercilus
+Outside Linebacker
+","$2,979,030  ",2015
+398,,"
+Bobby Wagner
+Inside Linebacker
+","$2,970,663  ",2015
+399,,"
+Randy Starks
+Defensive End
+","$2,968,750  ",2015
+400,,"
+Akeem Ayers
+Outside Linebacker
+","$2,921,875  ",2015
+,,"
+Evan Mathis
+Guard
+","$2,921,875  ",2015
+402,,"
+Justin Gilbert
+Cornerback
+","$2,916,705  ",2015
+403,,"
+Nolan Carroll
+Cornerback
+","$2,900,000  ",2015
+404,,"
+Anthony Barr
+Outside Linebacker
+","$2,896,250  ",2015
+405,,"
+Bruce Irvin
+Outside Linebacker
+","$2,895,542  ",2015
+406,,"
+Andy Levitre
+Guard
+","$2,875,000  ",2015
+407,,"
+Geoff Schwartz
+Guard
+","$2,845,833  ",2015
+408,,"
+Tyrone Crawford
+Defensive End
+","$2,828,813  ",2015
+409,,"
+Matt Bryant
+Kicker
+","$2,827,083  ",2015
+410,,"
+John Greco
+Guard
+","$2,825,000  ",2015
+411,,"
+Mackenzy Bernadeau
+Center
+","$2,824,166  ",2015
+412,,"
+D.J. Hayden
+Cornerback
+","$2,815,554  ",2015
+413,,"
+Rashad Jennings
+Running Back
+","$2,812,500  ",2015
+414,,"
+Steve McLendon
+Defensive Tackle
+","$2,808,334  ",2015
+415,,"
+Chris Chester
+Guard
+","$2,800,000  ",2015
+416,,"
+Tramaine Brock
+Cornerback
+","$2,790,000  ",2015
+417,,"
+Eric Ebron
+Tight End
+","$2,783,898  ",2015
+418,,"
+Kevin Huber
+Punter
+","$2,770,000  ",2015
+419,,"
+Adam Vinatieri
+Kicker
+","$2,750,000  ",2015
+,,"
+Buster Skrine
+Cornerback
+","$2,750,000  ",2015
+,,"
+Chris Ivory
+Running Back
+","$2,750,000  ",2015
+,,"
+George Johnson
+Defensive End
+","$2,750,000  ",2015
+,,"
+Owen Daniels
+Tight End
+","$2,750,000  ",2015
+424,,"
+Dre Kirkpatrick
+Cornerback
+","$2,743,680  ",2015
+425,,"
+Jarius Wright
+Wide Receiver
+","$2,707,027  ",2015
+426,,"
+Melvin Ingram
+Outside Linebacker
+","$2,672,166  ",2015
+427,,"
+Corey Peters
+Defensive Tackle
+","$2,666,666  ",2015
+428,,"
+Rolando McClain
+Inside Linebacker
+","$2,636,029  ",2015
+429,,"
+Vic Beasley
+Defensive End
+","$2,635,496  ",2015
+430,,"
+Shea McClellin
+Outside Linebacker
+","$2,629,263  ",2015
+431,,"
+Mike DeVito
+Defensive End
+","$2,620,000  ",2015
+432,,"
+Star Lotulelei
+Defensive Tackle
+","$2,619,409  ",2015
+433,,"
+Ereck Flowers
+Right Tackle
+","$2,616,676  ",2015
+434,,"
+Marcus Cannon
+Right Tackle
+","$2,616,666  ",2015
+435,,"
+Kendall Wright
+Wide Receiver
+","$2,614,962  ",2015
+436,,"
+Taylor Lewan
+Left Tackle
+","$2,610,228  ",2015
+437,,"
+Chandler Jones
+Outside Linebacker
+","$2,600,659  ",2015
+438,,"
+Michael Johnson
+Defensive End
+","$2,600,000  ",2015
+,,"
+Al Woods
+Defensive Tackle
+","$2,600,000  ",2015
+,,"
+Ahtyba Rubin
+Defensive Tackle
+","$2,600,000  ",2015
+,,"
+Jeremy Kerley
+Wide Receiver
+","$2,600,000  ",2015
+,,"
+Matt Moore
+Quarterback
+","$2,600,000  ",2015
+443,,"
+Kenny Vaccaro
+Strong Safety
+","$2,570,376  ",2015
+444,,"
+Sean Richardson
+Strong Safety
+","$2,550,000  ",2015
+,,"
+Adam-Pacman Jones
+Cornerback
+","$2,550,000  ",2015
+446,,"
+Riley Reiff
+Left Tackle
+","$2,543,450  ",2015
+447,,"
+Shane Vereen
+Running Back
+","$2,516,666  ",2015
+448,,"
+Todd Gurley
+Running Back
+","$2,513,306  ",2015
+449,,"
+Mike Mitchell
+Free Safety
+","$2,508,750  ",2015
+450,,"
+Dan Bailey
+Kicker
+","$2,500,000  ",2015
+,,"
+Darius Butler
+Free Safety
+","$2,500,000  ",2015
+,,"
+Stefen Wisniewski
+Center
+","$2,500,000  ",2015
+,,"
+Sergio Brown
+Free Safety
+","$2,500,000  ",2015
+,,"
+Cam Thomas
+Defensive Tackle
+","$2,500,000  ",2015
+,,"
+Danny Woodhead
+Running Back
+","$2,500,000  ",2015
+,,"
+Gosder Cherilus
+Right Tackle
+","$2,500,000  ",2015
+,,"
+Demar Dotson
+Right Tackle
+","$2,500,000  ",2015
+,,"
+Greg Jennings
+Wide Receiver
+","$2,500,000  ",2015
+459,,"
+David DeCastro
+Guard
+","$2,486,240  ",2015
+460,,"
+Letroy Guion
+Defensive End
+","$2,485,294  ",2015
+461,,"
+Jeremy Zuttah
+Center
+","$2,478,382  ",2015
+462,,"
+Vernon Davis
+Tight End
+","$2,477,941  ",2015
+463,,"
+Dont'a Hightower
+Outside Linebacker
+","$2,457,637  ",2015
+464,,"
+Cecil Shorts
+Wide Receiver
+","$2,453,125  ",2015
+,,"
+Terence Newman
+Cornerback
+","$2,453,125  ",2015
+466,,"
+Robert Ayers
+Defensive End
+","$2,437,500  ",2015
+467,,"
+Ted Larsen
+Guard
+","$2,435,000  ",2015
+468,,"
+Sheldon Richardson
+Defensive Tackle
+","$2,431,647  ",2015
+469,,"
+E.J. Manuel
+Quarterback
+","$2,423,264  ",2015
+470,,"
+Michael Oher
+Right Tackle
+","$2,421,875  ",2015
+471,,"
+Will Hill
+Strong Safety
+","$2,416,045  ",2015
+472,,"
+Reggie Bush
+Running Back
+","$2,406,250  ",2015
+473,,"
+Kevin Zeitler
+Guard
+","$2,400,427  ",2015
+474,,"
+Brandon Browner
+Cornerback
+","$2,400,000  ",2015
+,,"
+Ryan Wendell
+Center
+","$2,400,000  ",2015
+,,"
+Sam Koch
+Punter
+","$2,400,000  ",2015
+,,"
+Ben Grubbs
+Guard
+","$2,400,000  ",2015
+478,,"
+Eugene Sims
+Defensive End
+","$2,391,686  ",2015
+479,,"
+Nick Perry
+Outside Linebacker
+","$2,386,125  ",2015
+480,,"
+James Carpenter
+Guard
+","$2,375,000  ",2015
+481,,"
+Jarvis Jones
+Outside Linebacker
+","$2,374,228  ",2015
+482,,"
+Johnny Hekker
+Punter
+","$2,373,773  ",2015
+483,,"
+Odell Beckham, Jr.
+Wide Receiver
+","$2,365,045  ",2015
+484,,"
+Mark Barron
+Inside Linebacker
+","$2,362,704  ",2015
+485,,"
+Dan Carpenter
+Kicker
+","$2,362,500  ",2015
+486,,"
+Jerrell Freeman
+Inside Linebacker
+","$2,356,000  ",2015
+,,"
+Rodney McLeod
+Free Safety
+","$2,356,000  ",2015
+,,"
+Emmanuel Lamur
+Outside Linebacker
+","$2,356,000  ",2015
+,,"
+Rod Streater
+Wide Receiver
+","$2,356,000  ",2015
+,,"
+Jermaine Kearse
+Wide Receiver
+","$2,356,000  ",2015
+,,"
+Tashaun Gipson
+Free Safety
+","$2,356,000  ",2015
+,,"
+Craig Robertson
+Inside Linebacker
+","$2,356,000  ",2015
+,,"
+Cedric Thornton
+Defensive Tackle
+","$2,356,000  ",2015
+,,"
+Damon Harrison
+Defensive Tackle
+","$2,356,000  ",2015
+,,"
+Justin Tucker
+Kicker
+","$2,356,000  ",2015
+,,"
+Derrick Shelby
+Defensive Tackle
+","$2,356,000  ",2015
+497,,"
+Trae Waynes
+Cornerback
+","$2,353,520  ",2015
+498,,"
+Britton Colquitt
+Punter
+","$2,350,000  ",2015
+499,,"
+Glenn Dorsey
+Defensive End
+","$2,341,666  ",2015
+500,,"
+Eric Reid
+Strong Safety
+","$2,312,931  ",2015
+501,,"
+Aaron Donald
+Defensive Tackle
+","$2,303,750  ",2015
+502,,"
+Tom Johnson
+Defensive Tackle
+","$2,300,000  ",2015
+503,,"
+Louis Delmas
+Free Safety
+","$2,297,375  ",2015
+504,,"
+Donald Brown
+Running Back
+","$2,294,118  ",2015
+505,,"
+Harry Douglas
+Wide Receiver
+","$2,283,333  ",2015
+506,,"
+Justin Pugh
+Guard
+","$2,276,154  ",2015
+507,,"
+Harrison Smith
+Free Safety
+","$2,271,355  ",2015
+508,,"
+Craig Stevens
+Tight End
+","$2,270,000  ",2015
+509,,"
+Kyle Long
+Guard
+","$2,263,896  ",2015
+510,,"
+Tyler Eifert
+Tight End
+","$2,251,637  ",2015
+511,,"
+Jeremy Mincey
+Defensive End
+","$2,250,000  ",2015
+,,"
+Brian Hartline
+Wide Receiver
+","$2,250,000  ",2015
+,,"
+Scott Chandler
+Tight End
+","$2,250,000  ",2015
+,,"
+Calvin Pace
+Outside Linebacker
+","$2,250,000  ",2015
+515,,"
+Blair Walsh
+Kicker
+","$2,239,483  ",2015
+516,,"
+Desmond Trufant
+Cornerback
+","$2,227,117  ",2015
+517,,"
+Justin Blackmon
+Wide Receiver
+","$2,210,999  ",2015
+518,,"
+Justin Durant
+Outside Linebacker
+","$2,210,416  ",2015
+519,,"
+Sharrif Floyd
+Defensive Tackle
+","$2,202,600  ",2015
+520,,"
+Kyle Fuller
+Cornerback
+","$2,201,591  ",2015
+521,,"
+Virgil Green
+Tight End
+","$2,200,000  ",2015
+,,"
+Kraig Urbik
+Guard
+","$2,200,000  ",2015
+523,,"
+Frostee Rucker
+Defensive Tackle
+","$2,181,875  ",2015
+524,,"
+Ryan Shazier
+Inside Linebacker
+","$2,160,730  ",2015
+525,,"
+Doug Martin
+Running Back
+","$2,159,668  ",2015
+526,,"
+Bjoern Werner
+Outside Linebacker
+","$2,153,562  ",2015
+527,,"
+Ramon Foster
+Guard
+","$2,150,000  ",2015
+,,"
+Alan Branch
+Defensive Tackle
+","$2,150,000  ",2015
+529,,"
+Rashad Johnson
+Free Safety
+","$2,133,334  ",2015
+530,,"
+Xavier Rhodes
+Cornerback
+","$2,129,046  ",2015
+531,,"
+Danny Shelton
+Defensive Tackle
+","$2,127,939  ",2015
+532,,"
+Logan Paulsen
+Tight End
+","$2,116,668  ",2015
+533,,"
+Roy Helu
+Running Back
+","$2,100,000  ",2015
+,,"
+Stevie Johnson
+Wide Receiver
+","$2,100,000  ",2015
+535,,"
+Joe Barksdale
+Right Tackle
+","$2,095,000  ",2015
+536,,"
+Cullen Jenkins
+Defensive End
+","$2,091,668  ",2015
+537,,"
+Shane Lechler
+Punter
+","$2,083,334  ",2015
+538,,"
+Donnie Jones
+Punter
+","$2,083,333  ",2015
+539,,"
+DeAndre Hopkins
+Wide Receiver
+","$2,080,010  ",2015
+540,,"
+Andrus Peat
+Guard
+","$2,071,544  ",2015
+541,,"
+Sylvester Williams
+Defensive Tackle
+","$2,067,750  ",2015
+542,,"
+Shaun Suisham
+Kicker
+","$2,066,000  ",2015
+543,,"
+Adrian Clayborn
+Defensive End
+","$2,062,500  ",2015
+544,,"
+Wallace Gilberry
+Defensive End
+","$2,050,000  ",2015
+,,"
+Andy Lee
+Punter
+","$2,050,000  ",2015
+546,,"
+Datone Jones
+Defensive End
+","$2,039,436  ",2015
+547,,"
+Zack Martin
+Guard
+","$2,038,136  ",2015
+548,,"
+Anthony Fasano
+Tight End
+","$2,031,250  ",2015
+549,,"
+Gary Barnidge
+Tight End
+","$2,012,500  ",2015
+550,,"
+Antonio Smith
+Defensive End
+","$2,000,000  ",2015
+,,"
+Cole Beasley
+Wide Receiver
+","$2,000,000  ",2015
+,,"
+James Ihedigbo
+Strong Safety
+","$2,000,000  ",2015
+,,"
+Brett Kern
+Punter
+","$2,000,000  ",2015
+,,"
+C.J. Spiller
+Running Back
+","$2,000,000  ",2015
+,,"
+Mark Ingram
+Running Back
+","$2,000,000  ",2015
+,,"
+J.T. Thomas
+Outside Linebacker
+","$2,000,000  ",2015
+,,"
+Ryan Mathews
+Running Back
+","$2,000,000  ",2015
+,,"
+Patrick Robinson
+Cornerback
+","$2,000,000  ",2015
+,,"
+Bilal Powell
+Running Back
+","$2,000,000  ",2015
+,,"
+Cory Redding
+Defensive End
+","$2,000,000  ",2015
+,,"
+Patrick Chung
+Strong Safety
+","$2,000,000  ",2015
+,,"
+Lyle Sendlein
+Center
+","$2,000,000  ",2015
+,,"
+Tarell Brown
+Cornerback
+","$2,000,000  ",2015
+,,"
+Ricky Jean Francois
+Defensive Tackle
+","$2,000,000  ",2015
+,,"
+Matt Schaub
+Quarterback
+","$2,000,000  ",2015
+,,"
+Brice McCain
+Cornerback
+","$2,000,000  ",2015
+,,"
+Kelvin Sheppard
+Inside Linebacker
+","$2,000,000  ",2015
+,,"
+Ron Parker
+Free Safety
+","$2,000,000  ",2015
+569,,"
+C.J. Mosley
+Inside Linebacker
+","$1,997,273  ",2015
+570,,"
+DeVante Parker
+Wide Receiver
+","$1,977,553  ",2015
+571,,"
+Cordarrelle Patterson
+Wide Receiver
+","$1,969,377  ",2015
+572,,"
+Jerricho Cotchery
+Wide Receiver
+","$1,950,000  ",2015
+,,"
+Mike Nugent
+Kicker
+","$1,950,000  ",2015
+,,"
+Rafael Bush
+Free Safety
+","$1,950,000  ",2015
+575,,"
+Calvin Pryor
+Free Safety
+","$1,946,194  ",2015
+576,,"
+Melvin Gordon
+Running Back
+","$1,926,193  ",2015
+577,,"
+Kroy Biermann
+Outside Linebacker
+","$1,925,000  ",2015
+578,,"
+Alec Ogletree
+Inside Linebacker
+","$1,917,282  ",2015
+579,,"
+Ryan Succop
+Kicker
+","$1,916,666  ",2015
+580,,"
+Ja'Wuan James
+Right Tackle
+","$1,915,545  ",2015
+581,,"
+Brandin Cooks
+Wide Receiver
+","$1,905,330  ",2015
+582,,"
+Benjamin Watson
+Tight End
+","$1,900,000  ",2015
+,,"
+Dannell Ellerbe
+Outside Linebacker
+","$1,900,000  ",2015
+,,"
+Jim Dray
+Tight End
+","$1,900,000  ",2015
+,,"
+Jeff Cumberland
+Tight End
+","$1,900,000  ",2015
+586,,"
+HaHa Clinton-Dix
+Free Safety
+","$1,895,114  ",2015
+587,,"
+Daniel Kilgore
+Center
+","$1,875,000  ",2015
+588,,"
+Johnny Manziel
+Quarterback
+","$1,874,681  ",2015
+589,,"
+Travis Frederick
+Center
+","$1,873,644  ",2015
+590,,"
+Dee Ford
+Outside Linebacker
+","$1,854,250  ",2015
+591,,"
+Ted Ginn Jr.
+Wide Receiver
+","$1,850,000  ",2015
+,,"
+A.J. Hawk
+Outside Linebacker
+","$1,850,000  ",2015
+593,,"
+Matt Elam
+Strong Safety
+","$1,845,546  ",2015
+594,,"
+James Starks
+Running Back
+","$1,837,500  ",2015
+595,,"
+Bruce Gradkowski
+Quarterback
+","$1,833,334  ",2015
+596,,"
+Niles Paul
+Tight End
+","$1,833,333  ",2015
+597,,"
+Kevin Johnson
+Cornerback
+","$1,827,166  ",2015
+598,,"
+Kellen Clemens
+Quarterback
+","$1,822,500  ",2015
+599,,"
+Darqueze Dennard
+Cornerback
+","$1,813,386  ",2015
+600,,"
+Roman Harper
+Strong Safety
+","$1,800,000  ",2015
+,,"
+Dwayne Harris
+Wide Receiver
+","$1,800,000  ",2015
+602,,"
+Jason Verrett
+Cornerback
+","$1,792,955  ",2015
+603,,"
+Arik Armstead
+Defensive End
+","$1,789,569  ",2015
+604,,"
+Marcus Smith
+Defensive End
+","$1,772,520  ",2015
+605,,"
+Matthew Slater
+Wide Receiver
+","$1,766,666  ",2015
+606,,"
+Matt Cassel
+Quarterback
+","$1,764,705  ",2015
+607,,"
+Derek Anderson
+Quarterback
+","$1,764,000  ",2015
+608,,"
+Deone Bucannon
+Inside Linebacker
+","$1,752,091  ",2015
+609,,"
+Josh Mauga
+Inside Linebacker
+","$1,750,000  ",2015
+,,"
+Darian Stewart
+Free Safety
+","$1,750,000  ",2015
+,,"
+Vance Walker
+Defensive End
+","$1,750,000  ",2015
+,,"
+Blaine Gabbert
+Quarterback
+","$1,750,000  ",2015
+,,"
+B.J. Raji
+Defensive Tackle
+","$1,750,000  ",2015
+,,"
+Andrew Quarless
+Tight End
+","$1,750,000  ",2015
+,,"
+Tyrunn Walker
+Defensive Tackle
+","$1,750,000  ",2015
+,,"
+Dwan Edwards
+Defensive Tackle
+","$1,750,000  ",2015
+,,"
+Khalif Barnes
+Left Tackle
+","$1,750,000  ",2015
+,,"
+Jerome Felton
+Fullback
+","$1,750,000  ",2015
+619,,"
+Bruce Miller
+Fullback
+","$1,746,500  ",2015
+620,,"
+Marcus Peters
+Cornerback
+","$1,742,574  ",2015
+621,,"
+Kelvin Benjamin
+Wide Receiver
+","$1,741,875  ",2015
+622,,"
+Chris Canty
+Defensive End
+","$1,735,000  ",2015
+623,,"
+Dwayne Allen
+Tight End
+","$1,717,826  ",2015
+624,,"
+Josh Robinson
+Cornerback
+","$1,716,250  ",2015
+625,,"
+Cameron Erving
+Guard
+","$1,714,375  ",2015
+626,,"
+Brian Quick
+Wide Receiver
+","$1,713,918  ",2015
+627,,"
+Trumaine Johnson
+Cornerback
+","$1,709,794  ",2015
+628,,"
+Akeem Dent
+Inside Linebacker
+","$1,709,375  ",2015
+629,,"
+Nelson Agholor
+Wide Receiver
+","$1,704,977  ",2015
+630,,"
+Olivier Vernon
+Defensive End
+","$1,701,520  ",2015
+631,,"
+O'Brien Schofield
+Outside Linebacker
+","$1,700,000  ",2015
+632,,"
+Coby Fleener
+Tight End
+","$1,699,615  ",2015
+633,,"
+Brandon Brooks
+Guard
+","$1,696,359  ",2015
+634,,"
+Cedric Ogbuehi
+Left Tackle
+","$1,695,577  ",2015
+635,,"
+Demario Davis
+Inside Linebacker
+","$1,686,490  ",2015
+636,,"
+Courtney Upshaw
+Defensive Tackle
+","$1,685,313  ",2015
+637,,"
+Mohamed Sanu
+Wide Receiver
+","$1,682,813  ",2015
+638,,"
+Bud Dupree
+Outside Linebacker
+","$1,676,778  ",2015
+639,,"
+William Gay
+Cornerback
+","$1,666,668  ",2015
+640,,"
+Jonathan Casillas
+Outside Linebacker
+","$1,666,666  ",2015
+641,,"
+Lamar Miller
+Running Back
+","$1,663,500  ",2015
+642,,"
+Ben Jones
+Center
+","$1,662,362  ",2015
+643,,"
+Dominique Easley
+Defensive Tackle
+","$1,659,898  ",2015
+644,,"
+Shane Ray
+Outside Linebacker
+","$1,657,980  ",2015
+645,,"
+Nigel Bradham
+Outside Linebacker
+","$1,656,356  ",2015
+646,,"
+Coty Sensabaugh
+Cornerback
+","$1,650,023  ",2015
+647,,"
+David Bruton
+Strong Safety
+","$1,650,000  ",2015
+648,,"
+Mitchell Schwartz
+Right Tackle
+","$1,645,267  ",2015
+649,,"
+Jared Crick
+Defensive End
+","$1,639,875  ",2015
+650,,"
+Rashean Mathis
+Cornerback
+","$1,625,000  ",2015
+651,,"
+D.J. Humphries
+Left Tackle
+","$1,620,384  ",2015
+652,,"
+Andre Branch
+Defensive End
+","$1,619,525  ",2015
+653,,"
+Rhett Ellison
+Tight End
+","$1,617,146  ",2015
+654,,"
+Jimmie Ward
+Free Safety
+","$1,616,485  ",2015
+655,,"
+Shaq Thompson
+Outside Linebacker
+","$1,601,586  ",2015
+656,,"
+Justin Forsett
+Running Back
+","$1,600,000  ",2015
+,,"
+Andrew Gachkar
+Outside Linebacker
+","$1,600,000  ",2015
+658,,"
+Malik Jackson
+Defensive Tackle
+","$1,595,403  ",2015
+659,,"
+Robert Blanton
+Strong Safety
+","$1,594,763  ",2015
+660,,"
+Josh Norman
+Cornerback
+","$1,591,750  ",2015
+661,,"
+Johnnie Troutman
+Guard
+","$1,589,938  ",2015
+662,,"
+Janoris Jenkins
+Cornerback
+","$1,587,829  ",2015
+663,,"
+George Iloka
+Free Safety
+","$1,582,075  ",2015
+664,,"
+Bradley Roby
+Cornerback
+","$1,580,120  ",2015
+665,,"
+Alfred Morris
+Running Back
+","$1,572,775  ",2015
+666,,"
+Amini Silatolu
+Guard
+","$1,570,897  ",2015
+667,,"
+Danny Trevathan
+Inside Linebacker
+","$1,568,018  ",2015
+668,,"
+Byron Jones
+Cornerback
+","$1,563,989  ",2015
+669,,"
+Teddy Bridgewater
+Quarterback
+","$1,556,705  ",2015
+670,,"
+J.R. Sweezy
+Guard
+","$1,556,212  ",2015
+671,,"
+Laken Tomlinson
+Guard
+","$1,554,589  ",2015
+672,,"
+Kelvin Beachum
+Left Tackle
+","$1,553,474  ",2015
+673,,"
+Andre Caldwell
+Wide Receiver
+","$1,550,000  ",2015
+,,"
+Trumaine McBride
+Cornerback
+","$1,550,000  ",2015
+675,,"
+Cordy Glenn
+Left Tackle
+","$1,548,012  ",2015
+676,,"
+Mike Harris
+Guard
+","$1,542,000  ",2015
+,,"
+Lance Dunbar
+Running Back
+","$1,542,000  ",2015
+,,"
+Gino Gradkowski
+Center
+","$1,542,000  ",2015
+,,"
+Cory Harkey
+Fullback
+","$1,542,000  ",2015
+,,"
+Billy Winn
+Defensive End
+","$1,542,000  ",2015
+,,"
+Don Barclay
+Right Tackle
+","$1,542,000  ",2015
+,,"
+Larry Asante
+Strong Safety
+","$1,542,000  ",2015
+,,"
+Andre Holmes
+Wide Receiver
+","$1,542,000  ",2015
+,,"
+Antwon Blake
+Cornerback
+","$1,542,000  ",2015
+,,"
+Marquette King
+Punter
+","$1,542,000  ",2015
+,,"
+Brandon Boykin
+Cornerback
+","$1,542,000  ",2015
+,,"
+Robert Golden
+Free Safety
+","$1,542,000  ",2015
+,,"
+Will Johnson
+Fullback
+","$1,542,000  ",2015
+,,"
+Bobby Rainey
+Running Back
+","$1,542,000  ",2015
+,,"
+Johnson Bademosi
+Cornerback
+","$1,542,000  ",2015
+,,"
+Antonio Allen
+Cornerback
+","$1,542,000  ",2015
+,,"
+Jaiquawn Jarrett
+Free Safety
+","$1,542,000  ",2015
+693,,"
+Breshad Perriman
+Wide Receiver
+","$1,534,607  ",2015
+694,,"
+Darrel Young
+Fullback
+","$1,533,334  ",2015
+695,,"
+Charles Tillman
+Cornerback
+","$1,531,250  ",2015
+696,,"
+Sterling Moore
+Cornerback
+","$1,525,000  ",2015
+697,,"
+Jah Reid
+Right Tackle
+","$1,520,000  ",2015
+698,,"
+Ed Dickson
+Tight End
+","$1,516,666  ",2015
+699,,"
+Anthony Sherman
+Fullback
+","$1,500,000  ",2015
+,,"
+Clay Harbor
+Tight End
+","$1,500,000  ",2015
+,,"
+Karl Klug
+Defensive Tackle
+","$1,500,000  ",2015
+,,"
+Isa Abdul-Quddus
+Free Safety
+","$1,500,000  ",2015
+,,"
+Kevin Williams
+Defensive Tackle
+","$1,500,000  ",2015
+,,"
+Tarvaris Jackson
+Quarterback
+","$1,500,000  ",2015
+,,"
+Jon Ryan
+Punter
+","$1,500,000  ",2015
+,,"
+Tony McDaniel
+Defensive Tackle
+","$1,500,000  ",2015
+,,"
+Christopher Conte
+Free Safety
+","$1,500,000  ",2015
+,,"
+Luke Stocker
+Tight End
+","$1,500,000  ",2015
+,,"
+Ryan Mundy
+Strong Safety
+","$1,500,000  ",2015
+710,,"
+John Hughes
+Defensive End
+","$1,496,035  ",2015
+711,,"
+Ian Williams
+Defensive Tackle
+","$1,495,834  ",2015
+712,,"
+John Cyprien
+Strong Safety
+","$1,491,574  ",2015
+713,,"
+Arthur Moats
+Outside Linebacker
+","$1,483,333  ",2015
+714,,"
+Justin Hunter
+Wide Receiver
+","$1,479,313  ",2015
+715,,"
+Phillip Dorsett
+Wide Receiver
+","$1,479,166  ",2015
+716,,"
+Jeff Allen
+Guard
+","$1,477,580  ",2015
+717,,"
+Byron Bell
+Right Tackle
+","$1,475,000  ",2015
+718,,"
+Bobby Massie
+Right Tackle
+","$1,471,433  ",2015
+719,,"
+Zach Ertz
+Tight End
+","$1,467,054  ",2015
+720,,"
+Kyle Arrington
+Cornerback
+","$1,466,666  ",2015
+721,,"
+Nick Folk
+Kicker
+","$1,463,333  ",2015
+722,,"
+Allen Barbre
+Guard
+","$1,450,000  ",2015
+723,,"
+Alshon Jeffery
+Wide Receiver
+","$1,447,036  ",2015
+724,,"
+Darius Slay
+Cornerback
+","$1,442,537  ",2015
+725,,"
+Damarious Randall
+Free Safety
+","$1,439,224  ",2015
+726,,"
+Justin Bethel
+Cornerback
+","$1,438,556  ",2015
+727,,"
+Matt Prater
+Kicker
+","$1,437,500  ",2015
+728,,"
+DeAngelo Williams
+Running Back
+","$1,435,000  ",2015
+729,,"
+Darrell Stuckey
+Free Safety
+","$1,433,750  ",2015
+730,,"
+Giovani Bernard
+Running Back
+","$1,432,729  ",2015
+731,,"
+Ryan Harris
+Left Tackle
+","$1,420,000  ",2015
+732,,"
+Manti Te'o
+Inside Linebacker
+","$1,410,660  ",2015
+733,,"
+Stephone Anthony
+Outside Linebacker
+","$1,405,766  ",2015
+734,,"
+Chris Clark
+Left Tackle
+","$1,400,000  ",2015
+,,"
+John Jerry
+Guard
+","$1,400,000  ",2015
+,,"
+Chris Maragos
+Free Safety
+","$1,400,000  ",2015
+737,,"
+Derek Wolfe
+Defensive End
+","$1,397,881  ",2015
+738,,"
+Jacob Tamme
+Tight End
+","$1,387,500  ",2015
+739,,"
+Malcom Brown
+Defensive Tackle
+","$1,384,223  ",2015
+740,,"
+Paul Fanaika
+Guard
+","$1,383,333  ",2015
+741,,"
+Colt McCoy
+Quarterback
+","$1,375,000  ",2015
+742,,"
+Geno Smith
+Quarterback
+","$1,368,983  ",2015
+743,,"
+Josh Brown
+Kicker
+","$1,350,000  ",2015
+,,"
+Marcus Easley
+Wide Receiver
+","$1,350,000  ",2015
+745,,"
+Cornellius Carradine
+Defensive End
+","$1,349,367  ",2015
+746,,"
+Tavon Wilson
+Strong Safety
+","$1,342,057  ",2015
+747,,"
+Kurt Coleman
+Free Safety
+","$1,340,625  ",2015
+748,,"
+Tim Masthay
+Punter
+","$1,340,000  ",2015
+749,,"
+Robert Woods
+Wide Receiver
+","$1,327,302  ",2015
+750,,"
+Kendall Reyes
+Defensive End
+","$1,313,453  ",2015
+751,,"
+Menelik Watson
+Right Tackle
+","$1,307,687  ",2015
+752,,"
+Matt Overton
+Long Snapper
+","$1,300,000  ",2015
+,,"
+Marshall Newhouse
+Right Tackle
+","$1,300,000  ",2015
+754,,"
+Johnthan Banks
+Cornerback
+","$1,288,997  ",2015
+755,,"
+Tyvon Branch
+Strong Safety
+","$1,287,500  ",2015
+756,,"
+Jake Long
+Left Tackle
+","$1,275,000  ",2015
+757,,"
+Kendrick Lewis
+Free Safety
+","$1,266,666  ",2015
+,,"
+Anthony Dixon
+Running Back
+","$1,266,666  ",2015
+759,,"
+Kawann Short
+Defensive Tackle
+","$1,262,754  ",2015
+760,,"
+Xavier Su'a-Filo
+Guard
+","$1,261,727  ",2015
+761,,"
+Akiem Hicks
+Defensive End
+","$1,259,588  ",2015
+762,,"
+DeMarcus Lawrence
+Defensive End
+","$1,251,511  ",2015
+763,,"
+Marcus Sherels
+Cornerback
+","$1,250,000  ",2015
+,,"
+Nate Irving
+Inside Linebacker
+","$1,250,000  ",2015
+,,"
+James Harrison
+Outside Linebacker
+","$1,250,000  ",2015
+,,"
+Cody Wallace
+Center
+","$1,250,000  ",2015
+,,"
+Major Wright
+Safety
+","$1,250,000  ",2015
+,,"
+Joe Hawley
+Center
+","$1,250,000  ",2015
+,,"
+Sean Lissemore
+Defensive Tackle
+","$1,250,000  ",2015
+,,"
+Jonathan Freeny
+Outside Linebacker
+","$1,250,000  ",2015
+771,,"
+Joel Bitonio
+Guard
+","$1,241,295  ",2015
+772,,"
+Zach Brown
+Inside Linebacker
+","$1,227,640  ",2015
+773,,"
+Derek Carr
+Quarterback
+","$1,220,864  ",2015
+774,,"
+Ra'Shede Hageman
+Defensive End
+","$1,212,691  ",2015
+775,,"
+Jeron Johnson
+Strong Safety
+","$1,209,375  ",2015
+776,,"
+Albert McClellan
+Outside Linebacker
+","$1,200,000  ",2015
+,,"
+Scott Tolzien
+Quarterback
+","$1,200,000  ",2015
+,,"
+Mark Herzlich
+Outside Linebacker
+","$1,200,000  ",2015
+,,"
+Zak DeOssie
+Long Snapper
+","$1,200,000  ",2015
+,,"
+George Selvie
+Defensive End
+","$1,200,000  ",2015
+,,"
+Leger Douzable
+Defensive Tackle
+","$1,200,000  ",2015
+782,,"
+Kevin Minter
+Inside Linebacker
+","$1,197,354  ",2015
+783,,"
+Kedric Golston
+Defensive Tackle
+","$1,195,000  ",2015
+784,,"
+Austin Seferian-Jenkins
+Tight End
+","$1,194,301  ",2015
+785,,"
+John Denney
+Long Snapper
+","$1,180,000  ",2015
+786,,"
+Marqise Lee
+Wide Receiver
+","$1,175,914  ",2015
+787,,"
+Nick Bellore
+Inside Linebacker
+","$1,170,000  ",2015
+788,,"
+Brandon Myers
+Tight End
+","$1,166,666  ",2015
+789,,"
+Kyle Van Noy
+Inside Linebacker
+","$1,159,568  ",2015
+790,,"
+Darren McFadden
+Running Back
+","$1,150,000  ",2015
+,,"
+Nate Chandler
+Left Tackle
+","$1,150,000  ",2015
+,,"
+Taiwan Jones
+Running Back
+","$1,150,000  ",2015
+793,,"
+Gavin Escobar
+Tight End
+","$1,148,317  ",2015
+794,,"
+Husain Abdullah
+Free Safety
+","$1,145,000  ",2015
+795,,"
+LaMarcus Joyner
+Free Safety
+","$1,143,223  ",2015
+796,,"
+Eric Weems
+Wide Receiver
+","$1,132,500  ",2015
+797,,"
+Mike Adams
+Left Tackle
+","$1,127,525  ",2015
+798,,"
+Jon Condo
+Long Snapper
+","$1,127,500  ",2015
+799,,"
+Jordan Matthews
+Wide Receiver
+","$1,124,834  ",2015
+800,,"
+Joe Berger
+Guard
+","$1,120,000  ",2015
+,,"
+L.P. Ladouceur
+Long Snapper
+","$1,120,000  ",2015
+,,"
+Bryan Braman
+Outside Linebacker
+","$1,120,000  ",2015
+803,,"
+Brock Osweiler
+Quarterback
+","$1,118,944  ",2015
+804,,"
+Landon Collins
+Free Safety
+","$1,112,828  ",2015
+805,,"
+Nick Sundberg
+Long Snapper
+","$1,112,500  ",2015
+806,,"
+Weston Richburg
+Center
+","$1,108,489  ",2015
+807,,"
+Donovan Smith
+Left Tackle
+","$1,103,429  ",2015
+808,,"
+Terrell McClain
+Defensive End
+","$1,100,000  ",2015
+,,"
+Richie Incognito
+Guard
+","$1,100,000  ",2015
+810,,"
+Johnathan Hankins
+Defensive Tackle
+","$1,099,278  ",2015
+811,,"
+Cyrus Kouandjio
+Right Tackle
+","$1,092,914  ",2015
+812,,"
+Ryan Allen
+Punter
+","$1,085,500  ",2015
+813,,"
+Mario Edwards
+Defensive End
+","$1,080,264  ",2015
+814,,"
+Vinny Curry
+Defensive End
+","$1,076,038  ",2015
+815,,"
+T.J. Yeldon
+Running Back
+","$1,075,231  ",2015
+816,,"
+Jarius Wynn
+Outside Linebacker
+","$1,075,000  ",2015
+,,"
+Darrin Walls
+Cornerback
+","$1,075,000  ",2015
+818,,"
+Paul Richardson
+Wide Receiver
+","$1,071,099  ",2015
+819,,"
+Jon Dorenbos
+Long Snapper
+","$1,070,000  ",2015
+820,,"
+Andrew Sendejo
+Strong Safety
+","$1,066,668  ",2015
+821,,"
+Kelechi Osemele
+Guard
+","$1,064,595  ",2015
+822,,"
+Matt Spaeth
+Tight End
+","$1,062,500  ",2015
+823,,"
+Casey Hayward
+Cornerback
+","$1,053,154  ",2015
+824,,"
+Preston Smith
+Outside Linebacker
+","$1,050,791  ",2015
+825,,"
+Lawrence Guy
+Defensive End
+","$1,050,000  ",2015
+826,,"
+Stephon Tuitt
+Defensive End
+","$1,047,601  ",2015
+827,,"
+Garrison Sanborn
+Long Snapper
+","$1,047,500  ",2015
+828,,"
+Rueben Randle
+Wide Receiver
+","$1,047,432  ",2015
+829,,"
+Devin Smith
+Wide Receiver
+","$1,047,064  ",2015
+830,,"
+Brandon Bolden
+Running Back
+","$1,035,000  ",2015
+831,,"
+Le'Veon Bell
+Running Back
+","$1,032,082  ",2015
+832,,"
+Stevan Ridley
+Running Back
+","$1,031,250  ",2015
+833,,"
+Eddie Goldman
+Defensive Tackle
+","$1,026,992  ",2015
+834,,"
+Jamie Collins
+Outside Linebacker
+","$1,025,727  ",2015
+835,,"
+Nickell Robey-Coleman
+Cornerback
+","$1,020,667  ",2015
+836,,"
+Mario Addison
+Defensive End
+","$1,020,000  ",2015
+837,,"
+Dorial Green-Beckham
+Wide Receiver
+","$1,018,836  ",2015
+838,,"
+Ramon Humber
+Outside Linebacker
+","$1,017,000  ",2015
+839,,"
+Trent Murphy
+Outside Linebacker
+","$1,016,545  ",2015
+840,,"
+Devin Funchess
+Wide Receiver
+","$1,003,797  ",2015
+841,,"
+Margus Hunt
+Defensive Tackle
+","$1,001,209  ",2015
+842,,"
+Anthony Levine
+Inside Linebacker
+","$1,000,000  ",2015
+,,"
+Chris Jones
+Punter
+","$1,000,000  ",2015
+,,"
+Michael Morgan
+Outside Linebacker
+","$1,000,000  ",2015
+845,,"
+Garrett Reynolds
+Guard
+","$999,999  ",2015
+846,,"
+Timmy Jernigan
+Defensive Tackle
+","$996,114  ",2015
+847,,"
+Don Carey
+Strong Safety
+","$995,000  ",2015
+,,"
+J.J. Jansen
+Long Snapper
+","$995,000  ",2015
+849,,"
+Adam Hayward
+Outside Linebacker
+","$990,625  ",2015
+850,,"
+Jamar Taylor
+Cornerback
+","$988,950  ",2015
+851,,"
+Louis Murphy
+Wide Receiver
+","$987,500  ",2015
+852,,"
+Jalen Collins
+Cornerback
+","$986,879  ",2015
+853,,"
+Vance McDonald
+Tight End
+","$981,594  ",2015
+854,,"
+Brett Goode
+Long Snapper
+","$976,250  ",2015
+855,,"
+Jace Amaro
+Tight End
+","$975,680  ",2015
+856,,"
+Benardrick McKinney
+Inside Linebacker
+","$971,840  ",2015
+857,,"
+Arthur Brown
+Inside Linebacker
+","$969,335  ",2015
+858,,"
+Austin Davis
+Quarterback
+","$966,666  ",2015
+859,,"
+Lance Louis
+Guard
+","$966,250  ",2015
+860,,"
+Hau'oli Kikaha
+Outside Linebacker
+","$957,511  ",2015
+861,,"
+Jeremiah Attaochu
+Outside Linebacker
+","$955,250  ",2015
+862,,"
+Eric Winston
+Right Tackle
+","$950,000  ",2015
+863,,"
+LeGarrette Blount
+Running Back
+","$949,632  ",2015
+864,,"
+Ronnie Hillman
+Running Back
+","$942,708  ",2015
+865,,"
+Charlie Whitehurst
+Quarterback
+","$941,176  ",2015
+866,,"
+Michael Hoomanawanui
+Tight End
+","$940,074  ",2015
+867,,"
+Jon Weeks
+Long Snapper
+","$938,750  ",2015
+868,,"
+Eric Kendricks
+Inside Linebacker
+","$937,440  ",2015
+869,,"
+Aaron Dobson
+Wide Receiver
+","$935,010  ",2015
+870,,"
+Ego Ferguson
+Defensive Tackle
+","$934,819  ",2015
+871,,"
+Andrew Gardner
+Guard
+","$931,045  ",2015
+872,,"
+Robert Alford
+Cornerback
+","$927,654  ",2015
+873,,"
+Eddie Lacy
+Running Back
+","$925,203  ",2015
+874,,"
+Cedric Peerman
+Running Back
+","$920,000  ",2015
+,,"
+Ricardo Mathews
+Defensive Tackle
+","$920,000  ",2015
+876,,"
+Jaquiski Tartt
+Free Safety
+","$915,821  ",2015
+877,,"
+Troy Niklas
+Tight End
+","$914,386  ",2015
+878,,"
+Michael Person
+Guard
+","$911,666  ",2015
+879,,"
+Clark Harris
+Long Snapper
+","$900,000  ",2015
+880,,"
+Davante Adams
+Wide Receiver
+","$893,955  ",2015
+881,,"
+Eric Rowe
+Cornerback
+","$887,248  ",2015
+882,,"
+Tyrod Taylor
+Quarterback
+","$883,333  ",2015
+883,,"
+Mike Windt
+Long Snapper
+","$882,500  ",2015
+884,,"
+Tanner Purdum
+Long Snapper
+","$877,500  ",2015
+885,,"
+Bryan Anger
+Punter
+","$875,480  ",2015
+886,,"
+Justin Drescher
+Long Snapper
+","$875,000  ",2015
+887,,"
+Bishop Sankey
+Running Back
+","$873,522  ",2015
+888,,"
+Colin Jones
+Free Safety
+","$870,000  ",2015
+,,"
+Lorenzo Alexander
+Outside Linebacker
+","$870,000  ",2015
+890,,"
+Denzel Perryman
+Inside Linebacker
+","$868,449  ",2015
+891,,"
+Marlon Moore
+Wide Receiver
+","$866,666  ",2015
+892,,"
+Josh LeRibeus
+Center
+","$864,081  ",2015
+893,,"
+David Johnson
+Tight End
+","$860,000  ",2015
+894,,"
+Tyrann Mathieu
+Free Safety
+","$855,937  ",2015
+895,,"
+Travis Kelce
+Tight End
+","$853,826  ",2015
+896,,"
+Jeremy Hill
+Running Back
+","$853,091  ",2015
+897,,"
+Jake McQuaide
+Long Snapper
+","$850,000  ",2015
+,,"
+Jamize Olawale
+Fullback
+","$850,000  ",2015
+899,,"
+Mitch Morse
+Center
+","$849,649  ",2015
+900,,"
+Dwayne Gratz
+Cornerback
+","$849,394  ",2015
+901,,"
+Larry Warford
+Guard
+","$849,250  ",2015
+902,,"
+Mike Glennon
+Quarterback
+","$846,563  ",2015
+903,,"
+Aaron Brewer
+Long Snapper
+","$845,000  ",2015
+,,"
+Clint Gresham
+Long Snapper
+","$845,000  ",2015
+905,,"
+Donald Stephenson
+Left Tackle
+","$844,375  ",2015
+906,,"
+Cody Latimer
+Wide Receiver
+","$842,875  ",2015
+907,,"
+Kavell Conner
+Inside Linebacker
+","$840,000  ",2015
+908,,"
+Carlos Hyde
+Running Back
+","$836,745  ",2015
+909,,"
+Josh Kline
+Guard
+","$835,000  ",2015
+910,,"
+Ronald Darby
+Cornerback
+","$830,853  ",2015
+911,,"
+Beau Brinkley
+Long Snapper
+","$828,000  ",2015
+912,,"
+Mike Jenkins
+Cornerback
+","$825,000  ",2015
+,,"
+Jarvis Jenkins
+Defensive End
+","$825,000  ",2015
+,,"
+Trevor Robinson
+Center
+","$825,000  ",2015
+915,,"
+Jared Allen
+Defensive End
+","$823,529  ",2015
+916,,"
+Mike Martin
+Defensive Tackle
+","$821,890  ",2015
+917,,"
+Frank Zombo
+Outside Linebacker
+","$820,000  ",2015
+918,,"
+Bennie Logan
+Defensive Tackle
+","$818,523  ",2015
+919,,"
+Sean Spence
+Inside Linebacker
+","$816,345  ",2015
+920,,"
+Jack Mewhort
+Guard
+","$812,228  ",2015
+921,,"
+Nate Orchard
+Outside Linebacker
+","$812,055  ",2015
+922,,"
+Kyle Nelson
+Long Snapper
+","$810,000  ",2015
+923,,"
+Kony Ealy
+Defensive End
+","$806,098  ",2015
+924,,"
+Matt Asiata
+Running Back
+","$800,000  ",2015
+925,,"
+Allen Robinson
+Wide Receiver
+","$797,925  ",2015
+926,,"
+Jayron Hosley
+Cornerback
+","$796,250  ",2015
+927,,"
+Kiko Alonso
+Outside Linebacker
+","$795,946  ",2015
+928,,"
+Brandon Thompson
+Defensive Tackle
+","$795,300  ",2015
+929,,"
+Sam Young
+Left Tackle
+","$795,000  ",2015
+930,,"
+Jordan Phillips
+Defensive Tackle
+","$793,256  ",2015
+931,,"
+Jimmy Garoppolo
+Quarterback
+","$791,795  ",2015
+932,,"
+Teddy Williams
+Cornerback
+","$790,000  ",2015
+933,,"
+Jarvis Landry
+Wide Receiver
+","$789,753  ",2015
+934,,"
+Blidi Wreh-Wilson
+Cornerback
+","$789,416  ",2015
+935,,"
+Tony Bergstrom
+Center
+","$786,504  ",2015
+936,,"
+T.J. McDonald
+Free Safety
+","$786,426  ",2015
+937,,"
+Justin Britt
+Center
+","$785,666  ",2015
+938,,"
+Dion Lewis
+Running Back
+","$785,000  ",2015
+,,"
+Josh Bynes
+Outside Linebacker
+","$785,000  ",2015
+940,,"
+Terrance Williams
+Wide Receiver
+","$779,868  ",2015
+941,,"
+Travis Benjamin
+Wide Receiver
+","$779,250  ",2015
+942,,"
+Brian Winters
+Guard
+","$778,969  ",2015
+943,,"
+Omar Bolden
+Free Safety
+","$778,607  ",2015
+944,,"
+Kirk Cousins
+Quarterback
+","$778,172  ",2015
+945,,"
+Jake Fisher
+Left Tackle
+","$774,458  ",2015
+946,,"
+Ladarius Green
+Tight End
+","$772,725  ",2015
+947,,"
+Kyle Wilber
+Outside Linebacker
+","$769,805  ",2015
+948,,"
+Terron Armstead
+Left Tackle
+","$769,359  ",2015
+949,,"
+Keenan Robinson
+Outside Linebacker
+","$765,027  ",2015
+950,,"
+Dallas Thomas
+Guard
+","$761,594  ",2015
+951,,"
+Frank Alexander
+Defensive End
+","$760,272  ",2015
+952,,"
+Ron Brooks
+Cornerback
+","$760,135  ",2015
+953,,"
+Benjamin Ijalana
+Right Tackle
+","$760,000  ",2015
+,,"
+Josh Harris
+Long Snapper
+","$760,000  ",2015
+,,"
+Bradley Sowell
+Left Tackle
+","$760,000  ",2015
+956,,"
+Ameer Abdullah
+Running Back
+","$755,659  ",2015
+957,,"
+Markus Wheaton
+Wide Receiver
+","$752,844  ",2015
+958,,"
+J.J. Wilcox
+Free Safety
+","$751,517  ",2015
+959,,"
+Chris Polk
+Running Back
+","$747,500  ",2015
+960,,"
+John Jenkins
+Defensive End
+","$746,890  ",2015
+961,,"
+Logan Ryan
+Cornerback
+","$745,813  ",2015
+962,,"
+Jordan Norwood
+Wide Receiver
+","$745,000  ",2015
+,,"
+Jamon Meredith
+Right Tackle
+","$745,000  ",2015
+,,"
+Kyle Love
+Defensive Tackle
+","$745,000  ",2015
+965,,"
+Jordan Reed
+Tight End
+","$742,278  ",2015
+966,,"
+Jordan Hill
+Defensive Tackle
+","$741,035  ",2015
+967,,"
+Shawn Williams
+Strong Safety
+","$738,986  ",2015
+968,,"
+Maxx Williams
+Tight End
+","$736,861  ",2015
+969,,"
+Knile Davis
+Running Back
+","$736,504  ",2015
+970,,"
+Brandon Mosley
+Guard
+","$735,146  ",2015
+971,,"
+A.Q. Shipley
+Center
+","$735,000  ",2015
+972,,"
+Kayvon Webster
+Cornerback
+","$731,950  ",2015
+973,,"
+Hugh Thornton
+Guard
+","$731,345  ",2015
+974,,"
+Corey Lemonier
+Outside Linebacker
+","$730,880  ",2015
+975,,"
+C.J. Fiedorowicz
+Tight End
+","$730,826  ",2015
+976,,"
+Morgan Moses
+Right Tackle
+","$729,394  ",2015
+977,,"
+Senquez Golson
+Cornerback
+","$727,462  ",2015
+978,,"
+Charles Sims
+Running Back
+","$726,023  ",2015
+979,,"
+Duron Harmon
+Strong Safety
+","$724,400  ",2015
+980,,"
+Greg Zuerlein
+Kicker
+","$723,307  ",2015
+981,,"
+Billy Turner
+Guard
+","$723,000  ",2015
+982,,"
+Rob Havenstein
+Guard
+","$721,822  ",2015
+983,,"
+Brandon Williams
+Defensive Tackle
+","$713,750  ",2015
+984,,"
+Tahir Whitehead
+Outside Linebacker
+","$713,000  ",2015
+985,,"
+Marcus Martin
+Guard
+","$712,812  ",2015
+986,,"
+Markus Golden
+Outside Linebacker
+","$712,424  ",2015
+987,,"
+Tim Barnes
+Center
+","$710,017  ",2015
+988,,"
+Garrett Celek
+Tight End
+","$710,000  ",2015
+989,,"
+Christian Kirksey
+Inside Linebacker
+","$707,625  ",2015
+990,,"
+Dennis Kelly
+Right Tackle
+","$707,200  ",2015
+991,,"
+Jay Bromley
+Defensive Tackle
+","$705,969  ",2015
+992,,"
+Scott Crichton
+Defensive End
+","$705,507  ",2015
+993,,"
+Alex Okafor
+Defensive End
+","$703,607  ",2015
+994,,"
+Jelani Jenkins
+Outside Linebacker
+","$703,172  ",2015
+995,,"
+Duke Williams
+Free Safety
+","$702,563  ",2015
+996,,"
+Preston Brown
+Inside Linebacker
+","$702,000  ",2015
+997,,"
+Dion Sims
+Tight End
+","$701,888  ",2015
+998,,"
+Marvin Jones
+Wide Receiver
+","$700,700  ",2015
+999,,"
+Dallas Reynolds
+Guard
+","$700,000  ",2015
+1000,,"
+Travis Swanson
+Center
+","$699,868  ",2015
