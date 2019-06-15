@@ -1,0 +1,3575 @@
+,index,Player,state
+0,Acadia University,Brian Heaney,
+1,Alabama A&M University,Mickell Gladness,AL
+2,Alabama State University,Kevin Loder,AL
+3,Albany State University,Caldwell Jones,GA
+4,Albany State University,Major Jones,GA
+5,Albany State University,Charles Jones,GA
+6,Albany State University,Mark Jones,GA
+7,Alcorn State University,Willie Norwood,MS
+8,Alcorn State University,Larry Smith,MS
+9,Alcorn State University,Michael Phelps,MS
+10,Alcorn State University,LaBradford Smith,MS
+11,Alliance College,Don Asmonga,
+12,American International College,Mario Elie,
+13,American University,Kermit Washington,DC
+14,Appalachian State University,Belus Smawley,NC
+15,Arizona State University,Joe Caldwell,AZ
+16,Arizona State University,Dennis Hamilton,AZ
+17,Arizona State University,Paul Stovall,AZ
+18,Arizona State University,Jim Owens,AZ
+19,Arizona State University,Lionel Hollins,AZ
+20,Arizona State University,Rudy White,AZ
+21,Arizona State University,Scott Lloyd,AZ
+22,Arizona State University,Mark Landsberger,AZ
+23,Arizona State University,Tony Zeno,AZ
+24,Arizona State University,Alton Lister,AZ
+25,Arizona State University,Kurt Nimphius,AZ
+26,Arizona State University,Fat Lever,AZ
+27,Arizona State University,Byron Scott,AZ
+28,Arizona State University,Isaac Austin,AZ
+29,Arizona State University,Mario Bennett,AZ
+30,Arizona State University,Eddie House,AZ
+31,Arizona State University,Mike Batiste,AZ
+32,Arizona State University,Awvee Storey,AZ
+33,Arizona State University,Ike Diogu,AZ
+34,Arizona State University,James Harden,AZ
+35,Arizona State University,Carrick Felix,AZ
+36,Assumption College,Jake Jones,MA
+37,Assumption College,James Jones,MA
+38,Auburn University,John Mengelt,AL
+39,Auburn University,Mike Mitchell,AL
+40,Auburn University,Stan Pietkiewicz,AL
+41,Auburn University,Myles Patrick,AL
+42,Auburn University,Bobby Cattage,AL
+43,Auburn University,Darrell Lockhart,AL
+44,Auburn University,Charles Barkley*,AL
+45,Auburn University,Chuck Person,AL
+46,Auburn University,Chris Morris,AL
+47,Auburn University,Wesley Person,AL
+48,Auburn University,Aaron Swinson,AL
+49,Auburn University,Chris Porter,AL
+50,Auburn University,Jamison Brewer,AL
+51,Auburn University,Pat Burke,AL
+52,Auburn University,Adam Harrington,AL
+53,Auburn University,Marquis Daniels,AL
+54,Auburn University at Montgomery,Orlando Graham,AL
+55,Auburn University at Montgomery,Etdrick Bohannon,AL
+56,Augsburg College,Dan Anderson,MN
+57,Augsburg College,Devean George,MN
+58,Augsburg College,David Andersen,MN
+59,Augusta State University,Garret Siler,
+60,Augustana College (SD),Arvid Kramer,
+61,Augustana College (SD),Brett Szabo,
+62,Aurora University,Mickey Johnson,
+63,Austin Peay State University,Otis Howard,TN
+64,Austin Peay State University,Barry Sumpter,TN
+65,Austin Peay State University,Howard Wright,TN
+66,Austin Peay State University,Bubba Wells,TN
+67,Austin Peay State University,Trenton Hassell,TN
+68,Averett University,Kennard Winchester,
+69,Ball State University,Bonzi Wells,IN
+70,Ball State University,Theron Smith,IN
+71,Barton County Community College,Aleksandar Radojevic,KS
+72,Baylor University,Red Owens,TX
+73,Baylor University,Vinnie Johnson,TX
+74,Baylor University,Terry Teagle,TX
+75,Baylor University,David Wesley,TX
+76,Baylor University,Brian Skinner,TX
+77,Baylor University,Ekpe Udoh,TX
+78,Baylor University,Quincy Acy,TX
+79,Baylor University,Perry Jones,TX
+80,Baylor University,Quincy Miller,TX
+81,Baylor University,Cory Jefferson,TX
+82,Baylor University,Pierre Jackson,TX
+83,Belmont Abbey College,Danny Doyle,NC
+84,Belmont University,Ian Clark,TN
+85,Beloit College,Johnny Orr,WI
+86,Bemidji State University,Arnie Johnson,MN
+87,Bemidji State University,Armon Johnson,MN
+88,Bethel College,Joe Reaves,TN
+89,Bethel College,Joe Reaves,IN
+90,Blinn College,Chris Andersen,TX
+91,Boise State University,Chris Childs,ID
+92,Boise State University,John Coker,ID
+93,Boise State University,Coby Karl,ID
+94,Boston College,Gerry Ward,MA
+95,Boston College,Johnny Austin,MA
+96,Boston College,Terry Driscoll,MA
+97,Boston College,Bob Carrington,MA
+98,Boston College,John Bagley,MA
+99,Boston College,John Garris,MA
+100,Boston College,Jay Murphy,MA
+101,Boston College,Michael Adams,MA
+102,Boston College,Ron Crevier,MA
+103,Boston College,Dominic Pressley,MA
+104,Boston College,Dana Barros,MA
+105,Boston College,Bill Curley,MA
+106,Boston College,Howard Eisley,MA
+107,Boston College,Troy Bell,MA
+108,Boston College,Craig Smith,MA
+109,Boston College,Jared Dudley,MA
+110,Boston College,Sean Williams,MA
+111,Boston College,Reggie Jackson,MA
+112,Boston University,Jim Garvin,MA
+113,Boston University,Ken Boyd,MA
+114,Boston University,Gary Plummer,MA
+115,Bowling Green State University,Leo Kubiak,OH
+116,Bowling Green State University,Don Otten,OH
+117,Bowling Green State University,Mac Otten,OH
+118,Bowling Green State University,Johnny Payak,OH
+119,Bowling Green State University,Chuck Share,OH
+120,Bowling Green State University,Al Bianchi,OH
+121,Bowling Green State University,Jimmy Darrow,OH
+122,Bowling Green State University,Nate Thurmond*,OH
+123,Bowling Green State University,Howard Komives,OH
+124,Bowling Green State University,Al Hairston,OH
+125,Bowling Green State University,Cliff Williams,OH
+126,Bowling Green State University,Cornelius Cash,OH
+127,Bowling Green State University,Antonio Daniels,OH
+128,Bowling Green State University,Keith McLeod,OH
+129,Bowling Green State University,Richaun Holmes,OH
+130,Bradley University,Elmer Behnke,IL
+131,Bradley University,Bob Carney,IL
+132,Bradley University,Barney Cable,IL
+133,Bradley University,Shellie McMillon,IL
+134,Bradley University,Chet Walker*,IL
+135,Bradley University,Joe Strawder,IL
+136,Bradley University,Steve Kuberski,IL
+137,Bradley University,Roger Phegley,IL
+138,Bradley University,David Thirdkill,IL
+139,Bradley University,Voise Winters,IL
+140,Bradley University,Hersey Hawkins,IL
+141,Bradley University,Jim Les,IL
+142,Bradley University,Anthony Parker,IL
+143,Bradley University,Patrick O'Bryant,IL
+144,Brigham Young University,Brady Walker,UT
+145,Brigham Young University,Mel Hutchins,UT
+146,Brigham Young University,John Fairchild,UT
+147,Brigham Young University,Craig Raymond,UT
+148,Brigham Young University,Paul Ruffner,UT
+149,Brigham Young University,Bernie Fryer,UT
+150,Brigham Young University,Jim Eakins,UT
+151,Brigham Young University,Danny Ainge,UT
+152,Brigham Young University,Greg Kite,UT
+153,Brigham Young University,Fred Roberts,UT
+154,Brigham Young University,Devin Durrant,UT
+155,Brigham Young University,Michael Smith,UT
+156,Brigham Young University,Andy Toolson,UT
+157,Brigham Young University,Shawn Bradley,UT
+158,Brigham Young University,Mike Smith,UT
+159,Brigham Young University,Travis Hansen,UT
+160,Brigham Young University,Rafael Araujo,UT
+161,Brigham Young University,Jimmer Fredette,UT
+162,Brigham Young University,Brandon Davies,UT
+163,Brigham Young University Hawaii,Yuta Tabuse,
+164,Brown University,Mo Mahoney,RI
+165,Bucknell University,Mike Muscala,PA
+166,Butler University,Bob Evans,IN
+167,Butler University,Ralph O'Brien,IN
+168,Butler University,Gordon Hayward,IN
+169,Butler University,Shelvin Mack,IN
+170,"California Polytechnic State University, San Luis Obispo",David Nwaba,CA
+171,"California State Polytechnic University, Pomona",Art Williams,
+172,"California State University, Bakersfield",Kebu Stewart,
+173,"California State University, Fresno",Gary Alcorn,
+174,"California State University, Fresno",Pete Verhoeven,
+175,"California State University, Fresno",Rod Higgins,
+176,"California State University, Fresno",Ron Anderson,
+177,"California State University, Fresno",Bernard Thompson,
+178,"California State University, Fresno",Rafer Alston,
+179,"California State University, Fresno",Chris Herren,
+180,"California State University, Fresno",Terrance Roberson,
+181,"California State University, Fresno",Tremaine Fowlkes,
+182,"California State University, Fresno",Melvin Ely,
+183,"California State University, Fresno",Chris Jefferies,
+184,"California State University, Fresno",Tito Maddox,
+185,"California State University, Fresno",Hiram Fuller,
+186,"California State University, Fresno",Noel Felix,
+187,"California State University, Fresno",Renaldo Major,
+188,"California State University, Fresno",Dominic McGuire,
+189,"California State University, Fresno",Paul George,
+190,"California State University, Fresno",Tyler Johnson,
+191,"California State University, Fullerton",Greg Bunch,
+192,"California State University, Fullerton",Mike Niles,
+193,"California State University, Fullerton",Ozell Jones,
+194,"California State University, Fullerton",Leon Wood,
+195,"California State University, Fullerton",Kevin Henderson,
+196,"California State University, Fullerton",Richard Morton,
+197,"California State University, Fullerton",Cedric Ceballos,
+198,"California State University, Fullerton",Bruce Bowen,
+199,"California State University, Fullerton",Pape Sow,
+200,"California State University, Fullerton",Josh Akognon,
+201,"California State University, Long Beach",George Trapp,
+202,"California State University, Long Beach",Eric McWilliams,
+203,"California State University, Long Beach",Chuck Terry,
+204,"California State University, Long Beach",Ed Ratleff,
+205,"California State University, Long Beach",Leonard Gray,
+206,"California State University, Long Beach",Glenn McDonald,
+207,"California State University, Long Beach",Bob Gross,
+208,"California State University, Long Beach",Cliff Pondexter,
+209,"California State University, Long Beach",Michael Wiley,
+210,"California State University, Long Beach",Craig Dykema,
+211,"California State University, Long Beach",Craig Hodges,
+212,"California State University, Long Beach",Rickey Williams,
+213,"California State University, Long Beach",Morlon Wiley,
+214,"California State University, Long Beach",Lucious Harris,
+215,"California State University, Long Beach",Bryon Russell,
+216,"California State University, Long Beach",Juaquin Hawkins,
+217,"California State University, Long Beach",Casper Ware,
+218,"California State University, Long Beach",James Ennis,
+219,"California State University, Los Angeles",John Barber,
+220,"California State University, Los Angeles",Johnny Jones,
+221,"California State University, Los Angeles",Ron Knight,
+222,"California State University, Los Angeles",Michael Jackson,
+223,"California State University, Northridge",Paul McCracken,
+224,California University of Pennslyvania,Del Beshore,
+225,Campbell University,George Lehmann,NC
+226,Canisius College,Leroy Chollet,NY
+227,Canisius College,Al Masino,NY
+228,Canisius College,Herm Hedderick,NY
+229,Canisius College,Johnny McCarthy,NY
+230,Canisius College,Mike Macaluso,NY
+231,Canisius College,Larry Fogle,NY
+232,Canisius College,Mike Smrek,NY
+233,Canisius College,Antonio Anderson,NY
+234,Catholic University of America,Charley Shipp,DC
+235,Centenary College of Louisiana,Connie Rea,LA
+236,Centenary College of Louisiana,Robert Parish*,LA
+237,Centenary College of Louisiana,Larry Robinson,LA
+238,Central Connecticut State University,Keith Closs,CT
+239,Central Connecticut State University,Corsley Edwards,CT
+240,Central Michigan University,Ben Kelso,MI
+241,Central Michigan University,Jim McElroy,MI
+242,Central Michigan University,Dan Roundfield,MI
+243,Central Michigan University,Ben Poquette,MI
+244,Central Michigan University,Dan Majerle,MI
+245,Central Michigan University,Nate Huffman,MI
+246,Central Michigan University,Chris Kaman,MI
+247,Central State University,Ken Wilburn,OH
+248,Central State University,Priest Lauderdale,OH
+249,Cheyney University of Pennsylvania,Greg Fillmore,
+250,Christopher Newport University,Lamont Strothers,
+251,City College of New York,Sonny Hertzberg,
+252,City College of New York,Red Holzman*,
+253,City College of New York,Norm Mager,
+254,City College of San Francisco,Bill Calhoun,CA
+255,Clark Atlanta University,Hank DeZonie,
+256,Clemson University,Tree Rollins,SC
+257,Clemson University,Larry Nance,SC
+258,Clemson University,Horace Grant,SC
+259,Clemson University,Elden Campbell,SC
+260,Clemson University,Dale Davis,SC
+261,Clemson University,Chris Whitney,SC
+262,Clemson University,Sharone Wright,SC
+263,Clemson University,Devin Gray,SC
+264,Clemson University,Greg Buckner,SC
+265,Clemson University,Harold Jamison,SC
+266,Clemson University,Will Solomon,SC
+267,Clemson University,Trevor Booker,SC
+268,Cleveland State University,Franklin Edwards,OH
+269,Cleveland State University,Darren Tillis,OH
+270,Cleveland State University,Clinton Smith,OH
+271,Cleveland State University,Cedric Jackson,OH
+272,Cleveland State University,Norris Cole,OH
+273,Colgate University,Carl Braun,NY
+274,Colgate University,Ernie Vandeweghe,NY
+275,Colgate University,Adonal Foyle,NY
+276,College of Charleston,Andrew Goudelock,SC
+277,College of Saint Rose,Garth Joseph,
+278,College of William & Mary,Andy Duncan,
+279,College of William & Mary,Brant Weidner,
+280,College of the Holy Cross,George Kaftan,MA
+281,College of the Holy Cross,Joe Mullaney,MA
+282,College of the Holy Cross,Dermie O'Connell,MA
+283,College of the Holy Cross,Bob Cousy*,MA
+284,College of the Holy Cross,Togo Palazzi,MA
+285,College of the Holy Cross,Tom Heinsohn*,MA
+286,College of the Holy Cross,George Blaney,MA
+287,College of the Holy Cross,Jack Foley,MA
+288,College of the Holy Cross,Garry Witts,MA
+289,Colorado State University,John O'Boyle,CO
+290,Colorado State University,Bob Rule,CO
+291,Colorado State University,Dale Schlueter,CO
+292,Colorado State University,Eddie Hughes,CO
+293,Colorado State University,Pat Durham,CO
+294,Colorado State University,Lorenzen Wright,CO
+295,Colorado State University,Milt Palacio,CO
+296,Columbia University,Walt Budko,NY
+297,Columbia University,Jack Molinas,NY
+298,Columbia University,Dave Newmark,NY
+299,Columbia University,Jim McMillian,NY
+300,Coppin State University,Joe Pace,
+301,Coppin State University,Larry Stewart,
+302,Cornell University,Ed Peterson,NY
+303,Cornell University,Jeff Foote,NY
+304,Creighton University,Hoot Gibson,NE
+305,Creighton University,Paul Silas,NE
+306,Creighton University,Wally Anderzunas,NE
+307,Creighton University,Bob Portman,NE
+308,Creighton University,Kevin McKenna,NE
+309,Creighton University,Benoit Benjamin,NE
+310,Creighton University,Chad Gallagher,NE
+311,Creighton University,Rodney Buford,NE
+312,Creighton University,Kyle Korver,NE
+313,Creighton University,Anthony Tolliver,NE
+314,Creighton University,Doug McDermott,NE
+315,Dartmouth College,Ed Leede,NH
+316,Dartmouth College,Rudy LaRusso,NH
+317,Dartmouth College,Walter Palmer,NH
+318,Dartmouth College,James Blackwell,NH
+319,Davidson College,Fred Hetzel,NC
+320,Davidson College,Dick Snyder,NC
+321,Davidson College,Rod Knowles,NC
+322,Davidson College,Brandon Williams,NC
+323,Davidson College,Stephen Curry,NC
+324,DePaul University,Elmer Gainer,IL
+325,DePaul University,Ed Mikan,IL
+326,DePaul University,George Mikan*,IL
+327,DePaul University,Jack Phelan,IL
+328,DePaul University,Gene Stump,IL
+329,DePaul University,Dick Triptow,IL
+330,DePaul University,Gene Dyker,IL
+331,DePaul University,Bato Govedarica,IL
+332,DePaul University,James Phelan,IL
+333,DePaul University,Ron Feiereisel,IL
+334,DePaul University,Ron Sobie,IL
+335,DePaul University,Howie Carl,IL
+336,DePaul University,Em Bryant,IL
+337,DePaul University,Bill Robinzine,IL
+338,DePaul University,Dave Corzine,IL
+339,DePaul University,Gary Garland,IL
+340,DePaul University,Mark Aguirre,IL
+341,DePaul University,Terry Cummings,IL
+342,DePaul University,Tyrone Corbin,IL
+343,DePaul University,Dallas Comegys,IL
+344,DePaul University,Kevin Edwards,IL
+345,DePaul University,Stanley Brundy,IL
+346,DePaul University,Stephen Howard,IL
+347,DePaul University,Paul McPherson,IL
+348,DePaul University,Quentin Richardson,IL
+349,DePaul University,Steven Hunter,IL
+350,DePaul University,Bobby Simmons,IL
+351,DePaul University,Andre Brown,IL
+352,DePaul University,Wilson Chandler,IL
+353,DePaul University,Anthony Brown,IL
+354,Delaware State University,Emanual Davis,DE
+355,Delta State University,Todd Mundt,MS
+356,Delta State University,Jeremy Richardson,MS
+357,Drake University,Gene Ollrich,IA
+358,Drake University,John Pritchard,IA
+359,Drake University,John Rennicke,IA
+360,Drake University,McCoy McLemore,IA
+361,Drake University,Willie McCarter,IA
+362,Drake University,Gary Zeller,IA
+363,Drake University,Jeff Halliburton,IA
+364,Drake University,Dennis Bell,IA
+365,Drake University,Willie Wise,IA
+366,Drake University,Wayne Kreklow,IA
+367,Drake University,Lewis Lloyd,IA
+368,Drake University,Alvin Williams,IA
+369,Drake University,Alan Williams,IA
+370,Drexel University,Michael Anderson,
+371,Drexel University,Malik Rose,
+372,Duke University,Dick Groat,NC
+373,Duke University,Doug Kistler,NC
+374,Duke University,Art Heyman,NC
+375,Duke University,Jeff Mullins,NC
+376,Duke University,Jack Marin,NC
+377,Duke University,Joe Kennedy,NC
+378,Duke University,Gary Melchionni,NC
+379,Duke University,Bob Verga,NC
+380,Duke University,Randy Denton,NC
+381,Duke University,Tate Armstrong,NC
+382,Duke University,Mark Crow,NC
+383,Duke University,Jim Spanarkel,NC
+384,Duke University,Mike Gminski,NC
+385,Duke University,Gene Banks,NC
+386,Duke University,Kenny Dennard,NC
+387,Duke University,Vince Taylor,NC
+388,Duke University,Mark Alarie,NC
+389,Duke University,Johnny Dawkins,NC
+390,Duke University,Dave Henderson,NC
+391,Duke University,Martin Nessley,NC
+392,Duke University,Alaa Abdelnaby,NC
+393,Duke University,Danny Ferry,NC
+394,Duke University,Christian Laettner,NC
+395,Duke University,Bobby Hurley,NC
+396,Duke University,Grant Hill,NC
+397,Duke University,Roshown McLeod,NC
+398,Duke University,William Avery,NC
+399,Duke University,Elton Brand,NC
+400,Duke University,Trajan Langdon,NC
+401,Duke University,Corey Maggette,NC
+402,Duke University,Shane Battier,NC
+403,Duke University,Carlos Boozer,NC
+404,Duke University,Luol Deng,NC
+405,Duke University,Chris Duhon,NC
+406,Duke University,Daniel Ewing,NC
+407,Duke University,Shavlik Randolph,NC
+408,Duke University,Josh McRoberts,NC
+409,Duke University,DeMarcus Nelson,NC
+410,Duke University,Kyrie Irving,NC
+411,Duke University,Nolan Smith,NC
+412,Duke University,Lance Thomas,NC
+413,Duke University,Miles Plumlee,NC
+414,Duke University,Austin Rivers,NC
+415,Duke University,Kyle Singler,NC
+416,Duke University,Seth Curry,NC
+417,Duke University,Ryan Kelly,NC
+418,Duke University,Mason Plumlee,NC
+419,Duke University,Andre Dawkins,NC
+420,Duke University,Rodney Hood,NC
+421,Duke University,Jabari Parker,NC
+422,Duke University,Tyus Jones,NC
+423,Duke University,Jahlil Okafor,NC
+424,Duke University,Justise Winslow,NC
+425,Duke University,Quinn Cook,NC
+426,Duke University,Brandon Ingram,NC
+427,Duke University,Marshall Plumlee,NC
+428,Duquesne University,Chuck Cooper,PA
+429,Duquesne University,Ed Dahler,PA
+430,Duquesne University,Jim Tucker,PA
+431,Duquesne University,Dick Ricketts,PA
+432,Duquesne University,Si Green,PA
+433,Duquesne University,Willie Somerset,PA
+434,Duquesne University,Moe Barr,PA
+435,Duquesne University,Bill Zopf,PA
+436,Duquesne University,Barry Nelson,PA
+437,Duquesne University,Mike Barr,PA
+438,Duquesne University,Norm Nixon,PA
+439,Duquesne University,Sidney Green,PA
+440,Duquesne University,Derrick Alston,PA
+441,Duquesne University,Mike James,PA
+442,East Carolina University,Ollie Mack,NC
+443,East Carolina University,Blue Edwards,NC
+444,East Carolina University,Jonathan Kerner,NC
+445,East Central University,Claude Overton,OK
+446,East Tennessee State University,Keith Jennings,TN
+447,East Texas State University,Bob Carpenter,
+448,East Texas State University,Jake Carter,
+449,East Texas State University,Lee Johnson,
+450,Eastern Illinois University,Kevin Duckworth,IL
+451,Eastern Illinois University,Jay Taylor,IL
+452,Eastern Kentucky University,Freddie Lewis,KY
+453,Eastern Kentucky University,Tex Ritter,KY
+454,Eastern Kentucky University,Chuck Mrazovich,KY
+455,Eastern Kentucky University,Jim Baechtold,KY
+456,Eastern Kentucky University,Garfield Smith,KY
+457,Eastern Kentucky University,Bobby Washington,KY
+458,Eastern Michigan University,Harvey Marlatt,MI
+459,Eastern Michigan University,Kenny McIntosh,MI
+460,Eastern Michigan University,George Gervin*,MI
+461,Eastern Michigan University,Fred Cofield,MI
+462,Eastern Michigan University,Grant Long,MI
+463,Eastern Michigan University,Carl Thomas,MI
+464,Eastern Michigan University,Charles Thomas,MI
+465,Eastern Michigan University,Earl Boykins,MI
+466,Eastern Michigan University,Derrick Dial,MI
+467,Eastern New Mexico University,Greg Hyder,NM
+468,Eastern Washington University,Rodney Stuckey,
+469,Elizabeth City State University,Mike Gale,
+470,Elon University,Jesse Branson,NC
+471,Fairfield University,Deng Gai,CT
+472,Fayetteville State University,Darrell Armstrong,NC
+473,Florida Agricultural and Mechanical University,Bob Williams,FL
+474,Florida Agricultural and Mechanical University,Clemon Johnson,FL
+475,Florida Agricultural and Mechanical University,Clay Johnson,FL
+476,Florida Agricultural and Mechanical University,Jerome James,FL
+477,Florida International University,Raja Bell,FL
+478,Florida International University,Carlos Arroyo,FL
+479,Florida State University,Dave Fedor,FL
+480,Florida State University,Dave Cowens*,FL
+481,Florida State University,Willie Williams,FL
+482,Florida State University,Rowland Garrett,FL
+483,Florida State University,Ben Clyde,FL
+484,Florida State University,Harry Davis,FL
+485,Florida State University,Mickey Dillard,FL
+486,Florida State University,Mitchell Wiggins,FL
+487,Florida State University,Randy Allen,FL
+488,Florida State University,George McCloud,FL
+489,Florida State University,Tony Dawson,FL
+490,Florida State University,Irving Thomas,FL
+491,Florida State University,Tharon Mayes,FL
+492,Florida State University,Sam Cassell,FL
+493,Florida State University,Doug Edwards,FL
+494,Florida State University,Charlie Ward,FL
+495,Florida State University,Bob Sura,FL
+496,Florida State University,Ray Allen,FL
+497,Florida State University,James Collins,FL
+498,Florida State University,Jason Collier,FL
+499,Florida State University,Jarron Collins,FL
+500,Florida State University,Jason Collins,FL
+501,Florida State University,Von Wafer,FL
+502,Florida State University,Alexander Johnson,FL
+503,Florida State University,Al Thornton,FL
+504,Florida State University,Toney Douglas,FL
+505,Florida State University,Solomon Alabi,FL
+506,Florida State University,Ryan Reid,FL
+507,Florida State University,Chris Singleton,FL
+508,Florida State University,Bernard James,FL
+509,Florida State University,Malik Beasley,FL
+510,Florida State University,Okaro White,FL
+511,Fordham University,Fred Christ,NY
+512,Fordham University,Ed Conlin,NY
+513,Fordham University,Charlie Yelverton,NY
+514,Fordham University,Ken Charles,NY
+515,Fordham University,Dan O'Sullivan,NY
+516,Fordham University,Smush Parker,NY
+517,Fort Valley State University,Walt Gilmore,
+518,Franklin College,Dale Hamilton,IN
+519,Friendship Junior College,Harthorne Wingo,
+520,Furman University,Frank Selvy,SC
+521,Furman University,Clyde Mayes,SC
+522,Gardner-Webb University,John Drew,NC
+523,George Mason University,Rob Rose,VA
+524,George Mason University,Jason Miskiri,VA
+525,George Washington University,Corky Devlin,DC
+526,George Washington University,Joe Holup,DC
+527,George Washington University,Gene Guarilia,DC
+528,George Washington University,Mike Brown,DC
+529,George Washington University,Yinka Dare,DC
+530,George Washington University,Wally Szczerbiak,DC
+531,George Washington University,Mike Hall,DC
+532,George Washington University,Pops Mensah-Bonsu,DC
+533,George Washington University,Patricio Garino,DC
+534,Georgetown University,Ray Corley,DC
+535,Georgetown University,John Mahnken,DC
+536,Georgetown University,Tommy O'Keefe,DC
+537,Georgetown University,Bill Bolger,DC
+538,Georgetown University,John Duren,DC
+539,Georgetown University,Craig Shelton,DC
+540,Georgetown University,Sleepy Floyd,DC
+541,Georgetown University,Patrick Ewing*,DC
+542,Georgetown University,Bill Martin,DC
+543,Georgetown University,David Wingate,DC
+544,Georgetown University,Reggie Williams,DC
+545,Georgetown University,Ben Gillery,DC
+546,Georgetown University,Jaren Jackson,DC
+547,Georgetown University,Dikembe Mutombo*,DC
+548,Georgetown University,Alonzo Mourning*,DC
+549,Georgetown University,Robert Churchwell,DC
+550,Georgetown University,Don Reid,DC
+551,Georgetown University,Othella Harrington,DC
+552,Georgetown University,Allen Iverson*,DC
+553,Georgetown University,Jerome Williams,DC
+554,Georgetown University,Jahidi White,DC
+555,Georgetown University,Ruben Boumtje-Boumtje,DC
+556,Georgetown University,Mike Sweetney,DC
+557,Georgetown University,James White,DC
+558,Georgetown University,Roy Hibbert,DC
+559,Georgetown University,DaJuan Summers,DC
+560,Georgetown University,Patrick Ewing,DC
+561,Georgetown University,Greg Monroe,DC
+562,Georgetown University,Henry Sims,DC
+563,Georgetown University,Otto Porter,DC
+564,Georgetown University,Hollis Thompson,DC
+565,Georgia Institute of Technology,Jim Nolan,GA
+566,Georgia Institute of Technology,Jim Caldwell,GA
+567,Georgia Institute of Technology,Joe Barry,GA
+568,Georgia Institute of Technology,Brook Steppe,GA
+569,Georgia Institute of Technology,Yvon Joseph,GA
+570,Georgia Institute of Technology,Mark Price,GA
+571,Georgia Institute of Technology,John Salley,GA
+572,Georgia Institute of Technology,Duane Ferrell,GA
+573,Georgia Institute of Technology,Craig Neal,GA
+574,Georgia Institute of Technology,Tom Hammonds,GA
+575,Georgia Institute of Technology,Brian Oliver,GA
+576,Georgia Institute of Technology,Dennis Scott,GA
+577,Georgia Institute of Technology,Kenny Anderson,GA
+578,Georgia Institute of Technology,Jon Barry,GA
+579,Georgia Institute of Technology,Matt Geiger,GA
+580,Georgia Institute of Technology,Malcolm Mackey,GA
+581,Georgia Institute of Technology,Ivano Newbill,GA
+582,Georgia Institute of Technology,Fred Vinson,GA
+583,Georgia Institute of Technology,Travis Best,GA
+584,Georgia Institute of Technology,Stephon Marbury,GA
+585,Georgia Institute of Technology,Drew Barry,GA
+586,Georgia Institute of Technology,Matt Harpring,GA
+587,Georgia Institute of Technology,Dion Glover,GA
+588,Georgia Institute of Technology,Alvin Jones,GA
+589,Georgia Institute of Technology,Chris Bosh,GA
+590,Georgia Institute of Technology,Will Bynum,GA
+591,Georgia Institute of Technology,Jarrett Jack,GA
+592,Georgia Institute of Technology,Luke Schenscher,GA
+593,Georgia Institute of Technology,Javaris Crittenton,GA
+594,Georgia Institute of Technology,Thaddeus Young,GA
+595,Georgia Institute of Technology,Anthony Morrow,GA
+596,Georgia Institute of Technology,Derrick Favors,GA
+597,Georgia Institute of Technology,Gani Lawal,GA
+598,Georgia Institute of Technology,Iman Shumpert,GA
+599,Georgia Institute of Technology,Marcus Georges-Hunt,GA
+600,Georgia Southern University,Perry Warbington,GA
+601,Georgia Southern University,Jeff Sanders,GA
+602,Georgia Southern University,Michael Curry,GA
+603,Georgia State University,Lanard Copeland,GA
+604,Gonzaga University,John Stockton*,WA
+605,Gonzaga University,Mike Champion,WA
+606,Gonzaga University,Dan Dickau,WA
+607,Gonzaga University,Richie Frahm,WA
+608,Gonzaga University,Ronny Turiaf,WA
+609,Gonzaga University,Adam Morrison,WA
+610,Gonzaga University,Austin Daye,WA
+611,Gonzaga University,Jeremy Pargo,WA
+612,Gonzaga University,Robert Sacre,WA
+613,Gonzaga University,Elias Harris,WA
+614,Gonzaga University,Kelly Olynyk,WA
+615,Gonzaga University,David Stockton,WA
+616,Gonzaga University,Domantas Sabonis,WA
+617,Gonzaga University,Kyle Wiltjer,WA
+618,Grambling State University,Bob Hopkins,LA
+619,Grambling State University,Charlie Hardnett,LA
+620,Grambling State University,Willis Reed*,LA
+621,Grambling State University,Will Frazier,LA
+622,Grambling State University,Rich Johnson,LA
+623,Grambling State University,Bob Christian,LA
+624,Grambling State University,Fred Hilton,LA
+625,Grambling State University,Aaron James,LA
+626,Grambling State University,Jimmy Jones,LA
+627,Grambling State University,Larry Wright,LA
+628,Grambling State University,Willie Reed,LA
+629,Grand Canyon University,Bayard Forrest,AZ
+630,Grand Canyon University,Horacio Llamas,AZ
+631,Guilford College,Bob Kauffman,NC
+632,Guilford College,Greg Jackson,NC
+633,Hamline University,Vern Mikkelsen*,MN
+634,Hamline University,Johnny Norlander,MN
+635,Hamline University,Howie Schultz,MN
+636,Hamline University,Rollie Seltz,MN
+637,Hamline University,Joe Hutton,MN
+638,Hamline University,Jim Fritsche,MN
+639,Hampton University,Rick Mahorn,
+640,Hampton University,Devin Green,
+641,Hardin-Simmons University,Harvey Catchings,TX
+642,Harvard University,Ed Smith,MA
+643,Harvard University,Jeremy Lin,MA
+644,Hillsdale College,Bud Acton,MI
+645,Hofstra University,Bill Thieben,NY
+646,Hofstra University,Rich Laurel,NY
+647,Hofstra University,Speedy Claxton,NY
+648,Hofstra University,Norm Richardson,NY
+649,Hofstra University,Charles Jenkins,NY
+650,Howard University,Larry Spriggs,DC
+651,Humboldt State University,Damone Brown,CA
+652,Huntington University,Ralph Johnson,
+653,Idaho State University,Ron Boone,ID
+654,Idaho State University,Greg Griffin,ID
+655,Idaho State University,Jeff Cook,ID
+656,Idaho State University,Steve Hayes,ID
+657,Idaho State University,Dale Wilkinson,ID
+658,Idaho State University,Cherokee Parks,ID
+659,Idaho State University,Damien Wilkins,ID
+660,Illinois State University,Doug Collins,IL
+661,Illinois State University,Robert Hawkins,IL
+662,Illinois State University,Don Collins,IL
+663,Illinois State University,Jeff Wilkins,IL
+664,Illinois Wesleyan University,Jack Sikma,IL
+665,Indian Hills Community College,Ernest Brown,IA
+666,Indiana State University,Duane Klueh,IN
+667,Indiana State University,Bob Royer,IN
+668,Indiana State University,Dick Atha,IN
+669,Indiana State University,Larry Bird*,IN
+670,Indiana State University,Carl Nicks,IN
+671,Indiana University,Curly Armstrong,
+672,Indiana University,John Logan,
+673,Indiana University,Herm Schaefer,
+674,Indiana University,Bill Tosheff,
+675,Indiana University,Dick Farley,
+676,Indiana University,Slick Leonard*,
+677,Indiana University,Archie Dees,
+678,Indiana University,Walt Bellamy*,
+679,Indiana University,Ron Horn,
+680,Indiana University,Frank Radovich,
+681,Indiana University,Jon McGlocklin,
+682,Indiana University,Joe Cooke,
+683,Indiana University,Joby Wright,
+684,Indiana University,Steve Downing,
+685,Indiana University,John Laskowski,
+686,Indiana University,George McGinnis,
+687,Indiana University,Tom Abernethy,
+688,Indiana University,Quinn Buckner,
+689,Indiana University,Steve Green,
+690,Indiana University,Scott May,
+691,Indiana University,Bob Wilkerson,
+692,Indiana University,Kent Benson,
+693,Indiana University,Wayne Radford,
+694,Indiana University,Butch Carter,
+695,Indiana University,Mike Woodson,
+696,Indiana University,Isiah Thomas*,
+697,Indiana University,Ray Tolbert,
+698,Indiana University,Jim Thomas,
+699,Indiana University,Randy Wittman,
+700,Indiana University,Uwe Blab,
+701,Indiana University,Steve Alford,
+702,Indiana University,Keith Smart,
+703,Indiana University,Eric Anderson,
+704,Indiana University,Walt Williams,
+705,Indiana University,Calbert Cheaney,
+706,Indiana University,Greg Graham,
+707,Indiana University,Alan Henderson,
+708,Indiana University,Brian Evans,
+709,Indiana University,Dean Garrett,
+710,Indiana University,Andrae Patterson,
+711,Indiana University,Kirk Haston,
+712,Indiana University,Jared Jeffries,
+713,Indiana University,Eric Gordon,
+714,Indiana University,Keith Benson,
+715,Indiana University,Isaiah Thomas,
+716,Indiana University,Victor Oladipo,
+717,Indiana University,Cody Zeller,
+718,Indiana University,Noah Vonleh,
+719,Indiana University,Yogi Ferrell,
+720,Indiana University-Purdue University Indianapolis,George Hill,
+721,Iona College,Bob Santini,NY
+722,Iona College,Richie Guerin*,NY
+723,Iona College,Jeff Ruland,NY
+724,Iona College,Steve Burtt,NY
+725,Iona College,Sean Green,NY
+726,Iona College,Scott Machado,NY
+727,Iowa State University,Stacey Arceneaux,IA
+728,Iowa State University,Zaid Abdul-Aziz,IA
+729,Iowa State University,Hawkeye Whitney,IA
+730,Iowa State University,Jeff Hornacek,IA
+731,Iowa State University,Jeff Grayer,IA
+732,Iowa State University,Victor Alexander,IA
+733,Iowa State University,Barry Stevens,IA
+734,Iowa State University,Fred Hoiberg,IA
+735,Iowa State University,Loren Meyer,IA
+736,Iowa State University,Kelvin Cato,IA
+737,Iowa State University,Dedric Willoughby,IA
+738,Iowa State University,Marcus Fizer,IA
+739,Iowa State University,Jamaal Tinsley,IA
+740,Iowa State University,Paul Shirley,IA
+741,Iowa State University,Jackson Vroman,IA
+742,Iowa State University,Will Blalock,IA
+743,Iowa State University,Mike Taylor,IA
+744,Iowa State University,Craig Brackins,IA
+745,Iowa State University,Chris Babb,IA
+746,Iowa State University,Bryce Dejean-Jones,IA
+747,Iowa State University,Georges Niang,IA
+748,Jackson State University,McCoy Ingram,MS
+749,Jackson State University,Cleveland Buckner,MS
+750,Jackson State University,Ed Manning,MS
+751,Jackson State University,Cornell Warner,MS
+752,Jackson State University,Gene Short,MS
+753,Jackson State University,Henry Ward,MS
+754,Jackson State University,Purvis Short,MS
+755,Jackson State University,Sylvester Norris,MS
+756,Jackson State University,Audie Norris,MS
+757,Jackson State University,Lindsey Hunter,MS
+758,Jackson State University,Ryan Lorthridge,MS
+759,Jackson State University,Dwayne Whitfield,MS
+760,Jackson State University,Trey Johnson,MS
+761,Jacksonville University,Roger Strickland,FL
+762,Jacksonville University,Rex Morgan,FL
+763,Jacksonville University,Harold Fox,FL
+764,Jacksonville University,Leon Benbow,FL
+765,Jacksonville University,Artis Gilmore*,FL
+766,Jacksonville University,James Ray,FL
+767,Jacksonville University,Otis Smith,FL
+768,Jacksonville University,Ronnie Murphy,FL
+769,Jacksonville University,Rod Strickland,FL
+770,Jacksonville University,Dee Brown,FL
+771,Jacksonville University,Devin Brown,FL
+772,Jacksonville University,Derrick Brown,FL
+773,James Madison University,Linton Townes,VA
+774,Johnson C. Smith University,Tyrone Britt,
+775,Kansas State University,Howie Shannon,KS
+776,Kansas State University,Lew Hitch,KS
+777,Kansas State University,Ernie Barrett,KS
+778,Kansas State University,Dick Knostman,KS
+779,Kansas State University,Jack Parr,KS
+780,Kansas State University,Bob Boozer,KS
+781,Kansas State University,Larry Comley,KS
+782,Kansas State University,Jeff Webb,KS
+783,Kansas State University,Mike Evans,KS
+784,Kansas State University,Rolando Blackman,KS
+785,Kansas State University,Ed Nealy,KS
+786,Kansas State University,Norris Coleman,KS
+787,Kansas State University,Mitch Richmond*,KS
+788,Kansas State University,Steve Henson,KS
+789,Kansas State University,Askia Jones,KS
+790,Kansas State University,Michael Beasley,KS
+791,Kansas State University,Cartier Martin,KS
+792,Kansas State University,Rodney McGruder,KS
+793,Kent State University,Doug Sims,OH
+794,Kent State University,Jim Zoet,OH
+795,Kent State University,John Edwards,OH
+796,Kentucky State University,Elmore Smith,KY
+797,Kentucky State University,Travis Grant,KY
+798,Kentucky State University,Sam Sibert,KY
+799,Kentucky Wesleyan College,Sam Smith,KY
+800,Kentucky Wesleyan College,Corey Crowder,KY
+801,Kenyon College,Jeff Slade,OH
+802,King's College,George Dempsey,
+803,La Salle University,Larry Foust,
+804,La Salle University,Jack George,
+805,La Salle University,Norm Grekin,
+806,La Salle University,Jackie Moore,
+807,La Salle University,Tom Gola*,
+808,La Salle University,Bernie Williams,
+809,La Salle University,Ken Durrett,
+810,La Salle University,Larry Cannon,
+811,La Salle University,Joe Bryant,
+812,La Salle University,Fatty Taylor,
+813,La Salle University,Michael Brooks,
+814,La Salle University,Tom Piotrowski,
+815,La Salle University,Ralph Lewis,
+816,La Salle University,Tim Legler,
+817,La Salle University,Lionel Simmons,
+818,La Salle University,Doug Overton,
+819,La Salle University,Randy Woods,
+820,La Salle University,Rashard Lewis,
+821,La Salle University,Rasual Butler,
+822,Lamar University,Clarence Kea,TX
+823,Lamar University,Tom Sewell,TX
+824,Lamar University,Adrian Caldwell,TX
+825,Lawrence Technological University,Blaine Denning,
+826,LeMoyne College,Don Savage,NY
+827,Lebanon Valley College,Andy Panko,PA
+828,Lewis University,Wayne Molis,IL
+829,Liberty University,Julius Nwosu,VA
+830,Liberty University,Peter Aluma,VA
+831,Lincoln University of Missouri,Milt Williams,
+832,Lincoln University of Missouri,Micheal Williams,
+833,Lincoln University of Missouri,Mike Williams,
+834,Long Island University,Herb Scherer,
+835,Long Island University,Dick Surhoff,
+836,Long Island University,Don Ackerman,
+837,Long Island University,Ray Felix,
+838,Long Island University,Rollen Hans,
+839,Long Island University,Al Roges,
+840,Long Island University,Hal Uplinger,
+841,Long Island University,Luther Green,
+842,Long Island University,Carey Scurry,
+843,Longwood University,Jerome Kersey,VA
+844,Louisiana State University,Frankie Brian,LA
+845,Louisiana State University,John Chaney,LA
+846,Louisiana State University,Bob Pettit*,LA
+847,Louisiana State University,Pete Maravich*,LA
+848,Louisiana State University,Glenn Hansen,LA
+849,Louisiana State University,Kenny Higgs,LA
+850,Louisiana State University,DeWayne Scales,LA
+851,Louisiana State University,Rudy Macklin,LA
+852,Louisiana State University,Howard Carter,LA
+853,Louisiana State University,Jerry Reynolds,LA
+854,Louisiana State University,Nikita Wilson,LA
+855,Louisiana State University,Stanley Roberts,LA
+856,Louisiana State University,Ricky Blanton,LA
+857,Louisiana State University,Shaquille O'Neal*,LA
+858,Louisiana State University,Geert Hammink,LA
+859,Louisiana State University,Randy Livingston,LA
+860,Louisiana State University,Jabari Smith,LA
+861,Louisiana State University,Stromile Swift,LA
+862,Louisiana State University,Maurice Carter,LA
+863,Louisiana State University,Ronald Dupree,LA
+864,Louisiana State University,Brandon Bass,LA
+865,Louisiana State University,Tyrus Thomas,LA
+866,Louisiana State University,Glen Davis,LA
+867,Louisiana State University,Jason Smith,LA
+868,Louisiana State University,Anthony Randolph,LA
+869,Louisiana State University,Garrett Temple,LA
+870,Louisiana State University,Marcus Thornton,LA
+871,Louisiana State University,Justin Hamilton,LA
+872,Louisiana State University,Johnny O'Bryant,LA
+873,Louisiana State University,Jarell Martin,LA
+874,Louisiana State University,Jordan Mickey,LA
+875,Louisiana State University,Tim Quarterman,LA
+876,Louisiana Tech University,Jackie Moreland,LA
+877,Louisiana Tech University,Mike Green,LA
+878,Louisiana Tech University,Karl Malone*,LA
+879,Louisiana Tech University,Randy White,LA
+880,Louisiana Tech University,Paul Millsap,LA
+881,Louisiana Tech University,Patty Mills,LA
+882,Loyola College in Maryland,Andy O'Donnell,MD
+883,Loyola College in Maryland,Mike Morrison,MD
+884,Loyola Marymount University,Normie Glick,CA
+885,Loyola Marymount University,Jerry Grote,CA
+886,Loyola Marymount University,Rick Adelman,CA
+887,Loyola Marymount University,Forrest McKenzie,CA
+888,Loyola Marymount University,Corey Gaines,CA
+889,Loyola Marymount University,Bo Kimble,CA
+890,Loyola University of Chicago,Jack Kerris,
+891,Loyola University of Chicago,Jerry Nagel,
+892,Loyola University of Chicago,Mike Novak,
+893,Loyola University of Chicago,Don Hanrahan,
+894,Loyola University of Chicago,Ed Earle,
+895,Loyola University of Chicago,Jerry Harkness,
+896,Loyola University of Chicago,Les Hunter,
+897,Loyola University of Chicago,LaRue Martin,
+898,Loyola University of Chicago,Andre Wakefield,
+899,Loyola University of Chicago,Wayne Sappleton,
+900,Loyola University of Chicago,Andre Moore,
+901,Loyola University of Chicago,Rick Hughes,
+902,Manhattan College,Jerry Paulson,NY
+903,Manhattan College,Grady O'Malley,NY
+904,Manhattan College,Ricky Marsh,NY
+905,Manhattan College,Luis Flores,NY
+906,Marist College,Rik Smits,
+907,Marquette University,Gene Berce,WI
+908,Marquette University,Don Kojis,WI
+909,Marquette University,Joe Thomas,WI
+910,Marquette University,Dean Meminger,WI
+911,Marquette University,Larry McNeill,WI
+912,Marquette University,Jim Chones,WI
+913,Marquette University,George Thompson,WI
+914,Marquette University,Maurice Lucas,WI
+915,Marquette University,Earl Tatum,WI
+916,Marquette University,Lloyd Walton,WI
+917,Marquette University,Butch Lee,WI
+918,Marquette University,Jerome Whitehead,WI
+919,Marquette University,Bernard Toone,WI
+920,Marquette University,Sam Worthen,WI
+921,Marquette University,Doc Rivers,WI
+922,Marquette University,Michael Wilson,WI
+923,Marquette University,Tom Copa,WI
+924,Marquette University,Jim McIlvaine,WI
+925,Marquette University,Amal McCaskill,WI
+926,Marquette University,Chris Crawford,WI
+927,Marquette University,John Thomas,WI
+928,Marquette University,Dwyane Wade,WI
+929,Marquette University,Travis Diener,WI
+930,Marquette University,Steve Novak,WI
+931,Marquette University,Lazar Hayward,WI
+932,Marquette University,Jimmy Butler,WI
+933,Marquette University,Jae Crowder,WI
+934,Marquette University,Vander Blue,WI
+935,Marquette University,Dwight Buycks,WI
+936,Marquette University,Jerel McNeal,WI
+937,Marquette University,Henry Ellenson,WI
+938,Marshall University,Gene James,WV
+939,Marshall University,Bucky McConnell,WV
+940,Marshall University,Hal Greer*,WV
+941,Marshall University,Bob Allen,WV
+942,Marshall University,Russ Lee,WV
+943,Marshall University,Mike D'Antoni,WV
+944,Marshall University,Tamar Slay,WV
+945,Marshall University,Hassan Whiteside,WV
+946,Master's College,Mike Penberthy,
+947,McNeese State University,John Rudd,LA
+948,McNeese State University,Edmund Lawrence,LA
+949,McNeese State University,Joe Dumars*,LA
+950,McNeese State University,Anthony Pullard,LA
+951,McNeese State University,Tierre Brown,LA
+952,Mercer University,Sam Mitchell,GA
+953,Meridian Community College,Jamario Moon,MS
+954,Miami University,Bob Brown,
+955,Miami University,Wayne Embry*,
+956,Miami University,Dave Zeller,
+957,Miami University,Fred Foster,
+958,Miami University,Phil Lumpkin,
+959,Miami University,Ron Harper,
+960,Miami University,Ira Newble,
+961,Miami University,Bobby Brown,
+962,Michigan State University,Bob Brannum,MI
+963,Michigan State University,Matt Mazza,MI
+964,Michigan State University,Al Ferrari,MI
+965,Michigan State University,Bob Armstrong,MI
+966,Michigan State University,Bob Anderegg,MI
+967,Michigan State University,Johnny Green,MI
+968,Michigan State University,Ed Burton,MI
+969,Michigan State University,Horace Walker,MI
+970,Michigan State University,Lindsay Hairston,MI
+971,Michigan State University,Terry Furlow,MI
+972,Michigan State University,Ralph Simpson,MI
+973,Michigan State University,Greg Kelser,MI
+974,Michigan State University,Jay Vincent,MI
+975,Michigan State University,Ken Johnson,MI
+976,Michigan State University,Sam Vincent,MI
+977,Michigan State University,Scott Skiles,MI
+978,Michigan State University,Kevin Johnson,MI
+979,Michigan State University,Steve Smith,MI
+980,Michigan State University,Mike Peplowski,MI
+981,Michigan State University,Anthony Miller,MI
+982,Michigan State University,Shawn Respert,MI
+983,Michigan State University,Eric Snow,MI
+984,Michigan State University,Jamie Feick,MI
+985,Michigan State University,Stevin Smith,MI
+986,Michigan State University,Matt Steigenga,MI
+987,Michigan State University,Andre Miller,MI
+988,Michigan State University,Mateen Cleaves,MI
+989,Michigan State University,Morris Peterson,MI
+990,Michigan State University,Charlie Bell,MI
+991,Michigan State University,Zach Randolph,MI
+992,Michigan State University,Jason Richardson,MI
+993,Michigan State University,Alan Anderson,MI
+994,Michigan State University,Maurice Ager,MI
+995,Michigan State University,Shannon Brown,MI
+996,Michigan State University,Paul Davis,MI
+997,Michigan State University,Steven Smith,MI
+998,Michigan State University,Draymond Green,MI
+999,Michigan State University,Gary Harris,MI
+1000,Michigan State University,Kalin Lucas,MI
+1001,Michigan State University,Adreian Payne,MI
+1002,Michigan State University,Keith Appling,MI
+1003,Michigan State University,Branden Dawson,MI
+1004,Michigan State University,Deyonta Davis,MI
+1005,Michigan State University,Bryn Forbes,MI
+1006,Michigan State University,Denzel Valentine,MI
+1007,Middle Tennessee State University,Duane Washington,TN
+1008,Middle Tennessee State University,Warren Kidd,TN
+1009,Midland College,Nathan Jawai,TX
+1010,Midwestern State University,Gary Suiter,
+1011,Midwestern State University,Eric Dawson,
+1012,Miles College,Thales McReynolds,AL
+1013,Millersville University of Pennsylvania,Phil Walker,PA
+1014,Mississippi State University,Bailey Howell*,MS
+1015,Mississippi State University,Wiley Peck,MS
+1016,Mississippi State University,Rickey Brown,MS
+1017,Mississippi State University,Jeff Malone,MS
+1018,Mississippi State University,Erick Dampier,MS
+1019,Mississippi State University,Dontae' Jones,MS
+1020,Mississippi State University,Tang Hamilton,MS
+1021,Mississippi State University,Lawrence Roberts,MS
+1022,Mississippi State University,Derrick Zimmerman,MS
+1023,Mississippi State University,Dominique Jones,MS
+1024,Mississippi State University,Arnett Moultrie,MS
+1025,Mississippi State University,Jarvis Varnado,MS
+1026,Mississippi Valley State University,Alphonso Ford,
+1027,Mississippi Valley State University,Alton Ford,
+1028,Missouri State University,Don Anielak,MO
+1029,Missouri State University,Curtis Perry,MO
+1030,Missouri State University,Winston Garland,MO
+1031,Missouri State University,Blake Ahearn,MO
+1032,Monmouth University,Alex Blackwell,NJ
+1033,Morehead State University,Steve Hamilton,KY
+1034,Morehead State University,Dan Swartz,KY
+1035,Morehead State University,Henry Akin,KY
+1036,Morehead State University,Lamar Green,KY
+1037,Morehead State University,Bob McCann,KY
+1038,Morehead State University,Kenneth Faried,KY
+1039,Morehouse College,Harold Ellis,GA
+1040,Morgan State University,Marvin Webster,MD
+1041,Morgan State University,Martell Webster,MD
+1042,Mount San Antonio College,Lloyd Daniels,CA
+1043,Mount St. Mary's University,Fred Carter,MD
+1044,Mount St. Mary's University,Bob Riley,MD
+1045,Mount Union College,Bill Herman,OH
+1046,Muhlenberg College,Jake Bornheimer,PA
+1047,Muhlenberg College,Harry Donovan,PA
+1048,Murray State University,Joe Fulks*,KY
+1049,Murray State University,Dick Cunningham,KY
+1050,Murray State University,Steve Johnson,KY
+1051,Murray State University,Steffond Johnson,KY
+1052,Murray State University,Jeff Martin,KY
+1053,Murray State University,Popeye Jones,KY
+1054,Murray State University,Marcus Brown,KY
+1055,Murray State University,James Singleton,KY
+1056,Murray State University,Isaiah Canaan,KY
+1057,Murray State University,Markel Brown,KY
+1058,Murray State University,Stanley Johnson,KY
+1059,Murray State University,Cameron Payne,KY
+1060,New Mexico Highlands University,Bill Dinwiddie,NM
+1061,New Mexico State University,Bob Priddy,NM
+1062,New Mexico State University,Jimmy Collins,NM
+1063,New Mexico State University,Sam Lacey,NM
+1064,New Mexico State University,John Williamson,NM
+1065,New Mexico State University,Jim Bostic,NM
+1066,New Mexico State University,Charlie Criss,NM
+1067,New Mexico State University,Steve Colter,NM
+1068,New Mexico State University,John Williams,NM
+1069,New Mexico State University,Reggie Jordan,NM
+1070,New Mexico State University,Jordan Williams,NM
+1071,New Mexico State University,Sim Bhullar,NM
+1072,New Mexico State University,Jonathan Gibson,NM
+1073,New Mexico State University,Pascal Siakam,NM
+1074,New York University,Joe Dolhon,NY
+1075,New York University,Jerry Fleishman,NY
+1076,New York University,Ray Lumpp,NY
+1077,New York University,Chick Reiser,NY
+1078,New York University,Dolph Schayes*,NY
+1079,New York University,Jim Brasco,NY
+1080,New York University,Dick Bunt,NY
+1081,New York University,Boris Nachamkin,NY
+1082,New York University,Cal Ramsey,NY
+1083,New York University,Tom Sanders*,NY
+1084,New York University,Happy Hairston,NY
+1085,New York University,Barry Kramer,NY
+1086,New York University,Mal Graham,NY
+1087,New York University,Stan McKenzie,NY
+1088,New York University,Jonathon Simmons,NY
+1089,Niagara University,Zeke Sinicola,NY
+1090,Niagara University,Joe Smyth,NY
+1091,Niagara University,Larry Costello,NY
+1092,Niagara University,Ed Fleming,NY
+1093,Niagara University,Bo Erias,NY
+1094,Niagara University,Boo Ellis,NY
+1095,Niagara University,Al Butler,NY
+1096,Niagara University,Calvin Murphy*,NY
+1097,Niagara University,Manny Leaks,NY
+1098,Niagara University,Andy Walker,NY
+1099,Niagara University,Bo Ellis,NY
+1100,Niagara University,Joe Arlauckas,NY
+1101,Niagara University,Antoine Walker,NY
+1102,Norfolk State University,Bob Dandridge,VA
+1103,Norfolk State University,Ray Epps,VA
+1104,Norfolk State University,David Pope,VA
+1105,Norfolk State University,Kyle O'Quinn,VA
+1106,North Carolina Agricultural and Technical State University,Al Attles,
+1107,North Carolina Agricultural and Technical State University,Joe Binion,
+1108,North Carolina Central University,Sam Jones*,
+1109,North Carolina State University,Ed Bartels,NC
+1110,North Carolina State University,Robert Hahn,NC
+1111,North Carolina State University,Leo Katkaveck,NC
+1112,North Carolina State University,Dick Dickey,NC
+1113,North Carolina State University,Sam Ranzino,NC
+1114,North Carolina State University,Ron Shavlik,NC
+1115,North Carolina State University,Whitey Bell,NC
+1116,North Carolina State University,John Richter,NC
+1117,North Carolina State University,Ken Rohloff,NC
+1118,North Carolina State University,Ed Biedenbach,NC
+1119,North Carolina State University,Tom Burleson,NC
+1120,North Carolina State University,David Thompson*,NC
+1121,North Carolina State University,Monte Towe,NC
+1122,North Carolina State University,Kenny Carr,NC
+1123,North Carolina State University,Chuck Nevitt,NC
+1124,North Carolina State University,Thurl Bailey,NC
+1125,North Carolina State University,Sidney Lowe,NC
+1126,North Carolina State University,Lorenzo Charles,NC
+1127,North Carolina State University,Spud Webb,NC
+1128,North Carolina State University,Nate McMillan,NC
+1129,North Carolina State University,Cozell McQueen,NC
+1130,North Carolina State University,Chris Washburn,NC
+1131,North Carolina State University,Charles Shackleford,NC
+1132,North Carolina State University,Chucky Brown,NC
+1133,North Carolina State University,Chris Corchiani,NC
+1134,North Carolina State University,Brian Howard,NC
+1135,North Carolina State University,Rodney Monroe,NC
+1136,North Carolina State University,Tom Gugliotta,NC
+1137,North Carolina State University,Kevin Thompson,NC
+1138,North Carolina State University,Anthony Grundy,NC
+1139,North Carolina State University,Julius Hodge,NC
+1140,North Carolina State University,Josh Powell,NC
+1141,North Carolina State University,Cedric Simmons,NC
+1142,North Carolina State University,Dennis Horner,NC
+1143,North Carolina State University,Lorenzo Brown,NC
+1144,North Park University,Mike Harper,
+1145,Northeast Mississippi Community College,Qyntel Woods,
+1146,Northeastern State University,Charlie Paulk,OK
+1147,Northeastern State University,Richard Dumas,OK
+1148,Northeastern University,Rick Weitzman,MA
+1149,Northeastern University,Harry Barnes,MA
+1150,Northeastern University,Perry Moss,MA
+1151,Northeastern University,Reggie Lewis,MA
+1152,Northeastern University,Harrison Barnes,MA
+1153,Northern Arizona University,Wayne See,AZ
+1154,Northern Arizona University,Andre Spencer,AZ
+1155,Northern Arizona University,Dan McClintock,AZ
+1156,Northern Illinois University,Bob Wood,IL
+1157,Northern Illinois University,Paul Dawkins,IL
+1158,Northern Illinois University,Donald Whiteside,IL
+1159,Northern Illinois University,Xavier Silas,IL
+1160,Northwestern Oklahoma State University,Gaylon Nickerson,OK
+1161,Northwestern State University,John McConathy,
+1162,Northwestern State University,Trey Gilder,
+1163,Northwestern University,Max Morris,IL
+1164,Northwestern University,Jake Fendley,IL
+1165,Northwestern University,Ray Ragelis,IL
+1166,Northwestern University,Nick Mantis,IL
+1167,Northwestern University,Joe Ruklick,IL
+1168,Northwestern University,Willie Jones,IL
+1169,Northwestern University,Ralph Wells,IL
+1170,Northwestern University,Jim Burns,IL
+1171,Northwestern University,Don Adams,IL
+1172,Northwestern University,Mark Sibley,IL
+1173,Northwestern University,Wil Jones,IL
+1174,Northwestern University,Billy McKinney,IL
+1175,Northwestern University,Evan Eschmeyer,IL
+1176,Northwestern University,Marcus Morris,IL
+1177,Northwestern University,Markieff Morris,IL
+1178,Oakland University,Rawle Marshall,MI
+1179,Oakland University,Kay Felder,MI
+1180,Ohio State University,Don Grate,
+1181,Ohio State University,Les Pugh,
+1182,Ohio State University,Arnie Risen*,
+1183,Ohio State University,Bob Donham,
+1184,Ohio State University,Dick Schnittker,
+1185,Ohio State University,Neil Johnston*,
+1186,Ohio State University,Joe Roberts,
+1187,Ohio State University,John Havlicek*,
+1188,Ohio State University,Mel Nowell,
+1189,Ohio State University,Jerry Lucas*,
+1190,Ohio State University,Larry Siegfried,
+1191,Ohio State University,Gary Bradds,
+1192,Ohio State University,Neil Johnson,
+1193,Ohio State University,Bill Hosket,
+1194,Ohio State University,Dave Sorenson,
+1195,Ohio State University,Jim Cleamons,
+1196,Ohio State University,Mark Minor,
+1197,Ohio State University,Luke Witte,
+1198,Ohio State University,Wardell Jackson,
+1199,Ohio State University,Kelvin Ransey,
+1200,Ohio State University,Jim Smith,
+1201,Ohio State University,Herb Williams,
+1202,Ohio State University,Clark Kellogg,
+1203,Ohio State University,Granville Waiters,
+1204,Ohio State University,Tony Campbell,
+1205,Ohio State University,Brad Sellers,
+1206,Ohio State University,Dennis Hopson,
+1207,Ohio State University,Jim Jackson,
+1208,Ohio State University,Chris Jent,
+1209,Ohio State University,Lawrence Funderburke,
+1210,Ohio State University,LaMark Baker,
+1211,Ohio State University,Michael Redd,
+1212,Ohio State University,Mike Conley,
+1213,Ohio State University,Othello Hunter,
+1214,Ohio State University,Kosta Koufos,
+1215,Ohio State University,Greg Oden,
+1216,Ohio State University,Byron Mullens,
+1217,Ohio State University,Evan Turner,
+1218,Ohio State University,Jared Sullinger,
+1219,Ohio University,Dave Jamerson,OH
+1220,Ohio University,Paul Graham,OH
+1221,Ohio University,Gary Trent,OH
+1222,Ohio University,Brandon Hunter,OH
+1223,Ohio University,Maurice Ndour,OH
+1224,Ohio Wesleyan University,Barry Clemens,OH
+1225,Okaloosa-Walton Community College,Kedrick Brown,
+1226,Oklahoma Baptist University,Al Tucker,OK
+1227,Oklahoma Baptist University,Irv Kiffin,OK
+1228,Oklahoma Baptist University,Alando Tucker,OK
+1229,Oklahoma City University,Hub Reed,OK
+1230,Oklahoma City University,Gary Hill,OK
+1231,Oklahoma City University,Bud Koper,OK
+1232,Oklahoma City University,Jim Ware,OK
+1233,Oklahoma City University,Gary Gray,OK
+1234,Oklahoma City University,Allen Leavell,OK
+1235,Oklahoma State University,Joe Bradley,OK
+1236,Oklahoma State University,Bob Harris,OK
+1237,Oklahoma State University,Bob Harrison,OK
+1238,Oklahoma State University,Pete Darcey,OK
+1239,Oklahoma State University,Leroy Combs,OK
+1240,Oklahoma State University,John Starks,OK
+1241,Oklahoma State University,Byron Houston,OK
+1242,Oklahoma State University,Thomas Jordan,OK
+1243,Oklahoma State University,Corey Williams,OK
+1244,Oklahoma State University,Brooks Thompson,OK
+1245,Oklahoma State University,Bryant Reeves,OK
+1246,Oklahoma State University,Corliss Williamson,OK
+1247,Oklahoma State University,Desmond Mason,OK
+1248,Oklahoma State University,Tony Allen,OK
+1249,Oklahoma State University,Maurice Baker,OK
+1250,Oklahoma State University,Joey Graham,OK
+1251,Oklahoma State University,Stephen Graham,OK
+1252,Oklahoma State University,Melvin Sanders,OK
+1253,Oklahoma State University,Ivan McFarlin,OK
+1254,Oklahoma State University,JamesOn Curry,OK
+1255,Oklahoma State University,James Anderson,OK
+1256,Oklahoma State University,Terrel Harris,OK
+1257,Oklahoma State University,Marcus Smart,OK
+1258,Old Dominion University,Dave Twardzik,VA
+1259,Old Dominion University,Wilson Washington,VA
+1260,Old Dominion University,Ronnie Valentine,VA
+1261,Old Dominion University,Mark West,VA
+1262,Old Dominion University,Kenny Gattison,VA
+1263,Old Dominion University,Mark Davis,VA
+1264,Old Dominion University,Chris Gatling,VA
+1265,Old Dominion University,Cal Bowdler,VA
+1266,Old Dominion University,Mario West,VA
+1267,Old Dominion University,Kent Bazemore,VA
+1268,Oral Roberts University,Anthony Roberts,OK
+1269,Oral Roberts University,Alvin Scott,OK
+1270,Oral Roberts University,Calvin Garrett,OK
+1271,Oral Roberts University,Mark Acres,OK
+1272,Oral Roberts University,Haywoode Workman,OK
+1273,Oral Roberts University,Greg Sutton,OK
+1274,Oral Roberts University,David Vaughn,OK
+1275,Oral Roberts University,Anthony Roberson,OK
+1276,Oral Roberts University,Larry Owens,OK
+1277,Oral Roberts University,Andre Roberson,OK
+1278,Oregon State University,John Mandic,OR
+1279,Oregon State University,Red Rocha,OR
+1280,Oregon State University,Dave Gambee,OR
+1281,Oregon State University,Swede Halbrook,OR
+1282,Oregon State University,Mel Counts,OR
+1283,Oregon State University,Jay Carty,OR
+1284,Oregon State University,Loy Petersen,OR
+1285,Oregon State University,Gary Freeman,OR
+1286,Oregon State University,Vic Bartolome,OR
+1287,Oregon State University,Freddie Boyd,OR
+1288,Oregon State University,Lonnie Shelton,OR
+1289,Oregon State University,Ray Blume,OR
+1290,Oregon State University,Mark Radford,OR
+1291,Oregon State University,Lester Conner,OR
+1292,Oregon State University,Charlie Sitton,OR
+1293,Oregon State University,Jose Ortiz,OR
+1294,Oregon State University,Gary Payton*,OR
+1295,Oregon State University,Scott Haskin,OR
+1296,Oregon State University,Brent Barry,OR
+1297,Oregon State University,Corey Benjamin,OR
+1298,Oregon State University,Jared Cunningham,OR
+1299,Oregon State University,Eric Moreland,OR
+1300,Oregon State University,Gary Payton,OR
+1301,Ouachita Baptist University,Tom Patterson,AR
+1302,Pennsylvania State University,Jesse Arnelle,PA
+1303,Pennsylvania State University,Bob Weiss,PA
+1304,Pennsylvania State University,Frank Brickowski,PA
+1305,Pennsylvania State University,Tom Hovasse,PA
+1306,Pennsylvania State University,John Amaechi,PA
+1307,Pennsylvania State University,Calvin Booth,PA
+1308,Pennsylvania State University,Joe Crispin,PA
+1309,Pennsylvania State University,Tim Frazier,PA
+1310,Pepperdine University,Bob Sims,CA
+1311,Pepperdine University,Bob Warlick,CA
+1312,Pepperdine University,Bird Averitt,CA
+1313,Pepperdine University,Dennis Johnson*,CA
+1314,Pepperdine University,Tony Fuller,CA
+1315,Pepperdine University,Dane Suttle,CA
+1316,Pepperdine University,Grant Gondrezick,CA
+1317,Pepperdine University,Dwayne Polee,CA
+1318,Pepperdine University,Eric White,CA
+1319,Pepperdine University,Anthony Frederick,CA
+1320,Pepperdine University,Doug Christie,CA
+1321,Pepperdine University,Todd Fuller,CA
+1322,Pepperdine University,DeMarco Johnson,CA
+1323,Pepperdine University,DerMarr Johnson,CA
+1324,Pepperdine University,Brandon Armstrong,CA
+1325,Pepperdine University,Alex Acker,CA
+1326,Pepperdine University,Yakhouba Diawara,CA
+1327,Pfeiffer University,Antonio Harvey,NC
+1328,Phillips University,John Turner,
+1329,Pikeville College,Donnie Butcher,
+1330,Portland State University,Freeman Williams,OR
+1331,Portland State University,Frank Williams,OR
+1332,Portland State University,Ime Udoka,OR
+1333,Prairie View A&M University,Zelmo Beaty*,TX
+1334,Princeton University,Mike Kearns,NJ
+1335,Princeton University,Bill Bradley*,NJ
+1336,Princeton University,John Hummer,NJ
+1337,Princeton University,Geoff Petrie,NJ
+1338,Princeton University,Ted Manakas,NJ
+1339,Princeton University,Armond Hill,NJ
+1340,Princeton University,Brian Taylor,NJ
+1341,Princeton University,Steve Goodrich,NJ
+1342,Providence College,Lenny Wilkens*,RI
+1343,Providence College,Johnny Egan,RI
+1344,Providence College,John Thompson*,RI
+1345,Providence College,Jimmy Walker,RI
+1346,Providence College,Mike Riordan,RI
+1347,Providence College,Ernie DiGregorio,RI
+1348,Providence College,Kevin Stacom,RI
+1349,Providence College,Marvin Barnes,RI
+1350,Providence College,Joe Hassett,RI
+1351,Providence College,Otis Thorpe,RI
+1352,Providence College,Billy Donovan,RI
+1353,Providence College,Marty Conlon,RI
+1354,Providence College,Eric Murdock,RI
+1355,Providence College,Dickey Simpkins,RI
+1356,Providence College,Marques Bragg,RI
+1357,Providence College,Eric Williams,RI
+1358,Providence College,Austin Croshere,RI
+1359,Providence College,God Shammgod,RI
+1360,Providence College,Jamel Thomas,RI
+1361,Providence College,Ruben Garces,RI
+1362,Providence College,Matt Barnes,RI
+1363,Providence College,James Thomas,RI
+1364,Providence College,Ryan Gomes,RI
+1365,Providence College,MarShon Brooks,RI
+1366,Providence College,Bryce Cotton,RI
+1367,Providence College,Ben Bentil,RI
+1368,Providence College,Kris Dunn,RI
+1369,Purdue University,Paul Hoffman,IN
+1370,Purdue University,Carl McNulty,IN
+1371,Purdue University,Terry Dischinger,IN
+1372,Purdue University,Dave Schellhase,IN
+1373,Purdue University,Herm Gilliam,IN
+1374,Purdue University,Frank Kendrick,IN
+1375,Purdue University,Walter Jordan,IN
+1376,Purdue University,Jerry Sichting,IN
+1377,Purdue University,Keith Edmonson,IN
+1378,Purdue University,Russell Cross,IN
+1379,Purdue University,Tom Scheffler,IN
+1380,Purdue University,Todd Mitchell,IN
+1381,Purdue University,Jim Rowinski,IN
+1382,Purdue University,Everette Stephens,IN
+1383,Purdue University,Mel McCants,IN
+1384,Purdue University,Steve Scheffler,IN
+1385,Purdue University,Doug Lee,IN
+1386,Purdue University,Jimmy Oliver,IN
+1387,Purdue University,Glenn Robinson,IN
+1388,Purdue University,Cuonzo Martin,IN
+1389,Purdue University,Brad Miller,IN
+1390,Purdue University,Brian Cardinal,IN
+1391,Purdue University,Carl Landry,IN
+1392,Purdue University,Robbie Hummel,IN
+1393,Purdue University,Tony Mitchell,IN
+1394,Rice University,Bill Closs,TX
+1395,Rice University,Bill Henry,TX
+1396,Rice University,Bob Kinney,TX
+1397,Rice University,Ricky Pierce,TX
+1398,Rice University,Ken Austin,TX
+1399,Rice University,Brent Scott,TX
+1400,Rice University,Mike Wilks,TX
+1401,Rice University,Morris Almond,TX
+1402,Rice University,Mike Harris,TX
+1403,Robert Morris University (IL),Othyus Jeffers,
+1404,Rutgers University,Bob Greacen,
+1405,Rutgers University,Phil Sellers,
+1406,Rutgers University,Eddie Jordan,
+1407,Rutgers University,James Bailey,
+1408,Rutgers University,Hollis Copeland,
+1409,Rutgers University,Roy Hinson,
+1410,Rutgers University,John Battle,
+1411,Rutgers University,Quincy Douby,
+1412,Rutgers University,Hamady N'Diaye,
+1413,Saint Augustine's College,Ken Bannister,
+1414,Saint Francis University,Maurice Stokes*,
+1415,Saint Francis University,Kevin Porter,
+1416,Saint Francis University,Mike Iuzzolino,
+1417,Saint Joseph's University,Al Guokas,
+1418,Saint Joseph's University,George Senesky,
+1419,Saint Joseph's University,Ray Radziszewski,
+1420,Saint Joseph's University,Bob McNeill,
+1421,Saint Joseph's University,Steve Courtin,
+1422,Saint Joseph's University,Matt Guokas,
+1423,Saint Joseph's University,Cliff Anderson,
+1424,Saint Joseph's University,Mike Bantom,
+1425,Saint Joseph's University,Norman Black,
+1426,Saint Joseph's University,Bryan Warrick,
+1427,Saint Joseph's University,Maurice Martin,
+1428,Saint Joseph's University,Jameer Nelson,
+1429,Saint Joseph's University,Delonte West,
+1430,Saint Joseph's University,Langston Galloway,
+1431,Saint Joseph's University,DeAndre' Bembry,
+1432,Saint Louis University,Ed Macauley*,
+1433,Saint Louis University,Marv Schatzman,
+1434,Saint Louis University,Bob Ferry,
+1435,Saint Louis University,Bevo Nordmann,
+1436,Saint Louis University,Rich Niemann,
+1437,Saint Louis University,Barry Orms,
+1438,Saint Louis University,Robin Jones,
+1439,Saint Louis University,David Burns,
+1440,Saint Louis University,Anthony Bonner,
+1441,Saint Louis University,Larry Hughes,
+1442,Saint Mary's College of California,Frank Kudelka,
+1443,Saint Mary's College of California,Tom Meschery,
+1444,Saint Mary's College of California,Peter Thibeaux,
+1445,Saint Mary's College of California,David Cooke,
+1446,Saint Mary's College of California,Matthew Dellavedova,
+1447,Saint Mary's University of Minnesota,Clint Wager,
+1448,Saint Peter's College,Bill Smith,
+1449,Saint Peter's College,Bingo Smith,
+1450,Saint Peter's College,Rich Rinaldi,
+1451,Saint Vincent College,Daniel Santiago,
+1452,Sam Houston State University,Frank Gates,TX
+1453,Sam Houston State University,Murray Mitchell,TX
+1454,San Diego State University,Joel Kramer,CA
+1455,San Diego State University,Steve Malovic,CA
+1456,San Diego State University,Michael Cage,CA
+1457,San Diego State University,Randy Holcomb,CA
+1458,San Diego State University,Kawhi Leonard,CA
+1459,San Diego State University,Malcolm Thomas,CA
+1460,San Diego State University,Jamaal Franklin,CA
+1461,San Jose State University,Coby Dietrick,CA
+1462,San Jose State University,Darnell Hillman,CA
+1463,San Jose State University,Wally Rank,CA
+1464,San Jose State University,Chris McNealy,CA
+1465,San Jose State University,Ricky Berry,CA
+1466,San Jose State University,Tariq Abdul-Wahad,CA
+1467,Santa Clara University,Bob Feerick,CA
+1468,Santa Clara University,Bruce Hale,CA
+1469,Santa Clara University,Dick O'Keefe,CA
+1470,Santa Clara University,Kenny Sears,CA
+1471,Santa Clara University,Bud Ogden,CA
+1472,Santa Clara University,Dennis Awtrey,CA
+1473,Santa Clara University,Ralph Ogden,CA
+1474,Santa Clara University,Kurt Rambis,CA
+1475,Santa Clara University,Harold Keeling,CA
+1476,Santa Clara University,Nick Vanos,CA
+1477,Santa Clara University,Steve Nash,CA
+1478,Santa Clara University,Marlon Garnett,CA
+1479,Seattle University,Elgin Baylor*,WA
+1480,Seattle University,Eddie Miles,WA
+1481,Seattle University,John Tresvant,WA
+1482,Seattle University,Plummer Lott,WA
+1483,Seattle University,Tom Workman,WA
+1484,Seattle University,Rod Derline,WA
+1485,Seattle University,Frank Oleynick,WA
+1486,Seattle University,Chuck Williams,WA
+1487,Seattle University,Chuckie Williams,WA
+1488,Seattle University,Clint Richardson,WA
+1489,Seattle University,Jawann Oldham,WA
+1490,Seton Hall University,Tommy Byrnes,NJ
+1491,Seton Hall University,Bob Davies*,NJ
+1492,Seton Hall University,Howie Janotta,NJ
+1493,Seton Hall University,Johnny Macknowski,NJ
+1494,Seton Hall University,Mike McCarron,NJ
+1495,Seton Hall University,Ed Sadowski,NJ
+1496,Seton Hall University,Pep Saul,NJ
+1497,Seton Hall University,Bobby Wanzer*,NJ
+1498,Seton Hall University,Walter Dukes,NJ
+1499,Seton Hall University,Richie Regan,NJ
+1500,Seton Hall University,Glenn Mosley,NJ
+1501,Seton Hall University,Mark Bryant,NJ
+1502,Seton Hall University,John Morton,NJ
+1503,Seton Hall University,Anthony Avent,NJ
+1504,Seton Hall University,Terry Dehere,NJ
+1505,Seton Hall University,Andrew Gaze,NJ
+1506,Seton Hall University,Luther Wright,NJ
+1507,Seton Hall University,Adrian Griffin,NJ
+1508,Seton Hall University,Samuel Dalembert,NJ
+1509,Seton Hall University,Eddie Griffin,NJ
+1510,Seton Hall University,Andre Barrett,NJ
+1511,Seton Hall University,Isaiah Whitehead,NJ
+1512,Seward County Community College,Martin Lewis,
+1513,Shaw University,Ronald Murray,NC
+1514,Siena College,Edwin Ubiles,NY
+1515,Slippery Rock University of Pennsylvania,Myron Brown,PA
+1516,South Carolina State University,Travis Williams,SC
+1517,South Carolina State University,Troy Williams,SC
+1518,South Dakota State University,Tom Black,SD
+1519,South Dakota State University,Steve Lingenfelter,SD
+1520,South Dakota State University,Nate Wolters,SD
+1521,Southeastern Oklahoma State University,Dennis Rodman*,OK
+1522,Southern Illinois University,Chico Vaughn,
+1523,Southern Illinois University,Walt Frazier*,
+1524,Southern Illinois University,Dick Garrett,
+1525,Southern Illinois University,Nate Hawthorne,
+1526,Southern Illinois University,Joe Meriweather,
+1527,Southern Illinois University,Mike Glenn,
+1528,Southern Illinois University,Ashraf Amaya,
+1529,Southern Illinois University,Chris Carr,
+1530,Southern Illinois University,Troy Hudson,
+1531,Southern Illinois University,Diante Garrett,
+1532,Southern Methodist University,Jim Krebs,TX
+1533,Southern Methodist University,Ira Terrell,TX
+1534,Southern Methodist University,Brad Branson,TX
+1535,Southern Methodist University,Jon Koncak,TX
+1536,Southern Methodist University,Carlton McKinney,TX
+1537,Southern Methodist University,Jeryl Sasser,TX
+1538,Southern Methodist University,Quinton Ross,TX
+1539,Southern University and A&M College,Bob Love,LA
+1540,Southern University and A&M College,Tommie Green,LA
+1541,Southern University and A&M College,Frankie Sanders,LA
+1542,Southern University and A&M College,Avery Johnson,LA
+1543,Southern University and A&M College,Bobby Phills,LA
+1544,St. Bonaventure University,Ken Murray,NY
+1545,St. Bonaventure University,Billy Kenville,NY
+1546,St. Bonaventure University,Fred Diute,NY
+1547,St. Bonaventure University,Brendan McCann,NY
+1548,St. Bonaventure University,Whitey Martin,NY
+1549,St. Bonaventure University,Sam Stith,NY
+1550,St. Bonaventure University,Tom Stith,NY
+1551,St. Bonaventure University,Freddie Crawford,NY
+1552,St. Bonaventure University,George Carter,NY
+1553,St. Bonaventure University,Bob Lanier*,NY
+1554,St. Bonaventure University,Essie Hollis,NY
+1555,St. Bonaventure University,Glenn Hagan,NY
+1556,St. Bonaventure University,David Vanterpool,NY
+1557,St. Bonaventure University,Andrew Nicholson,NY
+1558,St. Francis College,Jim Luisi,
+1559,St. John's University,Harry Boykoff,NY
+1560,St. John's University,Andrew Levane,NY
+1561,St. John's University,Dick McGuire*,NY
+1562,St. John's University,Bob Tough,NY
+1563,St. John's University,Max Zaslofsky,NY
+1564,St. John's University,Gerry Calabrese,NY
+1565,St. John's University,Alfred McGuire*,NY
+1566,St. John's University,Danny Finn,NY
+1567,St. John's University,Jack McMahon,NY
+1568,St. John's University,Zeke Zawoluk,NY
+1569,St. John's University,Ronnie MacGilvray,NY
+1570,St. John's University,Red Davis,NY
+1571,St. John's University,Dick Duckett,NY
+1572,St. John's University,Leroy Ellis,NY
+1573,St. John's University,Kevin Loughery,NY
+1574,St. John's University,Sonny Dove,NY
+1575,St. John's University,John Warren,NY
+1576,St. John's University,Mel Davis,NY
+1577,St. John's University,Allie McGuire,NY
+1578,St. John's University,Ed Searcy,NY
+1579,St. John's University,Billy Paultz,NY
+1580,St. John's University,Reggie Carter,NY
+1581,St. John's University,Tony Jackson,NY
+1582,St. John's University,Kevin Williams,NY
+1583,St. John's University,Kevin Willis,NY
+1584,St. John's University,Chris Mullin*,NY
+1585,St. John's University,Bill Wennington,NY
+1586,St. John's University,Walter Berry,NY
+1587,St. John's University,Ron Rowan,NY
+1588,St. John's University,Mark Jackson,NY
+1589,St. John's University,Shelton Jones,NY
+1590,St. John's University,Jayson Williams,NY
+1591,St. John's University,Kenny Williams,NY
+1592,St. John's University,LeRon Ellis,NY
+1593,St. John's University,Malik Sealy,NY
+1594,St. John's University,Robert Werdann,NY
+1595,St. John's University,James Scott,NY
+1596,St. John's University,Shawnelle Scott,NY
+1597,St. John's University,Felipe Lopez,NY
+1598,St. John's University,Jason Williams,NY
+1599,St. John's University,Erick Barkley,NY
+1600,St. John's University,Zendon Hamilton,NY
+1601,St. John's University,Marc Jackson,NY
+1602,St. John's University,Lavor Postell,NY
+1603,St. John's University,Jay Williams,NY
+1604,St. John's University,Omar Cook,NY
+1605,St. John's University,Jawad Williams,NY
+1606,St. John's University,Maurice Harkless,NY
+1607,St. Mary's University,Robert Reid,TX
+1608,St. Mary's University,Henry James,TX
+1609,St. Thomas University,Art Collins,FL
+1610,Stanford University,Jim Pollard*,CA
+1611,Stanford University,George Yardley*,CA
+1612,Stanford University,Jim Walsh,CA
+1613,Stanford University,Paul Neumann,CA
+1614,Stanford University,John Windsor,CA
+1615,Stanford University,Art Harris,CA
+1616,Stanford University,Rich Kelley,CA
+1617,Stanford University,Claude Terry,CA
+1618,Stanford University,Mike Bratz,CA
+1619,Stanford University,Greg Butler,CA
+1620,Stanford University,Todd Lichti,CA
+1621,Stanford University,Adam Keefe,CA
+1622,Stanford University,Brevin Knight,CA
+1623,Stanford University,Tim Young,CA
+1624,Stanford University,Mark Madsen,CA
+1625,Stanford University,Casey Jacobsen,CA
+1626,Stanford University,Curtis Borchardt,CA
+1627,Stanford University,Josh Childress,CA
+1628,Stanford University,Brandin Knight,CA
+1629,Stanford University,Brook Lopez,CA
+1630,Stanford University,Robin Lopez,CA
+1631,Stanford University,Landry Fields,CA
+1632,Stanford University,Brandon Knight,CA
+1633,Stanford University,Dwight Powell,CA
+1634,Stanford University,Josh Huestis,CA
+1635,Stanford University,Chasson Randle,CA
+1636,State University of New York College at Buffalo,Randy Smith,
+1637,State University of New York at Potsdam,Derrick Rowland,
+1638,State University of West Georgia,Foots Walker,GA
+1639,Stephen F. Austin State University,George Johnson,
+1640,Stephen F. Austin State University,James Silas,
+1641,Stetson University,Earnie Killum,FL
+1642,Stetson University,Lorenzo Williams,FL
+1643,Stetson University,Lou Williams,FL
+1644,Syracuse University,Bill Gabor,NY
+1645,Syracuse University,Jack Kiley,NY
+1646,Syracuse University,Eddie Miller,NY
+1647,Syracuse University,Frank Reddout,NY
+1648,Syracuse University,Dave Bing*,NY
+1649,Syracuse University,William Smith,NY
+1650,Syracuse University,Dennis DuVal,NY
+1651,Syracuse University,Fred Saunders,NY
+1652,Syracuse University,Rudy Hackett,NY
+1653,Syracuse University,Willie Smith,NY
+1654,Syracuse University,Marty Byrnes,NY
+1655,Syracuse University,Louis Orr,NY
+1656,Syracuse University,Danny Schayes,NY
+1657,Syracuse University,Leo Rautins,NY
+1658,Syracuse University,Rafael Addison,NY
+1659,Syracuse University,Pearl Washington,NY
+1660,Syracuse University,Rony Seikaly,NY
+1661,Syracuse University,Sherman Douglas,NY
+1662,Syracuse University,Derrick Coleman,NY
+1663,Syracuse University,Billy Owens,NY
+1664,Syracuse University,Stephen Thompson,NY
+1665,Syracuse University,Dave Johnson,NY
+1666,Syracuse University,Darryl Johnson,NY
+1667,Syracuse University,Lawrence Moten,NY
+1668,Syracuse University,John Wallace,NY
+1669,Syracuse University,Jason Hart,NY
+1670,Syracuse University,Etan Thomas,NY
+1671,Syracuse University,Carmelo Anthony,NY
+1672,Syracuse University,Hakim Warrick,NY
+1673,Syracuse University,Demetris Nichols,NY
+1674,Syracuse University,Darryl Watkins,NY
+1675,Syracuse University,Donte Greene,NY
+1676,Syracuse University,Jonny Flynn,NY
+1677,Syracuse University,Wesley Johnson,NY
+1678,Syracuse University,Andy Rautins,NY
+1679,Syracuse University,Darius Johnson-Odom,NY
+1680,Syracuse University,Kris Joseph,NY
+1681,Syracuse University,Fab Melo,NY
+1682,Syracuse University,Dion Waiters,NY
+1683,Syracuse University,Michael Carter-Williams,NY
+1684,Syracuse University,Arinze Onuaku,NY
+1685,Syracuse University,James Southerland,NY
+1686,Syracuse University,Tyler Ennis,NY
+1687,Syracuse University,Jerami Grant,NY
+1688,Syracuse University,Rakeem Christmas,NY
+1689,Syracuse University,Jerian Grant,NY
+1690,Syracuse University,Chris McCullough,NY
+1691,Syracuse University,Michael Gbinije,NY
+1692,Syracuse University,Malachi Richardson,NY
+1693,Temple University,Nelson Bobb,PA
+1694,Temple University,Jerry Rullo,PA
+1695,Temple University,Ike Borsavage,PA
+1696,Temple University,Bill Mlkvy,PA
+1697,Temple University,Hal Lear,PA
+1698,Temple University,Guy Rodgers*,PA
+1699,Temple University,Pickles Kennedy,PA
+1700,Temple University,Johnny Baum,PA
+1701,Temple University,Eddie Mast,PA
+1702,Temple University,Ollie Johnson,PA
+1703,Temple University,Jerry Baskerville,PA
+1704,Temple University,Terence Stansbury,PA
+1705,Temple University,Nate Blackwell,PA
+1706,Temple University,Tim Perry,PA
+1707,Temple University,Ramon Rivas,PA
+1708,Temple University,Duane Causwell,PA
+1709,Temple University,Donald Hodge,PA
+1710,Temple University,Mark Macon,PA
+1711,Temple University,Aaron McKie,PA
+1712,Temple University,Mark Strickland,PA
+1713,Temple University,Rick Brunson,PA
+1714,Temple University,William Cunningham,PA
+1715,Temple University,Pepe Sanchez,PA
+1716,Temple University,Mardy Collins,PA
+1717,Temple University,Lynn Greer,PA
+1718,Temple University,Lavoy Allen,PA
+1719,Temple University,Dionte Christmas,PA
+1720,Tennessee State University,Dick Barnett,TN
+1721,Tennessee State University,Joe Buckhalter,TN
+1722,Tennessee State University,John Barnhill,TN
+1723,Tennessee State University,Porter Meriwether,TN
+1724,Tennessee State University,Ben Warley,TN
+1725,Tennessee State University,Dwight Waller,TN
+1726,Tennessee State University,Lloyd Neal,TN
+1727,Tennessee State University,Truck Robinson,TN
+1728,Tennessee State University,Ted McClain,TN
+1729,Tennessee State University,Eddie Johnson,TN
+1730,Tennessee State University,Monti Davis,TN
+1731,Tennessee State University,Anthony Mason,TN
+1732,Tennessee State University,Carlos Rogers,TN
+1733,Tennessee State University,Robert Covington,TN
+1734,Tennessee Technological University,Ron Filipek,TN
+1735,Tennessee Technological University,Milos Babic,TN
+1736,Tennessee Technological University,Kevin Murphy,TN
+1737,Texas A&M University,Walt Davis,TX
+1738,Texas A&M University,Sonny Parker,TX
+1739,Texas A&M University,Walter Davis,TX
+1740,Texas A&M University,Dave Britton,TX
+1741,Texas A&M University,Winston Crite,TX
+1742,Texas A&M University,Antoine Wright,TX
+1743,Texas A&M University,Acie Law,TX
+1744,Texas A&M University,DeAndre Jordan,TX
+1745,Texas A&M University,Donald Sloan,TX
+1746,Texas A&M University,Khris Middleton,TX
+1747,Texas A&M University,Danuel House,TX
+1748,Texas Christian University,George McLeod,TX
+1749,Texas Christian University,Goo Kennedy,TX
+1750,Texas Christian University,Dennis Nutt,TX
+1751,Texas Christian University,Reggie Smith,TX
+1752,Texas Christian University,Kurt Thomas,TX
+1753,Texas Christian University,Lee Nailon,TX
+1754,Texas Southern University,Woody Sauldsberry,
+1755,Texas Southern University,Bennie Swain,
+1756,Texas Southern University,Alonzo Bradley,
+1757,Texas Southern University,Alex Bradley,
+1758,Texas Southern University,Ron Cavenall,
+1759,Texas State University,Torgeir Bryn,TX
+1760,Texas State University,Jeff Foster,TX
+1761,Texas Tech University,Paul Nolen,TX
+1762,Texas Tech University,Geoff Huston,TX
+1763,Texas Tech University,Jeff Taylor,TX
+1764,Texas Tech University,Darvin Ham,TX
+1765,Texas Tech University,Jason Sasser,TX
+1766,Texas Tech University,Tony Battie,TX
+1767,Texas Tech University,Cory Carr,TX
+1768,Texas Tech University,Andre Emmett,TX
+1769,Texas Tech University,Kasib Powell,TX
+1770,Texas Tech University,Jermaine Taylor,TX
+1771,Texas Tech University,Jeffery Taylor,TX
+1772,Texas Wesleyan University,Easy Parham,TX
+1773,Thomas More College,Larry Staverman,KY
+1774,Thomas More College,Dan Tieman,KY
+1775,Towson University,Kurk Lee,MD
+1776,Towson University,Gary Neal,MD
+1777,Towson University,Jerrelle Benimon,MD
+1778,Trenton State University,Greg Grant,
+1779,Trinity Valley Community College,Shawn Kemp,
+1780,Truman State University,Earl Dodd,MO
+1781,Truman State University,Harry Gallatin*,MO
+1782,Tulane University,Warren Perkins,LA
+1783,Tulane University,Jim Riffey,LA
+1784,Tulane University,Mel Payton,LA
+1785,Tulane University,Bob Duffy,LA
+1786,Tulane University,Craig Spitzer,LA
+1787,Tulane University,John Arthurs,LA
+1788,Tulane University,Phil Hicks,LA
+1789,Tulane University,Paul Thompson,LA
+1790,Tulane University,Jerald Honeycutt,LA
+1791,Tulane University,Linton Johnson,LA
+1792,Tuskegee University,Ken Mayfield,AL
+1793,Tuskegee University,Carl Bailey,AL
+1794,United States Military Academy,Mike Silliman,NY
+1795,United States Naval Academy,David Robinson*,MD
+1796,"University at Buffalo, State University of New York",Sam Pellom,NY
+1797,University of Akron,Bill Turner,OH
+1798,University of Alabama,Carl Shaeffer,AL
+1799,University of Alabama,Leon Douglas,AL
+1800,University of Alabama,Reggie King,AL
+1801,University of Alabama,Eddie Phillips,AL
+1802,University of Alabama,Ennis Whatley,AL
+1803,University of Alabama,Buck Johnson,AL
+1804,University of Alabama,Jim Farmer,AL
+1805,University of Alabama,Derrick McKey,AL
+1806,University of Alabama,Michael Ansley,AL
+1807,University of Alabama,Keith Askins,AL
+1808,University of Alabama,David Benoit,AL
+1809,University of Alabama,Robert Horry,AL
+1810,University of Alabama,Latrell Sprewell,AL
+1811,University of Alabama,Marcus Webb,AL
+1812,University of Alabama,Jason Caffey,AL
+1813,University of Alabama,Antonio McDyess,AL
+1814,University of Alabama,Eric Washington,AL
+1815,University of Alabama,Gerald Wallace,AL
+1816,University of Alabama,Marvin Williams,AL
+1817,University of Alabama,Marcus Williams,AL
+1818,University of Alabama,Jermareo Davidson,AL
+1819,University of Alabama,Alonzo Gee,AL
+1820,University of Alabama,JaMychal Green,AL
+1821,University of Alabama at Birmingham,Keith McCord,AL
+1822,University of Alabama at Birmingham,Oliver Robinson,AL
+1823,University of Alabama at Birmingham,McKinley Singleton,AL
+1824,University of Alabama at Birmingham,Alan Ogg,AL
+1825,University of Alabama at Birmingham,Stanley Jackson,AL
+1826,University of Alabama at Birmingham,Stephen Jackson,AL
+1827,University of Alabama at Birmingham,Donell Taylor,AL
+1828,University of Alabama at Birmingham,Walter Sharpe,AL
+1829,University of Alabama at Birmingham,Carldell Johnson,AL
+1830,University of Alabama at Birmingham,Elijah Millsap,AL
+1831,University of Arizona,Leon Blevins,AZ
+1832,University of Arizona,Eric Money,AZ
+1833,University of Arizona,Connie Norman,AZ
+1834,University of Arizona,Al Fleming,AZ
+1835,University of Arizona,Bob Elliott,AZ
+1836,University of Arizona,Larry Demic,AZ
+1837,University of Arizona,Pete Williams,AZ
+1838,University of Arizona,Steve Kerr,AZ
+1839,University of Arizona,Tom Tolbert,AZ
+1840,University of Arizona,Sean Elliott,AZ
+1841,University of Arizona,Jud Buechler,AZ
+1842,University of Arizona,Anthony Cook,AZ
+1843,University of Arizona,Bison Dele,AZ
+1844,University of Arizona,Matt Othick,AZ
+1845,University of Arizona,Sean Rooks,AZ
+1846,University of Arizona,Chris Mills,AZ
+1847,University of Arizona,Khalid Reeves,AZ
+1848,University of Arizona,Damon Stoudamire,AZ
+1849,University of Arizona,Ben Davis,AZ
+1850,University of Arizona,Reggie Geary,AZ
+1851,University of Arizona,Ray Owes,AZ
+1852,University of Arizona,Ed Stokes,AZ
+1853,University of Arizona,Mike Bibby,AZ
+1854,University of Arizona,Michael Dickerson,AZ
+1855,University of Arizona,Miles Simon,AZ
+1856,University of Arizona,Jason Terry,AZ
+1857,University of Arizona,Gilbert Arenas,AZ
+1858,University of Arizona,Richard Jefferson,AZ
+1859,University of Arizona,Loren Woods,AZ
+1860,University of Arizona,Luke Walton,AZ
+1861,University of Arizona,Andre Iguodala,AZ
+1862,University of Arizona,Channing Frye,AZ
+1863,University of Arizona,Salim Stoudamire,AZ
+1864,University of Arizona,Hassan Adams,AZ
+1865,University of Arizona,Jerryd Bayless,AZ
+1866,University of Arizona,Chase Budinger,AZ
+1867,University of Arizona,Jordan Hill,AZ
+1868,University of Arizona,Mustafa Shakur,AZ
+1869,University of Arizona,Solomon Hill,AZ
+1870,University of Arizona,Aaron Gordon,AZ
+1871,University of Arizona,Grant Jerrett,AZ
+1872,University of Arizona,Nick Johnson,AZ
+1873,University of Arizona,Rondae Hollis-Jefferson,AZ
+1874,University of Arkansas,Dean Tolson,AR
+1875,University of Arkansas,Ron Brewer,AR
+1876,University of Arkansas,Sidney Moncrief,AR
+1877,University of Arkansas,Scott Hastings,AR
+1878,University of Arkansas,Darrell Walker,AR
+1879,University of Arkansas,Tony Brown,AR
+1880,University of Arkansas,Alvin Robertson,AR
+1881,University of Arkansas,Joe Kleine,AR
+1882,University of Arkansas,Andrew Lang,AR
+1883,University of Arkansas,Todd Day,AR
+1884,University of Arkansas,Lee Mayberry,AR
+1885,University of Arkansas,Oliver Miller,AR
+1886,University of Arkansas,Isaiah Morris,AR
+1887,University of Arkansas,Antonio Lang,AR
+1888,University of Arkansas,Corey Beck,AR
+1889,University of Arkansas,Clint McDaniel,AR
+1890,University of Arkansas,Derek Hood,AR
+1891,University of Arkansas,Jannero Pargo,AR
+1892,University of Arkansas,Ronnie Brewer,AR
+1893,University of Arkansas,Steven Hill,AR
+1894,University of Arkansas,Dontell Jefferson,AR
+1895,University of Arkansas,Sonny Weems,AR
+1896,University of Arkansas,Courtney Fortson,AR
+1897,University of Arkansas,Patrick Beverley,AR
+1898,University of Arkansas,Coty Clarke,AR
+1899,University of Arkansas,Bobby Portis,AR
+1900,University of Arkansas at Little Rock,Myron Jackson,AR
+1901,University of Arkansas at Little Rock,Jim Lampley,AR
+1902,University of Arkansas at Little Rock,Pete Myers,AR
+1903,University of Arkansas at Little Rock,Derek Fisher,AR
+1904,University of Arkansas at Little Rock,Joe Stephens,AR
+1905,University of Arkansas at Little Rock,Shane Edwards,AR
+1906,University of Baltimore,Isaiah Wilson,MD
+1907,University of Bridgeport,Manute Bol,CT
+1908,University of California,Don Henriksen,
+1909,University of California,Mike O'Neill,
+1910,University of California,Larry Friend,
+1911,University of California,Darrall Imhoff,
+1912,University of California,Phil Chenier,
+1913,University of California,Jackie Ridgle,
+1914,University of California,Charles Johnson,
+1915,University of California,John Coughran,
+1916,University of California,Cheese Johnson,
+1917,University of California,Mark McNamara,
+1918,University of California,Leonard Taylor,
+1919,University of California,Jason Kidd,
+1920,University of California,Lamond Murray,
+1921,University of California,Shareef Abdur-Rahim,
+1922,University of California,Ed Gray,
+1923,University of California,Michael Stewart,
+1924,University of California,Sean Marks,
+1925,University of California,Sean Lampley,
+1926,University of California,Jamal Sampson,
+1927,University of California,Francisco Elson,
+1928,University of California,Geno Carlisle,
+1929,University of California,Leon Powe,
+1930,University of California,Ryan Anderson,
+1931,University of California,Chris Johnson,
+1932,University of California,Allen Crabbe,
+1933,University of California,Jorge Gutierrez,
+1934,University of California,Patrick Christopher,
+1935,University of California,JaKarr Sampson,
+1936,"University of California, Irvine",Ben McDonald,CA
+1937,"University of California, Irvine",Bob Thornton,CA
+1938,"University of California, Irvine",Johnny Rogers,CA
+1939,"University of California, Irvine",Tod Murphy,CA
+1940,"University of California, Irvine",Scott Brooks,CA
+1941,"University of California, Irvine",Wayne Englestad,CA
+1942,"University of California, Los Angeles",Alan Sawyer,CA
+1943,"University of California, Los Angeles",Don Barksdale*,CA
+1944,"University of California, Los Angeles",Dave Minor,CA
+1945,"University of California, Los Angeles",Willie Naulls,CA
+1946,"University of California, Los Angeles",Keith Erickson,CA
+1947,"University of California, Los Angeles",Gail Goodrich*,CA
+1948,"University of California, Los Angeles",Kareem Abdul-Jabbar*,CA
+1949,"University of California, Los Angeles",Lucius Allen,CA
+1950,"University of California, Los Angeles",Mike Lynn,CA
+1951,"University of California, Los Angeles",John Vallely,CA
+1952,"University of California, Los Angeles",Steve Patterson,CA
+1953,"University of California, Los Angeles",Curtis Rowe,CA
+1954,"University of California, Los Angeles",Sidney Wicks,CA
+1955,"University of California, Los Angeles",Henry Bibby,CA
+1956,"University of California, Los Angeles",Bill Walton*,CA
+1957,"University of California, Los Angeles",Jamaal Wilkes*,CA
+1958,"University of California, Los Angeles",Greg Lee,CA
+1959,"University of California, Los Angeles",Dave Meyers,CA
+1960,"University of California, Los Angeles",Andre McCarter,CA
+1961,"University of California, Los Angeles",Swen Nater,CA
+1962,"University of California, Los Angeles",Richard Washington,CA
+1963,"University of California, Los Angeles",Marques Johnson,CA
+1964,"University of California, Los Angeles",Raymond Townsend,CA
+1965,"University of California, Los Angeles",Dave Greenwood,CA
+1966,"University of California, Los Angeles",Roy Hamilton,CA
+1967,"University of California, Los Angeles",Brad Holland,CA
+1968,"University of California, Los Angeles",Magic Johnson*,CA
+1969,"University of California, Los Angeles",Darrell Allums,CA
+1970,"University of California, Los Angeles",Ralph Drollinger,CA
+1971,"University of California, Los Angeles",Kiki Vandeweghe,CA
+1972,"University of California, Los Angeles",James Wilkes,CA
+1973,"University of California, Los Angeles",Mark Eaton,CA
+1974,"University of California, Los Angeles",Mike Sanders,CA
+1975,"University of California, Los Angeles",Darren Daye,CA
+1976,"University of California, Los Angeles",Rod Foster,CA
+1977,"University of California, Los Angeles",Kenny Fields,CA
+1978,"University of California, Los Angeles",Stuart Gray,CA
+1979,"University of California, Los Angeles",Mike Holton,CA
+1980,"University of California, Los Angeles",Ralph Jackson,CA
+1981,"University of California, Los Angeles",Brad Wright,CA
+1982,"University of California, Los Angeles",Reggie Miller*,CA
+1983,"University of California, Los Angeles",Jack Haley,CA
+1984,"University of California, Los Angeles",Pooh Richardson,CA
+1985,"University of California, Los Angeles",Mahmoud Abdul-Rauf,CA
+1986,"University of California, Los Angeles",Trevor Wilson,CA
+1987,"University of California, Los Angeles",Keith Owens,CA
+1988,"University of California, Los Angeles",Don MacLean,CA
+1989,"University of California, Los Angeles",Tracy Murray,CA
+1990,"University of California, Los Angeles",Gerald Madkins,CA
+1991,"University of California, Los Angeles",Richard Petruska,CA
+1992,"University of California, Los Angeles",Darrick Martin,CA
+1993,"University of California, Los Angeles",Tyus Edney,CA
+1994,"University of California, Los Angeles",Ed O'Bannon,CA
+1995,"University of California, Los Angeles",George Zidek,CA
+1996,"University of California, Los Angeles",Charles O'Bannon,CA
+1997,"University of California, Los Angeles",Toby Bailey,CA
+1998,"University of California, Los Angeles",Randell Jackson,CA
+1999,"University of California, Los Angeles",Jelani McCoy,CA
+2000,"University of California, Los Angeles",Baron Davis,CA
+2001,"University of California, Los Angeles",Jerome Moiso,CA
+2002,"University of California, Los Angeles",Earl Watson,CA
+2003,"University of California, Los Angeles",Dan Gadzuric,CA
+2004,"University of California, Los Angeles",Jason Kapono,CA
+2005,"University of California, Los Angeles",Trevor Ariza,CA
+2006,"University of California, Los Angeles",Dijon Thompson,CA
+2007,"University of California, Los Angeles",Bracey Wright,CA
+2008,"University of California, Los Angeles",Cedric Bozeman,CA
+2009,"University of California, Los Angeles",Jordan Farmar,CA
+2010,"University of California, Los Angeles",Ryan Hollins,CA
+2011,"University of California, Los Angeles",Arron Afflalo,CA
+2012,"University of California, Los Angeles",Brandan Wright,CA
+2013,"University of California, Los Angeles",Kevin Love,CA
+2014,"University of California, Los Angeles",Russell Westbrook,CA
+2015,"University of California, Los Angeles",Darren Collison,CA
+2016,"University of California, Los Angeles",Danny Green,CA
+2017,"University of California, Los Angeles",Jrue Holiday,CA
+2018,"University of California, Los Angeles",Tyler Honeycutt,CA
+2019,"University of California, Los Angeles",Malcolm Lee,CA
+2020,"University of California, Los Angeles",Shabazz Muhammad,CA
+2021,"University of California, Los Angeles",Jordan Adams,CA
+2022,"University of California, Los Angeles",Kyle Anderson,CA
+2023,"University of California, Los Angeles",Zach LaVine,CA
+2024,"University of California, Los Angeles",David Wear,CA
+2025,"University of California, Los Angeles",Travis Wear,CA
+2026,"University of California, Los Angeles",Kevon Looney,CA
+2027,"University of California, Los Angeles",Norman Powell,CA
+2028,"University of California, Santa Barbara",John Tschogl,CA
+2029,"University of California, Santa Barbara",Don Ford,CA
+2030,"University of California, Santa Barbara",Richard Anderson,CA
+2031,"University of California, Santa Barbara",Conner Henry,CA
+2032,"University of California, Santa Barbara",Brian Shaw,CA
+2033,"University of California, Santa Barbara",Orlando Johnson,CA
+2034,"University of California, Santa Barbara",James Nunnally,CA
+2035,University of Central Arkansas,Scottie Pippen*,AR
+2036,University of Central Oklahoma,Eddie Robinson,OK
+2037,University of Charleston,George King,WV
+2038,University of Charleston,Henry Dickerson,WV
+2039,University of Charleston,Gerard King,WV
+2040,University of Cincinnati,Jim Holstein,OH
+2041,University of Cincinnati,Jack Twyman*,OH
+2042,University of Cincinnati,Connie Dierking,OH
+2043,University of Cincinnati,Wayne Stevens,OH
+2044,University of Cincinnati,Ralph Davis,OH
+2045,University of Cincinnati,Oscar Robertson*,OH
+2046,University of Cincinnati,Bob Wiesenhahn,OH
+2047,University of Cincinnati,Tom Thacker,OH
+2048,University of Cincinnati,Ron Bonham,OH
+2049,University of Cincinnati,George Wilson,OH
+2050,University of Cincinnati,Roland West,OH
+2051,University of Cincinnati,Rick Roberson,OH
+2052,University of Cincinnati,Derrek Dickey,OH
+2053,University of Cincinnati,Jim Ard,OH
+2054,University of Cincinnati,Pat Cummings,OH
+2055,University of Cincinnati,Bob Miller,OH
+2056,University of Cincinnati,Corie Blount,OH
+2057,University of Cincinnati,Dontonio Wingfield,OH
+2058,University of Cincinnati,Danny Fortson,OH
+2059,University of Cincinnati,Ruben Patterson,OH
+2060,University of Cincinnati,Art Long,OH
+2061,University of Cincinnati,Kenyon Martin,OH
+2062,University of Cincinnati,Kenny Satterfield,OH
+2063,University of Cincinnati,Tony Bobbitt,OH
+2064,University of Cincinnati,Kevin Martin,OH
+2065,University of Cincinnati,Jason Maxiell,OH
+2066,University of Cincinnati,Lance Stephenson,OH
+2067,University of Cincinnati,Sean Kilpatrick,OH
+2068,University of Colorado,Bob Doll,CO
+2069,University of Colorado,Jim Davis,CO
+2070,University of Colorado,Pat Frink,CO
+2071,University of Colorado,Cliff Meely,CO
+2072,University of Colorado,Scott Wedman,CO
+2073,University of Colorado,Jim Creighton,CO
+2074,University of Colorado,Joe Cooper,CO
+2075,University of Colorado,Jay Humphries,CO
+2076,University of Colorado,Alex Stivrins,CO
+2077,University of Colorado,Donnie Boyce,CO
+2078,University of Colorado,Chauncey Billups,CO
+2079,University of Colorado,David Harrison,CO
+2080,University of Colorado,Alec Burks,CO
+2081,University of Colorado,Cory Higgins,CO
+2082,University of Colorado,Chris Copeland,CO
+2083,University of Colorado,Spencer Dinwiddie,CO
+2084,University of Connecticut,Worthy Patterson,CT
+2085,University of Connecticut,Toby Kimball,CT
+2086,University of Connecticut,Corny Thompson,CT
+2087,University of Connecticut,Bruce Kuczenski,CT
+2088,University of Connecticut,Chuck Aleksinas,CT
+2089,University of Connecticut,Tate George,CT
+2090,University of Connecticut,Scott Burrell,CT
+2091,University of Connecticut,Donyell Marshall,CT
+2092,University of Connecticut,Donny Marshall,CT
+2093,University of Connecticut,Travis Knight,CT
+2094,University of Connecticut,Kevin Ollie,CT
+2095,University of Connecticut,Richard Hamilton,CT
+2096,University of Connecticut,Khalid El-Amin,CT
+2097,University of Connecticut,Jake Voskuhl,CT
+2098,University of Connecticut,Caron Butler,CT
+2099,University of Connecticut,Ben Gordon,CT
+2100,University of Connecticut,Emeka Okafor,CT
+2101,University of Connecticut,Charlie Villanueva,CT
+2102,University of Connecticut,Hilton Armstrong,CT
+2103,University of Connecticut,Josh Boone,CT
+2104,University of Connecticut,Rudy Gay,CT
+2105,University of Connecticut,Hasheem Thabeet,CT
+2106,University of Connecticut,Jeff Adrien,CT
+2107,University of Connecticut,Jerome Dyson,CT
+2108,University of Connecticut,Andre Drummond,CT
+2109,University of Connecticut,Jeremy Lamb,CT
+2110,University of Connecticut,Shabazz Napier,CT
+2111,University of Dayton,Monk Meineke,OH
+2112,University of Dayton,Chuck Grigsby,OH
+2113,University of Dayton,Chris Harris,OH
+2114,University of Dayton,Johnny Horan,OH
+2115,University of Dayton,Jim Paxson,OH
+2116,University of Dayton,Bucky Bockhorn,OH
+2117,University of Dayton,Jim Palmer,OH
+2118,University of Dayton,Hank Finkel,OH
+2119,University of Dayton,Don May,OH
+2120,University of Dayton,Roger Brown,OH
+2121,University of Dayton,Johnny Davis,OH
+2122,University of Dayton,Sedric Toney,OH
+2123,University of Dayton,Negele Knight,OH
+2124,University of Dayton,Josh Davis,OH
+2125,University of Dayton,Chris Wright,OH
+2126,University of Dayton,Brian Roberts,OH
+2127,University of Denver,Vince Boryla,CO
+2128,University of Denver,Jimmy Darden,CO
+2129,University of Denver,Byron Beck,CO
+2130,University of Detroit Mercy,Lee Knorek,MI
+2131,University of Detroit Mercy,Norm Swanson,MI
+2132,University of Detroit Mercy,Bill Ebben,MI
+2133,University of Detroit Mercy,Guy Sparrow,MI
+2134,University of Detroit Mercy,Dave DeBusschere*,MI
+2135,University of Detroit Mercy,Dorie Murrey,MI
+2136,University of Detroit Mercy,Spencer Haywood*,MI
+2137,University of Detroit Mercy,Frank Russell,MI
+2138,University of Detroit Mercy,Owen Wells,MI
+2139,University of Detroit Mercy,Terry Thomas,MI
+2140,University of Detroit Mercy,Dennis Boyd,MI
+2141,University of Detroit Mercy,John Long,MI
+2142,University of Detroit Mercy,Terry Tyler,MI
+2143,University of Detroit Mercy,Terry Duerod,MI
+2144,University of Detroit Mercy,Earl Cureton,MI
+2145,University of Detroit Mercy,Joe Kopicki,MI
+2146,University of Detroit Mercy,Jermaine Jackson,MI
+2147,University of Detroit Mercy,Desmond Ferguson,MI
+2148,University of Detroit Mercy,Willie Green,MI
+2149,University of Detroit Mercy,Ray McCallum,MI
+2150,University of Evansville,Jerry Sloan*,IN
+2151,University of Evansville,Don Buse,IN
+2152,University of Evansville,Scott Haffner,IN
+2153,University of Evansville,Dan Godfread,IN
+2154,University of Florida,Neal Walk,FL
+2155,University of Florida,Vernon Maxwell,FL
+2156,University of Florida,Clifford Lett,FL
+2157,University of Florida,Dwayne Schintzius,FL
+2158,University of Florida,Andrew DeClercq,FL
+2159,University of Florida,Donnell Harvey,FL
+2160,University of Florida,Mike Miller,FL
+2161,University of Florida,Udonis Haslem,FL
+2162,University of Florida,Matt Bonner,FL
+2163,University of Florida,Matt Walsh,FL
+2164,University of Florida,Corey Brewer,FL
+2165,University of Florida,Taurean Green,FL
+2166,University of Florida,Al Horford,FL
+2167,University of Florida,Joakim Noah,FL
+2168,University of Florida,Chris Richard,FL
+2169,University of Florida,Marreese Speights,FL
+2170,University of Florida,Vernon Macklin,FL
+2171,University of Florida,Chandler Parsons,FL
+2172,University of Florida,Bradley Beal,FL
+2173,University of Florida,Nick Calathes,FL
+2174,University of Florida,Erik Murphy,FL
+2175,University of Florida,Dorian Finney-Smith,FL
+2176,University of Georgia,Herb White,GA
+2177,University of Georgia,Tim Bassett,GA
+2178,University of Georgia,Jacky Dorsey,GA
+2179,University of Georgia,Dominique Wilkins*,GA
+2180,University of Georgia,Vern Fleming,GA
+2181,University of Georgia,Cedric Henderson,GA
+2182,University of Georgia,Willie Anderson,GA
+2183,University of Georgia,Alec Kessler,GA
+2184,University of Georgia,Litterial Green,GA
+2185,University of Georgia,Charles Claxton,GA
+2186,University of Georgia,Shandon Anderson,GA
+2187,University of Georgia,Jumaine Jones,GA
+2188,University of Georgia,Jarvis Hayes,GA
+2189,University of Georgia,Sundiata Gaines,GA
+2190,University of Georgia,Travis Leslie,GA
+2191,University of Georgia,Kentavious Caldwell-Pope,GA
+2192,University of Hartford,Vin Baker,CT
+2193,University of Hawaii,Bob Nash,
+2194,University of Hawaii,Tom Henderson,
+2195,University of Hawaii,Tom Barker,
+2196,University of Hawaii,Trevor Ruffin,
+2197,University of Hawaii,Anthony Carter,
+2198,University of Hawaii,Predrag Savovic,
+2199,University of Houston,Ted Luckenbill,TX
+2200,University of Houston,Gary Phillips,TX
+2201,University of Houston,Don Chaney,TX
+2202,University of Houston,Elvin Hayes*,TX
+2203,University of Houston,George Reynolds,TX
+2204,University of Houston,Dwight Davis,TX
+2205,University of Houston,Dwight Jones,TX
+2206,University of Houston,Otis Birdsong,TX
+2207,University of Houston,Clyde Drexler*,TX
+2208,University of Houston,Larry Micheaux,TX
+2209,University of Houston,Hakeem Olajuwon*,TX
+2210,University of Houston,Michael Young,TX
+2211,University of Houston,Greg Anderson,TX
+2212,University of Houston,Rickie Winslow,TX
+2213,University of Houston,Rolando Ferreira,TX
+2214,University of Houston,Carl Herrera,TX
+2215,University of Houston,Sam Mack,TX
+2216,University of Houston,Bo Outlaw,TX
+2217,University of Houston,Anthony Goldwire,TX
+2218,University of Houston,Damon Jones,TX
+2219,University of Houston,Dahntay Jones,TX
+2220,University of Houston,Dwayne Jones,TX
+2221,University of Houston,Andre Owens,TX
+2222,University of Houston,Oliver Lafayette,TX
+2223,University of Houston,Marcus Cousin,TX
+2224,University of Houston,Damian Jones,TX
+2225,University of Idaho,Red Morrison,ID
+2226,University of Idaho,Gus Johnson*,ID
+2227,University of Idaho,Raymond Brown,ID
+2228,University of Idaho,Randy Brown,ID
+2229,University of Idaho,Kaniel Dickens,ID
+2230,University of Illinois at Chicago,Sherell Ford,IL
+2231,University of Illinois at Chicago,Sharrod Ford,IL
+2232,University of Illinois at Urbana-Champaign,Jack Burmaster,IL
+2233,University of Illinois at Urbana-Champaign,Dike Eddleman,IL
+2234,University of Illinois at Urbana-Champaign,Walt Kirk,IL
+2235,University of Illinois at Urbana-Champaign,Ken Menke,IL
+2236,University of Illinois at Urbana-Champaign,Stan Patrick,IL
+2237,University of Illinois at Urbana-Champaign,Andy Phillip*,IL
+2238,University of Illinois at Urbana-Champaign,Jack Smiley,IL
+2239,University of Illinois at Urbana-Champaign,Gene Vance,IL
+2240,University of Illinois at Urbana-Champaign,Wally Osterkorn,IL
+2241,University of Illinois at Urbana-Champaign,Irv Bemoras,IL
+2242,University of Illinois at Urbana-Champaign,Don Sunderlage,IL
+2243,University of Illinois at Urbana-Champaign,Red Kerr,IL
+2244,University of Illinois at Urbana-Champaign,Don Ohl,IL
+2245,University of Illinois at Urbana-Champaign,Dave Scholz,IL
+2246,University of Illinois at Urbana-Champaign,Mike Price,IL
+2247,University of Illinois at Urbana-Champaign,Nick Weatherspoon,IL
+2248,University of Illinois at Urbana-Champaign,Donnie Freeman,IL
+2249,University of Illinois at Urbana-Champaign,Derek Harper,IL
+2250,University of Illinois at Urbana-Champaign,Bruce Douglas,IL
+2251,University of Illinois at Urbana-Champaign,Ken Norman,IL
+2252,University of Illinois at Urbana-Champaign,Nick Anderson,IL
+2253,University of Illinois at Urbana-Champaign,Kenny Battle,IL
+2254,University of Illinois at Urbana-Champaign,Scott Meents,IL
+2255,University of Illinois at Urbana-Champaign,Kendall Gill,IL
+2256,University of Illinois at Urbana-Champaign,Marcus Liberty,IL
+2257,University of Illinois at Urbana-Champaign,Steve Bardo,IL
+2258,University of Illinois at Urbana-Champaign,Kiwane Garris,IL
+2259,University of Illinois at Urbana-Champaign,Robert Archibald,IL
+2260,University of Illinois at Urbana-Champaign,Brian Cook,IL
+2261,University of Illinois at Urbana-Champaign,Luther Head,IL
+2262,University of Illinois at Urbana-Champaign,Deron Williams,IL
+2263,University of Illinois at Urbana-Champaign,James Augustine,IL
+2264,University of Illinois at Urbana-Champaign,Roger Powell,IL
+2265,University of Illinois at Urbana-Champaign,Derrick Williams,IL
+2266,University of Illinois at Urbana-Champaign,Meyers Leonard,IL
+2267,University of Iowa,Noble Jorgensen,IA
+2268,University of Iowa,Murray Wier,IA
+2269,University of Iowa,Dave Gunther,IA
+2270,University of Iowa,Don Nelson*,IA
+2271,University of Iowa,Sam Williams,IA
+2272,University of Iowa,Connie Hawkins*,IA
+2273,University of Iowa,John Johnson,IA
+2274,University of Iowa,Fred Brown,IA
+2275,University of Iowa,Kevin Kunnert,IA
+2276,University of Iowa,Ronnie Lester,IA
+2277,University of Iowa,Bill Mayfield,IA
+2278,University of Iowa,Bob Hansen,IA
+2279,University of Iowa,Greg Stokes,IA
+2280,University of Iowa,Kevin Gamble,IA
+2281,University of Iowa,Brad Lohaus,IA
+2282,University of Iowa,Bill Jones,IA
+2283,University of Iowa,Ed Horton,IA
+2284,University of Iowa,Roy Marble,IA
+2285,University of Iowa,Matt Bullard,IA
+2286,University of Iowa,Les Jepsen,IA
+2287,University of Iowa,Acie Earl,IA
+2288,University of Iowa,Ricky Davis,IA
+2289,University of Iowa,Ryan Bowen,IA
+2290,University of Iowa,Joe Johnson,IA
+2291,University of Iowa,Dean Oliver,IA
+2292,University of Iowa,Reggie Evans,IA
+2293,University of Iowa,Guy Rucker,IA
+2294,University of Iowa,Jared Reiner,IA
+2295,University of Iowa,Devyn Marble,IA
+2296,University of Iowa,Jarrod Uthoff,IA
+2297,University of Kansas,Charlie Black,KS
+2298,University of Kansas,Clyde Lovellette*,KS
+2299,University of Kansas,Wilt Chamberlain*,KS
+2300,University of Kansas,Maury King,KS
+2301,University of Kansas,Bill Bridges,KS
+2302,University of Kansas,Wayne Hightower,KS
+2303,University of Kansas,Walt Wesley,KS
+2304,University of Kansas,Bud Stallworth,KS
+2305,University of Kansas,Norm Cook,KS
+2306,University of Kansas,Dave Robisch,KS
+2307,University of Kansas,Paul Mokeski,KS
+2308,University of Kansas,John Douglas,KS
+2309,University of Kansas,Darnell Valentine,KS
+2310,University of Kansas,Dave Magley,KS
+2311,University of Kansas,Carl Henry,KS
+2312,University of Kansas,Brian Martin,KS
+2313,University of Kansas,Greg Dreiling,KS
+2314,University of Kansas,Danny Manning,KS
+2315,University of Kansas,Rick Calloway,KS
+2316,University of Kansas,Kevin Pritchard,KS
+2317,University of Kansas,Cedric Hunter,KS
+2318,University of Kansas,Mark Randall,KS
+2319,University of Kansas,Adonis Jordan,KS
+2320,University of Kansas,Rex Walters,KS
+2321,University of Kansas,Darrin Hancock,KS
+2322,University of Kansas,Greg Ostertag,KS
+2323,University of Kansas,Scot Pollard,KS
+2324,University of Kansas,Jacque Vaughn,KS
+2325,University of Kansas,Raef LaFrentz,KS
+2326,University of Kansas,Paul Pierce,KS
+2327,University of Kansas,Ryan Robertson,KS
+2328,University of Kansas,Drew Gooden,KS
+2329,University of Kansas,Kirk Hinrich,KS
+2330,University of Kansas,Nick Collison,KS
+2331,University of Kansas,Billy Thomas,KS
+2332,University of Kansas,Aaron Miles,KS
+2333,University of Kansas,Wayne Simien,KS
+2334,University of Kansas,Keith Langford,KS
+2335,University of Kansas,Julian Wright,KS
+2336,University of Kansas,Darrell Arthur,KS
+2337,University of Kansas,Mario Chalmers,KS
+2338,University of Kansas,Darnell Jackson,KS
+2339,University of Kansas,Brandon Rush,KS
+2340,University of Kansas,Cole Aldrich,KS
+2341,University of Kansas,Sherron Collins,KS
+2342,University of Kansas,Xavier Henry,KS
+2343,University of Kansas,Josh Selby,KS
+2344,University of Kansas,Thomas Robinson,KS
+2345,University of Kansas,Tyshawn Taylor,KS
+2346,University of Kansas,Ben McLemore,KS
+2347,University of Kansas,Jeff Withey,KS
+2348,University of Kansas,Tarik Black,KS
+2349,University of Kansas,Andrew Wiggins,KS
+2350,University of Kansas,Cliff Alexander,KS
+2351,University of Kansas,Sasha Kaun,KS
+2352,University of Kansas,Kelly Oubre,KS
+2353,University of Kansas,Cheick Diallo,KS
+2354,University of Kansas,Joel Embiid,KS
+2355,University of Kansas,Wayne Selden,KS
+2356,University of Kentucky,Cliff Barker,KY
+2357,University of Kentucky,Ralph Beard,KY
+2358,University of Kentucky,George Feigenbaum,KY
+2359,University of Kentucky,Alex Groza,KY
+2360,University of Kentucky,Joe Holland,KY
+2361,University of Kentucky,Paul Noel,KY
+2362,University of Kentucky,Jack Parkinson,KY
+2363,University of Kentucky,Kenny Rollins,KY
+2364,University of Kentucky,Frank Ramsey*,KY
+2365,University of Kentucky,Bobby Watson,KY
+2366,University of Kentucky,Skippy Whitaker,KY
+2367,University of Kentucky,Bob Burrow,KY
+2368,University of Kentucky,Cliff Hagan*,KY
+2369,University of Kentucky,Lou Tsioropoulos,KY
+2370,University of Kentucky,Jerry Bird,KY
+2371,University of Kentucky,Vern Hatton,KY
+2372,University of Kentucky,Adrian Smith,KY
+2373,University of Kentucky,Johnny Cox,KY
+2374,University of Kentucky,Wali Jones,KY
+2375,University of Kentucky,Cotton Nash,KY
+2376,University of Kentucky,Tommy Kron,KY
+2377,University of Kentucky,Pat Riley*,KY
+2378,University of Kentucky,Tom Payne,KY
+2379,University of Kentucky,Larry Steele,KY
+2380,University of Kentucky,Kevin Grevey,KY
+2381,University of Kentucky,Louie Dampier*,KY
+2382,University of Kentucky,Mike Flynn,KY
+2383,University of Kentucky,Dan Issel*,KY
+2384,University of Kentucky,Larry Johnson,KY
+2385,University of Kentucky,Jack Givens,KY
+2386,University of Kentucky,Rick Robey,KY
+2387,University of Kentucky,Kyle Macy,KY
+2388,University of Kentucky,Sam Bowie,KY
+2389,University of Kentucky,Melvin Turpin,KY
+2390,University of Kentucky,Dirk Minniefield,KY
+2391,University of Kentucky,Kenny Walker,KY
+2392,University of Kentucky,Rex Chapman,KY
+2393,University of Kentucky,Rob Lock,KY
+2394,University of Kentucky,Winston Bennett,KY
+2395,University of Kentucky,Jamal Mashburn,KY
+2396,University of Kentucky,Tony Delk,KY
+2397,University of Kentucky,Walter McCarty,KY
+2398,University of Kentucky,Derek Anderson,KY
+2399,University of Kentucky,Reggie Hanson,KY
+2400,University of Kentucky,Ron Mercer,KY
+2401,University of Kentucky,Mark Pope,KY
+2402,University of Kentucky,Nazr Mohammed,KY
+2403,University of Kentucky,Jeffrey Sheppard,KY
+2404,University of Kentucky,Scott Padgett,KY
+2405,University of Kentucky,Wayne Turner,KY
+2406,University of Kentucky,Jamaal Magloire,KY
+2407,University of Kentucky,Tayshaun Prince,KY
+2408,University of Kentucky,Keith Bogans,KY
+2409,University of Kentucky,Erik Daniels,KY
+2410,University of Kentucky,Gerald Fitch,KY
+2411,University of Kentucky,Chuck Hayes,KY
+2412,University of Kentucky,Kelenna Azubuike,KY
+2413,University of Kentucky,Randolph Morris,KY
+2414,University of Kentucky,Rajon Rondo,KY
+2415,University of Kentucky,Joe Crawford,KY
+2416,University of Kentucky,Jodie Meeks,KY
+2417,University of Kentucky,Eric Bledsoe,KY
+2418,University of Kentucky,DeMarcus Cousins,KY
+2419,University of Kentucky,Jordan Crawford,KY
+2420,University of Kentucky,Patrick Patterson,KY
+2421,University of Kentucky,John Wall,KY
+2422,University of Kentucky,Josh Harrellson,KY
+2423,University of Kentucky,DeAndre Liggins,KY
+2424,University of Kentucky,Daniel Orton,KY
+2425,University of Kentucky,Kemba Walker,KY
+2426,University of Kentucky,Terrence Jones,KY
+2427,University of Kentucky,Michael Kidd-Gilchrist,KY
+2428,University of Kentucky,Doron Lamb,KY
+2429,University of Kentucky,Darius Miller,KY
+2430,University of Kentucky,Marquis Teague,KY
+2431,University of Kentucky,Archie Goodwin,KY
+2432,University of Kentucky,Nerlens Noel,KY
+2433,University of Kentucky,Julius Randle,KY
+2434,University of Kentucky,James Young,KY
+2435,University of Kentucky,Devin Booker,KY
+2436,University of Kentucky,Willie Cauley-Stein,KY
+2437,University of Kentucky,Aaron Harrison,KY
+2438,University of Kentucky,Trey Lyles,KY
+2439,University of Kentucky,Karl-Anthony Towns,KY
+2440,University of Kentucky,Andrew Harrison,KY
+2441,University of Kentucky,Skal Labissiere,KY
+2442,University of Kentucky,Jamal Murray,KY
+2443,University of Kentucky,Alex Poythress,KY
+2444,University of Kentucky,Tyler Ulis,KY
+2445,University of Louisiana at Lafayette,Marv Winkler,LA
+2446,University of Louisiana at Lafayette,Bo Lamar,LA
+2447,University of Louisiana at Lafayette,Andrew Toney,LA
+2448,University of Louisiana at Lafayette,Kevin Brooks,LA
+2449,University of Louisiana at Lafayette,Orien Greene,LA
+2450,University of Louisiana at Lafayette,Elfrid Payton,LA
+2451,University of Louisiana at Lafayette,Shawn Long,LA
+2452,University of Louisiana at Monroe,Carl Kilpatrick,LA
+2453,University of Louisiana at Monroe,Calvin Natt,LA
+2454,University of Louisiana at Monroe,Kenny Natt,LA
+2455,University of Louisiana at Monroe,Howard Nathan,LA
+2456,University of Louisville,Jack Coleman,KY
+2457,University of Louisville,Bob Lochmueller,KY
+2458,University of Louisville,Bob Naber,KY
+2459,University of Louisville,Chuck Noble,KY
+2460,University of Louisville,Charlie Tyra,KY
+2461,University of Louisville,Phil Rollins,KY
+2462,University of Louisville,Bud Olsen,KY
+2463,University of Louisville,Wes Unseld*,KY
+2464,University of Louisville,Butch Beard,KY
+2465,University of Louisville,Jim Price,KY
+2466,University of Louisville,Junior Bridgeman,KY
+2467,University of Louisville,Allen Murphy,KY
+2468,University of Louisville,Phil Bond,KY
+2469,University of Louisville,Wesley Cox,KY
+2470,University of Louisville,Rick Wilson,KY
+2471,University of Louisville,Darrell Griffith,KY
+2472,University of Louisville,Roger Burkman,KY
+2473,University of Louisville,Jerry Eaves,KY
+2474,University of Louisville,Rodney McCray,KY
+2475,University of Louisville,Scooter McCray,KY
+2476,University of Louisville,Lancaster Gordon,KY
+2477,University of Louisville,Billy Thompson,KY
+2478,University of Louisville,Milt Wagner,KY
+2479,University of Louisville,Ricky Wilson,KY
+2480,University of Louisville,Pervis Ellison,KY
+2481,University of Louisville,Kenny Payne,KY
+2482,University of Louisville,Felton Spencer,KY
+2483,University of Louisville,Jerome Harmon,KY
+2484,University of Louisville,Greg Minor,KY
+2485,University of Louisville,Dwayne Morton,KY
+2486,University of Louisville,Clifford Rozier,KY
+2487,University of Louisville,Samaki Walker,KY
+2488,University of Louisville,DeJuan Wheat,KY
+2489,University of Louisville,Alvin Sims,KY
+2490,University of Louisville,Reece Gaines,KY
+2491,University of Louisville,Francisco Garcia,KY
+2492,University of Louisville,Earl Clark,KY
+2493,University of Louisville,Terrence Williams,KY
+2494,University of Louisville,Samardo Samuels,KY
+2495,University of Louisville,Jerry Smith,KY
+2496,University of Louisville,Gorgui Dieng,KY
+2497,University of Louisville,Peyton Siva,KY
+2498,University of Louisville,Russ Smith,KY
+2499,University of Louisville,Montrezl Harrell,KY
+2500,University of Louisville,Terry Rozier,KY
+2501,University of Louisville,Chinanu Onuaku,KY
+2502,University of Maine,Jeff Cross,
+2503,University of Maryland,Gene Shue,MD
+2504,University of Maryland,Jerry Greenspan,MD
+2505,University of Maryland,Barry Yates,MD
+2506,University of Maryland,Tom McMillen,MD
+2507,University of Maryland,Len Elmore,MD
+2508,University of Maryland,Mo Howard,MD
+2509,University of Maryland,John Lucas,MD
+2510,University of Maryland,Brad Davis,MD
+2511,University of Maryland,Steve Sheppard,MD
+2512,University of Maryland,Lawrence Boston,MD
+2513,University of Maryland,Albert King,MD
+2514,University of Maryland,Buck Williams,MD
+2515,University of Maryland,Charles Pittman,MD
+2516,University of Maryland,Adrian Branch,MD
+2517,University of Maryland,Ben Coleman,MD
+2518,University of Maryland,Tony Massenburg,MD
+2519,University of Maryland,Jerrod Mustaf,MD
+2520,University of Maryland,Evers Burns,MD
+2521,University of Maryland,Brian Davis,MD
+2522,University of Maryland,Cedric Lewis,MD
+2523,University of Maryland,Keith Booth,MD
+2524,University of Maryland,Obinna Ekezie,MD
+2525,University of Maryland,Steve Francis,MD
+2526,University of Maryland,Laron Profit,MD
+2527,University of Maryland,Terence Morris,MD
+2528,University of Maryland,Lonny Baxter,MD
+2529,University of Maryland,Juan Dixon,MD
+2530,University of Maryland,Chris Wilcox,MD
+2531,University of Maryland,Steve Blake,MD
+2532,University of Maryland,Sarunas Jasikevicius,MD
+2533,University of Maryland,Chris McCray,MD
+2534,University of Maryland,Jeff Green,MD
+2535,University of Maryland,Greivis Vasquez,MD
+2536,University of Maryland,Alex Len,MD
+2537,University of Maryland,Jake Layman,MD
+2538,University of Maryland,Diamond Stone,MD
+2539,University of Maryland Eastern Shore,Ken McBride,MD
+2540,University of Maryland Eastern Shore,Levi Fontaine,MD
+2541,University of Maryland Eastern Shore,Jake Ford,MD
+2542,University of Maryland Eastern Shore,Tal Skinner,MD
+2543,University of Massachusetts Amherst,Julius Erving*,MA
+2544,University of Massachusetts Amherst,Al Skinner,MA
+2545,University of Massachusetts Amherst,Lou Roe,MA
+2546,University of Massachusetts Amherst,Marcus Camby,MA
+2547,University of Massachusetts Amherst,Lari Ketner,MA
+2548,University of Massachusetts Amherst,Stephane Lasme,MA
+2549,University of Massachusetts Amherst,Gary Forbes,MA
+2550,University of Memphis,Win Wilfong,TN
+2551,University of Memphis,Wayne Yates,TN
+2552,University of Memphis,Rich Jones,TN
+2553,University of Memphis,Larry Kenon,TN
+2554,University of Memphis,Hank McDowell,TN
+2555,University of Memphis,Keith Lee,TN
+2556,University of Memphis,William Bedford,TN
+2557,University of Memphis,Andre Turner,TN
+2558,University of Memphis,Vincent Askew,TN
+2559,University of Memphis,Sylvester Gray,TN
+2560,University of Memphis,Elliot Perry,TN
+2561,University of Memphis,Mitchell Butler,TN
+2562,University of Memphis,Anfernee Hardaway,TN
+2563,University of Memphis,Chris Garner,TN
+2564,University of Memphis,Antonio Burks,TN
+2565,University of Memphis,Earl Barron,TN
+2566,University of Memphis,Rodney Carney,TN
+2567,University of Memphis,Darius Washington,TN
+2568,University of Memphis,Joey Dorsey,TN
+2569,University of Memphis,Chris Douglas-Roberts,TN
+2570,University of Memphis,Derrick Rose,TN
+2571,University of Memphis,Tyreke Evans,TN
+2572,University of Memphis,Elliot Williams,TN
+2573,University of Memphis,Will Barton,TN
+2574,University of Memphis,Adonis Thomas,TN
+2575,University of Miami,Rick Barry*,FL
+2576,University of Miami,Tito Horford,FL
+2577,University of Miami,Tim James,FL
+2578,University of Miami,John Salmons,FL
+2579,University of Miami,Robert Hite,FL
+2580,University of Miami,Guillermo Diaz,FL
+2581,University of Miami,DeQuan Jones,FL
+2582,University of Miami,Shane Larkin,FL
+2583,University of Miami,Derrick Jones,FL
+2584,University of Miami,Sheldon McClellan,FL
+2585,University of Michigan,George Lee,MI
+2586,University of Michigan,Bill Buntin,MI
+2587,University of Michigan,Cazzie Russell,MI
+2588,University of Michigan,Dennis Stewart,MI
+2589,University of Michigan,Rudy Tomjanovich,MI
+2590,University of Michigan,Campy Russell,MI
+2591,University of Michigan,Wayman Britt,MI
+2592,University of Michigan,Rickey Green,MI
+2593,University of Michigan,Phil Hubbard,MI
+2594,University of Michigan,Alan Hardy,MI
+2595,University of Michigan,Mike McGee,MI
+2596,University of Michigan,Tim McCormick,MI
+2597,University of Michigan,Roy Tarpley,MI
+2598,University of Michigan,Richard Rellford,MI
+2599,University of Michigan,Gary Grant,MI
+2600,University of Michigan,Glen Rice,MI
+2601,University of Michigan,Sean Higgins,MI
+2602,University of Michigan,Terry Mills,MI
+2603,University of Michigan,Rumeal Robinson,MI
+2604,University of Michigan,Loy Vaught,MI
+2605,University of Michigan,Demetrius Calip,MI
+2606,University of Michigan,Eric Riley,MI
+2607,University of Michigan,Chris Webber,MI
+2608,University of Michigan,Juwan Howard,MI
+2609,University of Michigan,Jalen Rose,MI
+2610,University of Michigan,Maurice Taylor,MI
+2611,University of Michigan,Robert Traylor,MI
+2612,University of Michigan,Jamal Crawford,MI
+2613,University of Michigan,Maceo Baston,MI
+2614,University of Michigan,Bernard Robinson,MI
+2615,University of Michigan,Courtney Sims,MI
+2616,University of Michigan,Chris Hunter,MI
+2617,University of Michigan,Manny Harris,MI
+2618,University of Michigan,Darius Morris,MI
+2619,University of Michigan,Trey Burke,MI
+2620,University of Michigan,Mitch McGary,MI
+2621,University of Michigan,Nik Stauskas,MI
+2622,University of Michigan,Caris LeVert,MI
+2623,University of Minnesota,Don Carlson,MN
+2624,University of Minnesota,Bud Grant,MN
+2625,University of Minnesota,Kleggie Hermsen,MN
+2626,University of Minnesota,Tony Jaros,MN
+2627,University of Minnesota,Whitey Skoog,MN
+2628,University of Minnesota,Ed Kalafat,MN
+2629,University of Minnesota,Dick Garmaker,MN
+2630,University of Minnesota,Chuck Mencel,MN
+2631,University of Minnesota,Doug Bolstorff,MN
+2632,University of Minnesota,Ron Johnson,MN
+2633,University of Minnesota,Archie Clark,MN
+2634,University of Minnesota,Lou Hudson,MN
+2635,University of Minnesota,Larry Mikan,MN
+2636,University of Minnesota,Ron Behagen,MN
+2637,University of Minnesota,Jim Brewer,MN
+2638,University of Minnesota,Don Smith,MN
+2639,University of Minnesota,Mark Olberding,MN
+2640,University of Minnesota,Ray Williams,MN
+2641,University of Minnesota,Mychal Thompson,MN
+2642,University of Minnesota,Kevin McHale*,MN
+2643,University of Minnesota,Trent Tucker,MN
+2644,University of Minnesota,Randy Breuer,MN
+2645,University of Minnesota,Jim Petersen,MN
+2646,University of Minnesota,John Shasky,MN
+2647,University of Minnesota,Willie Burton,MN
+2648,University of Minnesota,Richard Coffey,MN
+2649,University of Minnesota,Kevin Lynch,MN
+2650,University of Minnesota,Doug Smith,MN
+2651,University of Minnesota,Walter Bond,MN
+2652,University of Minnesota,Melvin Newbern,MN
+2653,University of Minnesota,Bob Martin,MN
+2654,University of Minnesota,Voshon Lenard,MN
+2655,University of Minnesota,Bobby Jackson,MN
+2656,University of Minnesota,Sam Jacobson,MN
+2657,University of Minnesota,Trevor Winter,MN
+2658,University of Minnesota,Quincy Lewis,MN
+2659,University of Minnesota,Joel Przybilla,MN
+2660,University of Minnesota,Kris Humphries,MN
+2661,University of Minnesota,Donta Smith,MN
+2662,University of Minnesota,Kevin Burleson,MN
+2663,University of Minnesota,Mychel Thompson,MN
+2664,University of Minnesota Duluth,Jay Guidinger,
+2665,University of Mississippi,Johnny Neumann,MS
+2666,University of Mississippi,John Stroud,MS
+2667,University of Mississippi,Elston Turner,MS
+2668,University of Mississippi,Carlos Clark,MS
+2669,University of Mississippi,Gerald Glass,MS
+2670,University of Mississippi,Patrick Eddie,MS
+2671,University of Mississippi,Ansu Sesay,MS
+2672,University of Mississippi,Justin Reed,MS
+2673,University of Missouri,Jerry Fowler,
+2674,University of Missouri,Med Park,
+2675,University of Missouri,Norm Stewart,
+2676,University of Missouri,John Brown,
+2677,University of Missouri,Al Eberhard,
+2678,University of Missouri,Scott Sims,
+2679,University of Missouri,Kim Anderson,
+2680,University of Missouri,Larry Drew,
+2681,University of Missouri,Steve Stipanovich,
+2682,University of Missouri,Jon Sundvold,
+2683,University of Missouri,Derrick Chievous,
+2684,University of Missouri,Byron Irvin,
+2685,University of Missouri,Gary Leonard,
+2686,University of Missouri,Anthony Peeler,
+2687,University of Missouri,Melvin Booker,
+2688,University of Missouri,Derek Grimm,
+2689,University of Missouri,Keyon Dooling,
+2690,University of Missouri,Kareem Rush,
+2691,University of Missouri,Linas Kleiza,
+2692,University of Missouri,Thomas Gardner,
+2693,University of Missouri,DeMarre Carroll,
+2694,University of Missouri,Kim English,
+2695,University of Missouri,Phil Pressey,
+2696,University of Missouri,Jabari Brown,
+2697,University of Missouri,Jordan Clarkson,
+2698,University of Missouri,Jaylen Brown,
+2699,University of Missouri-Kansas City,Tony Dumas,
+2700,University of Montana,Larry Krystkowiak,
+2701,University of Montana,John Stroeder,
+2702,University of Montana,Will Cherry,
+2703,University of Montevallo,Nate Driggers,AL
+2704,University of Nebraska,Stu Lantz,
+2705,University of Nebraska,Dave Hoppen,
+2706,University of Nebraska,Eric Johnson,
+2707,University of Nebraska,Henry Turner,
+2708,University of Nebraska,Rich King,
+2709,University of Nebraska,Ervin Johnson,
+2710,University of Nebraska,Eric Piatkowski,
+2711,University of Nebraska,Erick Strickland,
+2712,University of Nebraska,Tony Farmer,
+2713,University of Nebraska,Tyronn Lue,
+2714,University of Nebraska,Mikki Moore,
+2715,University of Nebraska at Kearney,Tom Kropp,NE
+2716,University of Nebraska at Kearney,Bart Kofoed,NE
+2717,"University of Nevada, Las Vegas",John Trapp,
+2718,"University of Nevada, Las Vegas",Odis Allison,
+2719,"University of Nevada, Las Vegas",Ricky Sobers,
+2720,"University of Nevada, Las Vegas",Glen Gondrezick,
+2721,"University of Nevada, Las Vegas",Larry Moffett,
+2722,"University of Nevada, Las Vegas",Eddie Owens,
+2723,"University of Nevada, Las Vegas",Robert Smith,
+2724,"University of Nevada, Las Vegas",Jackie Robinson,
+2725,"University of Nevada, Las Vegas",Reggie Theus,
+2726,"University of Nevada, Las Vegas",Earl Evans,
+2727,"University of Nevada, Las Vegas",Brett Vroman,
+2728,"University of Nevada, Las Vegas",Anthony Jones,
+2729,"University of Nevada, Las Vegas",Armen Gilliam,
+2730,"University of Nevada, Las Vegas",Mark Wade,
+2731,"University of Nevada, Las Vegas",Gerald Paddio,
+2732,"University of Nevada, Las Vegas",Greg Anthony,
+2733,"University of Nevada, Las Vegas",Stacey Augmon,
+2734,"University of Nevada, Las Vegas",Elmore Spencer,
+2735,"University of Nevada, Las Vegas",Isaiah Rider,
+2736,"University of Nevada, Las Vegas",James Robinson,
+2737,"University of Nevada, Las Vegas",Dexter Boney,
+2738,"University of Nevada, Las Vegas",Evric Gray,
+2739,"University of Nevada, Las Vegas",Keon Clark,
+2740,"University of Nevada, Las Vegas",Tyrone Nesby,
+2741,"University of Nevada, Las Vegas",Shawn Marion,
+2742,"University of Nevada, Las Vegas",Jamal Robinson,
+2743,"University of Nevada, Las Vegas",Marcus Banks,
+2744,"University of Nevada, Las Vegas",Lou Amundson,
+2745,"University of Nevada, Las Vegas",Joel Anthony,
+2746,"University of Nevada, Las Vegas",Anthony Bennett,
+2747,"University of Nevada, Las Vegas",Rashad Vaughn,
+2748,"University of Nevada, Las Vegas",Christian Wood,
+2749,"University of Nevada, Las Vegas",Patrick McCaw,
+2750,"University of Nevada, Las Vegas",Stephen Zimmerman,
+2751,"University of Nevada, Reno",Johnny High,
+2752,"University of Nevada, Reno",Edgar Jones,
+2753,"University of Nevada, Reno",David Wood,
+2754,"University of Nevada, Reno",Eddie Jones,
+2755,"University of Nevada, Reno",Kirk Snyder,
+2756,"University of Nevada, Reno",Kevinn Pinkney,
+2757,"University of Nevada, Reno",Nick Fazekas,
+2758,"University of Nevada, Reno",Ramon Sessions,
+2759,"University of Nevada, Reno",JaVale McGee,
+2760,"University of Nevada, Reno",Luke Babbitt,
+2761,University of New Mexico,Greg Howard,NM
+2762,University of New Mexico,Mel Daniels*,NM
+2763,University of New Mexico,Michael Cooper,NM
+2764,University of New Mexico,Jerome Henderson,NM
+2765,University of New Mexico,Luc Longley,NM
+2766,University of New Mexico,Kenny Thomas,NM
+2767,University of New Mexico,Danny Granger,NM
+2768,University of New Mexico,Darington Hobson,NM
+2769,University of New Mexico,Tony Snell,NM
+2770,University of New Mexico,Cameron Bairstow,NM
+2771,University of New Mexico,Drew Gordon,NM
+2772,University of New Mexico,Alex Kirk,NM
+2773,University of New Orleans,Wilbur Holland,LA
+2774,University of New Orleans,Wayne Cooper,LA
+2775,University of New Orleans,Ledell Eackles,LA
+2776,University of New Orleans,Ron Grandison,LA
+2777,University of New Orleans,Tony Harris,LA
+2778,University of New Orleans,Michael McDonald,LA
+2779,University of New Orleans,Tobias Harris,LA
+2780,University of North Carolina,Hook Dillon,
+2781,University of North Carolina,Bones McKinney,
+2782,University of North Carolina,Lennie Rosenbluth,
+2783,University of North Carolina,Pete Brennan,
+2784,University of North Carolina,Tommy Kearns,
+2785,University of North Carolina,York Larese,
+2786,University of North Carolina,Lee Shaffer,
+2787,University of North Carolina,Billy Cunningham*,
+2788,University of North Carolina,Bobby Lewis,
+2789,University of North Carolina,Charlie Scott,
+2790,University of North Carolina,Bob McAdoo*,
+2791,University of North Carolina,Bill Chamberlain,
+2792,University of North Carolina,Darrell Elston,
+2793,University of North Carolina,Bobby Jones,
+2794,University of North Carolina,George Karl,
+2795,University of North Carolina,Mitch Kupchak,
+2796,University of North Carolina,John Kuester,
+2797,University of North Carolina,Tom LaGarde,
+2798,University of North Carolina,Geoff Crompton,
+2799,University of North Carolina,Phil Ford,
+2800,University of North Carolina,Dudley Bradley,
+2801,University of North Carolina,Mike O'Koren,
+2802,University of North Carolina,Al Wood,
+2803,University of North Carolina,Rich Yonakor,
+2804,University of North Carolina,James Worthy*,
+2805,University of North Carolina,Michael Jordan*,
+2806,University of North Carolina,Sam Perkins,
+2807,University of North Carolina,Brad Daugherty,
+2808,University of North Carolina,Keith Smith,
+2809,University of North Carolina,Kenny Smith,
+2810,University of North Carolina,Joe Wolf,
+2811,University of North Carolina,Dave Popson,
+2812,University of North Carolina,Steve Bucknall,
+2813,University of North Carolina,Jeff Lebo,
+2814,University of North Carolina,Scott Williams,
+2815,University of North Carolina,Pete Chilcutt,
+2816,University of North Carolina,Rick Fox,
+2817,University of North Carolina,Hubert Davis,
+2818,University of North Carolina,George Lynch,
+2819,University of North Carolina,Matt Wenstrom,
+2820,University of North Carolina,Eric Montross,
+2821,University of North Carolina,Derrick Phelps,
+2822,University of North Carolina,Jerry Stackhouse,
+2823,University of North Carolina,Rasheed Wallace,
+2824,University of North Carolina,Jeff McInnis,
+2825,University of North Carolina,Kevin Salvadori,
+2826,University of North Carolina,Vince Carter,
+2827,University of North Carolina,Antawn Jamison,
+2828,University of North Carolina,Makhtar N'Diaye,
+2829,University of North Carolina,Shammond Williams,
+2830,University of North Carolina,Mamadou N'Diaye,
+2831,University of North Carolina,Joseph Forte,
+2832,University of North Carolina,Brendan Haywood,
+2833,University of North Carolina,Raymond Felton,
+2834,University of North Carolina,Sean May,
+2835,University of North Carolina,Rashad McCants,
+2836,University of North Carolina,David Noel,
+2837,University of North Carolina,Shawne Williams,
+2838,University of North Carolina,Shelden Williams,
+2839,University of North Carolina,Wayne Ellington,
+2840,University of North Carolina,Tyler Hansbrough,
+2841,University of North Carolina,Ty Lawson,
+2842,University of North Carolina,Ed Davis,
+2843,University of North Carolina,John Henson,
+2844,University of North Carolina,Kendall Marshall,
+2845,University of North Carolina,Tyler Zeller,
+2846,University of North Carolina,Reggie Bullock,
+2847,University of North Carolina at Charlotte,Cedric Maxwell,NC
+2848,University of North Carolina at Charlotte,Chad Kinch,NC
+2849,University of North Carolina at Charlotte,Byron Dinkins,NC
+2850,University of North Carolina at Charlotte,Cedric Ball,NC
+2851,University of North Carolina at Charlotte,Sean Colson,NC
+2852,University of North Carolina at Charlotte,Eddie Basden,NC
+2853,University of North Carolina at Wilmington,Brian Rowsom,NC
+2854,University of North Carolina at Wilmington,Matt Fish,NC
+2855,University of North Dakota,Phil Jackson*,ND
+2856,University of North Dakota,Jerome Beasley,ND
+2857,University of North Texas,Lee Winfield,TX
+2858,University of North Texas,Jordan Hamilton,TX
+2859,University of Northern Colorado,Mike Higgins,CO
+2860,University of Notre Dame,Leo Barnhorst,IN
+2861,University of Notre Dame,Fran Curran,IN
+2862,University of Notre Dame,Paul Gordon,IN
+2863,University of Notre Dame,Billy Hassett,IN
+2864,University of Notre Dame,Leo Klier,IN
+2865,University of Notre Dame,Richie Niemiera,IN
+2866,University of Notre Dame,Chips Sobek,IN
+2867,University of Notre Dame,Kevin O'Shea,IN
+2868,University of Notre Dame,Dick Rosenthal,IN
+2869,University of Notre Dame,Jack Stephens,IN
+2870,University of Notre Dame,Tom Hawkins,IN
+2871,University of Notre Dame,Ron Reed,IN
+2872,University of Notre Dame,Jay Miller,IN
+2873,University of Notre Dame,Bob Arnzen,IN
+2874,University of Notre Dame,Austin Carr,IN
+2875,University of Notre Dame,Sid Catlett,IN
+2876,University of Notre Dame,Gary Brokaw,IN
+2877,University of Notre Dame,John Shumate,IN
+2878,University of Notre Dame,Adrian Dantley*,IN
+2879,University of Notre Dame,Toby Knight,IN
+2880,University of Notre Dame,Duck Williams,IN
+2881,University of Notre Dame,Bill Hanzlik,IN
+2882,University of Notre Dame,Bill Laimbeer,IN
+2883,University of Notre Dame,Tracy Jackson,IN
+2884,University of Notre Dame,Kelly Tripucka,IN
+2885,University of Notre Dame,Orlando Woolridge,IN
+2886,University of Notre Dame,Dave Batton,IN
+2887,University of Notre Dame,Bruce Flowers,IN
+2888,University of Notre Dame,John Paxson,IN
+2889,University of Notre Dame,Tom Sluby,IN
+2890,University of Notre Dame,Tim Kempton,IN
+2891,University of Notre Dame,David Rivers,IN
+2892,University of Notre Dame,Donald Royal,IN
+2893,University of Notre Dame,Gary Voce,IN
+2894,University of Notre Dame,LaPhonso Ellis,IN
+2895,University of Notre Dame,Keith Tower,IN
+2896,University of Notre Dame,Elmer Bennett,IN
+2897,University of Notre Dame,Monty Williams,IN
+2898,University of Notre Dame,Pat Garrity,IN
+2899,University of Notre Dame,Troy Murphy,IN
+2900,University of Notre Dame,Ryan Humphrey,IN
+2901,University of Notre Dame,Matt Carroll,IN
+2902,University of Notre Dame,Mo Williams,IN
+2903,University of Notre Dame,Chris Quinn,IN
+2904,University of Notre Dame,Rob Kurz,IN
+2905,University of Notre Dame,Luke Harangody,IN
+2906,University of Notre Dame,Ben Hansbrough,IN
+2907,University of Notre Dame,Luke Zeller,IN
+2908,University of Notre Dame,Jack Cooley,IN
+2909,University of Notre Dame,Pat Connaughton,IN
+2910,University of Notre Dame,Demetrius Jackson,IN
+2911,University of Oklahoma,Gar Heard,OK
+2912,University of Oklahoma,Clifford Ray,OK
+2913,University of Oklahoma,Vester Marshall,OK
+2914,University of Oklahoma,Alvan Adams,OK
+2915,University of Oklahoma,John McCullough,OK
+2916,University of Oklahoma,Wayman Tisdale,OK
+2917,University of Oklahoma,Anthony Bowie,OK
+2918,University of Oklahoma,Harvey Grant,OK
+2919,University of Oklahoma,Mookie Blaylock,OK
+2920,University of Oklahoma,Stacey King,OK
+2921,University of Oklahoma,Brent Price,OK
+2922,University of Oklahoma,Ricky Grace,OK
+2923,University of Oklahoma,Skeeter Henry,OK
+2924,University of Oklahoma,Jeff Webster,OK
+2925,University of Oklahoma,Eduardo Najera,OK
+2926,University of Oklahoma,Taylor Griffin,OK
+2927,University of Oklahoma,Blake Griffin,OK
+2928,University of Oklahoma,Willie Warren,OK
+2929,University of Oklahoma,Buddy Hield,OK
+2930,University of Oregon,Bob Peterson,OR
+2931,University of Oregon,Jim Loscutoff,OR
+2932,University of Oregon,Nick Jones,OR
+2933,University of Oregon,Stan Love,OR
+2934,University of Oregon,Al Carlson,OR
+2935,University of Oregon,Steve Jones,OR
+2936,University of Oregon,Ron Lee,OR
+2937,University of Oregon,Greg Ballard,OR
+2938,University of Oregon,Rock Lee,OR
+2939,University of Oregon,John Greig,OR
+2940,University of Oregon,Blair Rasmussen,OR
+2941,University of Oregon,Anthony Taylor,OR
+2942,University of Oregon,Terrell Brandon,OR
+2943,University of Oregon,Fred Jones,OR
+2944,University of Oregon,Luke Ridnour,OR
+2945,University of Oregon,Alex Scales,OR
+2946,University of Oregon,Aaron Brooks,OR
+2947,University of Oregon,Malik Hairston,OR
+2948,University of Oregon,Ivan Johnson,OR
+2949,University of Oregon,Joe Young,OR
+2950,University of Pennsylvania,Chink Crossin,PA
+2951,University of Pennsylvania,Jack McCloskey,PA
+2952,University of Pennsylvania,Ernie Beck,PA
+2953,University of Pennsylvania,Dave Wohl,PA
+2954,University of Pennsylvania,Corky Calhoun,PA
+2955,University of Pennsylvania,Phil Hankinson,PA
+2956,University of Pennsylvania,Bob Bigelow,PA
+2957,University of Pennsylvania,Tony Price,PA
+2958,University of Pennsylvania,Jerome Allen,PA
+2959,University of Pennsylvania,Matt Maloney,PA
+2960,University of Pennsylvania,Ira Bowman,PA
+2961,University of Pittsburgh,Mel Bennett,PA
+2962,University of Pittsburgh,Billy Knight,PA
+2963,University of Pittsburgh,Keith Starr,PA
+2964,University of Pittsburgh,Jerome Lane,PA
+2965,University of Pittsburgh,Charles Smith,PA
+2966,University of Pittsburgh,Chris Smith,PA
+2967,University of Pittsburgh,Darren Morningstar,PA
+2968,University of Pittsburgh,Eric Mobley,PA
+2969,University of Pittsburgh,Thomas Hamilton,PA
+2970,University of Pittsburgh,Vonteego Cummings,PA
+2971,University of Pittsburgh,Mark Blount,PA
+2972,University of Pittsburgh,Chris Taft,PA
+2973,University of Pittsburgh,Aaron Gray,PA
+2974,University of Pittsburgh,DeJuan Blair,PA
+2975,University of Pittsburgh,Sam Young,PA
+2976,University of Pittsburgh,Steven Adams,PA
+2977,University of Pittsburgh,Lamar Patterson,PA
+2978,University of Portland,Andy Johnson,OR
+2979,University of Portland,Ray Scott,OR
+2980,University of Portland,Darwin Cook,OR
+2981,University of Portland,Bill Garnett,OR
+2982,University of Portland,Jose Slaughter,OR
+2983,University of Portland,Anthony Johnson,OR
+2984,University of Portland,Daequan Cook,OR
+2985,University of Portland,Eugene Jeter,OR
+2986,University of Puget Sound,Charlie Lowery,WA
+2987,University of Rhode Island,Johnny Ezersky,RI
+2988,University of Rhode Island,Claude English,RI
+2989,University of Rhode Island,Sly Williams,RI
+2990,University of Rhode Island,Tom Garrick,RI
+2991,University of Rhode Island,Cuttino Mobley,RI
+2992,University of Rhode Island,Tyson Wheeler,RI
+2993,University of Rhode Island,Lamar Odom,RI
+2994,University of Richmond,John Schweitz,VA
+2995,University of Richmond,Johnny Newman,VA
+2996,University of Richmond,Justin Harper,VA
+2997,University of Rochester,Dave Deutsch,NY
+2998,University of San Diego,Stan Washington,CA
+2999,University of San Francisco,Fred Scolari,CA
+3000,University of San Francisco,Don Lofgran,CA
+3001,University of San Francisco,Joe McNamee,CA
+3002,University of San Francisco,Bill Russell*,CA
+3003,University of San Francisco,Mike Farmer,CA
+3004,University of San Francisco,Fred LaCour,CA
+3005,University of San Francisco,Joe Ellis,CA
+3006,University of San Francisco,Erwin Mueller,CA
+3007,University of San Francisco,Pete Cross,CA
+3008,University of San Francisco,Kevin Restani,CA
+3009,University of San Francisco,Phil Smith,CA
+3010,University of San Francisco,Eric Fernsten,CA
+3011,University of San Francisco,Winford Boynes,CA
+3012,University of San Francisco,James Hardy,CA
+3013,University of San Francisco,Marlon Redmond,CA
+3014,University of San Francisco,Bill Cartwright,CA
+3015,University of San Francisco,Billy Reid,CA
+3016,University of San Francisco,Chubby Cox,CA
+3017,University of San Francisco,Quintin Dailey,CA
+3018,University of San Francisco,Wallace Bryant,CA
+3019,University of San Francisco,David Lee,CA
+3020,University of South Alabama,Ed Rains,AL
+3021,University of South Alabama,Rory White,AL
+3022,University of South Alabama,Terry Catledge,AL
+3023,University of South Alabama,Dexter Shouse,AL
+3024,University of South Alabama,Rodney White,AL
+3025,University of South Alabama,Royce White,AL
+3026,University of South Carolina,Jim Slaughter,SC
+3027,University of South Carolina,Jim Fox,SC
+3028,University of South Carolina,Gary Gregor,SC
+3029,University of South Carolina,Skip Harlicka,SC
+3030,University of South Carolina,Tom Riker,SC
+3031,University of South Carolina,Brian Winters,SC
+3032,University of South Carolina,Tom Boswell,SC
+3033,University of South Carolina,John Roche,SC
+3034,University of South Carolina,Mike Dunleavy,SC
+3035,University of South Carolina,Alex English*,SC
+3036,University of South Carolina,Tom Owens,SC
+3037,University of South Carolina,Cedrick Hordges,SC
+3038,University of South Carolina,Mike Brittain,SC
+3039,University of South Carolina,Terry Dozier,SC
+3040,University of South Carolina,Jamie Watson,SC
+3041,University of South Carolina,Ryan Stack,SC
+3042,University of South Carolina,Renaldo Balkman,SC
+3043,University of South Carolina,Tarence Kinsey,SC
+3044,University of South Carolina,Jason Thompson,SC
+3045,University of South Carolina Upstate,Mike Gibson,SC
+3046,University of South Florida,Curtis Kitchen,FL
+3047,University of South Florida,Jim Grandholm,FL
+3048,University of South Florida,Gary Alexander,FL
+3049,University of South Florida,Chucky Atkins,FL
+3050,University of South Florida,Solomon Jones,FL
+3051,University of Southern California,Alex Hannum*,CA
+3052,University of Southern California,Jim Seminoff,CA
+3053,University of Southern California,Bill Sharman*,CA
+3054,University of Southern California,John Rudometkin,CA
+3055,University of Southern California,John Block,CA
+3056,University of Southern California,Bill Hewitt,CA
+3057,University of Southern California,Mo Layton,CA
+3058,University of Southern California,Jim Marsh,CA
+3059,University of Southern California,Ron Riley,CA
+3060,University of Southern California,Paul Westphal,CA
+3061,University of Southern California,John Lambert,CA
+3062,University of Southern California,Gus Williams,CA
+3063,University of Southern California,Mack Calvin,CA
+3064,University of Southern California,Cliff Robinson,CA
+3065,University of Southern California,Dwight Anderson,CA
+3066,University of Southern California,Guy Williams,CA
+3067,University of Southern California,Clifford Robinson,CA
+3068,University of Southern California,Chris Munk,CA
+3069,University of Southern California,Robert Pack,CA
+3070,University of Southern California,Duane Cooper,CA
+3071,University of Southern California,Harold Miner,CA
+3072,University of Southern California,Rodrick Rhodes,CA
+3073,University of Southern California,Brian Scalabrine,CA
+3074,University of Southern California,Jeff Trepagnier,CA
+3075,University of Southern California,Desmon Farmer,CA
+3076,University of Southern California,Gabe Pruitt,CA
+3077,University of Southern California,Nick Young,CA
+3078,University of Southern California,DeMar DeRozan,CA
+3079,University of Southern California,Taj Gibson,CA
+3080,University of Southern California,Nikola Vucevic,CA
+3081,University of Southern California,Dewayne Dedmon,CA
+3082,University of Southern California,Alex Stepheson,CA
+3083,University of Southern Colorado,Joe Smith,
+3084,University of Southern Colorado,Josh Smith,
+3085,University of Southern Mississippi,Randolph Keys,MS
+3086,University of Southern Mississippi,Joe Courtney,MS
+3087,University of Southern Mississippi,Clarence Weatherspoon,MS
+3088,University of Southern Mississippi,Kelly McCarty,MS
+3089,University of Tampa,Nate Johnston,FL
+3090,University of Tennessee,Marshall Hawkins,TN
+3091,University of Tennessee,Dick Mehen,TN
+3092,University of Tennessee,Paul Walther,TN
+3093,University of Tennessee,Art Burris,TN
+3094,University of Tennessee,Bob Hogsett,TN
+3095,University of Tennessee,Tom Boerwinkle,TN
+3096,University of Tennessee,Len Kosmalski,TN
+3097,University of Tennessee,Ernie Grunfeld,TN
+3098,University of Tennessee,Bernard King*,TN
+3099,University of Tennessee,Terry Crosby,TN
+3100,University of Tennessee,Reggie Johnson,TN
+3101,University of Tennessee,Howard Wood,TN
+3102,University of Tennessee,Dale Ellis,TN
+3103,University of Tennessee,Tony White,TN
+3104,University of Tennessee,Dyron Nix,TN
+3105,University of Tennessee,Doug Roth,TN
+3106,University of Tennessee,Ian Lockhart,TN
+3107,University of Tennessee,Allan Houston,TN
+3108,University of Tennessee,Steve Hamer,TN
+3109,University of Tennessee,Marcus Haislip,TN
+3110,University of Tennessee,Vincent Yarbrough,TN
+3111,University of Tennessee,Scotty Hopson,TN
+3112,University of Tennessee,Jarnell Stokes,TN
+3113,University of Tennessee,Jordan McRae,TN
+3114,University of Tennessee,Josh Richardson,TN
+3115,University of Tennessee at Chattanooga,Russ Schoene,TN
+3116,University of Tennessee at Chattanooga,Willie White,TN
+3117,University of Tennessee at Chattanooga,Gerald Wilkins,TN
+3118,University of Tennessee at Chattanooga,Johnny Taylor,TN
+3119,University of Tennessee at Martin,Lester Hudson,
+3120,University of Texas at Austin,John Hargis,TX
+3121,University of Texas at Austin,Slater Martin*,TX
+3122,University of Texas at Austin,Danny Wagner,TX
+3123,University of Texas at Austin,Jay Arnette,TX
+3124,University of Texas at Austin,Johnny Moore,TX
+3125,University of Texas at Austin,LaSalle Thompson,TX
+3126,University of Texas at Austin,Lance Blanks,TX
+3127,University of Texas at Austin,Travis Mays,TX
+3128,University of Texas at Austin,Dexter Cambridge,TX
+3129,University of Texas at Austin,Alvin Heggs,TX
+3130,University of Texas at Austin,Terrence Rencher,TX
+3131,University of Texas at Austin,Chris Mihm,TX
+3132,University of Texas at Austin,Maurice Evans,TX
+3133,University of Texas at Austin,Chris Owens,TX
+3134,University of Texas at Austin,Dajuan Wagner,TX
+3135,University of Texas at Austin,Royal Ivey,TX
+3136,University of Texas at Austin,LaMarcus Aldridge,TX
+3137,University of Texas at Austin,Daniel Gibson,TX
+3138,University of Texas at Austin,Kevin Durant,TX
+3139,University of Texas at Austin,Avery Bradley,TX
+3140,University of Texas at Austin,Damion James,TX
+3141,University of Texas at Austin,Dexter Pittman,TX
+3142,University of Texas at Austin,Cory Joseph,TX
+3143,University of Texas at Austin,Trey Thompkins,TX
+3144,University of Texas at Austin,Tristan Thompson,TX
+3145,University of Texas at Austin,Myles Turner,TX
+3146,University of Texas at Austin,Isaiah Taylor,TX
+3147,University of Texas at El Paso,Jim Barnes,TX
+3148,University of Texas at El Paso,Jim Barnett,TX
+3149,University of Texas at El Paso,Dave Lattin,TX
+3150,University of Texas at El Paso,Tiny Archibald*,TX
+3151,University of Texas at El Paso,Dick Gibbs,TX
+3152,University of Texas at El Paso,Scott English,TX
+3153,University of Texas at El Paso,Gus Bailey,TX
+3154,University of Texas at El Paso,Dave Feitl,TX
+3155,University of Texas at El Paso,Tim Hardaway,TX
+3156,University of Texas at El Paso,Greg Foster,TX
+3157,University of Texas at El Paso,Marlon Maxey,TX
+3158,University of Texas at El Paso,Antonio Davis,TX
+3159,University of Texas at El Paso,Derrick Caracter,TX
+3160,University of Texas at El Paso,Julyan Stone,TX
+3161,University of Texas at El Paso,Anthony Davis,TX
+3162,University of Texas at San Antonio,Derrick Gervin,
+3163,University of Texas-Pan American,Howie Montgomery,
+3164,University of Texas-Pan American,Luke Jackson,
+3165,University of Texas-Pan American,Otto Moore,
+3166,University of Texas-Pan American,Fred Taylor,
+3167,University of Texas-Pan American,Marshall Rogers,
+3168,University of Texas-Pan American,Ken Green,
+3169,University of Texas-Pan American,Kenny Green,
+3170,University of Toledo,Paul Seymour,OH
+3171,University of Toledo,Cal Christensen,OH
+3172,University of Toledo,Phil Martin,OH
+3173,University of Toledo,Jim Ray,OH
+3174,University of Toledo,Larry Jones,OH
+3175,University of Toledo,George Patterson,OH
+3176,University of Toledo,Steve Mix,OH
+3177,University of Toledo,John Brisker,OH
+3178,University of Toledo,Tom Kozelko,OH
+3179,University of Toledo,Dick Miller,OH
+3180,University of Toledo,Casey Shaw,OH
+3181,University of Tulsa,Jim King,OK
+3182,University of Tulsa,Steve Bracey,OK
+3183,University of Tulsa,Paul Pressey,OK
+3184,University of Tulsa,Steve Harris,OK
+3185,University of Tulsa,Tracy Moore,OK
+3186,University of Tulsa,Jimmy King,OK
+3187,University of Tulsa,Shea Seals,OK
+3188,University of Tulsa,Michael Ruffin,OK
+3189,University of Tulsa,Ben Uzoh,OK
+3190,University of Tulsa,Jerome Jordan,OK
+3191,University of Utah,Arnie Ferrin,UT
+3192,University of Utah,Vern Gardner,UT
+3193,University of Utah,Gary Bergen,UT
+3194,University of Utah,Bill McGill,UT
+3195,University of Utah,Jerry Chambers,UT
+3196,University of Utah,Mike Newlin,UT
+3197,University of Utah,Mike Sojourner,UT
+3198,University of Utah,Ticky Burden,UT
+3199,University of Utah,Jeff Judkins,UT
+3200,University of Utah,Greg Deane,UT
+3201,University of Utah,Tom Chambers,UT
+3202,University of Utah,Danny Vranes,UT
+3203,University of Utah,Derek Smith,UT
+3204,University of Utah,Pace Mannion,UT
+3205,University of Utah,Kelvin Upshaw,UT
+3206,University of Utah,Josh Grant,UT
+3207,University of Utah,Michael Doleac,UT
+3208,University of Utah,Hanno Mottola,UT
+3209,University of Utah,Britton Johnsen,UT
+3210,University of Utah,Andrew Bogut,UT
+3211,University of Utah,Delon Wright,UT
+3212,University of Utah,Brice Johnson,UT
+3213,University of Utah,Jakob Poeltl,UT
+3214,University of Virginia,Gus Gerard,VA
+3215,University of Virginia,Wally Walker,VA
+3216,University of Virginia,Jeff Lamp,VA
+3217,University of Virginia,Marc Iavaroni,VA
+3218,University of Virginia,Ralph Sampson*,VA
+3219,University of Virginia,Rick Carlisle,VA
+3220,University of Virginia,Kenton Edelin,VA
+3221,University of Virginia,Othell Wilson,VA
+3222,University of Virginia,Olden Polynice,VA
+3223,University of Virginia,John Crotty,VA
+3224,University of Virginia,Bryant Stith,VA
+3225,University of Virginia,Cory Alexander,VA
+3226,University of Virginia,Junior Burrough,VA
+3227,University of Virginia,Courtney Alexander,VA
+3228,University of Virginia,Roger Mason,VA
+3229,University of Virginia,Sean Singletary,VA
+3230,University of Virginia,Mike Scott,VA
+3231,University of Virginia,Joe Harris,VA
+3232,University of Virginia,Justin Anderson,VA
+3233,University of Virginia,Malcolm Brogdon,VA
+3234,University of Virginia,Mike Tobey,VA
+3235,University of Washington,Chuck Gilmur,WA
+3236,University of Washington,Jack Nichols,WA
+3237,University of Washington,Bob Houbregs*,WA
+3238,University of Washington,Charles Dudley,WA
+3239,University of Washington,Louie Nelson,WA
+3240,University of Washington,Steve Hawes,WA
+3241,University of Washington,James Edwards,WA
+3242,University of Washington,Lars Hansen,WA
+3243,University of Washington,Lorenzo Romar,WA
+3244,University of Washington,Petur Gudmundsson,WA
+3245,University of Washington,Detlef Schrempf,WA
+3246,University of Washington,Chris Dudley,WA
+3247,University of Washington,Chris Welp,WA
+3248,University of Washington,Phil Zevenbergen,WA
+3249,University of Washington,Jay Edwards,WA
+3250,University of Washington,Eldridge Recasner,WA
+3251,University of Washington,Rich Manning,WA
+3252,University of Washington,Todd MacCulloch,WA
+3253,University of Washington,Nate Robinson,WA
+3254,University of Washington,Will Conroy,WA
+3255,University of Washington,Brandon Roy,WA
+3256,University of Washington,Spencer Hawes,WA
+3257,University of Washington,Jon Brockman,WA
+3258,University of Washington,Quincy Pondexter,WA
+3259,University of Washington,Justin Dentmon,WA
+3260,University of Washington,Justin Holiday,WA
+3261,University of Washington,Terrence Ross,WA
+3262,University of Washington,Tony Wroten,WA
+3263,University of Washington,Marquese Chriss,WA
+3264,University of Washington,Dejounte Murray,WA
+3265,University of West Florida,Moochie Norris,FL
+3266,University of Wisconsin,Paul Cloyd,
+3267,University of Wisconsin,Bobby Cook,
+3268,University of Wisconsin,Gene Englund,
+3269,University of Wisconsin,Walt Lautenbach,
+3270,University of Wisconsin,Dick Schulz,
+3271,University of Wisconsin,Glen Selbo,
+3272,University of Wisconsin,Don Rehfeldt,
+3273,University of Wisconsin,Al Henry,
+3274,University of Wisconsin,Kim Hughes,
+3275,University of Wisconsin,Wes Matthews,
+3276,University of Wisconsin,Cory Blackwell,
+3277,University of Wisconsin,Claude Gregory,
+3278,University of Wisconsin,Scott Roth,
+3279,University of Wisconsin,Michael Finley,
+3280,University of Wisconsin,Paul Grant,
+3281,University of Wisconsin,Kirk Penney,
+3282,University of Wisconsin,Devin Harris,
+3283,University of Wisconsin,Marcus Landry,
+3284,University of Wisconsin,Wesley Matthews,
+3285,University of Wisconsin,Jon Leuer,
+3286,University of Wisconsin,Greg Stiemsma,
+3287,University of Wisconsin,Sam Dekker,
+3288,University of Wisconsin,Duje Dukan,
+3289,University of Wisconsin,Frank Kaminsky,
+3290,University of Wisconsin-Eau Claire,Mike Ratliff,
+3291,University of Wisconsin-Eau Claire,Frank Schade,
+3292,University of Wisconsin-Green Bay,Tony Bennett,
+3293,University of Wisconsin-Green Bay,Logan Vander,
+3294,University of Wisconsin-Green Bay,Jeff Nordgaard,
+3295,University of Wisconsin-Parkside,Abdul Jeelani,
+3296,University of Wisconsin-River Falls,Nate DeLong,
+3297,University of Wisconsin-Stevens Point,Terry Porter,
+3298,University of Wyoming,Jack Cotton,WY
+3299,University of Wyoming,Milo Komenich,WY
+3300,University of Wyoming,Ron Livingstone,WY
+3301,University of Wyoming,George Nostrand,WY
+3302,University of Wyoming,Bill Roberts,WY
+3303,University of Wyoming,Kenny Sailors,WY
+3304,University of Wyoming,Mike Todorovich,WY
+3305,University of Wyoming,Floyd Volker,WY
+3306,University of Wyoming,John Pilch,WY
+3307,University of Wyoming,Moe Radovich,WY
+3308,University of Wyoming,Tony Windis,WY
+3309,University of Wyoming,Flynn Robinson,WY
+3310,University of Wyoming,Lewis Brown,WY
+3311,University of Wyoming,Charles Bradley,WY
+3312,University of Wyoming,Chris Engler,WY
+3313,University of Wyoming,Fennis Dembo,WY
+3314,University of Wyoming,Eric Leckner,WY
+3315,University of Wyoming,Tim Breaux,WY
+3316,University of Wyoming,Reggie Slater,WY
+3317,University of Wyoming,Theo Ratliff,WY
+3318,University of Wyoming,James Cotton,WY
+3319,University of Wyoming,Justin Williams,WY
+3320,University of the District of Columbia,Earl Jones,
+3321,University of the Pacific,Jack Toomay,CA
+3322,University of the Pacific,Bill Stricker,CA
+3323,University of the Pacific,John Gianelli,CA
+3324,University of the Pacific,Dell Demps,CA
+3325,University of the Pacific,Michael Olowokandi,CA
+3326,Utah State University,Ariel Maughan,UT
+3327,Utah State University,Bert Cook,UT
+3328,Utah State University,Pat Dunn,UT
+3329,Utah State University,Shaler Halimon,UT
+3330,Utah State University,Nate Williams,UT
+3331,Utah State University,Marv Roberts,UT
+3332,Utah State University,Desmond Penigar,UT
+3333,Utah Valley State College,Ronnie Price,
+3334,Valparaiso University,Milt Schoon,IN
+3335,Valparaiso University,Don Bielke,IN
+3336,Valparaiso University,Bryce Drew,IN
+3337,Vanderbilt University,Clyde Lee,TN
+3338,Vanderbilt University,Rod Freeman,TN
+3339,Vanderbilt University,Bill Ligon,TN
+3340,Vanderbilt University,Butch Feher,TN
+3341,Vanderbilt University,Hutch Jones,TN
+3342,Vanderbilt University,Jeff Turner,TN
+3343,Vanderbilt University,Will Perdue,TN
+3344,Vanderbilt University,Frank Kornet,TN
+3345,Vanderbilt University,Dan Langhi,TN
+3346,Vanderbilt University,Matt Freije,TN
+3347,Vanderbilt University,Derrick Byars,TN
+3348,Vanderbilt University,Festus Ezeli,TN
+3349,Vanderbilt University,John Jenkins,TN
+3350,Vanderbilt University,Wade Baldwin,TN
+3351,Villanova University,Art Spector,PA
+3352,Villanova University,Paul Arizin*,PA
+3353,Villanova University,Jim Mooney,PA
+3354,Villanova University,Sherwin Raiken,PA
+3355,Villanova University,Tom Brennan,PA
+3356,Villanova University,Larry Hennessy,PA
+3357,Villanova University,Bob Schafer,PA
+3358,Villanova University,Hubie White,PA
+3359,Villanova University,Tom Hoover,PA
+3360,Villanova University,Jim Washington,PA
+3361,Villanova University,Bill Melchionni,PA
+3362,Villanova University,Howard Porter,PA
+3363,Villanova University,Chris Ford,PA
+3364,Villanova University,Tom Ingelsby,PA
+3365,Villanova University,Keith Herron,PA
+3366,Villanova University,John Olive,PA
+3367,Villanova University,Rory Sparrow,PA
+3368,Villanova University,Stewart Granger,PA
+3369,Villanova University,John Pinone,PA
+3370,Villanova University,Dwayne McClain,PA
+3371,Villanova University,Ed Pinckney,PA
+3372,Villanova University,Harold Pressley,PA
+3373,Villanova University,Doug West,PA
+3374,Villanova University,Kerry Kittles,PA
+3375,Villanova University,Jason Lawson,PA
+3376,Villanova University,Tim Thomas,PA
+3377,Villanova University,John Celestand,PA
+3378,Villanova University,Malik Allen,PA
+3379,Villanova University,Michael Bradley,PA
+3380,Villanova University,Randy Foye,PA
+3381,Villanova University,Kyle Lowry,PA
+3382,Villanova University,Allan Ray,PA
+3383,Villanova University,Dante Cunningham,PA
+3384,Villanova University,Maalik Wayns,PA
+3385,Villanova University,Darrun Hilliard,PA
+3386,Villanova University,Daniel Ochefu,PA
+3387,Virginia Commonwealth University,Jesse Dark,VA
+3388,Virginia Commonwealth University,Bernie Harris,VA
+3389,Virginia Commonwealth University,Gerald Henderson,VA
+3390,Virginia Commonwealth University,Ed Sherod,VA
+3391,Virginia Commonwealth University,Eric Maynor,VA
+3392,Virginia Commonwealth University,Larry Sanders,VA
+3393,Virginia Commonwealth University,Troy Daniels,VA
+3394,Virginia Commonwealth University,Briante Weber,VA
+3395,Virginia Commonwealth University,Treveon Graham,VA
+3396,Virginia Military Institute,Ron Carter,VA
+3397,Virginia Polytechnic Institute and State University,John Wetzel,VA
+3398,Virginia Polytechnic Institute and State University,Allan Bristow,VA
+3399,Virginia Polytechnic Institute and State University,Wayne Robinson,VA
+3400,Virginia Polytechnic Institute and State University,Dell Curry,VA
+3401,Virginia Polytechnic Institute and State University,Perry Young,VA
+3402,Virginia Polytechnic Institute and State University,Bimbo Coles,VA
+3403,Virginia Polytechnic Institute and State University,Jimmy Carruth,VA
+3404,Virginia Polytechnic Institute and State University,Zabian Dowdell,VA
+3405,Virginia Polytechnic Institute and State University,Erick Green,VA
+3406,Virginia Polytechnic Institute and State University,Jarell Eddie,VA
+3407,Virginia Polytechnic Institute and State University,Malcolm Delaney,VA
+3408,Virginia Union University,Mike Davis,
+3409,Virginia Union University,Mickey Davis,
+3410,Virginia Union University,Charles Oakley,
+3411,Virginia Union University,Jamie Waller,
+3412,Virginia Union University,Terry Davis,
+3413,Virginia Union University,Ben Wallace,
+3414,Voorhees College,Jackie Dinkins,
+3415,Wake Forest University,Dick Hemric,NC
+3416,Wake Forest University,Dave Budd,NC
+3417,Wake Forest University,Len Chappell,NC
+3418,Wake Forest University,Ron Watts,NC
+3419,Wake Forest University,Paul Long,NC
+3420,Wake Forest University,Charlie Davis,NC
+3421,Wake Forest University,Gil McGregor,NC
+3422,Wake Forest University,Charles Davis,NC
+3423,Wake Forest University,Frank Johnson,NC
+3424,Wake Forest University,Jim Johnstone,NC
+3425,Wake Forest University,Guy Morgan,NC
+3426,Wake Forest University,Danny Young,NC
+3427,Wake Forest University,Muggsy Bogues,NC
+3428,Wake Forest University,Delaney Rudd,NC
+3429,Wake Forest University,Chris King,NC
+3430,Wake Forest University,Rodney Rogers,NC
+3431,Wake Forest University,Anthony Tucker,NC
+3432,Wake Forest University,Randolph Childress,NC
+3433,Wake Forest University,Roy Rogers,NC
+3434,Wake Forest University,Tim Duncan,NC
+3435,Wake Forest University,Rusty LaRue,NC
+3436,Wake Forest University,Josh Howard,NC
+3437,Wake Forest University,Darius Songaila,NC
+3438,Wake Forest University,Chris Paul,NC
+3439,Wake Forest University,James Johnson,NC
+3440,Wake Forest University,Jeff Teague,NC
+3441,Wake Forest University,Al-Farouq Aminu,NC
+3442,Wake Forest University,Ish Smith,NC
+3443,Wake Forest University,JaJuan Johnson,NC
+3444,Walsh University,Robert Whaley,
+3445,Washington & Jefferson College,Buddy Jeannette*,
+3446,Washington State University,Ed Gayda,WA
+3447,Washington State University,Gene Conley,WA
+3448,Washington State University,Norton Barnhill,WA
+3449,Washington State University,Ron Davis,WA
+3450,Washington State University,James Donaldson,WA
+3451,Washington State University,Craig Ehlo,WA
+3452,Washington State University,Brian Quinnett,WA
+3453,Washington State University,Mark Hendrickson,WA
+3454,Washington State University,Isaac Fontaine,WA
+3455,Washington State University,Kyle Weaver,WA
+3456,Washington State University,Klay Thompson,WA
+3457,Washington State University,Aron Baynes,WA
+3458,Wayne State University,George Brown,MI
+3459,Wayne State University,Gerald Brown,MI
+3460,Weber State University,Bob Davis,
+3461,Weber State University,Justus Thigpen,
+3462,Weber State University,Ruben Nembhard,
+3463,Weber State University,Eddie Gill,
+3464,Weber State University,Lance Allred,
+3465,Weber State University,Damian Lillard,
+3466,Weber State University,Joel Bolomboy,
+3467,West Texas A&M University,Price Brookfield,TX
+3468,West Texas A&M University,Chick Halbert,TX
+3469,West Texas A&M University,Ray Ellefson,TX
+3470,West Texas A&M University,Maurice Cheeks,TX
+3471,West Virginia State University,Earl Lloyd*,WV
+3472,West Virginia State University,Bob Wilson,WV
+3473,West Virginia State University,Bobby Wilson,WV
+3474,West Virginia State University,Ron Moore,WV
+3475,West Virginia University,Fred Schaus,WV
+3476,West Virginia University,Ed Beach,WV
+3477,West Virginia University,Mark Workman,WV
+3478,West Virginia University,Bobby Smith,WV
+3479,West Virginia University,Jerry West*,WV
+3480,West Virginia University,Rod Thorn,WV
+3481,West Virginia University,Ron Williams,WV
+3482,West Virginia University,Jerome Anderson,WV
+3483,West Virginia University,Tony Robertson,WV
+3484,West Virginia University,Lowes Moore,WV
+3485,West Virginia University,Rob Williams,WV
+3486,West Virginia University,Joe Alexander,WV
+3487,West Virginia University,Devin Ebanks,WV
+3488,West Virginia University,Kevin Jones,WV
+3489,West Virginia University Institute of Technology,Sedale Threatt,
+3490,West Virginia Wesleyan College,Jim Brogan,WV
+3491,Westchester CC,Luis Montero,
+3492,Western Carolina University,Mel Gibson,NC
+3493,Western Carolina University,Bubba Wilson,NC
+3494,Western Carolina University,Frankie King,NC
+3495,Western Illinois University,Al Miksis,IL
+3496,Western Kentucky University,Dee Gibson,KY
+3497,Western Kentucky University,John Oldham,KY
+3498,Western Kentucky University,Charlie Parsley,KY
+3499,Western Kentucky University,Don Ray,KY
+3500,Western Kentucky University,Odie Spears,KY
+3501,Western Kentucky University,Blackie Towery,KY
+3502,Western Kentucky University,Bob Lavoy,KY
+3503,Western Kentucky University,Gene Rhodes,KY
+3504,Western Kentucky University,Dan King,KY
+3505,Western Kentucky University,Tom Marshall,KY
+3506,Western Kentucky University,Art Spoelstra,KY
+3507,Western Kentucky University,Jack Turner,KY
+3508,Western Kentucky University,Forest Able,KY
+3509,Western Kentucky University,Chuck Osborne,KY
+3510,Western Kentucky University,Clem Haskins,KY
+3511,Western Kentucky University,Greg Smith,KY
+3512,Western Kentucky University,Clarence Glover,KY
+3513,Western Kentucky University,Jim McDaniels,KY
+3514,Western Kentucky University,Tellis Frank,KY
+3515,Western Kentucky University,Kannard Johnson,KY
+3516,Western Kentucky University,Darnell Mee,KY
+3517,Western Kentucky University,Chris Robinson,KY
+3518,Western Kentucky University,Courtney Lee,KY
+3519,Western Kentucky University,Jeremy Evans,KY
+3520,Western Michigan University,Don Boven,MI
+3521,Western Michigan University,Dillard Crocker,MI
+3522,Western Michigan University,Paul Griffin,MI
+3523,Western Michigan University,Walker Russell,MI
+3524,Western Michigan University,Ben Handlogten,MI
+3525,Western Michigan University,Shayne Whittington,MI
+3526,Wheaton College,Mel Peterson,MA
+3527,Whitworth,Ralph Polson,
+3528,Whitworth,Phil Jordon,
+3529,Wichita State University,Gene Wiley,KS
+3530,Wichita State University,Dave Stallworth,KS
+3531,Wichita State University,Nate Bowman,KS
+3532,Wichita State University,Cliff Levingston,KS
+3533,Wichita State University,Antoine Carr,KS
+3534,Wichita State University,Xavier McDaniel,KS
+3535,Wichita State University,Gal Mekel,KS
+3536,Wichita State University,Toure' Murry,KS
+3537,Wichita State University,Cleanthony Early,KS
+3538,Wichita State University,Ron Baker,KS
+3539,Wichita State University,Fred VanVleet,KS
+3540,Wilberforce University,Al Jackson,OH
+3541,William Paterson University,Clinton Wheeler,NJ
+3542,William Paterson University,Horace Jenkins,NJ
+3543,Wingate University,Junior Harrington,NC
+3544,Winston-Salem State University,Cleo Hill,NC
+3545,Winston-Salem State University,Earl Monroe*,NC
+3546,Winston-Salem State University,Jim Reid,NC
+3547,Winston-Salem State University,Earl Williams,NC
+3548,Winston-Salem State University,Carlos Terry,NC
+3549,Wofford College,Jim Neal,SC
+3550,Wright State University,Bill Edwards,OH
+3551,Wright State University,Vitaly Potapenko,OH
+3552,Xavier University,Mal McMullen,OH
+3553,Xavier University,Dave Piontek,OH
+3554,Xavier University,Bob Quick,OH
+3555,Xavier University,Luther Rackley,OH
+3556,Xavier University,Stan Kimbrough,OH
+3557,Xavier University,Tyrone Hill,OH
+3558,Xavier University,Derek Strong,OH
+3559,Xavier University,Aaron Williams,OH
+3560,Xavier University,Brian Grant,OH
+3561,Xavier University,Larry Sykes,OH
+3562,Xavier University,Michael Hawkins,OH
+3563,Xavier University,James Posey,OH
+3564,Xavier University,Torraye Braggs,OH
+3565,Xavier University,David West,OH
+3566,Xavier University,Lionel Chalmers,OH
+3567,Xavier University,Semaj Christon,OH
+3568,Xavier University of Louisiana,Nat Clifton*,
+3569,Xavier University of Louisiana,Slick Watts,
+3570,Xavier University of Louisiana,Bruce Seals,
+3571,Yale University,Tony Lavelli,CT
+3572,Yale University,Butch Graves,CT
+3573,Youngstown State University,Leo Mogus,OH
