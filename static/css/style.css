@@ -1,7 +1,23 @@
 html {
     scroll-behavior: smooth;
   }
- 
+
+.title {
+  
+  font-size:28px;
+  font-family: Oswald;
+  text-transform:uppercase;
+  text-decoration: none;
+font-weight:100;
+  
+} 
+.bold-title {
+  font-family: Oswald;
+text-decoration: none;
+font-weight:900;
+text-transform:uppercase;
+
+}
   header {
     grid-column: 1 / 3;
     color: white;
@@ -138,7 +154,8 @@ div.content {
 }
 
 .container {
-    min-height: 1200px;
+    min-height: 400px;
+    overflow-x: hidden;
 }
 
 .open-section {
@@ -154,7 +171,7 @@ div.content {
     /* width: 100%; */
     padding: 3em;
     background-color:#fff;
-    min-height: 400px;
+    min-height: 200px;
     box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
     -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
     -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
@@ -242,7 +259,7 @@ body {
   
   .header li a {
     display: block;
-    padding: 10px 10px;
+    padding: 20px 10px;
     text-decoration: none;
     color: #fff;
   }
@@ -335,13 +352,73 @@ body {
     top: 0;
   }
   
+  select {
+
+    /* styling */
+    background-color: white;
+    border: thin solid #fff;
+    border-radius: 4px;
+    display: inline-block;
+    font-family:Lato;
+    text-transform: uppercase;
+    line-height: 1.5em;
+    padding: 0.5em 3.5em 0.5em 1em;
   
+    /* reset */
+  
+    margin: 0;   
+    margin-bottom: 1rem;   
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  
+  select.minimal {
+    /* background-image:
+      linear-gradient(45deg, transparent 50%, blue 50%),
+      linear-gradient(135deg, blue 50%, transparent 50%),
+      linear-gradient(to right, skyblue, skyblue); */
+    background-position:
+      calc(100% - 20px) calc(1em + 2px),
+      calc(100% - 15px) calc(1em + 2px),
+      100% 0;
+    background-size:
+      5px 5px,
+      5px 5px,
+      2.5em 2.5em;
+    background-repeat: no-repeat;
+  }
+  
+  select.minimal:focus {
+    background-image:
+      linear-gradient(45deg, white 50%, transparent 50%),
+      linear-gradient(135deg, transparent 50%, white 50%),
+      linear-gradient(to right, gray, gray);
+    background-position:
+      calc(100% - 15px) 1em,
+      calc(100% - 20px) 1em,
+      100% 0;
+    background-size:
+      5px 5px,
+      5px 5px,
+      2.5em 2.5em;
+    background-repeat: no-repeat;
+    border-color: grey;
+    outline: 0;
+  }
+  
+  
+
+
+
   @media (min-width: 768px) {
     .header li {
       float: left;
     }
     .header li a {
-      padding: 10px 10px;
+      padding: 20px 10px;
     }
     .header .menu {
       clear: none;
