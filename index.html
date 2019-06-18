@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="static/css/d3Style.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+    <script src="http://d3js.org/d3.v5.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+
+
+    <!-- <script src="{{url_for('static',filename='js/scroll_script.js')}}"></script> -->
+    <script src="static/js/main.js"></script>
+ 
+
+    <title>Document</title>
+
+</head>
+
+<body>
+    
+    <header>
+<div>
+           
+                        <div class="image">
+                                <nav class="header" id="navbar">
+                                        <a href="" class="title"><span class="bold-title">ProSports</span> Stats</a>
+                                        <input class="menu-btn" type="checkbox" id="menu-btn" />
+                                        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+                                        <ul class="menu">
+                                                <li><a href="#section-1">Section 1</a></li>
+                                                <li><a href="#section-2">Section 2</a></li>
+                                                <li><a href="#section-3">Section 3</a></li>
+                                                <li><a href="#section-4">Section 4</a></li>
+                                                <li><a href="#section-5">Section 5</a></li>
+                                        </ul>
+                                    </nav>
+                    <h1>ProSports Stats</h1></div>
+                    <!-- <a href="#other-section"><span></span></a> -->
+                </div>
+
+            </div>
+        </div>
+    </header>
+<!--
+    <nav>
+        <ul>
+            <li><a href="#section-1">Section 1</a></li>
+            <li><a href="#section-2">Section 2</a></li>
+            <li><a href="#section-3">Section 3</a></li>
+            <li><a href="#section-4">Section 4</a></li>
+            <li><a href="#section-5">Section 5</a></li>
+
+        </ul>
+    </nav>
+    <main>
+            <section class="full-row-a container" id="section-1">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Map Goes Here<br></h3>
+
+                    </div>
+                </div>
+            </section>
+            <section class="full-row-b container" id="section-2">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Fast Facts Go Here<br></h3>
+
+                    </div>
+
+                </div>
+
+            </section>
+            <section class="full-row-a container" id="section-3">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Scatter Plot Here<br></h3>
+
+                    </div>
+
+                </div>
+
+            </section>
+            <section class="full-row-b container" id="section-4">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Pick 3 Go Here<br></h3>
+
+                    </div>
+
+                </div>
+
+            </section>
+            <section class="full-row-a container" id="section-5">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Resources<br></h3>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+    </main> -->
+
+<!--     
+      <nav>
+        <ul>
+          <li><a href="#section-1"><img src="{{url_for('static',filename='icons/location.png')}}" alt="Map Icon" class="menu-icon">
+          <br/></a></li>
+          <li><a href="#section-2"><img src="{{url_for('static',filename='icons/loupe.png')}}" alt="Loupe Icon" class="menu-icon">
+            <br/></a></li>
+          <li><a href="#section-3"><img src="{{url_for('static',filename='icons/graph.png')}}" alt="Graph Icon" class="menu-icon">
+            <br/></a></li>
+          <li><a href="#section-4"><img src="{{url_for('static',filename='icons/three.png')}}" alt="Three Icon" class="menu-icon">
+            <br/></a></li>
+          <li><a href="#section-5"><img src="{{url_for('static',filename='icons/books.png')}}" alt="Books Icon" class="menu-icon">
+            <br/></a></li>
+        
+        </ul>
+      </nav> -->
+      
+      <main>
+    
+        <section class="full-row-a container" id="section-1">
+            <div class="heading">  <h3>Map Goes Here<br></h3><p>Brief deatil text about this section</p></div>
+            <div class="content"> <p>content goes here<br></p></div>
+
+        </section>
+        <section class="full-row-b container" id="section-2">
+                   <div class="heading"> <h3>Fast Facts Go Here<br></h3><p>Brief deatil text about this section</p></div>
+                   <div class="content"> <p>content goes here<br></p></div>
+
+
+
+        </section>
+        <section class="full-row-a container" id="section-3">
+            <div class="heading">  <h3>Scatter Plot Here<br></h3><p>Brief deatil text about this section</p><br>
+                <select id="sport-inds select-dropdown" class="minimal">
+                    <option value="mlb" id="sport-selected">Baseball</option>
+                    <option value="nba">Basketball</option>
+                    <option value="nfl">Football</option>
+                </select><br>
+                <select id="year-inds select-dropdown">
+                        <option value="2011">2011</option>
+                        <option value="2012">2012</option>
+                        <option value="2013">2013</option>
+                        <option value="2014">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018" selected="year-selected">2018</option>
+                    </select>
+                    <div id="slider-time"></div>
+
+            </div>
+
+            <div class="content" id="scatter"> </div>
+
+
+        </section>
+        <section class="full-row-b container" id="section-4">
+            <div class="heading">  <h3>Pick 3 Go Here<br></h3><p>Brief deatil text about this section</p></div>
+            <div class="content" > <p>content goes here<br></p></div>
+
+
+
+        </section>
+        <section class="full-row-a container" id="section-5">
+            <div class="heading">  <h3>Resources<br></h3><p>Brief deatil text about this section</p></div>
+            <div class="content"> <p>content goes here<br></p></div>
+
+
+
+        </section>
+
+      </main>
+      
+      <footer>
+        ProSports Stats
+      </footer>
+
+<script>
+        var prevScrollpos = window.pageYOffset;
+        window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+          if (prevScrollpos > currentScrollPos) {
+            document.getElementById("navbar").style.top = "0";
+          } else {
+            document.getElementById("navbar").style.top = "-50px";
+          }
+          prevScrollpos = currentScrollPos;
+        }
+        </script>
+          <script type="text/javascript" src="static/js/main.js"></script>
+
+</body>
+
+</html>
