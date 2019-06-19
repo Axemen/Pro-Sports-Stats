@@ -1,129 +1,257 @@
-"Tm,Year,W,L,T,W plyf,L plyf,Playoff Result"
-"Miami Dolphins,2018,7,9,0,,,"
-"Cincinnati Bengals,2018,6,10,0,,,"
-"Denver Broncos,2018,6,10,0,,,"
-"New York Jets,2018,4,12,0,,,"
-"Jacksonville Jaguars,2018,5,11,0,,,"
-"New England Patriots,2018,11,5,0,3,0,Won SB"
-"Baltimore Ravens,2018,10,6,0,0,1,Lost WC"
-"Tampa Bay Buccaneers,2018,5,11,0,,,"
-"Washington Redskins,2018,7,9,0,,,"
-"Minnesota Vikings,2018,8,7,1,,,"
-"Carolina Panthers,2018,7,9,0,,,"
-"Kansas City Chiefs,2018,12,4,0,1,1,Lost Conf"
-"Green Bay Packers,2018,6,9,1,,,"
-"Los Angeles Rams,2018,13,3,0,2,1,Lost SB"
-"Philadelphia Eagles,2018,9,7,0,1,1,Lost Div"
-"Pittsburgh Steelers,2017,13,3,0,0,1,Lost Div"
-"Atlanta Falcons,2017,10,6,0,1,1,Lost Div"
-"Oakland Raiders,2017,6,10,0,0,0,"
-"Los Angeles Rams,2017,11,5,0,0,1,Lost WC"
-"Detroit Lions,2017,9,7,0,0,0,"
-"Dallas Cowboys,2017,9,7,0,0,0,"
-"Philadelphia Eagles,2017,13,3,0,3,0,Won SB"
-"Miami Dolphins,2017,6,10,0,0,0,"
-"Denver Broncos,2017,5,11,0,0,0,"
-"Jacksonville Jaguars,2017,10,6,0,2,1,Lost Conf"
-"Baltimore Ravens,2017,9,7,0,0,0,"
-"Tampa Bay Buccaneers,2017,5,11,0,0,0,"
-"Minnesota Vikings,2017,13,3,0,1,1,Lost Conf"
-"Buffalo Bills,2017,9,7,0,0,1,Lost WC"
-"Carolina Panthers,2017,11,5,0,0,1,Lost WC"
-"Kansas City Chiefs,2017,10,6,0,0,1,Lost WC"
-"Green Bay Packers,2017,7,9,0,0,0,"
-"Houston Texans,2016,9,7,0,1,1,Lost Div"
-"Minnesota Vikings,2016,8,8,0,0,0,"
-"Kansas City Chiefs,2016,12,4,0,0,1,Lost Div"
-"Green Bay Packers,2016,10,6,0,2,1,Lost Conf"
-"Pittsburgh Steelers,2016,11,5,0,2,1,Lost Conf"
-"Cincinnati Bengals,2016,6,9,1,0,0,"
-"Oakland Raiders,2016,12,4,0,0,1,Lost WC"
-"Seattle Seahawks,2016,10,5,1,1,1,Lost Div"
-"Detroit Lions,2016,9,7,0,0,1,Lost WC"
-"San Francisco 49ers,2016,2,14,0,0,0,"
-"New England Patriots,2016,14,2,0,3,0,Won SB"
-"Philadelphia Eagles,2016,7,9,0,0,0,"
-"Denver Broncos,2016,9,7,0,0,0,"
-"Baltimore Ravens,2016,8,8,0,0,0,"
-"Tampa Bay Buccaneers,2016,9,7,0,0,0,"
-"New York Giants,2016,11,5,0,0,1,Lost WC"
-"Denver Broncos,2015,12,4,0,3,0,Won SB"
-"Buffalo Bills,2015,8,8,0,0,0,"
-"Tennessee Titans,2015,3,13,0,0,0,"
-"Carolina Panthers,2015,15,1,0,2,1,Lost SB"
-"San Diego Chargers,2015,4,12,0,0,0,"
-"Atlanta Falcons,2015,8,8,0,0,0,"
-"New York Jets,2015,10,6,0,0,0,"
-"St. Louis Rams,2015,7,9,0,0,0,"
-"Arizona Cardinals,2015,13,3,0,1,1,Lost Conf"
-"Kansas City Chiefs,2015,11,5,0,1,1,Lost Div"
-"Dallas Cowboys,2015,4,12,0,0,0,"
-"Green Bay Packers,2015,10,6,0,1,1,Lost Div"
-"Miami Dolphins,2015,6,10,0,0,0,"
-"Cincinnati Bengals,2015,12,4,0,0,1,Lost WC"
-"San Francisco 49ers,2015,5,11,0,0,0,"
-"New England Patriots,2015,12,4,0,1,1,Lost Conf"
-"Cincinnati Bengals,2014,10,5,1,0,1,Lost WC"
-"San Francisco 49ers,2014,8,8,0,0,0,"
-"Denver Broncos,2014,12,4,0,0,1,Lost Div"
-"Houston Texans,2014,9,7,0,0,0,"
-"Minnesota Vikings,2014,7,9,0,0,0,"
-"Buffalo Bills,2014,9,7,0,0,0,"
-"Tennessee Titans,2014,2,14,0,0,0,"
-"Carolina Panthers,2014,7,8,1,1,1,Lost Div"
-"Pittsburgh Steelers,2014,11,5,0,0,1,Lost WC"
-"Atlanta Falcons,2014,6,10,0,0,0,"
-"New York Jets,2014,4,12,0,0,0,"
-"Seattle Seahawks,2014,12,4,0,2,1,Lost SB"
-"Arizona Cardinals,2014,11,5,0,0,1,Lost WC"
-"Detroit Lions,2014,11,5,0,0,1,Lost WC"
-"Philadelphia Eagles,2014,10,6,0,0,0,"
-"Miami Dolphins,2014,8,8,0,0,0,"
-"New York Jets,2013,8,8,0,0,0,"
-"Seattle Seahawks,2013,13,3,0,3,0,Won SB"
-"Detroit Lions,2013,7,9,0,0,0,"
-"New Orleans Saints,2013,11,5,0,1,1,Lost Div"
-"New England Patriots,2013,12,4,0,1,1,Lost Conf"
-"Philadelphia Eagles,2013,10,6,0,0,1,Lost WC"
-"Miami Dolphins,2013,8,8,0,0,0,"
-"San Francisco 49ers,2013,12,4,0,2,1,Lost Conf"
-"Chicago Bears,2013,8,8,0,0,0,"
-"Denver Broncos,2013,13,3,0,2,1,Lost SB"
-"Houston Texans,2013,2,14,0,0,0,"
-"Indianapolis Colts,2013,11,5,0,1,1,Lost Div"
-"Tennessee Titans,2013,7,9,0,0,0,"
-"St. Louis Rams,2013,7,9,0,0,0,"
-"Kansas City Chiefs,2013,11,5,0,0,1,Lost WC"
-"Dallas Cowboys,2013,8,8,0,0,0,"
-"Atlanta Falcons,2012,13,3,0,1,1,Lost Conf"
-"Houston Texans,2012,12,4,0,1,1,Lost Div"
-"Arizona Cardinals,2012,5,11,0,0,0,"
-"Dallas Cowboys,2012,8,8,0,0,0,"
-"Baltimore Ravens,2012,10,6,0,4,0,Won SB"
-"Tampa Bay Buccaneers,2012,7,9,0,0,0,"
-"New York Jets,2012,6,10,0,0,0,"
-"Detroit Lions,2012,4,12,0,0,0,"
-"New England Patriots,2012,12,4,0,1,1,Lost Conf"
-"Philadelphia Eagles,2012,4,12,0,0,0,"
-"San Diego Chargers,2012,7,9,0,0,0,"
-"Washington Redskins,2012,10,6,0,0,1,Lost WC"
-"Minnesota Vikings,2012,10,6,0,0,1,Lost WC"
-"San Francisco 49ers,2012,11,4,1,2,1,Lost SB"
-"Chicago Bears,2012,10,6,0,0,0,"
-"Denver Broncos,2012,13,3,0,0,1,Lost Div"
-"San Francisco 49ers,2011,13,3,0,1,1,Lost Conf"
-"Chicago Bears,2011,8,8,0,0,0,"
-"Cincinnati Bengals,2011,9,7,0,0,1,Lost WC"
-"Houston Texans,2011,10,6,0,1,1,Lost Div"
-"Arizona Cardinals,2011,8,8,0,0,0,"
-"Baltimore Ravens,2011,12,4,0,1,1,Lost Conf"
-"New York Jets,2011,8,8,0,0,0,"
-"Oakland Raiders,2011,8,8,0,0,0,"
-"Buffalo Bills,2011,6,10,0,0,0,"
-"Detroit Lions,2011,10,6,0,0,1,Lost WC"
-"Jacksonville Jaguars,2011,5,11,0,0,0,"
-"New England Patriots,2011,13,3,0,2,1,Lost SB"
-"Philadelphia Eagles,2011,8,8,0,0,0,"
-"Green Bay Packers,2011,15,1,0,0,1,Lost Div"
-"San Diego Chargers,2011,8,8,0,0,0,"
-"Washington Redskins,2011,5,11,0,0,0,"
+Tm,Year,W,L,T,W plyf,L plyf,Playoff Result,,Tm_Name,
+Miami Dolphins,2018,7,9,0,,,,,Dolphins,FL
+Cincinnati Bengals,2018,6,10,0,,,,,Bengals,OH
+Denver Broncos,2018,6,10,0,,,,,Broncos,CO
+New York Jets,2018,4,12,0,,,,,Jets,NY
+Jacksonville Jaguars,2018,5,11,0,,,,,Jaguars,FL
+New England Patriots,2018,11,5,0,3,0,Won SB,,Patriots,MA
+Baltimore Ravens,2018,10,6,0,0,1,Lost WC,,Ravens,MD
+Tampa Bay Buccaneers,2018,5,11,0,,,,,Buccaneers,FL
+Washington Redskins,2018,7,9,0,,,,,Redskins,WA
+Minnesota Vikings,2018,8,7,1,,,,,Vikings,MN
+Carolina Panthers,2018,7,9,0,,,,,Panthers,NC
+Kansas City Chiefs,2018,12,4,0,1,1,Lost Conf,,Chiefs,MI
+Green Bay Packers,2018,6,9,1,,,,,Packers,WI
+Los Angeles Rams,2018,13,3,0,2,1,Lost SB,,Rams,CA
+Philadelphia Eagles,2018,9,7,0,1,1,Lost Div,,Eagles,PA
+Pittsburgh Steelers,2017,13,3,0,0,1,Lost Div,,Steelers,PA
+Atlanta Falcons,2017,10,6,0,1,1,Lost Div,,Falcons,GA
+Oakland Raiders,2017,6,10,0,0,0,,,Raiders,CA
+Los Angeles Rams,2017,11,5,0,0,1,Lost WC,,Rams,CA
+Detroit Lions,2017,9,7,0,0,0,,,Lions,MI
+Dallas Cowboys,2017,9,7,0,0,0,,,Cowboys,TX
+Philadelphia Eagles,2017,13,3,0,3,0,Won SB,,Eagles,PI
+Miami Dolphins,2017,6,10,0,0,0,,,Dolphins,FL
+Denver Broncos,2017,5,11,0,0,0,,,Broncos,CO
+Jacksonville Jaguars,2017,10,6,0,2,1,Lost Conf,,Jaguars,FL
+Baltimore Ravens,2017,9,7,0,0,0,,,Ravens,MD
+Tampa Bay Buccaneers,2017,5,11,0,0,0,,,Buccaneers,FL
+Minnesota Vikings,2017,13,3,0,1,1,Lost Conf,,Vikings,MN
+Buffalo Bills,2017,9,7,0,0,1,Lost WC,,Bills,
+Carolina Panthers,2017,11,5,0,0,1,Lost WC,,Panthers,
+Kansas City Chiefs,2017,10,6,0,0,1,Lost WC,,Chiefs,
+Green Bay Packers,2017,7,9,0,0,0,,,Packers,
+Houston Texans,2016,9,7,0,1,1,Lost Div,,Texans,
+Minnesota Vikings,2016,8,8,0,0,0,,,Vikings,
+Kansas City Chiefs,2016,12,4,0,0,1,Lost Div,,Chiefs,
+Green Bay Packers,2016,10,6,0,2,1,Lost Conf,,Packers,
+Pittsburgh Steelers,2016,11,5,0,2,1,Lost Conf,,Steelers,
+Cincinnati Bengals,2016,6,9,1,0,0,,,Bengals,
+Oakland Raiders,2016,12,4,0,0,1,Lost WC,,Raiders,
+Seattle Seahawks,2016,10,5,1,1,1,Lost Div,,Seahawks,
+Detroit Lions,2016,9,7,0,0,1,Lost WC,,Lions,
+San Francisco 49ers,2016,2,14,0,0,0,,,49ers,
+New England Patriots,2016,14,2,0,3,0,Won SB,,Patriots,
+Philadelphia Eagles,2016,7,9,0,0,0,,,Eagles,
+Denver Broncos,2016,9,7,0,0,0,,,Broncos,
+Baltimore Ravens,2016,8,8,0,0,0,,,Ravens,
+Tampa Bay Buccaneers,2016,9,7,0,0,0,,,Buccaneers,
+New York Giants,2016,11,5,0,0,1,Lost WC,,Giants,
+Denver Broncos,2015,12,4,0,3,0,Won SB,,Broncos,
+Buffalo Bills,2015,8,8,0,0,0,,,Bills,
+Tennessee Titans,2015,3,13,0,0,0,,,Titans,
+Carolina Panthers,2015,15,1,0,2,1,Lost SB,,Panthers,
+San Diego Chargers,2015,4,12,0,0,0,,,Chargers,
+Atlanta Falcons,2015,8,8,0,0,0,,,Falcons,
+New York Jets,2015,10,6,0,0,0,,,Jets,
+St. Louis Rams,2015,7,9,0,0,0,,,Rams,
+Arizona Cardinals,2015,13,3,0,1,1,Lost Conf,,Cardinals,
+Kansas City Chiefs,2015,11,5,0,1,1,Lost Div,,Chiefs,
+Dallas Cowboys,2015,4,12,0,0,0,,,Cowboys,
+Green Bay Packers,2015,10,6,0,1,1,Lost Div,,Packers,
+Miami Dolphins,2015,6,10,0,0,0,,,Dolphins,FL
+Cincinnati Bengals,2015,12,4,0,0,1,Lost WC,,Bengals,
+San Francisco 49ers,2015,5,11,0,0,0,,,49ers,
+New England Patriots,2015,12,4,0,1,1,Lost Conf,,Patriots,
+Cincinnati Bengals,2014,10,5,1,0,1,Lost WC,,Bengals,
+San Francisco 49ers,2014,8,8,0,0,0,,,49ers,
+Denver Broncos,2014,12,4,0,0,1,Lost Div,,Broncos,
+Houston Texans,2014,9,7,0,0,0,,,Texans,
+Minnesota Vikings,2014,7,9,0,0,0,,,Vikings,
+Buffalo Bills,2014,9,7,0,0,0,,,Bills,
+Tennessee Titans,2014,2,14,0,0,0,,,Titans,
+Carolina Panthers,2014,7,8,1,1,1,Lost Div,,Panthers,
+Pittsburgh Steelers,2014,11,5,0,0,1,Lost WC,,Steelers,
+Atlanta Falcons,2014,6,10,0,0,0,,,Falcons,
+New York Jets,2014,4,12,0,0,0,,,Jets,
+Seattle Seahawks,2014,12,4,0,2,1,Lost SB,,Seahawks,
+Arizona Cardinals,2014,11,5,0,0,1,Lost WC,,Cardinals,
+Detroit Lions,2014,11,5,0,0,1,Lost WC,,Lions,
+Philadelphia Eagles,2014,10,6,0,0,0,,,Eagles,
+Miami Dolphins,2014,8,8,0,0,0,,,Dolphins,FL
+New York Jets,2013,8,8,0,0,0,,,Jets,
+Seattle Seahawks,2013,13,3,0,3,0,Won SB,,Seahawks,
+Detroit Lions,2013,7,9,0,0,0,,,Lions,
+New Orleans Saints,2013,11,5,0,1,1,Lost Div,,Saints,
+New England Patriots,2013,12,4,0,1,1,Lost Conf,,Patriots,
+Philadelphia Eagles,2013,10,6,0,0,1,Lost WC,,Eagles,
+Miami Dolphins,2013,8,8,0,0,0,,,Dolphins,
+San Francisco 49ers,2013,12,4,0,2,1,Lost Conf,,49ers,
+Chicago Bears,2013,8,8,0,0,0,,,Bears,
+Denver Broncos,2013,13,3,0,2,1,Lost SB,,Broncos,
+Houston Texans,2013,2,14,0,0,0,,,Texans,
+Indianapolis Colts,2013,11,5,0,1,1,Lost Div,,Colts,
+Tennessee Titans,2013,7,9,0,0,0,,,Titans,
+St. Louis Rams,2013,7,9,0,0,0,,,Rams,
+Kansas City Chiefs,2013,11,5,0,0,1,Lost WC,,Chiefs,
+Dallas Cowboys,2013,8,8,0,0,0,,,Cowboys,
+Atlanta Falcons,2012,13,3,0,1,1,Lost Conf,,Falcons,
+Houston Texans,2012,12,4,0,1,1,Lost Div,,Texans,
+Arizona Cardinals,2012,5,11,0,0,0,,,Cardinals,
+Dallas Cowboys,2012,8,8,0,0,0,,,Cowboys,
+Baltimore Ravens,2012,10,6,0,4,0,Won SB,,Ravens,
+Tampa Bay Buccaneers,2012,7,9,0,0,0,,,Buccaneers,
+New York Jets,2012,6,10,0,0,0,,,Jets,
+Detroit Lions,2012,4,12,0,0,0,,,Lions,
+New England Patriots,2012,12,4,0,1,1,Lost Conf,,Patriots,
+Philadelphia Eagles,2012,4,12,0,0,0,,,Eagles,
+San Diego Chargers,2012,7,9,0,0,0,,,Chargers,
+Washington Redskins,2012,10,6,0,0,1,Lost WC,,Redskins,
+Minnesota Vikings,2012,10,6,0,0,1,Lost WC,,Vikings,
+San Francisco 49ers,2012,11,4,1,2,1,Lost SB,,49ers,
+Chicago Bears,2012,10,6,0,0,0,,,Bears,
+Denver Broncos,2012,13,3,0,0,1,Lost Div,,Broncos,
+San Francisco 49ers,2011,13,3,0,1,1,Lost Conf,,49ers,
+Chicago Bears,2011,8,8,0,0,0,,,Bears,
+Cincinnati Bengals,2011,9,7,0,0,1,Lost WC,,Bengals,
+Houston Texans,2011,10,6,0,1,1,Lost Div,,Texans,
+Arizona Cardinals,2011,8,8,0,0,0,,,Cardinals,
+Baltimore Ravens,2011,12,4,0,1,1,Lost Conf,,Ravens,
+New York Jets,2011,8,8,0,0,0,,,Jets,
+Oakland Raiders,2011,8,8,0,0,0,,,Raiders,
+Buffalo Bills,2011,6,10,0,0,0,,,Bills,
+Detroit Lions,2011,10,6,0,0,1,Lost WC,,Lions,
+Jacksonville Jaguars,2011,5,11,0,0,0,,,Jaguars,
+New England Patriots,2011,13,3,0,2,1,Lost SB,,Patriots,
+Philadelphia Eagles,2011,8,8,0,0,0,,,Eagles,
+Green Bay Packers,2011,15,1,0,0,1,Lost Div,,Packers,
+San Diego Chargers,2011,8,8,0,0,0,,,Chargers,
+Washington Redskins,2011,5,11,0,0,0,,,Redskins,
+Chicago Bears,2018,12,4,0,0,1,Lost WC,,Bears,
+New York Giants,2018,5,11,0,,,,,Giants,
+Atlanta Falcons,2018,7,9,0,,,,,Falcons,
+Dallas Cowboys,2018,10,6,0,1,1,Lost Div,,Cowboys,
+Detroit Lions,2018,6,10,0,,,,,Lions,
+Houston Texans,2018,11,5,0,0,1,Lost WC,,Texans,
+Seattle Seahawks,2018,10,6,0,0,1,Lost WC,,Seahawks,
+Arizona Cardinals,2018,3,13,0,,,,,Cardinals,
+Indianapolis Colts,2018,10,6,0,1,1,Lost Div,,Colts,
+Oakland Raiders,2018,4,12,0,,,,,Raiders,
+San Francisco 49ers,2018,4,12,0,,,,,49ers,
+Buffalo Bills,2018,6,10,0,,,,,Bills,
+New Orleans Saints,2018,13,3,0,1,1,Lost Conf,,Saints,
+Tennessee Titans,2018,9,7,0,,,,,Titans,
+Los Angeles Chargers,2018,12,4,0,1,1,Lost Div,,Chargers,
+Indianapolis Colts,2017,4,12,0,0,0,,,Colts,
+Cincinnati Bengals,2017,7,9,0,0,0,,,Bengals,
+San Francisco 49ers,2017,6,10,0,0,0,,,49ers,
+New Orleans Saints,2017,11,5,0,1,1,Lost Div,,Saints,
+Tennessee Titans,2017,9,7,0,1,1,Lost Div,,Titans,
+New England Patriots,2017,13,3,0,2,1,Lost SB,,Patriots,
+Los Angeles Chargers,2017,9,7,0,0,0,,,Chargers,
+Chicago Bears,2017,5,11,0,0,0,,,Bears,
+New York Giants,2017,3,13,0,0,0,,,Giants,
+New York Jets,2017,5,11,0,0,0,,,Jets,
+Houston Texans,2017,4,12,0,0,0,,,Texans,
+Seattle Seahawks,2017,9,7,0,0,0,,,Seahawks,
+Arizona Cardinals,2017,8,8,0,0,0,,,Cardinals,
+Cleveland Browns,2017,0,16,0,0,0,,,Browns,
+Washington Redskins,2017,7,9,0,0,0,,,Redskins,
+Arizona Cardinals,2016,7,8,1,0,0,,,Cardinals,
+Buffalo Bills,2016,7,9,0,0,0,,,Bills,
+Cleveland Browns,2016,1,15,0,0,0,,,Browns,
+Washington Redskins,2016,8,7,1,0,0,,,Redskins,
+Indianapolis Colts,2016,8,8,0,0,0,,,Colts,
+Atlanta Falcons,2016,11,5,0,2,1,Lost SB,,Falcons,
+New Orleans Saints,2016,7,9,0,0,0,,,Saints,
+Tennessee Titans,2016,9,7,0,0,0,,,Titans,
+Los Angeles Rams,2016,4,12,0,0,0,,,Rams,
+Dallas Cowboys,2016,13,3,0,0,1,Lost Div,,Cowboys,
+Carolina Panthers,2016,6,10,0,0,0,,,Panthers,
+San Diego Chargers,2016,5,11,0,0,0,,,Chargers,
+Chicago Bears,2016,3,13,0,0,0,,,Bears,
+New York Jets,2016,5,11,0,0,0,,,Jets,
+Jacksonville Jaguars,2016,3,13,0,0,0,,,Jaguars,
+Miami Dolphins,2016,10,6,0,0,1,Lost WC,,Dolphins,
+Houston Texans,2015,9,7,0,0,1,Lost WC,,Texans,
+Minnesota Vikings,2015,11,5,0,0,1,Lost WC,,Vikings,
+Oakland Raiders,2015,7,9,0,0,0,,,Raiders,
+Seattle Seahawks,2015,10,6,0,1,1,Lost Div,,Seahawks,
+Jacksonville Jaguars,2015,5,11,0,0,0,,,Jaguars,
+Pittsburgh Steelers,2015,10,6,0,1,1,Lost Div,,Steelers,
+Cleveland Browns,2015,3,13,0,0,0,,,Browns,
+Philadelphia Eagles,2015,7,9,0,0,0,,,Eagles,
+Baltimore Ravens,2015,5,11,0,0,0,,,Ravens,
+Tampa Bay Buccaneers,2015,6,10,0,0,0,,,Buccaneers,
+Detroit Lions,2015,7,9,0,0,0,,,Lions,
+Washington Redskins,2015,9,7,0,0,1,Lost WC,,Redskins,
+Indianapolis Colts,2015,8,8,0,0,0,,,Colts,
+New York Giants,2015,6,10,0,0,0,,,Giants,
+New Orleans Saints,2015,7,9,0,0,0,,,Saints,
+Chicago Bears,2015,6,10,0,0,0,,,Bears,
+New Orleans Saints,2014,7,9,0,0,0,,,Saints,
+Chicago Bears,2014,5,11,0,0,0,,,Bears,
+Green Bay Packers,2014,12,4,0,1,1,Lost Conf,,Packers,
+Oakland Raiders,2014,3,13,0,0,0,,,Raiders,
+Jacksonville Jaguars,2014,3,13,0,0,0,,,Jaguars,
+New England Patriots,2014,12,4,0,3,0,Won SB,,Patriots,
+St. Louis Rams,2014,6,10,0,0,0,,,Rams,
+Cleveland Browns,2014,7,9,0,0,0,,,Browns,
+Dallas Cowboys,2014,12,4,0,1,1,Lost Div,,Cowboys,
+Baltimore Ravens,2014,10,6,0,1,1,Lost Div,,Ravens,
+Tampa Bay Buccaneers,2014,2,14,0,0,0,,,Buccaneers,
+Kansas City Chiefs,2014,9,7,0,0,0,,,Chiefs,
+San Diego Chargers,2014,9,7,0,0,0,,,Chargers,
+Washington Redskins,2014,4,12,0,0,0,,,Redskins,
+Indianapolis Colts,2014,11,5,0,2,1,Lost Conf,,Colts,
+New York Giants,2014,6,10,0,0,0,,,Giants,
+Cleveland Browns,2013,4,12,0,0,0,,,Browns,
+Baltimore Ravens,2013,8,8,0,0,0,,,Ravens,
+Tampa Bay Buccaneers,2013,4,12,0,0,0,,,Buccaneers,
+San Diego Chargers,2013,9,7,0,1,1,Lost Div,,Chargers,
+Washington Redskins,2013,3,13,0,0,0,,,Redskins,
+New York Giants,2013,7,9,0,0,0,,,Giants,
+Minnesota Vikings,2013,5,10,1,0,0,,,Vikings,
+Cincinnati Bengals,2013,11,5,0,0,1,Lost WC,,Bengals,
+Arizona Cardinals,2013,10,6,0,0,0,,,Cardinals,
+Buffalo Bills,2013,6,10,0,0,0,,,Bills,
+Pittsburgh Steelers,2013,8,8,0,0,0,,,Steelers,
+Green Bay Packers,2013,8,7,1,0,1,Lost WC,,Packers,
+Oakland Raiders,2013,4,12,0,0,0,,,Raiders,
+Atlanta Falcons,2013,4,12,0,0,0,,,Falcons,
+Jacksonville Jaguars,2013,4,12,0,0,0,,,Jaguars,
+Carolina Panthers,2013,12,4,0,0,1,Lost Div,,Panthers,
+Jacksonville Jaguars,2012,2,14,0,0,0,,,Jaguars,
+St. Louis Rams,2012,7,8,1,0,0,,,Rams,
+Carolina Panthers,2012,7,9,0,0,0,,,Panthers,
+Kansas City Chiefs,2012,2,14,0,0,0,,,Chiefs,
+Indianapolis Colts,2012,11,5,0,0,1,Lost WC,,Colts,
+Miami Dolphins,2012,7,9,0,0,0,,,Dolphins,
+Seattle Seahawks,2012,11,5,0,1,1,Lost Div,,Seahawks,
+New Orleans Saints,2012,7,9,0,0,0,,,Saints,
+Cleveland Browns,2012,5,11,0,0,0,,,Browns,
+New York Giants,2012,9,7,0,0,0,,,Giants,
+Cincinnati Bengals,2012,10,6,0,0,1,Lost WC,,Bengals,
+Buffalo Bills,2012,6,10,0,0,0,,,Bills,
+Tennessee Titans,2012,6,10,0,0,0,,,Titans,
+Pittsburgh Steelers,2012,8,8,0,0,0,,,Steelers,
+Green Bay Packers,2012,11,5,0,1,1,Lost Div,,Packers,
+Oakland Raiders,2012,4,12,0,0,0,,,Raiders,
+Atlanta Falcons,2011,10,6,0,0,1,Lost WC,,Falcons,
+Tennessee Titans,2011,9,7,0,0,0,,,Titans,
+Dallas Cowboys,2011,8,8,0,0,0,,,Cowboys,
+Pittsburgh Steelers,2011,12,4,0,0,1,Lost WC,,Steelers,
+St. Louis Rams,2011,2,14,0,0,0,,,Rams,
+Tampa Bay Buccaneers,2011,4,12,0,0,0,,,Buccaneers,
+Carolina Panthers,2011,6,10,0,0,0,,,Panthers,
+Kansas City Chiefs,2011,7,9,0,0,0,,,Chiefs,
+Indianapolis Colts,2011,2,14,0,0,0,,,Colts,
+Miami Dolphins,2011,6,10,0,0,0,,,Dolphins,
+Minnesota Vikings,2011,3,13,0,0,0,,,Vikings,
+Seattle Seahawks,2011,7,9,0,0,0,,,Seahawks,
+New Orleans Saints,2011,13,3,0,1,1,Lost Div,,Saints,
+Cleveland Browns,2011,4,12,0,0,0,,,Browns,
+Denver Broncos,2011,8,8,0,1,1,Lost Div,,Broncos,
+New York Giants,2011,9,7,0,4,0,Won SB,,Giants,
+Cleveland Browns,2018,7,8,1,,,,,Browns,
+Pittsburgh Steelers,2018,9,6,1,,,,,Steelers,
