@@ -41,7 +41,7 @@ path {
 }
 
 .dotCircle {
-  fill: #dfec93;
+  /* fill: #dfec93; */
   transition: fill .4s ease;
   stroke: #7b7b7b;
   r: 5;
