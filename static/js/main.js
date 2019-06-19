@@ -10,54 +10,42 @@
 d3.select(window).on("resize", handleResize);
 
 // credit source: https://github.com/wbkd/d3-extended - This feature replicates a dynamic z-index capability to bring datapoints of interest to the foreground on mouseover.
-// d3.selection.prototype.moveToFront = function () {
-//     return this.each(function () {
-//         this.parentNode.appendChild(this);
-//     });
-// };
-// d3.selection.prototype.moveToBack = function () {
-//     return this.each(function () {
-//         var firstChild = this.parentNode.firstChild;
-//         if (firstChild) {
-//             this.parentNode.insertBefore(this, firstChild);
-//         }
-//     });
-// };
+d3.selection.prototype.moveToFront = function () {
+    return this.each(function () {
+        this.parentNode.appendChild(this);
+    });
+};
+d3.selection.prototype.moveToBack = function () {
+    return this.each(function () {
+        var firstChild = this.parentNode.firstChild;
+        if (firstChild) {
+            this.parentNode.insertBefore(this, firstChild);
+        }
+    });
+};
 //end credit
 
-loadChart();
+// loadChart();
 
 
 function formatter(number) {
-    var formatted=numeral(number).format('($ 0.00 a)');
+    var formatted = numeral(number).format('($ 0.00 a)');
     return formatted;
 }
 
 function colorer(sport) {
     switch (sport) {
         case 'mlb':
-            color="red"
-
-            ;
-
+            color = "#dfec93";
             break;
         case 'nba':
-            color="black"
-
-            ;
+            color = "#62C370";
             break;
-            case 'nfl':
-            color="blue"
-
-            ;
+        case 'nfl':
+            color = "#92DCE5";
             break;
-        
-        default:
-color="green"
+        default: color = "#000000"
     }
-
-
-
     return color;
 }
 
@@ -70,6 +58,41 @@ function handleResize() {
         loadChart();
     }
 }
+loadChart();
+function changesportSelection(sel) {
+    d3.select("svg").remove();
+    var sport_options = document.getElementById("sport-inds").getElementsByTagName("option");
+    sel.options[sel.selectedIndex].id="sport-selected";
+for (i = 0; i < sport_options.length; i++) {
+     sport_options[i].id = "";
+console.log(sport_options[i]);
+}
+sel.options[sel.selectedIndex].id="sport-selected";
+
+loadChart()
+}
+function changeyearSelection(sel) {
+    d3.select("svg").remove();
+    var year_options = document.getElementById("year-inds").getElementsByTagName("option");
+    sel.options[sel.selectedIndex].id="year-selected";
+for (i = 0; i < year_options.length; i++) {
+     year_options[i].id = "";
+console.log(year_options[i]);
+}
+sel.options[sel.selectedIndex].id="year-selected";
+
+
+loadChart()
+}
+
+    // var all_sports = document.getElementById("sport-inds");
+    // var selected_sport = sel.options[sel.selectedIndex].value;
+    // alert(all_sports);
+
+    // alert(selected_sport);
+
+
+
 
 
 function loadChart() {
@@ -88,35 +111,44 @@ function loadChart() {
 
     var svg = d3.select("#scatter").append("svg")
         .attr("height", svgHeight)
-        .attr("width", svgWidth);
-
+        .attr("width", svgWidth)
+;
     var chartGroup = svg.append("g")
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
-
-
-
-    d3.csv("../static/data/all_attendance_keys.csv").then(function (allcsvData) {
-
-
         
 
-          
+    d3.csv("../static/data/all_attendance_keys.csv").then(function (allcsvData) {
+        // console.log(d3.select("#sport-selected").node().value); 
+                console.log(d3.select("#year-selected").node().value);         
+        
         var csvData = allcsvData.filter(function (d) {
 
-            if (d["year"] == "2018") {
+            if (d["sport"] == d3.select("#sport-selected").node().value) {
 
                 return d;
             }
 
         })
-       
         
+        var csvData = csvData.filter(function (d) {
+
+            if (d["year"] == d3.select("#year-selected").node().value) {
+
+                return d;
+            }
+
+        })
+        
+
+
+
+
         var t = chartGroup.transition().duration(800).ease(d3.easeCubic);
 
         var csvData = csvData.sort(function (b, a) { return b.Spend - a.Spend });
-        var x_val = 'Spend: ';
-        var y_val = 'Attendance: ';
-        var x_unit = ' USD';
+        var x_val = 'Salary Spend: ';
+        var y_val = 'Percent Capacity: ';
+        var x_unit = ' usd';
         var y_unit = '%';
         var x_data = csvData.map(csvDatum => +csvDatum.Spend);
         var y_data = csvData.map(csvDatum => +csvDatum.Attendance);
@@ -160,35 +192,35 @@ function loadChart() {
             .attr("class", "d3-tip")
             .style("opacity", 0);
 
+                    
         chartGroup.selectAll("circle")
             .data(csvData)
             .enter()
             .append("circle")
             .attr("class", "dotCircle")
-            .style("fill:", red)
+            .style("fill", (d, i) => colorer(sport[i]))
             .attr("cx", (d, i) => xScale(x_data[i]))
             .attr("cy", (d, i) => yScale(y_data[i]))
             .attr("r", 5)
             .attr("width", (d, i) => chartWidth - xScale(x_data[i]))
             .attr("height", (d, i) => chartHeight - yScale(y_data[i]))
             .on('mouseover', function (d, i) {
-                d3.select(this).transition(t);
+                d3.select(this).moveToFront().transition(t);
                 div.transition(t)
                     .duration(50)
                     .style("opacity", 1);
                 div.html(team[i] + " (" + year[i] + ")" + "<br/>"
-                    + x_val + formatter(x_data[i]) 
+                    + x_val + formatter(x_data[i])
                     + x_unit + "<br/>"
                     + y_val + y_data[i] + y_unit)
                     .style("left", (d3.event.pageX + 20) + "px")
                     .style("top", (d3.event.pageY - 20) + "px");
             })
             .on('mouseout', function (d, i) {
-                d3.select(this).transition(t)
+                d3.select(this).moveToBack().transition(t)
                     .attr('opacity', '1');
                 div.transition(t).style("opacity", 0);
             });
-// console.log(formatter(12332323));
 
 
         // chartGroup.selectAll("dotCircle")
@@ -203,10 +235,10 @@ function loadChart() {
 
         //   ;
 
-        var yAxis_var = [["Attendance", csvData.map(csvDatum => +csvDatum.Attendance
-        ), 0, "Attendance: ", ""], ["Success", csvData.map(csvDatum => +csvDatum.SM), 0, "Success Metric: ", ""]
-        // , ["Performance", csvData.map(csvDatum => +csvDatum.PF), 0, "Performance: ", ""]
-    ];
+        var yAxis_var = [["Attendance (%)", csvData.map(csvDatum => +csvDatum.Attendance
+        ), 0, "Percent Capacity: ", "% Capacity"], ["Success (%)", csvData.map(csvDatum => +csvDatum.SM), 0, "Success Metric: ", ""]
+            // , ["Performance", csvData.map(csvDatum => +csvDatum.PF), 0, "Performance: ", ""]
+        ];
 
         chartGroup.append("text")
             .attr("transform", "rotate(-90)")
@@ -240,7 +272,7 @@ function loadChart() {
         //     .text(yAxis_var[2][0])
         //     ;
 
-        var xAxis_var = ["Spend ($)", csvData.map(csvDatum => +csvDatum.Spend), 0];
+        var xAxis_var = ["Salary Spend ($)", csvData.map(csvDatum => +csvDatum.Spend), 0];
 
         chartGroup.append("text")
             .attr("transform",
@@ -315,9 +347,9 @@ function loadChart() {
                         .duration(50)
                         .style("opacity", 1);
                     div.html(team[i] + " (" + year[i] + ")" + "<br/>"
-                    + x_val + formatter(x_data[i]) 
-                    + x_unit + "<br/>"
-                    + y_val + y_data[i] + y_unit)
+                        + x_val + formatter(x_data[i])
+                        + x_unit + "<br/>"
+                        + y_val + y_data[i] + y_unit)
                         .style("left", (d3.event.pageX + 20) + "px")
                         .style("top", (d3.event.pageY - 20) + "px");
                 })
@@ -331,8 +363,8 @@ function loadChart() {
             chartGroup.selectAll(".dotCircle").transition(t)
                 .attr("cy", (d, i) => yScale(y_data[i]));
 
-            chartGroup.selectAll(".dotText").transition(t)
-                .attr("y", (d, i) => yScale(y_data[i]));
+            // chartGroup.selectAll(".dotText").transition(t)
+            //     .attr("y", (d, i) => yScale(y_data[i]));
 
         }
 
@@ -368,7 +400,7 @@ function loadChart() {
 
                     ;
                     break;
-                
+
                 default:
                     console.log('No y_axis selected');
 
@@ -380,11 +412,9 @@ function loadChart() {
 
 
 
-
     })
 
         ;
 }
-
 
 
