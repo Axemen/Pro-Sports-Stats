@@ -20,22 +20,37 @@ d3.json('static/data/us-states.json').then(statesData => {
                 }
             });
         });
+        //-163.3, 15.45
+        //-44.47, 65.36
+        var corner1 = L.latLng(15.45, -163.3),
+        corner2 = L.latLng(65.36, -44.47),
+        bounds = L.latLngBounds(corner1, corner2);
 
-        const map = L.map('map').setView([37.8, -96], 4);
+        const map = L.map('map', {
+            maxBounds: bounds
+        }).setView([37.8, -96], 4);
 
         L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
             attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>, <br> Created by Jonathan Randolph",
-            maxZoom: 18,
+            maxZoom: 6,
+            minZoom: 3,
+            // bounds: bounds,
+            maxBounds: map.getBounds(),
+            // maxBoundsViscosity: 1,
             id: "mapbox.light",
             accessToken: MAPBOX_KEY
         }).addTo(map);
+
+        // map.setMaxBounds(map.getBounds());
+
 
         L.geoJson(statesData).addTo(map);
 
         let smList = warData.map(d => d.av);
 
         var scale = d3.scaleLinear()
-            .range([d3.rgb(94, 16, 249), d3.rgb(214, 245, 0), d3.rgb(213, 222, 217)])
+            // .range([d3.rgb(94, 16, 249), d3.rgb(214, 245, 0), d3.rgb(213, 222, 217)])
+            .range(['#1b8a5a', '#fbb021', '#f68838', '#ee3e32'])
             .domain([0, 4 ,7.5]);
 
         function style(feature) {
@@ -106,5 +121,26 @@ d3.json('static/data/us-states.json').then(statesData => {
         };
 
         info.addTo(map);
+
+        let legend = L.control({
+            position: 'bottomright'
+        });
+
+        legend.onAdd = function (map) {
+            let div = L.DomUtil.create('div', 'info legend'),
+                grades = [d3.min(smList), d3.mean(smList), d3.max(smList)],
+                labels = [];
+
+                for (var i = 0; i < grades.length; i++) {
+                    div.innerHTML +=
+                        '<i style="background:' + scale(parseInt(grades[i]) + 1) + '"></i> ' +
+                        parseInt(grades[i]) + (parseInt(grades[i + 1]) ? '&ndash;' + parseInt(grades[i + 1]) + '<br>' : '+');
+                }
+                
+            return div;
+        }
+
+        legend.addTo(map);
     });
 });
+
