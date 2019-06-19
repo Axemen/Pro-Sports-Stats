@@ -28,6 +28,14 @@ d3.selection.prototype.moveToBack = function () {
 loadChart();
 
 
+function formatter(number) {
+    var formatted=numeral(number).format('($ 0.00 a)');
+    return formatted;
+}
+
+
+
+
 function handleResize() {
     var svgArea = d3.select("svg");
 
@@ -61,31 +69,7 @@ function loadChart() {
 
 
 
-        var dataTime = d3.range(0, 8).map(function(d) {
-            return new Date(2011 + d, 1, 1);
-          });
-          var sliderTime = d3
-            .sliderBottom()
-            .min(d3.min(dataTime))
-            .max(d3.max(dataTime))
-            .step(1000 * 60 * 60 * 24 * 365)
-            .width(100)
-            .tickFormat(d3.timeFormat('%Y'))
-            .tickValues(dataTime)
-            .default(new Date(2013, 1, 1))
-            .on('onchange', val => {
-              d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
-            });
-          var gTime = d3
-            .select('div#slider-time')
-            .append('svg')
-            .attr('width', 700)
-            .attr('height', 100)
-            .append('g')
-            .attr('transform', 'translate(30,30)');
-          gTime.call(sliderTime);
-
-    d3.csv("../assets/data/all_attendance_keys.csv").then(function (allcsvData) {
+    d3.csv("../static/data/all_attendance_keys.csv").then(function (allcsvData) {
 
 
         
@@ -99,11 +83,11 @@ function loadChart() {
             }
 
         })
-
+       
+        
         var t = chartGroup.transition().duration(800).ease(d3.easeCubic);
 
         var csvData = csvData.sort(function (b, a) { return b.Spend - a.Spend });
-
         var x_val = 'Spend: ';
         var y_val = 'Attendance: ';
         var x_unit = ' USD';
@@ -165,7 +149,8 @@ function loadChart() {
                     .duration(50)
                     .style("opacity", 1);
                 div.html(team[i] + " (" + year[i] + ")" + "<br/>"
-                    + x_val + x_data[i] + x_unit + "<br/>"
+                    + x_val + formatter(x_data[i]) 
+                    + x_unit + "<br/>"
                     + y_val + y_data[i] + y_unit)
                     .style("left", (d3.event.pageX + 20) + "px")
                     .style("top", (d3.event.pageY - 20) + "px");
@@ -175,7 +160,7 @@ function loadChart() {
                     .attr('opacity', '1');
                 div.transition(t).style("opacity", 0);
             });
-
+// console.log(formatter(12332323));
 
 
         // chartGroup.selectAll("dotCircle")
