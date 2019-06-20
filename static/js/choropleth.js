@@ -1,62 +1,64 @@
 d3.json('static/data/us-states.json').then(statesData => {
+    metric = 'av';
+    year = '2011';
+    d3.csv(`static/data/year_state_sm_avg.csv`).then(warData => {
 
-    d3.csv('static/data/year_state_av_avg.csv').then(warData => {
-
-        warData.forEach(d => {
-            statesData.features.forEach(f => {
-                if(d.state === f.properties.abbr){
-                    f.properties.avg = d.war
-                }
-            });
-        });
-
-        statesData.features.forEach(f =>{
-            warData.forEach(d => {
-                if(d.Year === '2015'){
-                    if(d.state === f.properties.abbr){
-                        f.properties.war = d.av
-                        // console.log(f.properties.war);
-                    }
-                }
-            });
-        });
-        //-163.3, 15.45
-        //-44.47, 65.36
-        var corner1 = L.latLng(15.45, -163.3),
-        corner2 = L.latLng(65.36, -44.47),
-        bounds = L.latLngBounds(corner1, corner2);
+        const corner1 = L.latLng(15.45, -163.3),
+            corner2 = L.latLng(65.36, -44.47),
+            bounds = L.latLngBounds(corner1, corner2);
 
         const map = L.map('map', {
             maxBounds: bounds
         }).setView([37.8, -96], 4);
 
-        L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+        const lightLayer = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
             attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>, <br> Created by Jonathan Randolph",
             maxZoom: 6,
             minZoom: 3,
-            // bounds: bounds,
             maxBounds: map.getBounds(),
-            // maxBoundsViscosity: 1,
             id: "mapbox.light",
             accessToken: MAPBOX_KEY
         }).addTo(map);
 
-        // map.setMaxBounds(map.getBounds());
+        statesData.features.forEach(f => {
+            warData.forEach(d => {
+                // if (d.year == year) {
+                if (d.state == f.properties.abbr) {
+                    switch (metric) {
+                        case 'per': f.properties[d.year] = d.per;
+                            break;
+                        case 'av': f.properties[d.year] = d.av;
+                            break;
+                        case 'war': f.properties[d.year] = d.war;
+                            break;
+                    }
+                }
+                // }
+            });
+        });
 
+        const asc = arr => arr.sort((a, b) => a - b);
 
-        L.geoJson(statesData).addTo(map);
+        let smList = []
+        for (i = 0; i < statesData.features.length; i++) {
+            if (statesData.features[i].properties.hasOwnProperty(year)) {
+                smList.push(parseInt(statesData.features[i].properties[year]));
+            }
+        }
+        console.log(smList);
+        asc(smList);
 
-        let smList = warData.map(d => d.av);
-
-        var scale = d3.scaleLinear()
-            // .range([d3.rgb(94, 16, 249), d3.rgb(214, 245, 0), d3.rgb(213, 222, 217)])
-            .range(['#1b8a5a', '#fbb021', '#f68838', '#ee3e32'])
-            .domain([0, 4 ,7.5]);
-
+        function getColor(d) {
+            if (typeof d === 'undefined') return '#ffffff';
+            return d > d3.max(smList) ? '#ee3e32' :
+                d > d3.quantile(smList, .75) ? '#f68838' :
+                    d > d3.mean(smList) ? '#fbb021' :
+                        d > d3.quantile(smList, .25) ? '#1b8a5a' :
+                            '#1d4877'
+        }
         function style(feature) {
-            // console.log(feature.properties.av)
             return {
-                fillColor: scale(feature.properties.war), //colorScale(feature.properties.av),
+                fillColor: getColor(feature.properties[year]),
                 weight: 2,
                 opacity: 1,
                 color: 'white',
@@ -64,9 +66,6 @@ d3.json('static/data/us-states.json').then(statesData => {
                 fillOpacity: 0.7
             };
         }
-
-        var geojson;
-
         function highlightFeature(e) {
             var layer = e.target;
 
@@ -100,7 +99,7 @@ d3.json('static/data/us-states.json').then(statesData => {
             });
         }
 
-        geojson = L.geoJson(statesData, {
+        var geojson = L.geoJson(statesData, {
             style: style,
             onEachFeature: onEachFeature
         }).addTo(map);
@@ -114,10 +113,10 @@ d3.json('static/data/us-states.json').then(statesData => {
         };
 
         info.update = function (props) {
-            this._div.innerHTML = '<h4> Average War Rating Per state</h4>' + (props ?
-                '<b>' + props.abbr + '</b><br />' + props.war + ' War'
+            this._div.innerHTML = '<h4> Average ' + metric.toUpperCase() + ' Rating Per state</h4>' + (props ?
+                '<b>' + props.abbr + '</b><br />' + props[year] + ' War'
                 : 'Hover over a state');
-            
+
         };
 
         info.addTo(map);
@@ -128,19 +127,21 @@ d3.json('static/data/us-states.json').then(statesData => {
 
         legend.onAdd = function (map) {
             let div = L.DomUtil.create('div', 'info legend'),
-                grades = [d3.min(smList), d3.mean(smList), d3.max(smList)],
-                labels = [];
+                grades = [d3.min(smList), parseInt(d3.quantile(smList, .25)), parseInt(d3.mean(smList)), parseInt(d3.quantile(smList, .75)), d3.max(smList)],
+                labels = ['0-25', '25-50', '50-75', '75-100', 'percentile'];
 
-                for (var i = 0; i < grades.length; i++) {
-                    div.innerHTML +=
-                        '<i style="background:' + scale(parseInt(grades[i]) + 1) + '"></i> ' +
-                        parseInt(grades[i]) + (parseInt(grades[i + 1]) ? '&ndash;' + parseInt(grades[i + 1]) + '<br>' : '+');
-                }
-                
+            for (var i = 0; i < grades.length; i++) {
+                div.innerHTML += '<i style= "background:' + getColor(grades[i] + 1) + '"></i> ' + grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+            }
             return div;
-        }
+        };
 
         legend.addTo(map);
+
+        const yearDropdown = d3.select('#year-dropdown').on('change', d => {
+            year = d3.event.target.value;
+            geojson.setStyle(style);
+        })
+
     });
 });
-
