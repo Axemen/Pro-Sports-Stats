@@ -1,5 +1,5 @@
 d3.json('static/data/us-states.json').then(statesData => {
-    metric = 'av';
+    metric = 'per';
     year = '2011';
     d3.csv(`static/data/year_state_sm_avg.csv`).then(warData => {
 
@@ -19,7 +19,7 @@ d3.json('static/data/us-states.json').then(statesData => {
             id: "mapbox.light",
             accessToken: MAPBOX_KEY
         }).addTo(map);
-
+        console.log(warData[0])
         statesData.features.forEach(f => {
             warData.forEach(d => {
                 // if (d.year == year) {
@@ -45,7 +45,7 @@ d3.json('static/data/us-states.json').then(statesData => {
                 smList.push(parseInt(statesData.features[i].properties[year]));
             }
         }
-        console.log(smList);
+        // console.log(statesData.features[0].properties);
         asc(smList);
 
         function getColor(d) {
@@ -54,6 +54,7 @@ d3.json('static/data/us-states.json').then(statesData => {
                 d > d3.quantile(smList, .75) ? '#f68838' :
                     d > d3.mean(smList) ? '#fbb021' :
                         d > d3.quantile(smList, .25) ? '#1b8a5a' :
+                            d == 0 ? '#ffffff' :
                             '#1d4877'
         }
         function style(feature) {
@@ -114,7 +115,7 @@ d3.json('static/data/us-states.json').then(statesData => {
 
         info.update = function (props) {
             this._div.innerHTML = '<h4> Average ' + metric.toUpperCase() + ' Rating Per state</h4>' + (props ?
-                '<b>' + props.abbr + '</b><br />' + props[year] + ' War'
+                '<b>' + props.abbr + '</b><br />' + props[year] + ` ${metric.toUpperCase()}`
                 : 'Hover over a state');
 
         };
