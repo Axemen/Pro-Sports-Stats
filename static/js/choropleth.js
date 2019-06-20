@@ -1,5 +1,5 @@
 d3.json('static/data/us-states.json').then(statesData => {
-    metric = 'per';
+    metric = 'war';
     year = '2011';
     d3.csv(`static/data/year_state_sm_avg.csv`).then(warData => {
 
@@ -55,7 +55,7 @@ d3.json('static/data/us-states.json').then(statesData => {
                     d > d3.mean(smList) ? '#fbb021' :
                         d > d3.quantile(smList, .25) ? '#1b8a5a' :
                             d == 0 ? '#ffffff' :
-                            '#1d4877'
+                                '#1d4877'
         }
         function style(feature) {
             return {
@@ -128,12 +128,24 @@ d3.json('static/data/us-states.json').then(statesData => {
 
         legend.onAdd = function (map) {
             let div = L.DomUtil.create('div', 'info legend'),
-                grades = [d3.min(smList), parseInt(d3.quantile(smList, .25)), parseInt(d3.mean(smList)), parseInt(d3.quantile(smList, .75)), d3.max(smList)],
-                labels = ['0-25', '25-50', '50-75', '75-100', 'percentile'];
-
-            for (var i = 0; i < grades.length; i++) {
-                div.innerHTML += '<i style= "background:' + getColor(grades[i] + 1) + '"></i> ' + grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
-            }
+                grades = [d3.min(smList), d3.quantile(smList, .25), d3.mean(smList), d3.quantile(smList, .75), d3.max(smList)],
+                labels = [];
+        console.log(smList);
+            // for (var i = 0; i < grades.length; i++) {
+            //     div.innerHTML +=
+            //         '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
+            //         grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+            // }
+            let format = d3.format('.1f');
+            div.innerHTML = `<div><i style = "background: ${getColor(grades[0] + 1)}"></i> ${format(grades[0])}</div><br>
+                                <div><i style = "background: ${getColor(grades[1] + 1)}"></i> ${format(grades[1])}</div><br>
+                                <div><i style = "background: ${getColor(grades[2] + 1)}"></i> ${format(grades[2])}</div><br> 
+                                <div><i style = "background: ${getColor(grades[3] + 1)}"></i> ${format(grades[3])}</div><br>  
+                                <div><i style = "background: ${getColor(grades[4] + 1)}"></i> ${format(grades[4])}</div><br>`
+            // for(let i = 0; i < grades.length; i++){
+            //     div.innerHTML += format(grades[i]) + ' ';
+            // }
+                                
             return div;
         };
 
