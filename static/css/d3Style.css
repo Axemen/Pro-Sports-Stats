@@ -64,7 +64,7 @@ path {
   margin: 0;
   float:right;
 }
-
+/* 
 div.d3-tip {
   position: absolute;
   padding: 6px;
@@ -77,8 +77,21 @@ div.d3-tip {
   background: rgba(0, 0, 0, 0.8);
   border-radius: 4px;
   pointer-events: none;
-}
+} */
 
+
+div.d3-tip {
+  position: absolute;
+  padding: 6px;
+  font-size: 0.75rem;
+  font-family: Lato;
+  line-height: 1em;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  text-transform: capitalize;
+  background: rgba(227, 227, 227, 0.8);
+  pointer-events: none;
+}
 
 g text, g line {
   font-family:Lato;
