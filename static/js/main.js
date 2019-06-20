@@ -1,10 +1,4 @@
-// @TODO: YOUR CODE HERE!
-// Step 1: Set up our chart
 
-// // Step 2: Create an SVG wrapper,
-// // append an SVG group that will hold our chart,
-// // and shift the latter by left and top margins.
-// // =================================
 
 
 d3.select(window).on("resize", handleResize);
@@ -51,7 +45,7 @@ function colorer(sport) {
 
 
 function handleResize() {
-    var svgArea = d3.select("svg");
+    var svgArea = d3.selectAll(".scatter_plot");
 
     if (!svgArea.empty()) {
         svgArea.remove();
@@ -60,7 +54,9 @@ function handleResize() {
 }
 loadChart();
 function changesportSelection(sel) {
-    d3.select("svg").remove();
+    // d3.select("svg").remove();
+    d3.selectAll(".scatter_plot").remove();
+
     var sport_options = document.getElementById("sport-inds").getElementsByTagName("option");
     sel.options[sel.selectedIndex].id="sport-selected";
 for (i = 0; i < sport_options.length; i++) {
@@ -72,7 +68,9 @@ sel.options[sel.selectedIndex].id="sport-selected";
 loadChart()
 }
 function changeyearSelection(sel) {
-    d3.select("svg").remove();
+    // d3.select("svg").remove();
+        d3.selectAll(".scatter_plot").remove();
+
     var year_options = document.getElementById("year-inds").getElementsByTagName("option");
     sel.options[sel.selectedIndex].id="year-selected";
 for (i = 0; i < year_options.length; i++) {
@@ -112,6 +110,7 @@ function loadChart() {
     var svg = d3.select("#scatter").append("svg")
         .attr("height", svgHeight)
         .attr("width", svgWidth)
+        .classed("scatter_plot", true)
 ;
     var chartGroup = svg.append("g")
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
@@ -180,6 +179,12 @@ function loadChart() {
             .attr("transform", `translate(0, ${chartHeight})`)
             .attr('id', "x_axis_line")
             .call(xAxis)
+            .selectAll("text")
+           
+        .style("text-anchor", "end")
+        .attr("dx", "-.8em")
+        .attr("dy", ".15em")
+        .attr("transform", "rotate(-35)");
             ;
 
         chartGroup.append("g")
@@ -278,7 +283,7 @@ function loadChart() {
             .attr("transform",
                 "translate(" + (chartWidth / 2) + " ," +
                 (chartHeight + margin.top) + ")")
-            .attr("dy", "1em")
+            .attr("dy", "1.5em")
             .attr("id", "x_axis_1")
             .attr("class", "active")
             .text(xAxis_var[0])
@@ -416,5 +421,3 @@ function loadChart() {
 
         ;
 }
-
-

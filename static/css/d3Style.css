@@ -14,7 +14,7 @@
 
 .inactive {
   font-weight: lighter;
-  fill: #c9c9c9;
+  fill: #ffffff;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
@@ -28,7 +28,7 @@ text {
 }
 
 path {
-  stroke: #c9c9c9;
+  stroke: #ffffff;
 }
 
 .dotText {
@@ -64,21 +64,6 @@ path {
   margin: 0;
   float:right;
 }
-/* 
-div.d3-tip {
-  position: absolute;
-  padding: 6px;
-  font-size: 1rem;
-  line-height: 1;
-  line-height: 1.5em;
-  color: #fff;
-  text-align: center;
-  text-transform: capitalize;
-  background: rgba(0, 0, 0, 0.8);
-  border-radius: 4px;
-  pointer-events: none;
-} */
-
 
 div.d3-tip {
   position: absolute;
@@ -91,20 +76,23 @@ div.d3-tip {
   text-transform: capitalize;
   background: rgba(227, 227, 227, 0.8);
   pointer-events: none;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+
 }
 
 g text, g line {
   font-family:Lato;
-  fill: #c9c9c9;
+  fill: #ffffff;
   text-transform:uppercase;
   font-size:0.75em;
+
   /* stroke: #efefef; */
 
   /* font-size:100px; */
 }
 
 g.tick line {
-  stroke: #c9c9c9;
+  stroke: #ffffff;
 }
 /* Mobile Rules */
 @media screen and (max-width: 530px) {
@@ -121,4 +109,111 @@ g.tick line {
   .aText {
     font-size: 11px;
   }
+}
+
+
+
+
+/* LEAFLET */
+/* remove default margin and padding from body */
+/* body {
+  padding: 0;
+  margin: 0;
+} */
+
+/* set map, body, and html to 100% of the screen size */
+/* #map,
+body,
+html {
+  height: 100%;
+} */
+
+/* #map {
+  height: 500px;
+  width: 1000px;
+  margin: auto; */
+  /* pointer-events:none; */
+/* } */
+/* 
+h1 {
+  text-align: center;
+}
+
+.info {
+  padding: 6px 8px;
+  font-size: 0.75rem;
+  font-family: Lato;
+  line-height: 1em;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  text-transform: capitalize;
+  background: white;
+  background: rgba(227, 227, 227, 0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 0px;
+}
+
+
+
+.info h4 {
+  margin: 0 0 5px;
+  color: #777;
+}
+.legend {
+  line-height: 18px;
+  color: 'black';
+
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 1;
+} */
+/* remove default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* set map, body, and html to 100% of the screen size */
+
+
+#map {
+  height: 500px;
+  width: 60%;
+  margin: auto;
+  float:right;
+  z-index:3;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.info {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+.info h4 {
+  margin: 0 0 5px;
+  color: #777;
+}
+.legend {
+  line-height: 18px;
+  color: 'black';
+
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 1;
 }
