@@ -1,9 +1,25 @@
-loadMap('av', '2011');
+let metric = 'war'
+let year = '2018'
 
-mapContainer = d3.select('#map-container');
-mapContainer.select('div').remove();
-mapContainer.append('div').attr('id', 'map');
-loadMap('av', '2011');
+loadMap(metric, year);
+
+
+
+function changemapMetric(newMetric){
+    mapContainer = d3.select('#map-container');
+    mapContainer.select('div').remove();
+    mapContainer.append('div').attr('id', 'map');
+    metric = newMetric.value;
+    loadMap(metric, year);
+}
+
+// function changemapYear(newYear){
+//     mapContainer = d3.select('#map-container');
+//     mapContainer.select('div').remove();
+//     mapContainer.append('div').attr('id', 'map');
+//     year = newYear;
+//     loadMap(metric, year);
+// }
 
 function loadMap(metric, year) {
     console.log('loading map');
@@ -123,6 +139,7 @@ function loadMap(metric, year) {
             };
 
             info.update = function (props) {
+                console.log(metric);
                 this._div.innerHTML = '<h4> Average ' + metric.toUpperCase() + ' Rating Per state</h4>' + (props ?
                     '<b>' + props.abbr + '</b><br />' + props[year] + ` ${metric.toUpperCase()}`
                     : 'Hover over a state');
@@ -160,7 +177,7 @@ function loadMap(metric, year) {
 
             legend.addTo(map);
 
-            const yearDropdown = d3.select('#year-dropdown').on('change', d => {
+            const yearDropdown = d3.select('#map_year').on('change', d => {
                 year = d3.event.target.value;
                 geojson.setStyle(style);
             })
