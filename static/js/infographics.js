@@ -11,11 +11,12 @@ function buildFacts(newstate){
       return second.AV - first.AV;
   
      }); 
-
-     Object.entries(sorted_av_nfl[0]).forEach(([key, value])=> {
-       panelnfl.append("h6").text(`${key}:${value}`);
-     });
-    });
+       panelnfl.append("h4").text(`NFL`);
+       panelnfl.append("h6").text(`Player: ${sorted_av_nfl[0].Player}`);
+       panelnfl.append("h6").text(`Salary: ${sorted_av_nfl[0].salary}`);
+       panelnfl.append("h6").text(`College: ${sorted_av_nfl[0].college}`);
+       panelnfl.append("h6").text(`Average Value: ${sorted_av_nfl[0].AV}`);
+      });
 
      var panelmlb = d3.select("#mlbcard");
      panelmlb.html("");
@@ -27,11 +28,29 @@ function buildFacts(newstate){
        return second.WAR - first.WAR;
    
       }); 
- 
-      Object.entries(sorted_av_mlb[0]).forEach(([key, value])=> {
-        panelmlb.append("h6").text(`${key}:${value}`);
-      });
+      panelmlb.append("h4").text(`MLB`);
+      panelmlb.append("h6").text(`Player: ${sorted_av_mlb[0].Player}`);
+      panelmlb.append("h6").text(`Salary: ${sorted_av_mlb[0].salary}`);
+      panelmlb.append("h6").text(`College: ${sorted_av_mlb[0].college}`);
+      panelmlb.append("h6").text(`Average Value: ${sorted_av_mlb[0].WAR}`);
     });
+
+    var panelnba = d3.select("#nbacard");
+    panelnba.html("");
+
+    d3.csv("/libs/unclean_data/nba_fast_facts_data.csv").then((nbaplayers) => {
+    var filteredDatanba = nbaplayers.filter(nbaplayers => nbaplayers.state === newstate);
+
+    var sorted_av_nba = filteredDatanba.sort(function(first, second) {
+      return second.PER - first.PER;
+  
+     }); 
+     panelnba.append("h4").text(`NBA`);
+     panelnba.append("h6").text(`Player: ${sorted_av_nba[0].Player}`);
+     panelnba.append("h6").text(`Salary: ${sorted_av_nba[0].salary}`);
+     panelnba.append("h6").text(`College: ${sorted_av_nba[0].college}`);
+     panelnba.append("h6").text(`Average Value: ${sorted_av_nba[0].PER}`);
+   });
     
 }
 
