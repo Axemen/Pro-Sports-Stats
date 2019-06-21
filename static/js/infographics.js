@@ -19,7 +19,6 @@ function buildFacts(newstate){
      }); 
        panelnfl.append("h4").text(`NFL`);
        panelnfl.append("h6").text(`Player: ${sorted_av_nfl[0].Player}`);
-       panelnfl.append("h6").text(`Salary: ${sorted_av_nfl[0].salary}`);
        panelnfl.append("h6").text(`College: ${sorted_av_nfl[0].college}`);
        panelnfl.append("h6").text(`Average Value: ${sorted_av_nfl[0].AV}`);
       
@@ -43,7 +42,6 @@ function buildFacts(newstate){
       }); 
       panelmlb.append("h4").text(`MLB`);
       panelmlb.append("h6").text(`Player: ${sorted_av_mlb[0].Player}`);
-      panelmlb.append("h6").text(`Salary: ${sorted_av_mlb[0].salary}`);
       panelmlb.append("h6").text(`College: ${sorted_av_mlb[0].college}`);
       panelmlb.append("h6").text(`Wins Above Replacement: ${sorted_av_mlb[0].WAR}`);
     }
@@ -66,7 +64,6 @@ function buildFacts(newstate){
      }); 
      panelnba.append("h4").text(`NBA`);
      panelnba.append("h6").text(`Player: ${sorted_av_nba[0].Player}`);
-     panelnba.append("h6").text(`Salary: ${sorted_av_nba[0].salary}`);
      panelnba.append("h6").text(`College: ${sorted_av_nba[0].college}`);
      panelnba.append("h6").text(`Player Efficiency Rating: ${sorted_av_nba[0].PER}`);
     }
