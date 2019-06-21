@@ -373,13 +373,10 @@ color: #777;
 }
 
 
-.legend {
-line-height: 18px;
-color: 'black';
-}
+
 #map {
   height: 400px;
-  width: 100%;
+  width: 100% !important;
   margin: auto;
   float: right;
   z-index: 3;
@@ -427,10 +424,11 @@ h3 {
 
 .legend {
   line-height: 18px;
-  width:80px;
+  width:16%;
   color: 'black';
 
 }
+
 
 .legend i {
   width: 18px;
