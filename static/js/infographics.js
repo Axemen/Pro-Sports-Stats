@@ -7,6 +7,12 @@ function buildFacts(newstate){
     d3.csv("/libs/unclean_data/nfl_fast_facts_data.csv").then((nflplayers) => {
     var filteredDatanfl = nflplayers.filter(nflplayers => nflplayers.state === newstate);
 
+    if (typeof(filteredDatanfl) === 'undefined')
+    {
+      panelnfl.append("h4").text(`NFL`);
+    }
+    else
+    {
     var sorted_av_nfl = filteredDatanfl.sort(function(first, second) {
       return second.AV - first.AV;
   
@@ -16,14 +22,21 @@ function buildFacts(newstate){
        panelnfl.append("h6").text(`Salary: ${sorted_av_nfl[0].salary}`);
        panelnfl.append("h6").text(`College: ${sorted_av_nfl[0].college}`);
        panelnfl.append("h6").text(`Average Value: ${sorted_av_nfl[0].AV}`);
-      });
+      
+    }
+  });
 
      var panelmlb = d3.select("#mlbcard");
      panelmlb.html("");
  
      d3.csv("/libs/unclean_data/mlb_fast_facts_data.csv").then((mlbplayers) => {
      var filteredDatamlb = mlbplayers.filter(mlbplayers => mlbplayers.state === newstate);
- 
+     if (typeof(filteredDatamlb) === 'undefined')
+     {
+      panelmlb.append("h4").text(`MLB`);
+     }
+     else
+     {
      var sorted_av_mlb = filteredDatamlb.sort(function(first, second) {
        return second.WAR - first.WAR;
    
@@ -33,6 +46,7 @@ function buildFacts(newstate){
       panelmlb.append("h6").text(`Salary: ${sorted_av_mlb[0].salary}`);
       panelmlb.append("h6").text(`College: ${sorted_av_mlb[0].college}`);
       panelmlb.append("h6").text(`Average Value: ${sorted_av_mlb[0].WAR}`);
+    }
     });
 
     var panelnba = d3.select("#nbacard");
@@ -40,7 +54,12 @@ function buildFacts(newstate){
 
     d3.csv("/libs/unclean_data/nba_fast_facts_data.csv").then((nbaplayers) => {
     var filteredDatanba = nbaplayers.filter(nbaplayers => nbaplayers.state === newstate);
-
+    if (typeof(filteredDatanba) === 'undefined')
+    {
+     panelnba.append("h4").text(`NBA`);
+    }
+    else
+    {
     var sorted_av_nba = filteredDatanba.sort(function(first, second) {
       return second.PER - first.PER;
   
@@ -50,6 +69,7 @@ function buildFacts(newstate){
      panelnba.append("h6").text(`Salary: ${sorted_av_nba[0].salary}`);
      panelnba.append("h6").text(`College: ${sorted_av_nba[0].college}`);
      panelnba.append("h6").text(`Average Value: ${sorted_av_nba[0].PER}`);
+    }
    });
     
 }
