@@ -1,0 +1,872 @@
+player,war,year,id,college,state,percentile
+Jose Bautista,8.3,2011,bautijo02,Chipola College,FL,89.49483352468427
+Jacoby Ellsbury,8.3,2011,ellsbja01,Oregon State University,OR,89.49483352468427
+Dustin Pedroia,8.0,2011,pedrodu01,Arizona State University,AZ,89.32261768082664
+Ryan Braun,7.7,2011,braunry02,University of Miami,FL,89.32261768082664
+Ben Zobrist,7.6,2011,zobribe01,Dallas Baptist University,TX,89.20780711825488
+Alex Gordon,7.3,2011,gordoal01,University of Nebraska at Lincoln,NE,89.09299655568313
+Evan Longoria,7.2,2011,longoev01,Rio Hondo College,CA,89.09299655568313
+Ian Kinsler,7.0,2011,kinslia01,Arizona State University,AZ,88.97818599311137
+Troy Tulowitzki,6.2,2011,tulowtr01,California State University Long Beach,CA,88.8633754305396
+Curtis Granderson,6.1,2011,grandcu01,University of Illinois at Chicago,IL,88.74856486796786
+Hunter Pence,5.7,2011,pencehu01,Texarkana College,TX,88.6337543053961
+Albert Pujols,5.3,2011,pujolal01,Maple Woods Community College,MO,88.6337543053961
+Matt Wieters,5.2,2011,wietema01,Georgia Institute of Technology,GA,88.6337543053961
+Alex Avila,5.1,2011,avilaal01,University of Alabama,AL,88.51894374282433
+Howie Kendrick,4.6,2011,kendrho01,St. Johns River Community College,FL,88.40413318025259
+Brendan Ryan,4.2,2011,ryanbr01,Lewis-Clark State College,ID,88.40413318025259
+Brett Gardner,4.1,2011,gardnbr01,College of Charleston,SC,88.40413318025259
+Lance Berkman,3.8,2011,berkmla01,Rice University,TX,88.28932261768082
+Chase Utley,3.8,2011,utleych01,"University of California, Los Angeles",CA,88.28932261768082
+Kevin Youkilis,3.8,2011,youklke01,University of Cincinnati,OH,88.28932261768082
+Dustin Ackley,3.7,2011,ackledu01,University of North Carolina at Chapel Hill,NC,88.28932261768082
+Clint Barmes,3.4,2011,barmecl01,Olney Central College,IL,88.28932261768082
+Matthew Joyce,3.4,2011,joycema01,Florida Southern College,FL,88.28932261768082
+Mark Teixeira,3.4,2011,teixema01,Georgia Institute of Technology,GA,88.17451205510908
+Chris Iannetta,3.1,2011,iannech01,University of North Carolina at Chapel Hill,NC,88.05970149253731
+Michael Bourn,3.0,2011,bournmi01,University of Houston,TX,87.94489092996555
+Nick Hundley,3.0,2011,hundlni01,University of Arizona,AZ,87.94489092996555
+Nyjer Morgan,3.0,2011,morgany01,Walla Walla Community College,WA,87.94489092996555
+Rickie Weeks,3.0,2011,weeksri01,Southern University and A&M College,LA,87.94489092996555
+Danny Espinosa,2.9,2011,espinda01,California State University Long Beach,CA,87.94489092996555
+Jon Jay,2.8,2011,jayjo02,University of Miami,FL,87.94489092996555
+Daniel Murphy,2.8,2011,murphda08,Jacksonville University,FL,87.94489092996555
+Chase Headley,2.7,2011,headlch01,University of the Pacific,CA,87.94489092996555
+Gaby Sanchez,2.7,2011,sanchga01,University of Miami,FL,87.8300803673938
+Michael Young,2.7,2011,youngmi02,"University of California, Santa Barbara",CA,87.8300803673938
+Carlos Pena,2.6,2011,penaca01,Northeastern University,MA,87.8300803673938
+Brennan Boesch,2.5,2011,boescbr01,"University of California, Berkeley",CA,87.8300803673938
+Coco Crisp,2.5,2011,crispco01,Los Angeles Pierce College,CA,87.8300803673938
+Carlos Quentin,2.5,2011,quentca01,Stanford University,CA,87.8300803673938
+Allen Craig,2.4,2011,craigal01,"University of California, Berkeley",CA,87.8300803673938
+Russell Martin,2.4,2011,martiru01,Chipola College,FL,87.8300803673938
+Ryan Roberts,2.4,2011,roberry01,Eastfield College,TX,87.8300803673938
+Jack Hannahan,2.3,2011,hannaja01,University of Minnesota,MN,87.71526980482204
+Josh Willingham,2.3,2011,willijo03,University of North Alabama,AL,87.71526980482204
+Todd Helton,2.2,2011,heltoto01,University of Tennessee,TN,87.71526980482204
+Nick Swisher,2.2,2011,swishni01,The Ohio State University,OH,87.71526980482204
+Mark Ellis,2.1,2011,ellisma01,University of Florida,FL,87.60045924225028
+Andre Ethier,2.1,2011,ethiean01,Arizona State University,AZ,87.60045924225028
+Sam Fuld,2.1,2011,fuldsa01,Stanford University,CA,87.60045924225028
+Brian Bogusevic,1.9,2011,bogusbr01,Tulane University,LA,87.48564867967853
+Marlon Byrd,1.9,2011,byrdma01,Georgia Perimeter College,GA,87.48564867967853
+Stephen Drew,1.9,2011,drewst01,Florida State University,FL,87.48564867967853
+David Freese,1.9,2011,freesda01,"St. Louis Community College, Meramec Campus",MO,87.48564867967853
+Placido Polanco,1.9,2011,polanpl01,"Miami-Dade College, Wolfson Campus",FL,87.48564867967853
+Will Venable,1.9,2011,venabwi01,Princeton University,NJ,87.48564867967853
+Ryan Zimmerman,1.9,2011,zimmery01,University of Virginia,VA,87.25602755453502
+Darwin Barney,1.8,2011,barneda01,Oregon State University,OR,87.25602755453502
+Ryan Hanigan,1.8,2011,hanigry01,Rollins College,FL,87.14121699196326
+Drew Stubbs,1.8,2011,stubbdr01,University of Texas at Austin,TX,87.14121699196326
+Casper Wells,1.8,2011,wellsca01,Towson University,MD,87.14121699196326
+Chris Heisey,1.7,2011,heisech01,Messiah College,PA,87.0264064293915
+Scott Sizemore,1.7,2011,sizemsc01,Virginia Commonwealth University,VA,87.0264064293915
+Jemile Weeks,1.7,2011,weeksje01,University of Miami,FL,87.0264064293915
+Craig Gentry,1.6,2011,gentrcr01,University of Arkansas,AR,87.0264064293915
+Travis Hafner,1.6,2011,hafnetr01,Cowley County Community College,KS,86.79678530424799
+Jerry Hairston,1.6,2011,hairsje02,Southern Illinois University Carbondale,IL,86.79678530424799
+John Mayberry,1.6,2011,maybejo02,Stanford University,CA,86.79678530424799
+Nick Punto,1.6,2011,puntoni01,Saddleback College,CA,86.79678530424799
+Dan Uggla,1.6,2011,ugglada01,University of Memphis,TN,86.79678530424799
+Brent Lillibridge,1.5,2011,lillibr01,University of Washington,WA,86.79678530424799
+Alex Presley,1.5,2011,preslal01,University of Mississippi,MS,86.79678530424799
+Kurt Suzuki,1.5,2011,suzukku01,California State University Fullerton,CA,86.79678530424799
+Jim Thome,1.5,2011,thomeji01,Illinois Central College,IL,86.5097588978186
+Gordon Beckham,1.4,2011,beckhgo01,University of Georgia,GA,86.5097588978186
+Rod Barajas,1.3,2011,barajro01,Cerritos College,CA,86.5097588978186
+Lonnie Chisenhall,1.3,2011,chiselo01,University of South Carolina,SC,86.5097588978186
+Matt Downs,1.3,2011,downsma01,University of Alabama,AL,86.5097588978186
+Brent Morel,1.3,2011,morelbr01,"California Polytechnic State University, San Luis Obispo",CA,86.22273249138921
+Buster Posey,1.3,2011,poseybu01,Florida State University,FL,86.22273249138921
+Chris Stewart,1.3,2011,stewach01,Riverside Community College,CA,86.22273249138921
+Ike Davis,1.2,2011,davisik02,Arizona State University,AZ,86.22273249138921
+Josh Harrison,1.2,2011,harrijo05,University of Cincinnati,OH,86.22273249138921
+Ryan Howard,1.2,2011,howarry01,Missouri State University,MO,86.05051664753157
+Reed Johnson,1.2,2011,johnsre02,California State University Fullerton,CA,86.05051664753157
+Jack Wilson,1.2,2011,wilsoja02,Oxnard College,CA,86.05051664753157
+J.P. Arencibia,1.1,2011,arencjp01,University of Tennessee,TN,86.05051664753157
+Jamey Carroll,1.1,2011,carroja01,University of Evansville,IN,85.76349024110218
+David DeJesus,1.1,2011,dejesda01,"Rutgers, the State University of New Jersey",NJ,85.76349024110218
+Chris Denorfia,1.1,2011,denorch01,Wheaton College,MA,85.76349024110218
+Jason Donald,1.1,2011,donalja01,University of Arizona,AZ,85.76349024110218
+Lucas Duda,1.1,2011,dudalu01,University of Southern California,CA,85.76349024110218
+Jason Giambi,1.1,2011,giambja01,California State University Long Beach,CA,85.76349024110218
+David Ross,1.1,2011,rossda01,Auburn University,AL,85.76349024110218
+Nate Schierholtz,1.1,2011,schiena01,Chabot College,CA,85.53386911595867
+Jason Bay,1.0,2011,bayja01,Gonzaga University,WA,85.53386911595867
+Pat Burrell,1.0,2011,burrepa01,University of Miami,FL,85.53386911595867
+Jason Kipnis,1.0,2011,kipnija01,Arizona State University,AZ,85.53386911595867
+Jonathan Lucroy,1.0,2011,lucrojo01,University of Louisiana at Lafayette,LA,85.24684270952928
+Angel Pagan,1.0,2011,paganan01,Indian River Community College,FL,85.24684270952928
+Nolan Reimold,1.0,2011,reimono01,Bowling Green State University,OH,85.24684270952928
+Justin Smoak,1.0,2011,smoakju01,University of South Carolina,SC,85.24684270952928
+Andres Torres,1.0,2011,torrean02,"Miami-Dade College, Wolfson Campus",FL,85.24684270952928
+Brandon Belt,0.9,2011,beltbr01,University of Texas at Austin,TX,85.24684270952928
+Casey Blake,0.9,2011,blakeca01,Wichita State University,KS,85.24684270952928
+Tony Campana,0.9,2011,campato01,University of Cincinnati,OH,84.84500574052812
+Todd Frazier,0.9,2011,frazito01,"Rutgers, the State University of New Jersey",NJ,84.84500574052812
+John McDonald,0.9,2011,mcdonjo03,University of Connecticut at Avery Point,CT,84.84500574052812
+Kyle Seager,0.9,2011,seageky01,University of North Carolina at Chapel Hill,NC,84.84500574052812
+Zack Cozart,0.8,2011,cozarza01,University of Mississippi,MS,84.84500574052812
+Daniel Hudson,0.8,2011,hudsoda01,Old Dominion University,VA,84.84500574052812
+Mitch Maier,0.8,2011,maiermi01,University of Toledo,OH,84.50057405281287
+Mike McCoy,0.8,2011,mccoymi01,University of San Diego,CA,84.50057405281287
+David Murphy,0.8,2011,murphda07,Baylor University,TX,84.50057405281287
+Mark Reynolds,0.8,2011,reynoma01,University of Virginia,VA,84.50057405281287
+Freddy Sanchez,0.8,2011,sanchfr01,Glendale Community College,CA,84.50057405281287
+Skip Schumaker,0.8,2011,schumsk01,Loyola Marymount University,CA,84.50057405281287
+Chris Snyder,0.8,2011,snydech02,University of Houston,TX,84.50057405281287
+Jason Varitek,0.8,2011,varitja01,Georgia Institute of Technology,GA,84.1561423650976
+Daniel Descalso,0.7,2011,descada01,"University of California, Davis",CA,84.1561423650976
+Logan Forsythe,0.7,2011,forsylo01,University of Arkansas,AR,84.1561423650976
+Aaron Hill,0.7,2011,hillaa01,Louisiana State University,LA,83.81171067738232
+Brett Pill,0.7,2011,pillbr01,California State University Fullerton,CA,83.81171067738232
+Kelly Shoppach,0.7,2011,shoppke01,Baylor University,TX,83.81171067738232
+Justin Christian,0.6,2011,chrisju01,Auburn University,AL,83.81171067738232
+Andy Dirks,0.6,2011,dirksan01,Wichita State University,KS,83.81171067738232
+Shelley Duncan,0.6,2011,duncash01,University of Arizona,AZ,83.81171067738232
+Orlando Hudson,0.6,2011,hudsoor01,Spartanburg Methodist College,SC,83.81171067738232
+Don Kelly,0.6,2011,kellydo01,Point Park University,PA,83.58208955223881
+Jed Lowrie,0.6,2011,lowrije01,Stanford University,CA,83.12284730195178
+Cliff Pennington,0.6,2011,pennicl01,Texas A&M University,TX,83.12284730195178
+Bryan Petersen,0.6,2011,peterbr01,"University of California, Irvine",CA,83.12284730195178
+Aaron Rowand,0.6,2011,rowanaa01,California State University Fullerton,CA,83.12284730195178
+Seth Smith,0.6,2011,smithse01,University of Mississippi,MS,83.12284730195178
+Mike Baxter,0.5,2011,baxtemi01,Columbia University,NY,83.12284730195178
+Brooks Conrad,0.5,2011,conrabr01,Arizona State University,AZ,83.12284730195178
+Collin Cowgill,0.5,2011,cowgico01,University of Kentucky,KY,83.12284730195178
+A.J. Ellis,0.5,2011,ellisaj01,Austin Peay State University,TN,83.12284730195178
+Chris Getz,0.5,2011,getzch01,University of Michigan,MI,82.49138920780712
+George Kottaras,0.5,2011,kottage01,Connors State College,OK,82.49138920780712
+Ryan Lavarnway,0.5,2011,lavarry01,Yale University,CT,82.49138920780712
+Cliff Lee,0.5,2011,leecl02,University of Arkansas,AR,82.49138920780712
+Justin Ruggiano,0.5,2011,ruggiju01,Texas A&M University,TX,82.49138920780712
+Eric Thames,0.5,2011,thameer01,Pepperdine University,CA,82.49138920780712
+Ryan Vogelsong,0.5,2011,vogelry01,Kutztown University of Pennsylvania,PA,82.49138920780712
+Paul Goldschmidt,0.4,2011,goldspa01,Texas State University,TX,82.08955223880596
+Scott Hairston,0.4,2011,hairssc01,Central Arizona College,AZ,82.08955223880596
+J.A. Happ,0.4,2011,happja01,Northwestern University,IL,82.08955223880596
+Brett Hayes,0.4,2011,hayesbr01,University of Nevada-Reno,NV,82.08955223880596
+Fred Lewis,0.4,2011,lewisfr02,Mississippi Gulf Coast Community College,MS,82.08955223880596
+Shaun Marcum,0.4,2011,marcush01,University of Missouri Columbia,MO,81.51549942594718
+J.D. Martinez,0.4,2011,martijd02,Nova Southeastern University,FL,81.51549942594718
+Mike Aviles,0.3,2011,avilemi01,Concordia College-Bronxville,NY,81.51549942594718
+Travis Buck,0.3,2011,bucktr01,Arizona State University,AZ,81.51549942594718
+Brandon Crawford,0.3,2011,crawfbr01,"University of California, Los Angeles",CA,81.51549942594718
+Chris Dickerson,0.3,2011,dickech01,University of Nevada-Reno,NV,81.51549942594718
+Mike Fontenot,0.3,2011,fontemi01,Louisiana State University,LA,81.51549942594718
+Tyler Greene,0.3,2011,greenty02,Georgia Institute of Technology,GA,81.51549942594718
+Wade LeBlanc,0.3,2011,leblawa01,University of Alabama,AL,81.51549942594718
+Cory Luebke,0.3,2011,luebkco01,The Ohio State University,OH,81.51549942594718
+Jonathan Sanchez,0.3,2011,sanchjo01,Ohio Dominican University,OH,81.51549942594718
+Jerry Sands,0.3,2011,sandsje01,Catawba College,NC,81.51549942594718
+Joe Saunders,0.3,2011,saundjo01,Virginia Polytechnic Institute and State University,VA,80.82663605051665
+Luke Scott,0.3,2011,scottlu01,Indian River Community College,FL,80.82663605051665
+Eric Sogard,0.3,2011,sogarer01,Arizona State University,AZ,80.82663605051665
+Ryan Theriot,0.3,2011,theriry01,Louisiana State University,LA,80.82663605051665
+Chris Valaika,0.3,2011,valaich01,"University of California, Santa Barbara",CA,80.82663605051665
+Yonder Alonso,0.2,2011,alonsyo01,University of Miami,FL,80.82663605051665
+Burke Badenhop,0.2,2011,badenbu01,Bowling Green State University,OH,80.82663605051665
+Geoff Blum,0.2,2011,blumge01,"University of California, Berkeley",CA,80.82663605051665
+Craig Counsell,0.2,2011,counscr01,University of Notre Dame,IN,80.82663605051665
+Scott Cousins,0.2,2011,cousisc01,University of San Francisco,CA,80.82663605051665
+Aaron Cunningham,0.2,2011,cunniaa01,Everett Community College,WA,80.36739380022962
+Blake Davis,0.2,2011,davisbl01,California State University Fullerton,CA,80.36739380022962
+Marco Estrada,0.2,2011,estrama01,Glendale Community College,CA,80.36739380022962
+Thomas Field,0.2,2011,fieldth01,Texas State University,TX,80.36739380022962
+Eric Fryer,0.2,2011,fryerer01,The Ohio State University,OH,80.36739380022962
+Jonny Gomes,0.2,2011,gomesjo01,Santa Rosa Junior College,CA,80.36739380022962
+Mark Kotsay,0.2,2011,kotsama01,California State University Fullerton,CA,80.36739380022962
+Bryan LaHair,0.2,2011,lahaibr01,St. Petersburg College,FL,79.79334098737084
+Tommy Milone,0.2,2011,milonto01,University of Southern California,CA,79.79334098737084
+Ross Ohlendorf,0.2,2011,ohlenro01,Princeton University,NJ,79.79334098737084
+Dane Sardinha,0.2,2011,sardida01,Pepperdine University,CA,79.79334098737084
+Drew Sutton,0.2,2011,suttodr01,Baylor University,TX,79.79334098737084
+Taylor Teagarden,0.2,2011,teagata01,University of Texas at Austin,TX,79.79334098737084
+Justin Turner,0.2,2011,turneju01,California State University Fullerton,CA,79.79334098737084
+Brett Wallace,0.2,2011,wallabr01,Arizona State University,AZ,79.79334098737084
+Vance Worley,0.2,2011,worleva01,California State University Long Beach,CA,79.04707233065442
+Jordan Zimmermann,0.2,2011,zimmejo02,University of Wisconsin at Stevens Point,WI,79.04707233065442
+Bryan Augenstein,0.1,2011,augenbr01,University of Florida,FL,79.04707233065442
+Scott Baker,0.1,2011,bakersc02,Oklahoma State University,OK,79.04707233065442
+Josh Bard,0.1,2011,bardjo01,Texas Tech University,TX,79.04707233065442
+Julio Borbon,0.1,2011,borboju01,University of Tennessee,TN,79.04707233065442
+Steve Clevenger,0.1,2011,clevest01,Southeastern Louisiana University,LA,79.04707233065442
+Casey Coleman,0.1,2011,colemca01,Florida Gulf Coast University,FL,78.18599311136624
+Mark DeRosa,0.1,2011,derosma01,University of Pennsylvania,PA,78.18599311136624
+Barry Enright,0.1,2011,enrigba01,Pepperdine University,CA,78.18599311136624
+Tim Federowicz,0.1,2011,federti01,University of North Carolina at Chapel Hill,NC,78.18599311136624
+Doug Fister,0.1,2011,fistedo01,California State University Fresno,CA,78.18599311136624
+Johnny Giavotella,0.1,2011,giavojo01,University of New Orleans,LA,78.18599311136624
+Cole Gillespie,0.1,2011,gilleco01,Oregon State University,OR,78.18599311136624
+Chris Gimenez,0.1,2011,gimench01,University of Nevada-Reno,NV,78.18599311136624
+Jeremy Guthrie,0.1,2011,guthrje01,Brigham Young University,UT,78.18599311136624
+Jason Hammel,0.1,2011,hammeja01,Treasure Valley Community College,OR,78.18599311136624
+Dan Haren,0.1,2011,harenda01,Pepperdine University,CA,78.18599311136624
+Luke Hochevar,0.1,2011,hochelu01,University of Tennessee,TN,77.21010332950631
+Jeremy Horst,0.1,2011,horstje01,Armstrong Atlantic State University,GA,77.21010332950631
+Chris Jakubauskas,0.1,2011,jakubch01,Citrus College,CA,77.21010332950631
+Jason Jaramillo,0.1,2011,jaramja01,Oklahoma State University,OK,77.21010332950631
+John Lackey,0.1,2011,lackejo01,Grayson County College,TX,77.21010332950631
+Adam Lind,0.1,2011,lindad01,University of South Alabama,AL,77.21010332950631
+Brandon Lyon,0.1,2011,lyonbr01,Dixie State College of Utah,UT,77.21010332950631
+Mark Melancon,0.1,2011,melanma01,University of Arizona,AZ,77.21010332950631
+Mike Minor,0.1,2011,minormi01,Vanderbilt University,TN,77.21010332950631
+Pete Orr,0.1,2011,orrpe01,Galveston College,TX,77.21010332950631
+Anthony Recker,0.1,2011,reckean01,Alvernia College,PA,77.21010332950631
+Antoan Richardson,0.1,2011,richaan01,Vanderbilt University,TN,77.21010332950631
+Brian Roberts,0.1,2011,roberbr01,University of South Carolina,SC,76.40642939150402
+Dan Runzler,0.1,2011,runzlda01,"University of California, Riverside",CA,76.40642939150402
+Logan Schafer,0.1,2011,schaflo01,"California Polytechnic State University, San Luis Obispo",CA,76.40642939150402
+Tim Stauffer,0.1,2011,staufti01,University of Richmond,VA,76.40642939150402
+Josh Tomlin,0.1,2011,tomlijo01,Texas Tech University,TX,76.40642939150402
+J.R. Towles,0.1,2011,towlejr01,Collin College,TX,76.40642939150402
+C.J. Wilson,0.1,2011,wilsocj01,Loyola Marymount University,CA,76.40642939150402
+Chris Young,0.1,2011,youngch03,Princeton University,NJ,76.40642939150402
+Jeremy Accardo,0.0,2011,accarje01,Illinois State University,IL,76.40642939150402
+Mike Adams,0.0,2011,adamsmi03,Texas A&M University-Kingsville,TX,76.40642939150402
+Matt Albers,0.0,2011,alberma01,"San Jacinto College, North Campus",TX,75.3731343283582
+Jake Arrieta,0.0,2011,arrieja01,Texas Christian University,TX,75.3731343283582
+John Axford,0.0,2011,axforjo01,Canisius College,NY,75.3731343283582
+Andrew Bailey,0.0,2011,bailean01,Wagner College,NY,75.3731343283582
+Jeff Baker,0.0,2011,bakerje03,Clemson University,SC,75.3731343283582
+Daniel Bard,0.0,2011,bardda01,University of North Carolina at Chapel Hill,NC,75.3731343283582
+Erik Bedard,0.0,2011,bedarer01,Norwalk Community College,CT,75.3731343283582
+Joe Beimel,0.0,2011,beimejo01,Duquesne University,PA,75.3731343283582
+Heath Bell,0.0,2011,bellhe01,Santa Ana College,CA,75.3731343283582
+Jason Berken,0.0,2011,berkeja01,Clemson University,SC,75.3731343283582
+Bruce Billings,0.0,2011,billibr02,San Diego State University,CA,75.3731343283582
+Nick Blackburn,0.0,2011,blackni01,Seminole State College,OK,75.3731343283582
+Joe Blanton,0.0,2011,blantjo01,University of Kentucky,KY,75.3731343283582
+Jerry Blevins,0.0,2011,blevije01,University of Dayton,OH,75.3731343283582
+Brandon Boggs,0.0,2011,boggsbr01,Georgia Institute of Technology,GA,75.3731343283582
+Mitchell Boggs,0.0,2011,boggsmi01,University of Georgia,GA,75.3731343283582
+Brad Brach,0.0,2011,brachbr01,Monmouth University,NJ,75.3731343283582
+Bill Bray,0.0,2011,braybi01,College of William and Mary,VA,74.22502870264064
+Craig Breslow,0.0,2011,breslcr01,Yale University,CT,74.22502870264064
+Rex Brothers,0.0,2011,brothre01,Lipscomb University,TN,74.22502870264064
+Mark Buehrle,0.0,2011,buehrma01,Jefferson College,MO,74.22502870264064
+Jay Buente,0.0,2011,buentja01,Purdue University,IN,74.22502870264064
+Brian Burres,0.0,2011,burrebr01,Mount Hood Community College,OR,74.22502870264064
+Jared Burton,0.0,2011,burtoja01,Western Carolina University,NC,74.22502870264064
+Dave Bush,0.0,2011,bushda01,Wake Forest University,NC,74.22502870264064
+Tim Byrdak,0.0,2011,byrdati01,Rice University,TX,74.22502870264064
+Shawn Camp,0.0,2011,campsh01,George Mason University,VA,74.22502870264064
+Drew Carpenter,0.0,2011,carpean01,Sacramento City College,CA,74.22502870264064
+Chris Carpenter,0.0,2011,carpech02,Kent State University,OH,74.22502870264064
+David Carpenter,0.0,2011,carpeda01,West Virginia University,WV,74.22502870264064
+D.J. Carrasco,0.0,2011,carradj01,Pima Community College,AZ,74.22502870264064
+Andrew Cashner,0.0,2011,cashnan01,Texas Christian University,TX,73.13432835820896
+Randy Choate,0.0,2011,choatra01,Florida State University,FL,73.13432835820896
+Steve Cishek,0.0,2011,cishest01,Carson-Newman College,TN,73.13432835820896
+Phil Coke,0.0,2011,cokeph01,San Joaquin Delta College,CA,73.13432835820896
+Louis Coleman,0.0,2011,colemlo01,Louisiana State University,LA,73.13432835820896
+Josh Collmenter,0.0,2011,collmjo01,Central Michigan University,MI,73.13432835820896
+Ryan Cook,0.0,2011,cookry01,University of Southern California,CA,73.13432835820896
+Lance Cormier,0.0,2011,cormila01,University of Alabama,AL,73.13432835820896
+Jesse Crain,0.0,2011,crainje01,University of Houston,TX,73.13432835820896
+Michael Crotta,0.0,2011,crottmi01,Florida Atlantic University,FL,73.13432835820896
+Aaron Crow,0.0,2011,crowaa01,University of Missouri Columbia,MO,73.13432835820896
+Trevor Crowe,0.0,2011,crowetr01,University of Arizona,AZ,73.13432835820896
+Matt Daley,0.0,2011,daleyma01,Bucknell University,PA,73.13432835820896
+Sam Demel,0.0,2011,demelsa01,Texas Christian University,TX,73.13432835820896
+Joey Devine,0.0,2011,devinjo01,North Carolina State University,NC,73.13432835820896
+Mark DiFelice,0.0,2011,difelma01,Western Carolina University,NC,73.13432835820896
+Tim Dillard,0.0,2011,dillati01,Itawamba Community College,MS,73.13432835820896
+Scott Downs,0.0,2011,downssc01,University of Kentucky,KY,73.13432835820896
+Phil Dumatrait,0.0,2011,dumatph01,Bakersfield College,CA,73.13432835820896
+Steve Edlefsen,0.0,2011,edlefst01,University of Nebraska at Lincoln,NE,71.699196326062
+Eric Farris,0.0,2011,farrier01,Loyola Marymount University,CA,71.699196326062
+Mike Fiers,0.0,2011,fiersmi01,Nova Southeastern University,FL,71.699196326062
+Nelson Figueroa,0.0,2011,figuene01,Brandeis University,MA,71.699196326062
+Ryan Franklin,0.0,2011,frankry01,Seminole State College,OK,71.699196326062
+Jason Frasor,0.0,2011,frasoja01,Southern Illinois University Carbondale,IL,71.699196326062
+Brian Fuentes,0.0,2011,fuentbr01,Merced College,CA,71.699196326062
+Jeff Fulchino,0.0,2011,fulchje01,University of Connecticut,CT,71.699196326062
+Charlie Furbush,0.0,2011,furbuch01,Louisiana State University,LA,71.699196326062
+John Gaub,0.0,2011,gaubjo01,University of Minnesota,MN,71.699196326062
+Cory Gearrin,0.0,2011,gearrco01,Mercer University,GA,71.699196326062
+Conor Gillaspie,0.0,2011,gillaco01,Wichita State University,KS,71.699196326062
+Graham Godfrey,0.0,2011,godfrgr01,College of Charleston,SC,71.699196326062
+Brandon Gomes,0.0,2011,gomesbr01,Tulane University,LA,71.699196326062
+Mike Gonzalez,0.0,2011,gonzami02,"San Jacinto College, North Campus",TX,71.699196326062
+Jeff Gray,0.0,2011,grayje02,Missouri State University,MO,71.699196326062
+Sean Green,0.0,2011,greense01,University of Louisville,KY,71.699196326062
+Luke Gregerson,0.0,2011,gregelu01,St. Xavier University,IL,71.699196326062
+Jason Grilli,0.0,2011,grillja01,Seton Hall University,NJ,71.699196326062
+Brandon Guyer,0.0,2011,guyerbr01,University of Virginia,VA,71.699196326062
+Erik Hamren,0.0,2011,hamreer01,University of the Pacific,CA,71.699196326062
+Chris Hatcher,0.0,2011,hatchch02,University of North Carolina at Wilmington,NC,71.699196326062
+Aaron Heilman,0.0,2011,heilmaa01,University of Notre Dame,IN,71.699196326062
+Danny Herrera,0.0,2011,herreda01,University of New Mexico,NM,71.699196326062
+Eric Hinske,0.0,2011,hinsker01,University of Arkansas,AR,71.699196326062
+Jim Hoey,0.0,2011,hoeyja02,Rider University,NJ,71.699196326062
+Greg Holland,0.0,2011,hollagr01,Western Carolina University,NC,71.699196326062
+Tommy Hottovy,0.0,2011,hottoto01,Wichita State University,KS,70.3788748564868
+J.P. Howell,0.0,2011,howeljp01,University of Texas at Austin,TX,70.3788748564868
+Dusty Hughes,0.0,2011,hughedu01,Delta State University,MS,70.3788748564868
+Jared Hughes,0.0,2011,hugheja02,California State University Long Beach,CA,70.3788748564868
+Tommy Hunter,0.0,2011,hunteto02,University of Alabama,AL,70.3788748564868
+Jason Isringhausen,0.0,2011,isrinja01,Lewis & Clark Community College,IL,70.3788748564868
+Conor Jackson,0.0,2011,jacksco01,"University of California, Berkeley",CA,70.3788748564868
+Adam Kennedy,0.0,2011,kennead01,California State University Northridge,CA,70.3788748564868
+Ian Kennedy,0.0,2011,kenneia01,University of Southern California,CA,70.3788748564868
+Cole Kimball,0.0,2011,kimbaco01,Centenary College,NJ,70.3788748564868
+Michael Kohn,0.0,2011,kohnmi01,College of Charleston,SC,70.3788748564868
+Erik Kratz,0.0,2011,kratzer01,Eastern Mennonite University,VA,70.3788748564868
+Zach Kroenke,0.0,2011,kroenza01,University of Nebraska at Lincoln,NE,70.3788748564868
+Chris Leroux,0.0,2011,lerouch01,Winthrop University,SC,70.3788748564868
+Colby Lewis,0.0,2011,lewisco01,Bakersfield College,CA,70.3788748564868
+Brad Lidge,0.0,2011,lidgebr01,University of Notre Dame,IN,70.3788748564868
+Brad Lincoln,0.0,2011,lincobr01,University of Houston,TX,70.3788748564868
+Josh Lindblom,0.0,2011,lindbjo01,Purdue University,IN,68.88633754305395
+Matt Lindstrom,0.0,2011,lindsma01,Brigham Young University-Idaho,ID,68.88633754305395
+Scott Linebrink,0.0,2011,linebsc01,Concordia University at Austin,TX,68.88633754305395
+Jesse Litsch,0.0,2011,litscje01,South Florida Community College,FL,68.88633754305395
+Boone Logan,0.0,2011,loganbo02,Temple College,TX,68.88633754305395
+Javier Lopez,0.0,2011,lopezja02,University of Virginia,VA,68.88633754305395
+Mark Lowe,0.0,2011,lowema01,University of Texas at Arlington,TX,68.88633754305395
+Donny Lucy,0.0,2011,lucydo01,Stanford University,CA,68.88633754305395
+Lance Lynn,0.0,2011,lynnla01,University of Mississippi,MS,68.88633754305395
+Mike MacDougal,0.0,2011,macdomi01,Wake Forest University,NC,68.88633754305395
+Paul Maholm,0.0,2011,maholpa01,Mississippi State University,MS,68.88633754305395
+Scott Maine,0.0,2011,mainesc01,University of Miami,FL,68.88633754305395
+Sean Marshall,0.0,2011,marshse01,Virginia Commonwealth University,VA,68.88633754305395
+Nick Masset,0.0,2011,masseni01,St. Petersburg College,FL,68.88633754305395
+Justin Masterson,0.0,2011,masteju01,San Diego State University,CA,68.88633754305395
+Brian Matusz,0.0,2011,matusbr01,University of San Diego,CA,68.88633754305395
+Michael McKenry,0.0,2011,mckenmi01,Middle Tennessee State University,TN,68.88633754305395
+Evan Meek,0.0,2011,meekev01,Bellevue Community College,WA,68.88633754305395
+Kam Mickolio,0.0,2011,mickoka01,College of Eastern Utah,UT,68.88633754305395
+Wade Miley,0.0,2011,mileywa01,Southeastern Louisiana University,LA,68.88633754305395
+Jim Miller,0.0,2011,milleji02,Mars Hill College,NC,68.88633754305395
+Pat Misch,0.0,2011,mischpa01,Western Michigan University,MI,68.88633754305395
+Sergio Mitre,0.0,2011,mitrese01,San Diego City College,CA,68.88633754305395
+Adam Moore,0.0,2011,mooread01,University of Texas at Arlington,TX,68.88633754305395
+Mitch Moreland,0.0,2011,morelmi01,Mississippi State University,MS,68.88633754305395
+Daniel Moskos,0.0,2011,moskoda01,Clemson University,SC,66.24569460390356
+Jason Motte,0.0,2011,motteja01,Iona College,NY,66.24569460390356
+Joe Nathan,0.0,2011,nathajo01,Stony Brook University,NY,66.24569460390356
+Pat Neshek,0.0,2011,neshepa01,Butler University,IN,66.24569460390356
+Mike Nickeas,0.0,2011,nickemi01,Georgia Institute of Technology,GA,66.24569460390356
+Jeff Niemann,0.0,2011,niemaje01,Rice University,TX,66.24569460390356
+Mike O'Connor,0.0,2011,oconnmi01,George Washington University,DC,66.24569460390356
+Will Ohman,0.0,2011,ohmanwi01,Pepperdine University,CA,66.24569460390356
+Garrett Olson,0.0,2011,olsonga01,"California Polytechnic State University, San Luis Obispo",CA,66.24569460390356
+Micah Owings,0.0,2011,owingmi01,Georgia Institute of Technology,GA,66.24569460390356
+Jonathan Papelbon,0.0,2011,papeljo01,Mississippi State University,MS,66.24569460390356
+Bobby Parnell,0.0,2011,parnebo01,Charleston Southern University,SC,66.24569460390356
+Val Pascucci,0.0,2011,pascuva01,University of Oklahoma,OK,66.24569460390356
+Joe Paterson,0.0,2011,paterjo01,Linfield College,OR,66.24569460390356
+Lance Pendleton,0.0,2011,pendlla01,Rice University,TX,66.24569460390356
+Chris Perez,0.0,2011,perezch01,University of Miami,FL,66.24569460390356
+Glen Perkins,0.0,2011,perkigl01,University of Minnesota,MN,66.24569460390356
+Ryan Perry,0.0,2011,perryry01,University of Arizona,AZ,66.24569460390356
+Vinnie Pestano,0.0,2011,pestavi01,California State University Fullerton,CA,66.24569460390356
+Chris Pettit,0.0,2011,pettich01,Loyola Marymount University,CA,66.24569460390356
+Drew Pomeranz,0.0,2011,pomerdr01,University of Mississippi,MS,66.24569460390356
+David Price,0.0,2011,priceda01,Vanderbilt University,TN,66.24569460390356
+Scott Proctor,0.0,2011,proctsc01,Florida State University,FL,66.24569460390356
+David Purcey,0.0,2011,purceda01,University of Oklahoma,OK,66.24569460390356
+J.J. Putz,0.0,2011,putzjj01,University of Michigan,MI,66.24569460390356
+Chad Qualls,0.0,2011,quallch01,Los Angeles Harbor College,CA,66.24569460390356
+Ryan Raburn,0.0,2011,raburry01,South Florida Community College,FL,66.24569460390356
+Cesar Ramos,0.0,2011,ramosce01,California State University Long Beach,CA,66.24569460390356
+Clay Rapada,0.0,2011,rapadcl01,Virginia State University,VA,66.24569460390356
+Jon Rauch,0.0,2011,rauchjo01,Morehead State University,KY,66.24569460390356
+Chris Ray,0.0,2011,raych01,College of William and Mary,VA,66.24569460390356
+Greg Reynolds,0.0,2011,reynogr01,Stanford University,CA,66.24569460390356
+Matt Reynolds,0.0,2011,reynoma02,Austin Peay State University,TN,66.24569460390356
+Mike Rivera,0.0,2011,rivermi02,Troy University,AL,66.24569460390356
+David Robertson,0.0,2011,roberda08,University of Alabama,AL,66.24569460390356
+Josh Roenicke,0.0,2011,roenijo01,"University of California, Los Angeles",CA,66.24569460390356
+Ryan Rohlinger,0.0,2011,rohliry01,University of Oklahoma,OK,66.24569460390356
+Ricky Romero,0.0,2011,romerri01,California State University Fullerton,CA,66.24569460390356
+Sergio Romo,0.0,2011,romose01,Arizona Western College,AZ,66.24569460390356
+Chance Ruffin,0.0,2011,ruffich01,University of Texas at Austin,TX,66.24569460390356
+Adam Russell,0.0,2011,russead01,Ohio University,OH,66.24569460390356
+James Russell,0.0,2011,russeja02,University of Texas at Austin,TX,61.82548794489093
+Marc Rzepczynski,0.0,2011,rzepcma01,"University of California, Riverside",CA,61.82548794489093
+Chris Sale,0.0,2011,salech01,Florida Gulf Coast University,FL,61.82548794489093
+Brian Sanches,0.0,2011,sanchbr01,Lamar University,TX,61.82548794489093
+Dave Sappelt,0.0,2011,sappeda01,Coastal Carolina University,SC,61.82548794489093
+Joe Savery,0.0,2011,saverjo01,Rice University,TX,61.82548794489093
+Daniel Schlereth,0.0,2011,schleda01,University of Arizona,AZ,61.82548794489093
+Michael Schwimer,0.0,2011,schwimi01,University of Virginia,VA,61.82548794489093
+Evan Scribner,0.0,2011,scribev01,Central Connecticut State University,CT,61.82548794489093
+Bryan Shaw,0.0,2011,shawbr01,California State University Long Beach,CA,61.82548794489093
+George Sherrill,0.0,2011,sherrge01,Austin Peay State University,TN,61.82548794489093
+JB Shuck,0.0,2011,shuckja01,The Ohio State University,OH,61.82548794489093
+Tony Sipp,0.0,2011,sippto01,Clemson University,SC,61.82548794489093
+Doug Slaten,0.0,2011,slatedo01,Los Angeles Pierce College,CA,61.82548794489093
+Kevin Slowey,0.0,2011,sloweke01,Winthrop University,SC,61.82548794489093
+Joe Smith,0.0,2011,smithjo05,Wright State University,OH,61.82548794489093
+Andy Sonnanstine,0.0,2011,sonnaan01,Kent State University,OH,61.82548794489093
+Josh Spence,0.0,2011,spencjo01,Arizona State University,AZ,61.82548794489093
+Craig Stammen,0.0,2011,stammcr01,University of Dayton,OH,61.82548794489093
+Mitch Stetter,0.0,2011,stettmi01,Indiana State University,IN,61.82548794489093
+Jeff Stevens,0.0,2011,steveje01,Loyola Marymount University,CA,61.82548794489093
+Zach Stewart,0.0,2011,stewaza01,Texas Tech University,TX,61.82548794489093
+Drew Storen,0.0,2011,storedr01,Stanford University,CA,61.82548794489093
+Stephen Strasburg,0.0,2011,strasst01,San Diego State University,CA,61.82548794489093
+Huston Street,0.0,2011,streehu01,University of Texas at Austin,TX,61.82548794489093
+Eric Surkamp,0.0,2011,surkaer01,North Carolina State University,NC,61.82548794489093
+Brian Tallet,0.0,2011,tallebr01,Louisiana State University,LA,61.82548794489093
+Joe Thatcher,0.0,2011,thatcjo01,Indiana State University,IN,61.82548794489093
+Matt Thornton,0.0,2011,thornma01,Grand Valley State University,MI,61.82548794489093
+Joe Thurston,0.0,2011,thursjo01,Sacramento City College,CA,61.82548794489093
+Matt Tolbert,0.0,2011,tolbema01,University of Mississippi,MS,61.82548794489093
+Brett Tomko,0.0,2011,tomkobr01,Florida Southern College,FL,61.82548794489093
+Jason Vargas,0.0,2011,vargaja01,Cypress College,CA,61.82548794489093
+Anthony Varvaro,0.0,2011,varvaan01,St. John's University,NY,61.82548794489093
+Elih Villanueva,0.0,2011,villael01,Florida International University,FL,61.82548794489093
+Cory Wade,0.0,2011,wadeco01,Kentucky Wesleyan College,KY,61.82548794489093
+P.J. Walters,0.0,2011,waltepj01,University of South Alabama,AL,61.82548794489093
+Tony Watson,0.0,2011,watsoto01,University of Nebraska at Lincoln,NE,61.82548794489093
+Dan Wheeler,0.0,2011,wheelda01,Central Arizona College,AZ,61.82548794489093
+Adam Wilk,0.0,2011,wilkad01,California State University Long Beach,CA,61.82548794489093
+Bobby Wilson,0.0,2011,wilsobo02,St. Petersburg College,FL,61.82548794489093
+Brian Wilson,0.0,2011,wilsobr01,Louisiana State University,LA,61.82548794489093
+Randy Wolf,0.0,2011,wolfra02,Pepperdine University,CA,61.82548794489093
+Blake Wood,0.0,2011,woodbl01,Georgia Institute of Technology,GA,61.82548794489093
+Danny Worth,0.0,2011,worthda01,Pepperdine University,CA,61.82548794489093
+Mike Zagurski,0.0,2011,zagurmi01,University of Kansas,KS,61.82548794489093
+Brad Ziegler,0.0,2011,zieglbr01,Missouri State University,MO,61.82548794489093
+John Baker,-0.1,2011,bakerjo01,"University of California, Berkeley",CA,61.82548794489093
+Anthony Bass,-0.1,2011,bassan01,Wayne State University,MI,61.82548794489093
+Corey Brown,-0.1,2011,brownco01,Oklahoma State University,OK,61.82548794489093
+Brett Carroll,-0.1,2011,carrobr01,Middle Tennessee State University,TN,61.82548794489093
+Alex Cora,-0.1,2011,coraal01,University of Miami,FL,61.82548794489093
+Chris Davis,-0.1,2011,davisch02,Navarro College,TX,61.82548794489093
+Ross Detwiler,-0.1,2011,detwiro01,Missouri State University,MO,61.82548794489093
+Brian Duensing,-0.1,2011,duensbr01,University of Nebraska at Lincoln,NE,61.82548794489093
+John Ely,-0.1,2011,elyjo01,Miami University of Ohio,OH,61.82548794489093
+Dana Eveland,-0.1,2011,evelada01,College of the Canyons,CA,61.82548794489093
+Tom Gorzelanny,-0.1,2011,gorzeto01,Triton College,IL,61.82548794489093
+Mark Hamilton,-0.1,2011,hamilma01,Tulane University,LA,61.82548794489093
+Robby Hammock,-0.1,2011,hammoro01,Georgia Perimeter College,GA,61.82548794489093
+Tim Hudson,-0.1,2011,hudsoti01,Chattahoochee Valley Community College,AL,61.82548794489093
+Philip Humber,-0.1,2011,humbeph01,Rice University,TX,61.82548794489093
+Jeff Karstens,-0.1,2011,karstje01,Grossmont College,CA,61.82548794489093
+Kyle Lohse,-0.1,2011,lohseky01,Butte College,CA,61.82548794489093
+Matt Maloney,-0.1,2011,malonma02,University of Mississippi,MS,61.82548794489093
+Daniel McCutchen,-0.1,2011,mccutda01,University of Central Oklahoma,OK,61.82548794489093
+Andrew Miller,-0.1,2011,millean01,University of North Carolina at Chapel Hill,NC,61.82548794489093
+Brandon Morrow,-0.1,2011,morrobr01,"University of California, Berkeley",CA,61.82548794489093
+Efren Navarro,-0.1,2011,navaref01,University of Nevada-Las Vegas,NV,61.82548794489093
+Bud Norris,-0.1,2011,norribu01,"California Polytechnic State University, San Luis Obispo",CA,61.82548794489093
+Josh Outman,-0.1,2011,outmajo01,University of Central Missouri,MO,40.75774971297359
+Mike Pelfrey,-0.1,2011,pelfrmi01,Wichita State University,KS,40.75774971297359
+Joel Pineiro,-0.1,2011,pineijo01,Edison College,FL,40.75774971297359
+Chad Reineke,-0.1,2011,reinech01,Miami University of Ohio,OH,40.75774971297359
+Clayton Richard,-0.1,2011,richacl01,University of Michigan,MI,40.75774971297359
+Josh Rodriguez,-0.1,2011,rodrijo05,Rice University,TX,40.75774971297359
+Vinny Rottino,-0.1,2011,rottivi01,University of Wisconsin at La Crosse,WI,40.75774971297359
+Jeff Samardzija,-0.1,2011,samarje01,University of Notre Dame,IN,40.75774971297359
+Omir Santos,-0.1,2011,santoom01,East Central College,MO,40.75774971297359
+Josh Satin,-0.1,2011,satinjo01,"University of California, Berkeley",CA,40.75774971297359
+Max Scherzer,-0.1,2011,scherma01,University of Missouri Columbia,MO,40.75774971297359
+Craig Tatum,-0.1,2011,tatumcr01,Mississippi State University,MS,40.75774971297359
+Wyatt Toregas,-0.1,2011,toregwy01,Virginia Polytechnic Institute and State University,VA,40.75774971297359
+Justin Verlander,-0.1,2011,verlaju01,Old Dominion University,VA,40.75774971297359
+Tim Wakefield,-0.1,2011,wakefti01,Florida Institute of Technology,FL,40.75774971297359
+Jered Weaver,-0.1,2011,weaveje02,California State University Long Beach,CA,40.75774971297359
+Randy Wells,-0.1,2011,wellsra01,Southwestern Illinois College,IL,40.75774971297359
+Alex White,-0.1,2011,whiteal01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Matt Angle,-0.2,2011,anglema01,The Ohio State University,OH,40.75774971297359
+Jason Bartlett,-0.2,2011,bartlja01,San Joaquin Delta College,CA,40.75774971297359
+Willie Bloomquist,-0.2,2011,bloomwi01,Arizona State University,AZ,40.75774971297359
+Andrew Brown,-0.2,2011,brownan02,University of Nebraska at Lincoln,NE,40.75774971297359
+Emmanuel Burriss,-0.2,2011,burriem01,Kent State University,OH,40.75774971297359
+Matt Carpenter,-0.2,2011,carpema01,Texas Christian University,TX,40.75774971297359
+David Cooper,-0.2,2011,coopeda01,"University of California, Berkeley",CA,40.75774971297359
+Kevin Correia,-0.2,2011,correke01,"California Polytechnic State University, San Luis Obispo",CA,40.75774971297359
+Doug Davis,-0.2,2011,davisdo02,Diablo Valley College,CA,40.75774971297359
+Adam Everett,-0.2,2011,everead01,University of South Carolina,SC,40.75774971297359
+Jake Fox,-0.2,2011,foxja02,University of Michigan,MI,40.75774971297359
+Dillon Gee,-0.2,2011,geedi01,University of Texas at Arlington,TX,40.75774971297359
+Jay Gibbons,-0.2,2011,gibboja01,California State University Los Angeles,CA,40.75774971297359
+Clay Hensley,-0.2,2011,henslcl01,Lamar University,TX,40.75774971297359
+Steve Holm,-0.2,2011,holmst01,American River College,CA,40.75774971297359
+Aubrey Huff,-0.2,2011,huffau01,University of Miami,FL,40.75774971297359
+Rob Johnson,-0.2,2011,johnsro07,Saddleback College,CA,40.75774971297359
+John Lannan,-0.2,2011,lannajo01,Siena College,NY,40.75774971297359
+Adam LaRoche,-0.2,2011,larocad01,Fort Scott Community College,KS,40.75774971297359
+Andy LaRoche,-0.2,2011,larocan01,Grayson County College,TX,40.75774971297359
+DJ LeMahieu,-0.2,2011,lemahdj01,Louisiana State University,LA,40.75774971297359
+Adam Loewen,-0.2,2011,loewead01,Chipola College,FL,40.75774971297359
+Ryan Ludwick,-0.2,2011,ludwiry01,University of Nevada-Las Vegas,NV,40.75774971297359
+Julio Lugo,-0.2,2011,lugoju01,Connors State College,OK,40.75774971297359
+Darin Mastroianni,-0.2,2011,mastrda01,University of Southern Indiana,IN,40.75774971297359
+Dallas McPherson,-0.2,2011,mcpheda01,The Citadel,SC,40.75774971297359
+Clayton Mortensen,-0.2,2011,mortecl01,Gonzaga University,WA,40.75774971297359
+Roy Oswalt,-0.2,2011,oswalro01,Holmes Community College,MS,40.75774971297359
+Landon Powell,-0.2,2011,powella01,University of South Carolina,SC,40.75774971297359
+Cody Ransom,-0.2,2011,ransoco01,South Mountain Community College,AZ,40.75774971297359
+Jeremy Reed,-0.2,2011,reedje03,California State University Long Beach,CA,40.75774971297359
+Shane Robinson,-0.2,2011,robinsh01,Florida State University,FL,40.75774971297359
+Andrew Romine,-0.2,2011,rominan01,Arizona State University,AZ,40.75774971297359
+Brad Snyder,-0.2,2011,snydebr02,Ball State University,IN,40.75774971297359
+Michael Taylor,-0.2,2011,taylomi01,Stanford University,CA,40.75774971297359
+Ty Wigginton,-0.2,2011,wiggity01,University of North Carolina at Asheville,NC,40.75774971297359
+Barry Zito,-0.2,2011,zitoba01,Los Angeles Pierce College,CA,40.75774971297359
+Brian Bixler,-0.3,2011,bixlebr01,Eastern Michigan University,MI,40.75774971297359
+Greg Dobbs,-0.3,2011,dobbsgr01,Riverside Community College,CA,40.75774971297359
+Ross Gload,-0.3,2011,gloadro01,University of South Florida,FL,40.75774971297359
+Joe Inglett,-0.3,2011,inglejo01,University of Nevada-Reno,NV,40.75774971297359
+Tim Lincecum,-0.3,2011,linceti01,University of Washington,WA,40.75774971297359
+James McDonald,-0.3,2011,mcdonja03,Golden West College,CA,40.75774971297359
+Donnie Murphy,-0.3,2011,murphdo01,Orange Coast College,CA,40.75774971297359
+Xavier Nady,-0.3,2011,nadyxa01,"University of California, Berkeley",CA,40.75774971297359
+Eric Patterson,-0.3,2011,patteer01,Georgia Institute of Technology,GA,40.75774971297359
+Will Rhymes,-0.3,2011,rhymewi01,College of William and Mary,VA,40.75774971297359
+Mark Teahen,-0.3,2011,teahema01,St. Mary's College of California,CA,40.75774971297359
+Chris Woodward,-0.3,2011,woodwch01,Mount San Antonio College,CA,40.75774971297359
+John Bowker,-0.4,2011,bowkejo01,California State University Long Beach,CA,40.75774971297359
+Chase d'Arnaud,-0.4,2011,darnach01,Pepperdine University,CA,40.75774971297359
+James Darnell,-0.4,2011,darneja01,University of South Carolina,SC,40.75774971297359
+Mat Gamel,-0.4,2011,gamelma01,Chipola College,FL,40.75774971297359
+Matt Garza,-0.4,2011,garzama01,California State University Fresno,CA,40.75774971297359
+Aaron Harang,-0.4,2011,haranaa01,San Diego State University,CA,40.75774971297359
+Brad Hawpe,-0.4,2011,hawpebr01,Louisiana State University,LA,40.75774971297359
+Brandon Hicks,-0.4,2011,hicksbr01,Texas A&M University,TX,40.75774971297359
+Kyle Hudson,-0.4,2011,hudsoky01,University of Illinois at Urbana-Champaign,IL,40.75774971297359
+Jeff Keppinger,-0.4,2011,keppije01,University of Georgia,GA,40.75774971297359
+Gerald Laird,-0.4,2011,lairdge01,Cypress College,CA,40.75774971297359
+Jorge Posada,-0.4,2011,posadjo01,Calhoun Community College,AL,40.75774971297359
+Omar Quintanilla,-0.4,2011,quintom01,University of Texas at Austin,TX,40.75774971297359
+Danny Valencia,-0.4,2011,valenda01,University of Miami,FL,40.75774971297359
+Reggie Willits,-0.4,2011,willire03,University of Oklahoma,OK,40.75774971297359
+Chris Capuano,-0.5,2011,capuach01,Duke University,NC,40.75774971297359
+Koyie Hill,-0.5,2011,hillko01,Wichita State University,KS,40.75774971297359
+Kevin Kouzmanoff,-0.5,2011,kouzmke01,University of Arkansas at Little Rock,AR,40.75774971297359
+Ted Lilly,-0.5,2011,lillyte01,Fresno City College,CA,40.75774971297359
+Jason Michaels,-0.5,2011,michaja01,Northwest Florida State College,FL,40.75774971297359
+Lyle Overbay,-0.5,2011,overbly01,University of Nevada-Reno,NV,40.75774971297359
+Jordan Pacheco,-0.5,2011,pachejo01,University of New Mexico,NM,40.75774971297359
+Eli Whiteside,-0.5,2011,whiteel03,Delta State University,MS,40.75774971297359
+Paul Janish,-0.6,2011,janispa01,Rice University,TX,40.75774971297359
+Blake Tekotte,-0.6,2011,tekotbl01,University of Miami,FL,40.75774971297359
+Marcus Thames,-0.6,2011,thamema01,East Central Community College,MS,40.75774971297359
+Charlie Blackmon,-0.7,2011,blackch02,Georgia Institute of Technology,GA,40.75774971297359
+Brad Emaus,-0.7,2011,emausbr01,Tulane University,LA,40.75774971297359
+Casey McGehee,-0.7,2011,mcgehca01,California State University Fresno,CA,40.75774971297359
+Steve Pearce,-0.7,2011,pearcst01,Indian River Community College,FL,40.75774971297359
+Adam Rosales,-0.7,2011,rosalad01,Western Michigan University,MI,40.75774971297359
+Rajai Davis,-0.8,2011,davisra01,University of Connecticut at Avery Point,CT,40.75774971297359
+Matt Diaz,-0.8,2011,diazma02,Florida State University,FL,40.75774971297359
+Ben Francisco,-0.8,2011,francbe01,Cypress College,CA,40.75774971297359
+Chris Johnson,-0.8,2011,johnsch05,Stetson University,FL,40.75774971297359
+Matt LaPorta,-0.8,2011,laporma01,University of Florida,FL,40.75774971297359
+Alfredo Amezaga,-0.9,2011,amezaal01,St. Petersburg College,FL,40.75774971297359
+Dan Johnson,-0.9,2011,johnsda06,Butler University,IN,40.75774971297359
+Cord Phelps,-0.9,2011,phelpco01,Stanford University,CA,40.75774971297359
+Juan Pierre,-0.9,2011,pierrju01,University of South Alabama,AL,40.75774971297359
+Brandon Inge,-1.0,2011,ingebr01,Virginia Commonwealth University,VA,40.75774971297359
+Willie Harris,-1.1,2011,harriwi02,Louisiana State University,LA,40.75774971297359
+Tyler Colvin,-1.2,2011,colvity01,Clemson University,SC,40.75774971297359
+Chris Coghlan,-1.3,2011,coghlch01,University of Mississippi,MS,40.75774971297359
+Drew Butera,-1.6,2011,buterdr01,University of Central Florida,FL,40.75774971297359
+Raul Ibanez,-1.7,2011,ibanera01,"Miami-Dade College, Kendall Campus",FL,40.75774971297359
+Ryan Spilborghs,-1.7,2011,spilbry01,"University of California, Santa Barbara",CA,40.75774971297359
+Pedro Alvarez,-1.8,2011,alvarpe01,Vanderbilt University,TN,40.75774971297359
+Scott Atchison,,2011,atchisc01,Texas Christian University,TX,40.75774971297359
+Dylan Axelrod,,2011,axelrdy01,"University of California, Irvine",CA,40.75774971297359
+Chad Beck,,2011,beckch01,University of Louisiana at Lafayette,LA,40.75774971297359
+Andrew Brackman,,2011,brackan01,North Carolina State University,NC,40.75774971297359
+Dallas Braden,,2011,bradeda01,American River College,CA,40.75774971297359
+Clay Buchholz,,2011,buchhcl01,McNeese State University,LA,40.75774971297359
+Andrew Carignan,,2011,carigan01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Brett Cecil,,2011,cecilbr01,University of Maryland,MD,40.75774971297359
+Joba Chamberlain,,2011,chambjo03,University of Nebraska at Kearney,NE,40.75774971297359
+Jesse Chavez,,2011,chaveje01,Riverside Community College,CA,40.75774971297359
+Mike Ekstrom,,2011,ekstrmi01,Oregon State University,OR,40.75774971297359
+Cody Eppley,,2011,eppleco01,Virginia Commonwealth University,VA,40.75774971297359
+Willie Eyre,,2011,eyrewi01,College of Eastern Utah,UT,40.75774971297359
+Danny Farquhar,,2011,farquda01,University of Louisiana at Lafayette,LA,40.75774971297359
+Scott Feldman,,2011,feldmsc01,College of San Mateo,CA,40.75774971297359
+Nick Hagadone,,2011,hagadni01,University of Washington,WA,40.75774971297359
+Rich Harden,,2011,harderi01,Central Arizona College,AZ,40.75774971297359
+Mark Hendrickson,,2011,hendrma01,Washington State University,WA,40.75774971297359
+Rich Hill,,2011,hillri01,University of Michigan,MI,40.75774971297359
+David Huff,,2011,huffda01,"University of California, Irvine",CA,40.75774971297359
+Chuck James,,2011,jamesch03,Chattahoochee Valley Community College,AL,40.75774971297359
+Casey Janssen,,2011,janssca01,"University of California, Los Angeles",CA,40.75774971297359
+Shawn Kelley,,2011,kellesh01,Austin Peay State University,TN,40.75774971297359
+Josh Kinney,,2011,kinnejo01,Quincy University,IL,40.75774971297359
+Corey Kluber,,2011,klubeco01,Stetson University,FL,40.75774971297359
+George Kontos,,2011,kontoge01,Northwestern University,IL,40.75774971297359
+Trystan Magnuson,,2011,magnutr01,University of Louisville,KY,40.75774971297359
+Jeff Manship,,2011,manshje01,University of Notre Dame,IN,40.75774971297359
+Brandon McCarthy,,2011,mccarbr01,Lamar Community College,CO,40.75774971297359
+Brad Mills,,2011,millsbr02,University of Arizona,AZ,40.75774971297359
+Darren O'Day,,2011,odayda01,University of Florida,FL,40.75774971297359
+Andy Oliver,,2011,olivean01,Oklahoma State University,OK,40.75774971297359
+Matt Palmer,,2011,palmema01,Three Rivers Community College,MO,40.75774971297359
+Zach Putnam,,2011,putnaza01,University of Michigan,MI,40.75774971297359
+Addison Reed,,2011,reedad01,San Diego State University,CA,40.75774971297359
+Garrett Richards,,2011,richaga01,University of Oklahoma,OK,40.75774971297359
+Scott Richmond,,2011,richmsc01,Bossier Parish Community College,LA,40.75774971297359
+Tyson Ross,,2011,rossty01,"University of California, Berkeley",CA,40.75774971297359
+Josh Rupe,,2011,rupejo01,Louisburg College,NC,40.75774971297359
+Anthony Slama,,2011,slamaan01,Santa Ana College,CA,40.75774971297359
+Everett Teaford,,2011,teafoev01,Georgia Southern University,GA,40.75774971297359
+Anthony Vasquez,,2011,vasquan01,Texas A&M University,TX,40.75774971297359
+Neil Wagner,,2011,wagnene01,North Dakota State University,ND,40.75774971297359
+Kyle Weiland,,2011,weilaky01,University of Notre Dame,IN,40.75774971297359
+Robbie Weinhardt,,2011,weinhro01,Oklahoma State University,OK,40.75774971297359
+Kevin Whelan,,2011,whelake01,Texas A&M University,TX,40.75774971297359
+Jerome Williams,,2011,willije01,Southeastern Louisiana University,LA,40.75774971297359
+Randy Williams,,2011,willira01,Lamar University,TX,40.75774971297359
+Mark Worrell,,2011,worrema01,University of Arizona,AZ,40.75774971297359
+Yasmani Grandal,2.5,2012,grandya01,University of Miami,FL,40.75774971297359
+Justin Maxwell,2.2,2012,maxweju01,University of Maryland,MD,40.75774971297359
+Kevin Frandsen,1.6,2012,frandke01,San Jose State University,CA,40.75774971297359
+Josh Donaldson,1.5,2012,donaljo02,Auburn University,AL,40.75774971297359
+Jason Castro,1.2,2012,castrja01,Stanford University,CA,40.75774971297359
+Brian Dozier,0.7,2012,doziebr01,University of Southern Mississippi,MS,40.75774971297359
+Adam Eaton,0.7,2012,eatonad02,Miami University of Ohio,OH,40.75774971297359
+Quintin Berry,0.5,2012,berryqu01,San Diego State University,CA,40.75774971297359
+Rob Brantly,0.5,2012,brantro01,"University of California, Riverside",CA,40.75774971297359
+Darin Ruf,0.4,2012,rufda01,Creighton University,NE,40.75774971297359
+Chad Tracy,0.4,2012,tracych01,East Carolina University,NC,40.75774971297359
+Matt Harvey,0.3,2012,harvema01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Jordy Mercer,0.3,2012,mercejo03,Oklahoma State University,OK,40.75774971297359
+Luke Carlin,0.2,2012,carlilu01,Northeastern University,MA,40.75774971297359
+Stephen Fife,0.2,2012,fifest01,University of Utah,UT,40.75774971297359
+Eddy Rodriguez,0.2,2012,rodried04,University of Miami,FL,40.75774971297359
+Andy Pettitte,0.1,2012,pettian01,"San Jacinto College, North Campus",TX,40.75774971297359
+Chris Rusin,0.1,2012,rusinch01,University of Kentucky,KY,40.75774971297359
+Rob Scahill,0.1,2012,scahiro01,Bradley University,IL,40.75774971297359
+Carlos Torres,0.1,2012,torreca01,Kansas State University,KS,40.75774971297359
+Jonathan Albaladejo,0.0,2012,albaljo01,Miami-Dade College,FL,40.75774971297359
+Hector Ambriz,0.0,2012,ambrihe01,"University of California, Los Angeles",CA,40.75774971297359
+Scott Barnes,0.0,2012,barnesc01,St. John's University,NY,40.75774971297359
+Trevor Bauer,0.0,2012,bauertr01,"University of California, Los Angeles",CA,40.75774971297359
+Jeff Beliveau,0.0,2012,belivje01,College of Charleston,SC,40.75774971297359
+Brad Boxberger,0.0,2012,boxbebr01,University of Southern California,CA,40.75774971297359
+Barret Browning,0.0,2012,brownba01,Florida State University,FL,40.75774971297359
+Tyson Brummett,0.0,2012,brummty01,"University of California, Los Angeles",CA,40.75774971297359
+Cory Burns,0.0,2012,burnsco01,University of Arizona,AZ,40.75774971297359
+Vinnie Chulk,0.0,2012,chulkvi01,St. Thomas University,FL,40.75774971297359
+Tony Cingrani,0.0,2012,cingrto01,Rice University,TX,40.75774971297359
+Sean Doolittle,0.0,2012,doolise01,University of Virginia,VA,40.75774971297359
+Josh Edgin,0.0,2012,edginjo01,The Ohio State University,OH,40.75774971297359
+Jack Egbert,0.0,2012,egberja01,"Rutgers, the State University of New Jersey",NJ,40.75774971297359
+C.J. Fick,0.0,2012,fickch01,California State University Northridge,CA,40.75774971297359
+Lew Ford,0.0,2012,fordle01,Dallas Baptist University,TX,40.75774971297359
+Sam Freeman,0.0,2012,freemsa01,University of Kansas,KS,40.75774971297359
+Adam Greenberg,0.0,2012,greenad01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Justin Hampson,0.0,2012,hampsju01,Southwestern Illinois College,IL,40.75774971297359
+Jeremy Hefner,0.0,2012,hefneje01,Oral Roberts University,OK,40.75774971297359
+Steven Hill,0.0,2012,hillst01,Stephen F Austin State University,TX,40.75774971297359
+Alex Hinshaw,0.0,2012,hinshal01,Chaffey College,CA,40.75774971297359
+Bryan Holaday,0.0,2012,holadbr01,Texas Christian University,TX,40.75774971297359
+Brett Jackson,0.0,2012,jacksbr01,"University of California, Berkeley",CA,40.75774971297359
+Dan Jennings,0.0,2012,jennida01,University of Nebraska at Lincoln,NE,40.75774971297359
+Nate Jones,0.0,2012,jonesna01,Northern Kentucky University,KY,40.75774971297359
+Joe Kelly,0.0,2012,kellyjo05,"University of California, Riverside",CA,40.75774971297359
+Dallas Keuchel,0.0,2012,keuchda01,University of Arkansas,AR,40.75774971297359
+Tom Koehler,0.0,2012,koehlto01,Stony Brook University,NY,40.75774971297359
+David Lough,0.0,2012,loughda01,Mercyhurst College,PA,40.75774971297359
+Aaron Loup,0.0,2012,loupaa01,Tulane University,LA,40.75774971297359
+Lucas Luetge,0.0,2012,luetglu01,Rice University,TX,40.75774971297359
+Joe Martinez,0.0,2012,martijo07,Boston College,MA,40.75774971297359
+Edwin Maysonet,0.0,2012,maysoed01,Delta State University,MS,40.75774971297359
+Miles Mikolas,0.0,2012,mikolmi01,Nova Southeastern University,FL,40.75774971297359
+D.J. Mitchell,0.0,2012,mitchdj01,Clemson University,SC,40.75774971297359
+Jamie Moyer,0.0,2012,moyerja01,St. Joseph's University,PA,40.75774971297359
+Dan Otero,0.0,2012,oteroda01,Duke University,NC,40.75774971297359
+Adam Ottavino,0.0,2012,ottavad01,Northeastern University,MA,40.75774971297359
+Blake Parker,0.0,2012,parkebl01,University of Arkansas,AR,40.75774971297359
+Manny Parra,0.0,2012,parrama01,American River College,CA,40.75774971297359
+Brooks Raley,0.0,2012,raleybr01,Texas A&M University,TX,40.75774971297359
+AJ Ramos,0.0,2012,ramosaj01,Texas Tech University,TX,40.75774971297359
+Paco Rodriguez,0.0,2012,rodrist02,University of Florida,FL,40.75774971297359
+B.J. Rosenberg,0.0,2012,rosenbj01,University of Louisville,KY,40.75774971297359
+Josh Rutledge,0.0,2012,rutlejo01,University of Alabama,AL,40.75774971297359
+Tanner Scheppers,0.0,2012,schepta01,California State University Fresno,CA,40.75774971297359
+Drew Smyly,0.0,2012,smylydr01,University of Arkansas,AR,40.75774971297359
+Mickey Storey,0.0,2012,storemi01,Florida Atlantic University,FL,40.75774971297359
+Clete Thomas,0.0,2012,thomacl02,Auburn University,AL,40.75774971297359
+Justin Thomas,0.0,2012,thomaju01,Youngstown State University,OH,40.75774971297359
+Tyler Thornburg,0.0,2012,thornty01,Charleston Southern University,SC,40.75774971297359
+Shawn Tolleson,0.0,2012,tollesh01,Baylor University,TX,40.75774971297359
+Nick Vincent,0.0,2012,vinceni01,California State University Long Beach,CA,40.75774971297359
+Kip Wells,0.0,2012,wellski01,Baylor University,TX,40.75774971297359
+Justin Wilson,0.0,2012,wilsoju10,California State University Fresno,CA,40.75774971297359
+Matt Adams,-0.1,2012,adamsma01,Slippery Rock University of Pennsylvania,PA,40.75774971297359
+Kole Calhoun,-0.1,2012,calhoko01,Arizona State University,AZ,40.75774971297359
+Brad Eldred,-0.1,2012,eldrebr01,Florida International University,FL,40.75774971297359
+Christian Friedrich,-0.1,2012,friedch01,Eastern Kentucky University,KY,40.75774971297359
+Yan Gomes,-0.1,2012,gomesya01,Barry University,FL,40.75774971297359
+Tyler Graham,-0.1,2012,grahaty01,Oregon State University,OR,40.75774971297359
+John Hester,-0.1,2012,hestejo01,Stanford University,CA,40.75774971297359
+Brock Holt,-0.1,2012,holtbr01,Rice University,TX,40.75774971297359
+Joe Mahoney,-0.1,2012,mahonjo01,University of Richmond,VA,40.75774971297359
+Tyler Moore,-0.1,2012,moorety01,Mississippi State University,MS,40.75774971297359
+A.J. Pollock,-0.1,2012,polloaj01,University of Notre Dame,IN,40.75774971297359
+Clint Robinson,-0.1,2012,robincl01,Troy University,AL,40.75774971297359
+Ben Sheets,-0.1,2012,sheetbe01,University of Louisiana at Monroe,LA,40.75774971297359
+Ryan Wheeler,-0.1,2012,wheelry01,Loyola Marymount University,CA,40.75774971297359
+Nick Green,-0.2,2012,greenni01,Georgia Perimeter College,GA,40.75774971297359
+Ryan Jackson,-0.2,2012,jacksry02,University of Miami,FL,40.75774971297359
+Mike Jacobs,-0.2,2012,jacobmi02,Grossmont College,CA,40.75774971297359
+Zach Lutz,-0.2,2012,lutzza01,Alvernia College,PA,40.75774971297359
+Kevin Mattison,-0.2,2012,mattike01,University of North Carolina at Asheville,NC,40.75774971297359
+Mike Olt,-0.2,2012,oltmi01,University of Connecticut,CT,40.75774971297359
+Alex Castellanos,-0.3,2012,casteal01,Belmont Abbey College,NC,40.75774971297359
+Jeff Clement,-0.3,2012,clemeje01,University of Southern California,CA,40.75774971297359
+Jordan Danks,-0.3,2012,danksjo02,University of Texas at Austin,TX,40.75774971297359
+Ryan Flaherty,-0.3,2012,flahery01,Vanderbilt University,TN,40.75774971297359
+Chris Herrmann,-0.3,2012,herrmch01,University of Miami,FL,40.75774971297359
+Matt Hague,-0.4,2012,haguema01,Oklahoma State University,OK,40.75774971297359
+Erik Komatsu,-0.4,2012,komater01,California State University Fullerton,CA,40.75774971297359
+Rich Thompson,-0.5,2012,thompri02,James Madison University,VA,40.75774971297359
+Mike Costanzo,-0.6,2012,costami01,Coastal Carolina University,SC,40.75774971297359
+Jake Elmore,-0.6,2012,elmorja01,Arizona State University,AZ,40.75774971297359
+Matt McBride,-1.1,2012,mcbrima02,Lehigh University,PA,40.75774971297359
+David Aardsma,,2012,aardsda01,Pennsylvania State University,PA,40.75774971297359
+Cody Allen,,2012,allenco01,High Point University,NC,40.75774971297359
+Carter Capps,,2012,cappsca01,Mount Olive College,NC,40.75774971297359
+Evan Crawford,,2012,crawfev01,Auburn University,AL,40.75774971297359
+Sam Dyson,,2012,dysonsa01,University of South Carolina,SC,40.75774971297359
+Casey Fien,,2012,fienca01,"California Polytechnic State University, San Luis Obispo",CA,40.75774971297359
+A.J. Griffin,,2012,griffaj01,University of San Diego,CA,40.75774971297359
+Justin Grimm,,2012,grimmju01,University of Georgia,GA,40.75774971297359
+Deunte Heath,,2012,heathde01,University of Tennessee,TN,40.75774971297359
+Chad Jenkins,,2012,jenkich01,Kennesaw State University,GA,40.75774971297359
+Bobby Korecky,,2012,korecbo01,University of Michigan,MI,40.75774971297359
+Nick Maronde,,2012,maronni01,University of Florida,FL,40.75774971297359
+Brian Omogrosso,,2012,omogrbr01,Indiana State University,IN,40.75774971297359
+David Phelps,,2012,phelpda01,University of Notre Dame,IN,40.75774971297359
+Stephen Pryor,,2012,pryorst01,Tennessee Technological University,TN,40.75774971297359
+Luke Putkonen,,2012,putkolu01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Dan Straily,,2012,straida01,Marshall University,WV,40.75774971297359
+Andrew Taylor,,2012,tayloan01,North Carolina State University,NC,40.75774971297359
+Donnie Veal,,2012,vealdo01,Pima Community College,AZ,40.75774971297359
+Ryan Verdugo,,2012,verdury01,Louisiana State University,LA,40.75774971297359
+Adam Warren,,2012,warread01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Thad Weber,,2012,weberth01,University of Nebraska at Lincoln,NE,40.75774971297359
+Jedd Gyorko,2.3,2013,gyorkje01,West Virginia University,WV,40.75774971297359
+Brad Miller,2.0,2013,millebr02,Clemson University,SC,40.75774971297359
+Ryan Goins,1.4,2013,goinsry01,Dallas Baptist University,TX,40.75774971297359
+Ed Lucas,1.4,2013,lucased01,Dartmouth College,NH,40.75774971297359
+Khris Davis,1.3,2013,daviskh01,California State University Fullerton,CA,40.75774971297359
+Evan Gattis,0.8,2013,gattiev01,,,40.75774971297359
+Tommy Medica,0.8,2013,medicto01,Santa Clara University,CA,40.75774971297359
+Marcus Semien,0.7,2013,semiema01,"University of California, Berkeley",CA,40.75774971297359
+Doug Bernier,0.6,2013,bernido01,Cuesta College,CA,40.75774971297359
+Corky Miller,0.5,2013,milleco01,San Bernardino Valley College,CA,40.75774971297359
+Joey Butler,0.2,2013,butlejo04,University of New Orleans,LA,40.75774971297359
+Gerrit Cole,0.2,2013,colege01,"University of California, Los Angeles",CA,40.75774971297359
+Mike Zunino,0.2,2013,zuninmi01,University of Florida,FL,40.75774971297359
+Brian Flynn,0.1,2013,flynnbr01,Wichita State University,KS,40.75774971297359
+Phil Gosselin,0.1,2013,gosseph01,University of Virginia,VA,40.75774971297359
+Mike Kickham,0.1,2013,kickhmi01,Missouri State University,MO,40.75774971297359
+Kevin Pillar,0.1,2013,pillake01,California State University Dominguez Hills,CA,40.75774971297359
+Cameron Rupp,0.1,2013,ruppca01,University of Texas at Austin,TX,40.75774971297359
+Tony Sanchez,0.1,2013,sanchto01,Boston College,MA,40.75774971297359
+Zach Walters,0.1,2013,walteza01,University of San Diego,CA,40.75774971297359
+Steve Ames,0.0,2013,amesst01,Gonzaga University,WA,40.75774971297359
+Brandon Bantz,0.0,2013,bantzbr01,Dallas Baptist University,TX,40.75774971297359
+Chad Bettis,0.0,2013,bettich01,Texas Tech University,TX,40.75774971297359
+Vic Black,0.0,2013,blackvi01,Dallas Baptist University,TX,40.75774971297359
+Charles Brewer,0.0,2013,brewech01,"University of California, Los Angeles",CA,40.75774971297359
+Billy Buckner,0.0,2013,bucknbi02,University of South Carolina,SC,40.75774971297359
+Hiram Burgos,0.0,2013,burgohi01,Bethune-Cookman College,FL,40.75774971297359
+Michael Choice,0.0,2013,choicmi01,University of Texas at Arlington,TX,40.75774971297359
+Nick Christiani,0.0,2013,chrisni01,Vanderbilt University,TN,40.75774971297359
+Preston Claiborne,0.0,2013,claibpr01,Tulane University,LA,40.75774971297359
+Neal Cotts,0.0,2013,cottsne01,Illinois State University,IL,40.75774971297359
+Brandon Cumpton,0.0,2013,cumptbr01,Georgia Institute of Technology,GA,40.75774971297359
+Jermaine Curtis,0.0,2013,curtije01,"University of California, Los Angeles",CA,40.75774971297359
+Erik Davis,0.0,2013,daviser02,Stanford University,CA,40.75774971297359
+Matt den Dekker,0.0,2013,dendema01,University of Florida,FL,40.75774971297359
+Derek Dietrich,0.0,2013,dietrde01,Georgia Institute of Technology,GA,40.75774971297359
+Jake Dunning,0.0,2013,dunnija01,Indiana University-Bloomington,IN,40.75774971297359
+Josh Fields,0.0,2013,fieldjo03,University of Georgia,GA,40.75774971297359
+Justin Freeman,0.0,2013,freemju02,Kennesaw State University,GA,40.75774971297359
+John Gast,0.0,2013,gastjo01,Florida State University,FL,40.75774971297359
+Kevin Gausman,0.0,2013,gausmke01,Louisiana State University,LA,40.75774971297359
+Sonny Gray,0.0,2013,grayso01,Vanderbilt University,TN,40.75774971297359
+Heath Hembree,0.0,2013,hembrhe01,College of Charleston,SC,40.75774971297359
+Sean Henn,0.0,2013,hennse01,McLennan Community College,TX,40.75774971297359
+Colt Hynes,0.0,2013,hynesco01,Texas Tech University,TX,40.75774971297359
+Phil Irwin,0.0,2013,irwinph01,University of Mississippi,MS,40.75774971297359
+Kris Johnson,0.0,2013,johnskr01,Wichita State University,KS,40.75774971297359
+Nate Karns,0.0,2013,karnsna01,Texas Tech University,TX,40.75774971297359
+Bobby LaFromboise,0.0,2013,lafrobo01,University of New Mexico,NM,40.75774971297359
+Matt Langwell,0.0,2013,langwma01,Rice University,TX,40.75774971297359
+Tyler Lyons,0.0,2013,lyonsty01,Oklahoma State University,OK,40.75774971297359
+John Maine,0.0,2013,mainejo01,University of North Carolina at Charlotte,NC,40.75774971297359
+Seth Maness,0.0,2013,manesse01,East Carolina University,NC,40.75774971297359
+Jimmy Nelson,0.0,2013,nelsoji02,University of Alabama,AL,40.75774971297359
+James Paxton,0.0,2013,paxtoja01,University of Kentucky,KY,40.75774971297359
+Shane Peterson,0.0,2013,petersh01,California State University Long Beach,CA,40.75774971297359
+Evan Reed,0.0,2013,reedev01,"California Polytechnic State University, San Luis Obispo",CA,40.75774971297359
+Ryan Reid,0.0,2013,reidry01,James Madison University,VA,40.75774971297359
+Chris Robinson,0.0,2013,robinch02,University of Illinois at Urbana-Champaign,IL,40.75774971297359
+Michael Roth,0.0,2013,rothmi01,University of South Carolina,SC,40.75774971297359
+Burch Smith,0.0,2013,smithbu03,University of Oklahoma,OK,40.75774971297359
+Nick Tepesch,0.0,2013,tepesni01,University of Missouri Columbia,MO,40.75774971297359
+Joey Terdoslavich,0.0,2013,terdojo01,California State University Long Beach,CA,40.75774971297359
+Caleb Thielbar,0.0,2013,thielca01,South Dakota State University,SD,40.75774971297359
+Ross Wolf,0.0,2013,wolfro01,Wabash Valley College,IL,40.75774971297359
+Rob Wooten,0.0,2013,wootero01,University of North Carolina at Chapel Hill,NC,40.75774971297359
+Brandon Workman,0.0,2013,workmbr01,University of Texas at Austin,TX,40.75774971297359
+Jordan Brown,-0.1,2013,brownjo05,University of Arizona,AZ,40.75774971297359
+Todd Cunningham,-0.1,2013,cunnito01,Jacksonville State University,AL,40.75774971297359
+Jonathan Diaz,-0.1,2013,diazjo02,North Carolina State University,NC,40.75774971297359
+David Hale,-0.1,2013,haleda02,Princeton University,NJ,40.75774971297359
+Donovan Hand,-0.1,2013,handdo01,Jacksonville State University,AL,40.75774971297359
+Josh Prince,-0.1,2013,princjo01,University of Texas at Austin,TX,40.75774971297359
+Steve Susdorf,-0.1,2013,susdost01,California State University Fresno,CA,40.75774971297359
+Michael Wacha,-0.1,2013,wachami01,Texas A&M University,TX,40.75774971297359
+David Adams,-0.2,2013,adamsda02,University of Virginia,VA,40.75774971297359
+Cody Asche,-0.2,2013,ascheco01,University of Nebraska at Lincoln,NE,40.75774971297359
+Jackie Bradley Jr.,-0.3,2013,bradlja02,University of South Carolina,SC,40.75774971297359
+Nick Buss,-0.3,2013,bussni01,University of Southern California,CA,40.75774971297359
+Cody Clark,-0.3,2013,clarkco01,University of Arkansas,AR,40.75774971297359
+Tuffy Gosewisch,-0.3,2013,gosewtu01,Arizona State University,AZ,40.75774971297359
+Jeff Kobernus,-0.3,2013,koberje01,"University of California, Berkeley",CA,40.75774971297359
+Marc Krauss,-0.3,2013,krausma01,Ohio University,OH,40.75774971297359
+Luke Montz,-0.3,2013,montzlu01,Hill College,TX,40.75774971297359
+Alex Wood,-0.3,2013,woodal02,University of Georgia,GA,40.75774971297359
+Nate Freiman,-0.4,2013,freimna01,Duke University,NC,40.75774971297359
+Brendan Harris,-0.4,2013,harribr01,College of William and Mary,VA,40.75774971297359
+Grant Green,-0.5,2013,greengr01,University of Southern California,CA,40.75774971297359
+Roger Kieschnick,-0.5,2013,kiescro01,Texas Tech University,TX,40.75774971297359
+Chris McGuiness,-0.5,2013,mcguich01,The Citadel,SC,40.75774971297359
+Kolten Wong,-0.5,2013,wongko01,University of Hawaii at Manoa,HI,40.75774971297359
+Josh Phegley,-0.6,2013,phegljo01,Indiana University-Bloomington,IN,40.75774971297359
+Andrew Albers,,2013,alberan01,University of Kentucky,KY,40.75774971297359
+Mike Belfiore,,2013,belfimi01,Boston College,MA,40.75774971297359
+Chris Bootcheck,,2013,bootcch01,Auburn University,AL,40.75774971297359
+Kevin Chapman,,2013,chapmke02,University of Florida,FL,40.75774971297359
+Chris Dwyer,,2013,dwyerch01,Clemson University,SC,40.75774971297359
+Kyle Gibson,,2013,gibsoky01,University of Missouri Columbia,MO,40.75774971297359
+Preston Guilmet,,2013,guilmpr01,University of Arizona,AZ,40.75774971297359
+Erik Johnson,,2013,johnser04,"University of California, Berkeley",CA,40.75774971297359
+Donnie Joseph,,2013,josepdo01,University of Houston,TX,40.75774971297359
+Logan Kensing,,2013,kensilo01,Texas A&M University,TX,40.75774971297359
+Charles Leesman,,2013,leesmch01,Xavier University,OH,40.75774971297359
+Jake Petricka,,2013,petrija01,Indiana State University,IN,40.75774971297359
+Daniel Stange,,2013,stangda01,"University of California, Riverside",CA,40.75774971297359
+Duke Welker,,2013,welkedu01,University of Arkansas,AR,40.75774971297359
+Alex Wilson,,2013,wilsoal01,Texas A&M University,TX,40.75774971297359
+Steven Wright,,2013,wrighst01,University of Hawaii at Manoa,HI,40.75774971297359
+Josh Zeid,,2013,zeidjo01,Tulane University,LA,40.75774971297359
+Marco Gonzales,0.2,2014,gonzama02,Gonzaga University,WA,40.75774971297359
+Brian Schlitter,0.1,2014,schlibr01,College of Charleston,SC,40.75774971297359
+R.J. Alvarez,0.0,2014,alvarrj01,Florida Atlantic University,FL,40.75774971297359
+Kyle Crockett,0.0,2014,crockky01,University of Virginia,VA,40.75774971297359
+Corey Knebel,0.0,2014,knebeco01,University of Texas at Austin,TX,40.75774971297359
+Jason Lane,0.0,2014,laneja01,Santa Rosa Junior College,CA,40.75774971297359
+Dominic Leone,0.0,2014,leonedo01,Clemson University,SC,40.75774971297359
+Aaron Poreda,0.0,2014,poredaa01,University of San Francisco,CA,40.75774971297359
+Marcus Stroman,0.0,2014,stromma01,Duke University,NC,40.75774971297359
+Buck Farmer,,2014,farmebu01,Georgia Institute of Technology,GA,40.75774971297359
+Brandon Finnegan,,2014,finnebr01,Texas Christian University,TX,40.75774971297359
+Kendall Graveman,,2014,graveke01,Mississippi State University,MS,40.75774971297359
+Chad Huffman,-0.1,2017,huffmch01,Texas Christian University,TX,40.75774971297359
