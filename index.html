@@ -11,7 +11,8 @@
     <!-- <link rel="stylesheet" href="static/css/style.css"> -->
     <link rel="stylesheet" href="static/css/d3Style.css">
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:100,100i,300,300i,400,400i,700,700i,900,900i">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Oswald:100,100i,300,300i,400,400i,700,700i,900,900i">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
         rel="stylesheet">
 
@@ -19,8 +20,9 @@
     <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
         integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
         crossorigin=""></script>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <!-- <script src="https://unpkg.com/d3-simple-slider"></script> -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
@@ -30,39 +32,37 @@
     <style>
         body {
             font-family: Lato;
-            font-weight:100
+            font-weight: 100
         }
 
         h1,
-        h2
-         {
+        h2 {
             font-family: Oswald;
-    text-align:center;
-    width:100%;
-    font-size: 1rem;  
-    font-weight: bold;
-    text-transform: uppercase; 
-    z-index: 999;
-    line-height:0.95em;
-    /* padding-top: 10rem; */
-    padding-left: 2rem;
+            text-align: center;
+            width: 100%;
+            font-size: 1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            z-index: 999;
+            line-height: 0.95em;
+            /* padding-top: 10rem; */
+            padding-left: 2rem;
         }
 
         h3,
         h4,
         h5,
-        h6
-        {
+        h6 {
             font-family: Lato;
-    text-align:center;
-    width:100%;
-    font-size: 1rem;  
-    font-weight: 300;
-    text-transform: uppercase; 
-    line-height:0.95em;
+            text-align: center;
+            width: 100%;
+            font-size: 1rem;
+            font-weight: 300;
+            text-transform: uppercase;
+            line-height: 0.95em;
 
-    /* padding-top: 10rem; */
-    padding-left: 0rem;
+            /* padding-top: 10rem; */
+            padding-left: 0rem;
         }
 
         .btn-xl {
@@ -77,7 +77,7 @@
             background-color: #000 !important
         } */
 
-    
+
         .navbar-custom {
             padding-top: 1rem;
             padding-bottom: 1rem;
@@ -105,24 +105,25 @@
             padding-bottom: 7rem;
             background: url('https://media.mnn.com/assets/images/2017/11/baseball_football_basketball.jpg.653x0_q80_crop-smart.jpg');
             background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    vertical-align: middle;
-            z-index:-2;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            vertical-align: middle;
+            z-index: -2;
         }
-        .main-banner:after{
+
+        .main-banner:after {
             content: '';
-	display: block;
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 0;
-    bottom: 0;
-    z-index:-1;
-    background: rgba(127, 127, 127, 0.5);
-	background-image: radial-gradient(black 33%, transparent 33%);
-	background-size: 2px 2px;
+            display: block;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            z-index: -1;
+            background: rgba(127, 127, 127, 0.5);
+            background-image: radial-gradient(black 33%, transparent 33%);
+            background-size: 2px 2px;
         }
 
         header.main-banner .main-banner-content {
@@ -137,9 +138,9 @@
         header.main-banner .main-banner-content .main-banner-subheading {
             font-size: 2rem
         }
-        
 
-       
+
+
 
         @media (min-width:992px) {
             header.main-banner {
@@ -163,7 +164,7 @@
         .btn-primary {
             background-color: #6f6f6f;
             border-color: #ffffff;
-            z-index:5;
+            z-index: 5;
         }
 
         .btn-primary:active,
@@ -178,38 +179,38 @@
             box-shadow: 0 0 0 .2rem #71d0ca
         }
 
-.display-1  {
-    text-align:left;
-    padding-left:none;
-    font-size:1rem !important;
+        .display-1 {
+            text-align: left;
+            padding-left: none;
+            font-size: 1rem !important;
 
-}
-.display-2 {
-    text-align:right ;
-    font-size:1rem !important;
+        }
 
-}
+        .display-2 {
+            text-align: right;
+            font-size: 1rem !important;
 
-h2.display-1, h2.display-2  {
-    font-weight:500;
-    font-family:Oswald;
-    padding-left:0rem;
-}
+        }
+
+        h2.display-1,
+        h2.display-2 {
+            font-weight: 500;
+            font-family: Oswald;
+            padding-left: 0rem;
+        }
 
 
         select {
 
-/* styling */
 background-color: white;
 border: thin solid rgb(210, 210, 210);
-border-radius: 4px;
+border-radius: 0px;
 display: inline-block;
 font-family:Lato;
 text-transform: uppercase;
-line-height: 1.5em;
+line-height: .75em;
 padding: 0.5em 3.5em 0.5em 1em;
 
-/* reset */
 
 margin: 0;   
 margin-bottom: 1rem;   
@@ -222,12 +223,12 @@ box-sizing: border-box;
 
 select.minimal {
 background-image:
-  linear-gradient(45deg, transparent 50%, rgb(0,0,0) 50%),
-  linear-gradient(135deg, rgb(0,0,0) 50%, transparent 50%),
+  linear-gradient(45deg, transparent 50%, rgb(255, 255, 255) 50%),
+  linear-gradient(135deg, rgb(255, 255, 255) 50%, transparent 50%),
   linear-gradient(to right, rgb(201, 201, 201), rgb(201, 201, 201));
 background-position:
-  calc(100% - 13px) calc(1em + 2px),
-  calc(100% - 8px) calc(1em + 2px),
+  calc(100% - 19px) calc(1em - 2px),
+  calc(100% - 14px) calc(1em - 2px),
   100% 0;
 background-size:
   5px 5px,
@@ -236,7 +237,6 @@ background-size:
 background-repeat: no-repeat;
 
 }
-
 select.minimal:focus {
 background-image:
   linear-gradient(45deg, white 50%, transparent 50%),
@@ -254,12 +254,60 @@ background-repeat: no-repeat;
 border-color: grey;
 outline: 0;
 }
+
+
+select.minimal-1 {
+background-image:
+  linear-gradient(45deg, transparent 50%, rgb(255, 255, 255) 50%),
+  linear-gradient(135deg, rgb(255, 255, 255) 50%, transparent 50%),
+  linear-gradient(to right, rgb(201, 201, 201), rgb(201, 201, 201));
+background-position:
+  calc(100% - 13px) calc(1em - 2px),
+  calc(100% - 8px) calc(1em - 2px),
+  100% 0;
+background-size:
+  5px 5px,
+  5px 5px,
+  2.5em 2.5em;
+background-repeat: no-repeat;
+font-size:10px;
+
+}
+
+select.minimal-1:focus {
+background-image:
+  linear-gradient(45deg, white 50%, transparent 50%),
+  linear-gradient(135deg, transparent 50%, white 50%),
+  linear-gradient(to right, gray, gray);
+background-position:
+  calc(100% - 7px) 1em,
+  calc(100% - 12px) 1em,
+  100% 0;
+background-size:
+  5px 5px,
+  5px 5px,
+  2.5em 2.5em;
+background-repeat: no-repeat;
+border-color: grey;
+outline: 0;
+}
+
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   /* padding: 16px; */
   text-align: center;
   background-color: #f1f1f1;
   padding:0.5rem;
+  border-radius: 0px;
+  font-family: Lato;
+  font-weight: 100;
+}
+.card-label {
+    text-align:center;
+    padding-left:none;
+    font-size:1rem !important;
+    font-family: Lato;
+  font-weight: 100;
 }
 .legend-card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0);
@@ -276,38 +324,24 @@ outline: 0;
     display: inline-block;
     width: 100%;
 } */
-ul.selectors {
-    text-align: justify;
-    width:100%;
-}
-ul.selectors:after {
-    content: '';
-    display: inline-block;
-    width: 100%;
-}
-ul.selectors:before {
-    content: '';
-    display: block;
-    margin-top: -1.25em;
-}
-li.selector {
-    color: #000;
-    display: inline-block;
-    font: 1em/1.5 Lato;
+        ul.selectors {
+            text-align: justify;
+            width: 100%;
+        }
 
-    position: relative;
-}
+        ul.selectors:after {
+            content: '';
+            display: inline-block;
+            width: 100%;
+        }
 
-#map {
-  height: 400px;
-  width: 100%;
-  margin: auto;
-  float:right;
-  z-index:3;
-  margin-top:2rem;
-  margin-bottom:2rem;
+        ul.selectors:before {
+            content: '';
+            display: block;
+            margin-top: -1.25em;
+        }
 
-}
+
 hr {
     width: 25%;
     margin-right:75%;
@@ -315,18 +349,48 @@ hr {
     /* border:2px #ffffff; */
     color: #ffffff;
 background-color: #ffffff;
-height: 2.5px;
+height: 2px;
 }
 h1, h3 {
   text-align: center;
 }
 .section_1 {
-    background: #b5b5b5;
+    background: #d6d6d6;
+
 }
 .section_2 {
     background: #e3e3e3;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-areas: "Content_1 Content_1 Content_1 Content_1" "Content_1 Content_1 Content_1 Content_1" "Metric_1 Metric_1 Metric_2 Metric_2" "Metric_1 Metric_1 Metric_2 Metric_2";
+}
 
+.Content_1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas: ". State_Name_Grid State_Name_Grid ." "Home-Town Home-Town College-Town College-Town";
+  grid-area: Content_1;
+  text-align:center;
+}
+
+.Home-Town { grid-area: Home-Town;   text-align:center;
+}
+
+.College-Town { grid-area: College-Town;   text-align:center;
+}
+
+.State_Name_Grid { grid-area: State_Name_Grid;   text-align:center;
+}
+
+.Metric_1 { grid-area: Metric_1;   text-align:center;
+}
+
+.Metric_2 { grid-area: Metric_2;   text-align:center;
+}
 .info {
   padding: 6px 8px;
   font: 14px/16px Arial, Helvetica, sans-serif;
@@ -342,16 +406,68 @@ h1, h3 {
 .legend {
   line-height: 18px;
   color: 'black';
-
 }
-.legend i {
-  width: 18px;
-  height: 18px;
-  float: left;
-  margin-right: 8px;
-  opacity: 1;
-}
+        #map {
+            height: 400px;
+            width: 100%;
+            margin: auto;
+            float: right;
+            z-index: 3;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
 
+        }
+
+        hr {
+            width: 25%;
+            margin-right: 75%;
+            /* text-align:left; */
+            /* border:2px #ffffff; */
+            color: #ffffff;
+            background-color: #ffffff;
+            height: 2.5px;
+        }
+
+        h1,
+        h3 {
+            text-align: center;
+        }
+
+        .section_1 {
+            background: #b5b5b5;
+        }
+
+        .section_2 {
+            background: #e3e3e3;
+        }
+
+        .info {
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+        }
+
+        .info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
+
+        .legend {
+            line-height: 18px;
+            color: 'black';
+
+        }
+
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 1;
+        }
     </style>
 </head>
 
@@ -367,9 +483,9 @@ h1, h3 {
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                                <a class="nav-link" href="#">ALL</a>
-                            </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">ALL</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">MLB</a>
                     </li>
@@ -379,10 +495,10 @@ h1, h3 {
                     <li class="nav-item">
                         <a class="nav-link" href="#">NFL</a>
                     </li>
-<li>
-                    <a target="#_blank" href="https://github.com/Axemen/project-2" style="padding-left:20px;">
-                        <img width="25px" src="../static/icons/GitHub-Mark-Light-32px.png">
-                      </a>
+                    <li>
+                        <a target="#_blank" href="https://github.com/Axemen/project-2" style="padding-left:20px;">
+                            <img width="25px" src="../static/icons/GitHub-Mark-Light-32px.png">
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -397,35 +513,51 @@ h1, h3 {
                 <a href="#map" class="btn btn-primary btn-xl mt-5">Get Started</a>
             </div>
         </div>
-  
+
     </header>
 
     <section class="section_1">
         <div class="container level-1">
             <div class="row align-items-center">
-                    <div class="col-lg-4 order-lg-1">
-                            <div class="p-5">
-                                <h2 class="display-1">Spend Across States...</h2>
-                                <hr class="header-bar">
-                                <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
-                                    sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                                    voluptatum molestiae adipisci, beatae obcaecati.</p>
-                                   
-                            </div>
-                        </div>
+                <div class="col-lg-4 order-lg-1">
+                    <div class="p-5">
+                        <h2 class="display-1">Spend Across States...</h2>
+                        <hr class="header-bar">
+                        <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid,
+                            mollitia odio veniam
+                            sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
+                            voluptatum molestiae adipisci, beatae obcaecati.</p>
+                            <select id="map_metric" class="minimal" onChange="changemapMetric(this)">
+                                    <option value="mlb" id="map-sport-selected" selected>MLB</option>
+                                    <option value="nba">NBA</option>
+                                    <option value="nfl">NFL</option>
+                                </select>
+                                <select id="map_year" class="minimal" onChange="changemapYear(this)">
+                                    <option value="2011">2011</option>
+                                    <option value="2012">2012</option>
+                                    <option value="2013">2013</option>
+                                    <option value="2014">2014</option>
+                                    <option value="2015">2015</option>
+                                    <option value="2016">2016</option>
+                                    <option value="2017">2017</option>
+                                    <option value="2018" id="map-year-selected" selected>2018</option>
+                                </select>
+
+                    </div>
+                </div>
                 <div class="col-lg-8 order-lg-2">
                     <div id="map"></div>
                 </div>
-                
+
             </div>
         </div>
     </section>
-<!-- <hr> -->
+    <!-- <hr> -->
 
 <section class="section_2">
     <div class="container">
         <div class="row align-items-center">
-                <div class="col-lg-6 order-lg-1">
+                <div class="col-lg-4 order-lg-1">
                         <div class="p-5">
                             <h2 class="display-1">Fast Facts</h2>
                             <hr class="header-bar">
@@ -433,52 +565,81 @@ h1, h3 {
                             <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
                                 sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
                                 voluptatum molestiae adipisci, beatae obcaecati.</p>
+                                
                         </div>
                     </div>
-            <div class="col-lg-6 order-lg-2">
+            <div class="col-lg-8 order-lg-2">
                 <div class="p-5">
-                    <img class="img-fluid rounded-circle" src="img/03.jpg" alt="">
+                        <div class="grid-container">
+                                <div class="Content_1">
+                                  <div class="Home-Town">Home Town</div>
+                                  <div class="College-Town">College Town</div>
+                                  <div class="State_Name_Grid">
+                                      
+                                    
+                                    <select id="state_fast_facts" class="minimal">
+                                        <option value="state_1" id="state-selected" selected>State_1</option>
+                                        <option value="state_2">State_2</option>
+                                        <option value="state_3">State_3</option>
+                                    </select>
+                                
+                                
+                                  
+                                </div>
+                                </div>
+                                <div class="Metric_1">3465</div>
+                                <div class="Metric_2">2837</div>
+                              </div>
+
+                    
+
+
                 </div>
+                <div class="col-lg-6 order-lg-2">
+                    <div class="p-5">
+                        <img class="img-fluid rounded-circle" src="img/03.jpg" alt="">
+                    </div>
+                </div>
+
             </div>
-            
         </div>
-    </div>
-</section >
-<!-- <hr> -->
+    </section>
+    <!-- <hr> -->
     <section class="section_1">
         <div class="container">
             <div class="row align-items-center">
-                    <div class="col-lg-4">
-                            <div class="p-5">
-                                <h2 class="display-1">Spend and Performance...</h2>
-                                <hr class="header-bar">
+                <div class="col-lg-4">
+                    <div class="p-5">
+                        <h2 class="display-1">Spend and Performance...</h2>
+                        <hr class="header-bar">
 
-                                <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
-                                    sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                                    voluptatum molestiae adipisci, beatae obcaecati.</p>
-                                    <select id="sport-inds" class="minimal" onChange="changesportSelection(this)">
-                                        <option value="mlb" id="sport-selected" selected>MLB</option>
-                                        <option value="nba">NBA</option>
-                                        <option value="nfl">NFL</option>
-                                    </select>
-                                    <select id="year-inds" class="minimal" onChange="changeyearSelection(this)">
-                                        <option value="2011">2011</option>
-                                        <option value="2012">2012</option>
-                                        <option value="2013">2013</option>
-                                        <option value="2014">2014</option>
-                                        <option value="2015">2015</option>
-                                        <option value="2016">2016</option>
-                                        <option value="2017">2017</option>
-                                        <option value="2018" id="year-selected" selected>2018</option>
-                                    </select>
-                                    
-                            </div>
-                        </div>
+                        <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid,
+                            mollitia odio veniam
+                            sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
+                            voluptatum molestiae adipisci, beatae obcaecati.</p>
+                        <select id="sport-inds" class="minimal" onChange="changesportSelection(this)">
+                            <option value="mlb" id="sport-selected" selected>MLB</option>
+                            <option value="nba">NBA</option>
+                            <option value="nfl">NFL</option>
+                        </select>
+                        <select id="year-inds" class="minimal" onChange="changeyearSelection(this)">
+                            <option value="2011">2011</option>
+                            <option value="2012">2012</option>
+                            <option value="2013">2013</option>
+                            <option value="2014">2014</option>
+                            <option value="2015">2015</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
+                            <option value="2018" id="year-selected" selected>2018</option>
+                        </select>
+
+                    </div>
+                </div>
                 <div class="col-lg-8">
                     <div id="scatter"></div>
 
                 </div>
-                
+
             </div>
         </div>
     </section>
@@ -521,48 +682,57 @@ h1, h3 {
                             <!-- <div class="row">
                                     <ul class="selectors col-sm-12">
                                             <li class="selector">
-                                                    <select id="sport-picker" class="minimal" onchange="optionChanged(this.value)">
-                                                            
-                                                        </select>
-                                                    <h3>State</h3>
-                                                    
-                                            </li>
-                                            <li class="selector card">
-                                                    <select id="sport-picker" class="minimal">
+                                                    <select id="sport-picker" class="minimal-1">
                                                             <option value="mlb" id="sport-picker" selected>MLB</option>
                                                             <option value="nba">NBA</option>
                                                             <option value="nfl">NFL</option>
                                                         </select>
-                                                    <h3>League</h3>
+                                                        <br>
+                                                     <h3>League</h3> -->
+                                                    <div class="legend-card">
         
                                                 <p>Name</p>
                                                 <p>College</p>
                                                 <p>Average Salary ($)</p>
                                                 <p>Success Metric<br> (Percentile)</p>
+                                            </div>
+                                            </li>
+                                            <li class="selector card">
+                                                    <select id="sport-picker" class="minimal-1">
+                                                            <option value="mlb" id="sport-picker" selected>Player 1</option>
+                                                            <option value="nba">Player 2</option>
+                                                            <option value="nfl">Player 3</option>
+                                                        </select>
+                                                    <h3>League</h3>
+        
+                                                    <p class="card-label">Name</p>
+                                                    <p class="card-label">College</p>
+                                                    <p class="card-label">Average Salary ($)</p>
+                                                    <p class="card-label">Success Metric<br> (Percentile)</p>
                                                 </li>
                                             <li class="selector card"> 
-                                                    <select id="sport-picker" class="minimal">
-                                                            <option value="mlb" id="sport-picker" selected>MLB</option>
-                                                            <option value="nba">NBA</option>
-                                                            <option value="nfl">NFL</option>
+                                                    <select id="sport-picker" class="minimal-1">
+                                                            <option value="mlb" id="sport-picker" selected>Player 1</option>
+                                                            <option value="nba">Player 2</option>
+                                                            <option value="nfl">Player 3</option>
                                                         </select>
                                                 <h3>League</h3>
     
-                                            <p>Name</p>
-                                            <p>College</p>
-                                            <p>Average Salary ($)</p>
-                                            <p>Success Metric<br> (Percentile)</p>
+                                                <p class="card-label">Name</p>
+                                                <p class="card-label">College</p>
+                                                <p class="card-label">Average Salary ($)</p>
+                                                <p class="card-label">Success Metric<br> (Percentile)</p>
                                     </li>
-                                            <li class="selector card"> <select id="sport-picker" class="minimal">
-                                                    <option value="mlb" id="sport-picker" selected>MLB</option>
-                                                    <option value="nba">NBA</option>
-                                                    <option value="nfl">NFL</option>
+                                            <li class="selector card"> <select id="sport-picker" class="minimal-1">
+                                                    <option value="mlb" id="sport-picker" selected>Player 1</option>
+                                                    <option value="nba">Player 2</option>
+                                                    <option value="nfl">Player 3</option>
                                                 </select><h3>League</h3>
     
-                                            <p>Name</p>
-                                            <p>College</p>
-                                            <p>Average Salary ($)</p>
-                                            <p>Success Metric<br> (Percentile)</p>
+                                                <p class="card-label">Name</p>
+                                                <p class="card-label">College</p>
+                                                <p class="card-label">Average Salary ($)</p>
+                                                <p class="card-label">Success Metric<br> (Percentile)</p>
                                         </li>
                                         </ul>
 
@@ -579,23 +749,60 @@ h1, h3 {
                             </div>
                     </div>
                 </div>
-                
             </div>
+
+        </div>
         </div>
     </section>
+    <section class="section_1">
+            <div class="container">
+                <div class="row align-items-center">
+                        <div class="col-lg-4 order-lg-1">
+                                <div class="p-5">
+                                    <h2 class="display-1">Want to Dig Deeper?</h2>
+                                    <hr class="header-bar">
+    
+                                    <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
+                                        sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
+                                        voluptatum molestiae adipisci, beatae obcaecati.</p>
+                                        
+                                </div>
+                            </div>
+                    <div class="col-lg-8 order-lg-2">
+                        <div class="p-5">
+    
+    
+                                <div class="row">
+                                      
+                                  </div>
+    
+    
+    
+    
+    
+    
+    
+    
+                                </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
     <!-- <hr> -->
 
     <!-- Footer -->
-    <footer class="py-5 bg-black">
+    <footer class="py-3 bg-white">
         <div class="container">
 
-            <p class="m-0 text-center text-black small">Logan Fitzpatrick, Ehsan Khan, Devynn Moreno, Jonathan Randolph</p>
+            <p class="m-0 text-center text-black small">Logan Fitzpatrick, Ehsan Khan, Devynn Moreno, Jonathan Randolph
+            </p>
             <p class="m-0 text-center text-black small">Rice University Data Analytics Boot Camp | July 2019</p>
 
         </div>
         <!-- /.container -->
     </footer>
-
 
     <script>
         var prevScrollpos = window.pageYOffset;
@@ -609,8 +816,10 @@ h1, h3 {
             prevScrollpos = currentScrollPos;
         }
     </script>
+    <script src="static/js/config.js"></script>
 
-    <script src="static/js/chroma.js"></script>
+    <!-- <script src="static/js/chroma.js"></script> -->
+    <script src="static/js/config.js"></script>
     <script type="text/javascript" src="static/js/main.js"></script>
     <script src="static/js/choropleth.js"></script>
     <script src="static/js/infographics.js"></script>
