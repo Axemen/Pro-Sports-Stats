@@ -403,6 +403,10 @@ h1, h3 {
   margin: 0 0 5px;
   color: #777;
 }
+
+.info > br {
+    display:none;
+}
 .legend {
   line-height: 18px;
   color: 'black';
@@ -468,6 +472,13 @@ h1, h3 {
             margin-right: 8px;
             opacity: 1;
         }
+        .bold-metric {
+            font-size: 2rem;
+            font-weight: 400;
+        }
+.grid-container {
+    /* line-height: 0px; */
+}
     </style>
 </head>
 
@@ -569,32 +580,32 @@ h1, h3 {
                         </div>
                     </div>
             <div class="col-lg-8 order-lg-2">
-                <div class="p-5">
-                        <div class="grid-container">
-                                <div class="Content_1">
-                                  <div class="Home-Town">Home Town</div>
-                                  <div class="College-Town">College Town</div>
-                                  <div class="State_Name_Grid">
-                                      
+                    <div class="p-5">
+                            <div class="grid-container">
+                                    <div class="Content_1">
+                                      <div class="Home-Town">As a home state</div>
+                                      <div class="College-Town">As a college state</div>
+                                      <div class="State_Name_Grid">
+                                          
+                                        
+                                        <select id="state_fast_facts" class="minimal">
+                                            <option value="state_1" id="state-selected" selected>State_1</option>
+                                            <option value="state_2">State_2</option>
+                                            <option value="state_3">State_3</option>
+                                        </select>
                                     
-                                    <select id="state_fast_facts" class="minimal">
-                                        <option value="state_1" id="state-selected" selected>State_1</option>
-                                        <option value="state_2">State_2</option>
-                                        <option value="state_3">State_3</option>
-                                    </select>
-                                
-                                
-                                  
-                                </div>
-                                </div>
-                                <div class="Metric_1">3465</div>
-                                <div class="Metric_2">2837</div>
-                              </div>
-
-                    
-
-
-                </div>
+                                    
+                                      
+                                    </div>
+                                    </div>
+                                    <div class="Metric_1"><p class="bold-metric">$3465</p><p>is the average salary of professional athletes<br>and an average performance of</p><p class="bold-metric">0.34</p></div>
+                                    <div class="Metric_2"><p class="bold-metric">$2837</p><p>is the average salary of professional athletes<br>and an average performance of</p><p class="bold-metric">1.48</p></div>
+                                  </div>
+    
+                        
+    
+    
+                    </div>
                 <div class="col-lg-6 order-lg-2">
                     <div class="p-5">
                         <img class="img-fluid rounded-circle" src="img/03.jpg" alt="">
