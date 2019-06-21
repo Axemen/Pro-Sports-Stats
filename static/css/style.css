@@ -330,35 +330,37 @@ background: #d6d6d6;
 background: #e3e3e3;
 }
 .grid-container {
-display: grid;
-grid-template-columns: 1fr 1fr 1fr 1fr;
-grid-template-rows: 1fr 1fr 1fr 1fr;
-grid-template-areas: "Content_1 Content_1 Content_1 Content_1" "Content_1 Content_1 Content_1 Content_1" "Metric_1 Metric_1 Metric_2 Metric_2" "Metric_1 Metric_1 Metric_2 Metric_2";
+  display: grid;
+  text-align:center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-areas: ". grid_selector grid_selector ." "home_text home_text college_text college_text" "home_money home_money college_money college_money" "home_text_2 home_text_2 college_text_2 college_text_2" "home_perf home_perf college_perf college_perf";
 }
 
-.Content_1 {
-display: grid;
-grid-template-columns: 1fr 1fr 1fr 1fr;
-grid-template-rows: 1fr 1fr;
-grid-template-areas: ". State_Name_Grid State_Name_Grid ." "Home-Town Home-Town College-Town College-Town";
-grid-area: Content_1;
-text-align:center;
+.grid_selector { grid-area: grid_selector; }
+div.home_text, div.college_text, div.home_text_2, div.college_text_2 {  
+  display:flex;
+  vertical-align:middle; 
+  align-items: center;
+  justify-content: center;
+}
+.home_text { grid-area: home_text;
+  ;
 }
 
-.Home-Town { grid-area: Home-Town;   text-align:center;
-}
+.college_text { grid-area: college_text; }
 
-.College-Town { grid-area: College-Town;   text-align:center;
-}
+.home_money { grid-area: home_money; }
 
-.State_Name_Grid { grid-area: State_Name_Grid;   text-align:center;
-}
+.college_money { grid-area: college_money; }
 
-.Metric_1 { grid-area: Metric_1;   text-align:center;
-}
+.home_text_2 { grid-area: home_text_2; }
 
-.Metric_2 { grid-area: Metric_2;   text-align:center;
-}
+.college_text_2 { grid-area: college_text_2; }
+
+.home_perf { grid-area: home_perf; }
+
+.college_perf { grid-area: college_perf; }
 .info {
 padding: 6px 8px;
 font: 14px/16px Arial, Helvetica, sans-serif;
