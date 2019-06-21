@@ -163,11 +163,13 @@ function loadMap(metric, year) {
                 //         grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
                 // }
                 let format = d3.format('.1f');
-                div.innerHTML = `<div><i style = "background: ${getColor(grades[0] + 1)}"></i> ${format(grades[0])}</div><br>
-                                <div><i style = "background: ${getColor(grades[1] + 1)}"></i> ${format(grades[1])}</div><br>
-                                <div><i style = "background: ${getColor(grades[2] + 1)}"></i> ${format(grades[2])}</div><br> 
-                                <div><i style = "background: ${getColor(grades[3] + 1)}"></i> ${format(grades[3])}</div><br>  
-                                <div><i style = "background: ${getColor(grades[4] + 1)}"></i> ${format(grades[4])}</div><br>`
+                div.innerHTML = `<div class = "row">
+                                <div class = "col-sm-12">Percenitle</div>
+                                <div class = "col-sm-12"><i style = "background: #ee3e32"></i> 100%</div>
+                                <div class = "col-sm-12"><i style = "background: #f68838"></i> 75%</div>
+                                <div class = "col-sm-12"><i style = "background: #fbb021"></i> 50%</div>
+                                <div class = "col-sm-12"><i style = "background: #1b8a5a"></i> 25%</div> 
+                                <div class = "col-sm-12"><i style = "background: #1d4877"></i> 0%</div></div>`;
                 // for(let i = 0; i < grades.length; i++){
                 //     div.innerHTML += format(grades[i]) + ' ';
                 // }
