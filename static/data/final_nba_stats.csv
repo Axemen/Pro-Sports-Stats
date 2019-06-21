@@ -1,0 +1,2962 @@
+,Player,PER,PER_Percentile,state,college
+0,Sim Bhullar,44.3,99,NM,New Mexico State University
+1,Anthony Brown,41.9,99,IL,DePaul University
+2,Anthony Brown,7.2,11,IL,DePaul University
+3,Anthony Brown,4.9,6,IL,DePaul University
+4,Eric Moreland,40.8,99,OR,Oregon State University
+5,Eric Moreland,13.9,58,OR,Oregon State University
+6,Eric Moreland,7.4,12,OR,Oregon State University
+7,David Stockton,33.9,99,WA,Gonzaga University
+8,David Stockton,10.8,32,WA,Gonzaga University
+9,Orien Greene,33.0,99,LA,University of Louisiana at Lafayette
+10,Rakeem Christmas,32.0,99,NY,Syracuse University
+11,Rakeem Christmas,10.4,29,NY,Syracuse University
+12,Jarnell Stokes,31.5,99,TN,University of Tennessee
+13,Jarnell Stokes,20.0,91,TN,University of Tennessee
+14,Jarnell Stokes,18.6,87,TN,University of Tennessee
+15,Stephen Curry,31.5,99,NC,Davidson College
+16,Stephen Curry,28.2,99,NC,Davidson College
+17,Stephen Curry,28.0,99,NC,Davidson College
+18,Stephen Curry,24.6,97,NC,Davidson College
+19,Stephen Curry,24.1,97,NC,Davidson College
+20,Stephen Curry,21.3,94,NC,Davidson College
+21,Stephen Curry,21.2,94,NC,Davidson College
+22,Stephen Curry,19.4,90,NC,Davidson College
+23,Tyrus Thomas,31.4,99,LA,Louisiana State University
+24,Tyrus Thomas,18.2,86,LA,Louisiana State University
+25,Tyrus Thomas,9.6,23,LA,Louisiana State University
+26,Tyrus Thomas,9.0,19,LA,Louisiana State University
+27,Tony Mitchell,30.9,99,IN,Purdue University
+28,Tony Mitchell,18.1,85,IN,Purdue University
+29,Anthony Davis,30.8,99,TX,University of Texas at El Paso
+30,Anthony Davis,28.9,99,TX,University of Texas at El Paso
+31,Anthony Davis,27.5,99,TX,University of Texas at El Paso
+32,Anthony Davis,26.5,98,TX,University of Texas at El Paso
+33,Anthony Davis,25.0,97,TX,University of Texas at El Paso
+34,Anthony Davis,21.7,95,TX,University of Texas at El Paso
+35,Demetrius Jackson,30.8,99,IN,University of Notre Dame
+36,Demetrius Jackson,5.4,7,IN,University of Notre Dame
+37,Russell Westbrook,30.6,99,CA,"University of California, Los Angeles"
+38,Russell Westbrook,29.1,99,CA,"University of California, Los Angeles"
+39,Russell Westbrook,27.6,99,CA,"University of California, Los Angeles"
+40,Russell Westbrook,24.7,97,CA,"University of California, Los Angeles"
+41,Russell Westbrook,24.7,97,CA,"University of California, Los Angeles"
+42,Russell Westbrook,23.9,97,CA,"University of California, Los Angeles"
+43,Russell Westbrook,23.6,96,CA,"University of California, Los Angeles"
+44,Russell Westbrook,22.9,96,CA,"University of California, Los Angeles"
+45,James Harden,29.8,99,AZ,Arizona State University
+46,James Harden,27.4,98,AZ,Arizona State University
+47,James Harden,26.7,98,AZ,Arizona State University
+48,James Harden,25.3,98,AZ,Arizona State University
+49,James Harden,23.5,96,AZ,Arizona State University
+50,James Harden,23.0,96,AZ,Arizona State University
+51,James Harden,21.1,93,AZ,Arizona State University
+52,James Harden,16.4,77,AZ,Arizona State University
+53,Kevin Durant,29.8,99,TX,University of Texas at Austin
+54,Kevin Durant,28.3,99,TX,University of Texas at Austin
+55,Kevin Durant,28.2,99,TX,University of Texas at Austin
+56,Kevin Durant,27.6,99,TX,University of Texas at Austin
+57,Kevin Durant,27.6,99,TX,University of Texas at Austin
+58,Kevin Durant,26.2,98,TX,University of Texas at Austin
+59,Kevin Durant,26.0,98,TX,University of Texas at Austin
+60,Kevin Durant,23.6,96,TX,University of Texas at Austin
+61,Henry Sims,29.2,99,DC,Georgetown University
+62,Henry Sims,16.1,75,DC,Georgetown University
+63,Henry Sims,14.5,63,DC,Georgetown University
+64,Henry Sims,13.9,58,DC,Georgetown University
+65,Kawhi Leonard,27.6,99,CA,San Diego State University
+66,Kawhi Leonard,26.0,98,CA,San Diego State University
+67,Kawhi Leonard,26.0,98,CA,San Diego State University
+68,Kawhi Leonard,22.0,95,CA,San Diego State University
+69,Kawhi Leonard,19.4,90,CA,San Diego State University
+70,Kawhi Leonard,16.6,78,CA,San Diego State University
+71,Kawhi Leonard,16.4,77,CA,San Diego State University
+72,Chris Paul,27.0,98,NC,Wake Forest University
+73,Chris Paul,26.4,98,NC,Wake Forest University
+74,Chris Paul,26.2,98,NC,Wake Forest University
+75,Chris Paul,26.2,98,NC,Wake Forest University
+76,Chris Paul,26.0,98,NC,Wake Forest University
+77,Chris Paul,25.9,98,NC,Wake Forest University
+78,Chris Paul,24.4,97,NC,Wake Forest University
+79,Chris Paul,23.7,97,NC,Wake Forest University
+80,Kevin Love,26.9,98,CA,"University of California, Los Angeles"
+81,Kevin Love,25.4,98,CA,"University of California, Los Angeles"
+82,Kevin Love,24.3,97,CA,"University of California, Los Angeles"
+83,Kevin Love,22.4,95,CA,"University of California, Los Angeles"
+84,Kevin Love,21.1,93,CA,"University of California, Los Angeles"
+85,Kevin Love,19.0,88,CA,"University of California, Los Angeles"
+86,Kevin Love,18.8,88,CA,"University of California, Los Angeles"
+87,Kevin Love,17.9,85,CA,"University of California, Los Angeles"
+88,Isaiah Thomas,26.5,98,IN,Indiana University
+89,Isaiah Thomas,21.5,94,IN,Indiana University
+90,Isaiah Thomas,20.6,93,IN,Indiana University
+91,Isaiah Thomas,20.5,92,IN,Indiana University
+92,Isaiah Thomas,17.6,83,IN,Indiana University
+93,Isaiah Thomas,17.5,82,IN,Indiana University
+94,Isaiah Thomas,12.6,47,IN,Indiana University
+95,Dwyane Wade,26.3,98,WI,Marquette University
+96,Dwyane Wade,25.6,98,WI,Marquette University
+97,Dwyane Wade,24.0,97,WI,Marquette University
+98,Dwyane Wade,22.0,95,WI,Marquette University
+99,Dwyane Wade,21.4,94,WI,Marquette University
+100,Dwyane Wade,20.3,92,WI,Marquette University
+101,Dwyane Wade,18.5,87,WI,Marquette University
+102,Dwyane Wade,15.0,67,WI,Marquette University
+103,Hassan Whiteside,26.2,98,WV,Marshall University
+104,Hassan Whiteside,25.7,98,WV,Marshall University
+105,Hassan Whiteside,24.1,97,WV,Marshall University
+106,Hassan Whiteside,22.6,96,WV,Marshall University
+107,Hassan Whiteside,16.2,76,WV,Marshall University
+108,Hassan Whiteside,-17.9,0,WV,Marshall University
+109,MarShon Brooks,26.1,98,RI,Providence College
+110,MarShon Brooks,15.5,71,RI,Providence College
+111,MarShon Brooks,13.5,55,RI,Providence College
+112,MarShon Brooks,12.9,50,RI,Providence College
+113,DeMarcus Cousins,26.1,98,KY,University of Kentucky
+114,DeMarcus Cousins,25.8,98,KY,University of Kentucky
+115,DeMarcus Cousins,25.2,97,KY,University of Kentucky
+116,DeMarcus Cousins,23.6,96,KY,University of Kentucky
+117,DeMarcus Cousins,22.6,96,KY,University of Kentucky
+118,DeMarcus Cousins,21.7,95,KY,University of Kentucky
+119,DeMarcus Cousins,20.2,92,KY,University of Kentucky
+120,DeMarcus Cousins,14.6,64,KY,University of Kentucky
+121,Josh Huestis,26.1,98,CA,Stanford University
+122,Josh Huestis,6.7,10,CA,Stanford University
+123,Josh Huestis,5.4,7,CA,Stanford University
+124,Karl-Anthony Towns,25.9,98,KY,University of Kentucky
+125,Karl-Anthony Towns,24.9,97,KY,University of Kentucky
+126,Karl-Anthony Towns,22.5,95,KY,University of Kentucky
+127,Jonathan Gibson,25.4,98,NM,New Mexico State University
+128,Jonathan Gibson,9.5,22,NM,New Mexico State University
+129,Brook Lopez,25.4,98,CA,Stanford University
+130,Brook Lopez,24.7,97,CA,Stanford University
+131,Brook Lopez,22.7,96,CA,Stanford University
+132,Brook Lopez,21.9,95,CA,Stanford University
+133,Brook Lopez,21.7,95,CA,Stanford University
+134,Brook Lopez,20.4,92,CA,Stanford University
+135,Brook Lopez,19.3,89,CA,Stanford University
+136,Brook Lopez,16.4,77,CA,Stanford University
+137,JaVale McGee,25.2,97,NV,"University of Nevada, Reno"
+138,JaVale McGee,22.3,95,NV,"University of Nevada, Reno"
+139,JaVale McGee,20.7,93,NV,"University of Nevada, Reno"
+140,JaVale McGee,19.9,91,NV,"University of Nevada, Reno"
+141,JaVale McGee,19.9,91,NV,"University of Nevada, Reno"
+142,JaVale McGee,17.4,82,NV,"University of Nevada, Reno"
+143,JaVale McGee,14.4,62,NV,"University of Nevada, Reno"
+144,JaVale McGee,10.2,27,NV,"University of Nevada, Reno"
+145,Damian Lillard,25.2,97,UT,Weber State University
+146,Damian Lillard,24.1,97,UT,Weber State University
+147,Damian Lillard,22.2,95,UT,Weber State University
+148,Damian Lillard,20.7,93,UT,Weber State University
+149,Damian Lillard,18.6,87,UT,Weber State University
+150,Damian Lillard,16.4,77,UT,Weber State University
+151,Jimmy Butler,25.1,97,WI,Marquette University
+152,Jimmy Butler,23.7,97,WI,Marquette University
+153,Jimmy Butler,21.3,94,WI,Marquette University
+154,Jimmy Butler,21.3,94,WI,Marquette University
+155,Jimmy Butler,15.2,68,WI,Marquette University
+156,Jimmy Butler,13.5,55,WI,Marquette University
+157,Jimmy Butler,12.5,46,WI,Marquette University
+158,Kyrie Irving,25.0,97,NC,Duke University
+159,Kyrie Irving,23.0,96,NC,Duke University
+160,Kyrie Irving,21.5,94,NC,Duke University
+161,Kyrie Irving,21.4,94,NC,Duke University
+162,Kyrie Irving,21.4,94,NC,Duke University
+163,Kyrie Irving,20.1,91,NC,Duke University
+164,Kyrie Irving,19.9,91,NC,Duke University
+165,LaMarcus Aldridge,25.0,97,TX,University of Texas at Austin
+166,LaMarcus Aldridge,22.8,96,TX,University of Texas at Austin
+167,LaMarcus Aldridge,22.7,96,TX,University of Texas at Austin
+168,LaMarcus Aldridge,22.4,95,TX,University of Texas at Austin
+169,LaMarcus Aldridge,21.8,95,TX,University of Texas at Austin
+170,LaMarcus Aldridge,21.5,94,TX,University of Texas at Austin
+171,LaMarcus Aldridge,20.4,92,TX,University of Texas at Austin
+172,LaMarcus Aldridge,18.6,87,TX,University of Texas at Austin
+173,Carmelo Anthony,24.8,97,NY,Syracuse University
+174,Carmelo Anthony,24.4,97,NY,Syracuse University
+175,Carmelo Anthony,21.7,95,NY,Syracuse University
+176,Carmelo Anthony,21.5,94,NY,Syracuse University
+177,Carmelo Anthony,21.1,93,NY,Syracuse University
+178,Carmelo Anthony,20.3,92,NY,Syracuse University
+179,Carmelo Anthony,17.9,85,NY,Syracuse University
+180,Carmelo Anthony,12.7,48,NY,Syracuse University
+181,Montrezl Harrell,24.7,97,KY,University of Louisville
+182,Montrezl Harrell,19.2,89,KY,University of Louisville
+183,Montrezl Harrell,14.6,64,KY,University of Louisville
+184,Tim Duncan,24.4,97,NC,Wake Forest University
+185,Tim Duncan,22.6,96,NC,Wake Forest University
+186,Tim Duncan,22.5,95,NC,Wake Forest University
+187,Tim Duncan,21.9,95,NC,Wake Forest University
+188,Tim Duncan,21.3,94,NC,Wake Forest University
+189,Tim Duncan,16.9,80,NC,Wake Forest University
+190,Joel Embiid,24.1,97,KS,University of Kansas
+191,Joel Embiid,22.9,96,KS,University of Kansas
+192,Shawn Long,24.1,97,LA,University of Louisiana at Lafayette
+193,DeMar DeRozan,24.0,97,CA,University of Southern California
+194,DeMar DeRozan,21.5,94,CA,University of Southern California
+195,DeMar DeRozan,21.0,93,CA,University of Southern California
+196,DeMar DeRozan,18.4,86,CA,University of Southern California
+197,DeMar DeRozan,17.4,82,CA,University of Southern California
+198,DeMar DeRozan,14.7,65,CA,University of Southern California
+199,DeMar DeRozan,14.5,63,CA,University of Southern California
+200,DeMar DeRozan,12.8,49,CA,University of Southern California
+201,Coty Clarke,23.9,97,AR,University of Arkansas
+202,Blake Griffin,23.9,97,OK,University of Oklahoma
+203,Blake Griffin,23.4,96,OK,University of Oklahoma
+204,Blake Griffin,22.8,96,OK,University of Oklahoma
+205,Blake Griffin,22.6,96,OK,University of Oklahoma
+206,Blake Griffin,22.4,95,OK,University of Oklahoma
+207,Blake Griffin,22.1,95,OK,University of Oklahoma
+208,Blake Griffin,21.9,95,OK,University of Oklahoma
+209,Blake Griffin,19.6,90,OK,University of Oklahoma
+210,Derrick Rose,23.5,96,TN,University of Memphis
+211,Derrick Rose,23.0,96,TN,University of Memphis
+212,Derrick Rose,17.0,80,TN,University of Memphis
+213,Derrick Rose,15.9,74,TN,University of Memphis
+214,Derrick Rose,13.4,54,TN,University of Memphis
+215,Derrick Rose,11.5,38,TN,University of Memphis
+216,Derrick Rose,9.7,24,TN,University of Memphis
+217,Brandan Wright,23.5,96,CA,"University of California, Los Angeles"
+218,Brandan Wright,21.6,94,CA,"University of California, Los Angeles"
+219,Brandan Wright,21.0,93,CA,"University of California, Los Angeles"
+220,Brandan Wright,20.4,92,CA,"University of California, Los Angeles"
+221,Brandan Wright,19.0,88,CA,"University of California, Los Angeles"
+222,Brandan Wright,18.5,87,CA,"University of California, Los Angeles"
+223,Brandan Wright,18.3,86,CA,"University of California, Los Angeles"
+224,Brandan Wright,15.9,74,CA,"University of California, Los Angeles"
+225,Mike Conley,23.2,96,OH,Ohio State University
+226,Mike Conley,20.0,91,OH,Ohio State University
+227,Mike Conley,19.4,90,OH,Ohio State University
+228,Mike Conley,18.6,87,OH,Ohio State University
+229,Mike Conley,18.3,86,OH,Ohio State University
+230,Mike Conley,16.8,79,OH,Ohio State University
+231,Mike Conley,15.9,74,OH,Ohio State University
+232,Mike Conley,15.4,70,OH,Ohio State University
+233,John Wall,23.2,96,KY,University of Kentucky
+234,John Wall,20.8,93,KY,University of Kentucky
+235,John Wall,19.9,91,KY,University of Kentucky
+236,John Wall,19.8,91,KY,University of Kentucky
+237,John Wall,19.5,90,KY,University of Kentucky
+238,John Wall,19.1,89,KY,University of Kentucky
+239,John Wall,17.7,83,KY,University of Kentucky
+240,John Wall,15.8,73,KY,University of Kentucky
+241,Victor Oladipo,23.1,96,IN,Indiana University
+242,Victor Oladipo,16.7,79,IN,Indiana University
+243,Victor Oladipo,15.9,74,IN,Indiana University
+244,Victor Oladipo,13.6,56,IN,Indiana University
+245,Victor Oladipo,13.6,56,IN,Indiana University
+246,Kyle Lowry,22.9,96,PA,Villanova University
+247,Kyle Lowry,22.2,95,PA,Villanova University
+248,Kyle Lowry,20.1,91,PA,Villanova University
+249,Kyle Lowry,19.5,90,PA,Villanova University
+250,Kyle Lowry,19.3,89,PA,Villanova University
+251,Kyle Lowry,18.8,88,PA,Villanova University
+252,Kyle Lowry,17.5,82,PA,Villanova University
+253,Kyle Lowry,16.5,77,PA,Villanova University
+254,Andre Drummond,22.9,96,CT,University of Connecticut
+255,Andre Drummond,22.6,96,CT,University of Connecticut
+256,Andre Drummond,21.6,94,CT,University of Connecticut
+257,Andre Drummond,21.4,94,CT,University of Connecticut
+258,Andre Drummond,21.2,94,CT,University of Connecticut
+259,Andre Drummond,20.9,93,CT,University of Connecticut
+260,Arinze Onuaku,22.8,96,NY,Syracuse University
+261,Arinze Onuaku,5.8,8,NY,Syracuse University
+262,Arinze Onuaku,3.8,4,NY,Syracuse University
+263,Zach Randolph,22.6,96,MI,Michigan State University
+264,Zach Randolph,19.5,90,MI,Michigan State University
+265,Zach Randolph,18.5,87,MI,Michigan State University
+266,Zach Randolph,18.3,86,MI,Michigan State University
+267,Zach Randolph,18.3,86,MI,Michigan State University
+268,Zach Randolph,17.9,85,MI,Michigan State University
+269,Zach Randolph,17.9,85,MI,Michigan State University
+270,Zach Randolph,17.3,81,MI,Michigan State University
+271,Michael Beasley,22.5,95,KS,Kansas State University
+272,Michael Beasley,17.8,84,KS,Kansas State University
+273,Michael Beasley,17.8,84,KS,Kansas State University
+274,Michael Beasley,16.8,79,KS,Kansas State University
+275,Michael Beasley,15.5,71,KS,Kansas State University
+276,Michael Beasley,13.0,50,KS,Kansas State University
+277,Michael Beasley,10.8,32,KS,Kansas State University
+278,Michael Beasley,10.6,30,KS,Kansas State University
+279,Carl Landry,22.4,95,IN,Purdue University
+280,Carl Landry,18.2,86,IN,Purdue University
+281,Carl Landry,17.5,82,IN,Purdue University
+282,Carl Landry,14.9,66,IN,Purdue University
+283,Carl Landry,14.8,65,IN,Purdue University
+284,Carl Landry,11.2,35,IN,Purdue University
+285,Gordon Hayward,22.2,95,IN,Butler University
+286,Gordon Hayward,20.2,92,IN,Butler University
+287,Gordon Hayward,18.3,86,IN,Butler University
+288,Gordon Hayward,16.8,79,IN,Butler University
+289,Gordon Hayward,16.2,76,IN,Butler University
+290,Gordon Hayward,15.5,71,IN,Butler University
+291,Gordon Hayward,10.7,31,IN,Butler University
+292,Gordon Hayward,7.3,12,IN,Butler University
+293,Greg Monroe,22.0,95,DC,Georgetown University
+294,Greg Monroe,21.8,95,DC,Georgetown University
+295,Greg Monroe,21.2,94,DC,Georgetown University
+296,Greg Monroe,21.2,94,DC,Georgetown University
+297,Greg Monroe,21.1,93,DC,Georgetown University
+298,Greg Monroe,19.5,90,DC,Georgetown University
+299,Greg Monroe,18.1,85,DC,Georgetown University
+300,Greg Monroe,18.0,85,DC,Georgetown University
+301,Al Horford,22.0,95,FL,University of Florida
+302,Al Horford,21.4,94,FL,University of Florida
+303,Al Horford,20.7,93,FL,University of Florida
+304,Al Horford,19.8,91,FL,University of Florida
+305,Al Horford,19.4,90,FL,University of Florida
+306,Al Horford,19.0,88,FL,University of Florida
+307,Al Horford,17.7,83,FL,University of Florida
+308,Al Horford,17.6,83,FL,University of Florida
+309,Kenneth Faried,21.9,95,KY,Morehead State University
+310,Kenneth Faried,21.0,93,KY,Morehead State University
+311,Kenneth Faried,20.3,92,KY,Morehead State University
+312,Kenneth Faried,19.8,91,KY,Morehead State University
+313,Kenneth Faried,18.5,87,KY,Morehead State University
+314,Kenneth Faried,18.4,86,KY,Morehead State University
+315,Kenneth Faried,17.4,82,KY,Morehead State University
+316,Paul Millsap,21.8,95,LA,Louisiana Tech University
+317,Paul Millsap,21.3,94,LA,Louisiana Tech University
+318,Paul Millsap,20.0,91,LA,Louisiana Tech University
+319,Paul Millsap,19.8,91,LA,Louisiana Tech University
+320,Paul Millsap,19.8,91,LA,Louisiana Tech University
+321,Paul Millsap,19.8,91,LA,Louisiana Tech University
+322,Paul Millsap,17.8,84,LA,Louisiana Tech University
+323,Paul Millsap,17.0,80,LA,Louisiana Tech University
+324,Derrick Favors,21.8,95,GA,Georgia Institute of Technology
+325,Derrick Favors,21.6,94,GA,Georgia Institute of Technology
+326,Derrick Favors,19.0,88,GA,Georgia Institute of Technology
+327,Derrick Favors,18.8,88,GA,Georgia Institute of Technology
+328,Derrick Favors,17.5,82,GA,Georgia Institute of Technology
+329,Derrick Favors,17.1,81,GA,Georgia Institute of Technology
+330,Derrick Favors,15.8,73,GA,Georgia Institute of Technology
+331,Derrick Favors,13.8,57,GA,Georgia Institute of Technology
+332,DeAndre Jordan,21.8,95,TX,Texas A&M University
+333,DeAndre Jordan,21.0,93,TX,Texas A&M University
+334,DeAndre Jordan,20.6,93,TX,Texas A&M University
+335,DeAndre Jordan,20.2,92,TX,Texas A&M University
+336,DeAndre Jordan,18.2,86,TX,Texas A&M University
+337,DeAndre Jordan,17.2,81,TX,Texas A&M University
+338,DeAndre Jordan,16.4,77,TX,Texas A&M University
+339,DeAndre Jordan,14.8,65,TX,Texas A&M University
+340,Patty Mills,21.5,94,LA,Louisiana Tech University
+341,Patty Mills,18.7,87,LA,Louisiana Tech University
+342,Patty Mills,15.2,68,LA,Louisiana Tech University
+343,Patty Mills,14.6,64,LA,Louisiana Tech University
+344,Patty Mills,14.1,60,LA,Louisiana Tech University
+345,Patty Mills,13.0,50,LA,Louisiana Tech University
+346,Patty Mills,13.0,50,LA,Louisiana Tech University
+347,Patty Mills,11.8,40,LA,Louisiana Tech University
+348,Nikola Vucevic,21.5,94,CA,University of Southern California
+349,Nikola Vucevic,21.1,93,CA,University of Southern California
+350,Nikola Vucevic,19.7,90,CA,University of Southern California
+351,Nikola Vucevic,19.1,89,CA,University of Southern California
+352,Nikola Vucevic,18.8,88,CA,University of Southern California
+353,Nikola Vucevic,17.8,84,CA,University of Southern California
+354,Nikola Vucevic,14.3,61,CA,University of Southern California
+355,George Hill,21.5,94,IN,Indiana University-Purdue University Indianapolis
+356,George Hill,19.3,89,IN,Indiana University-Purdue University Indianapolis
+357,George Hill,16.6,78,IN,Indiana University-Purdue University Indianapolis
+358,George Hill,15.7,72,IN,Indiana University-Purdue University Indianapolis
+359,George Hill,14.6,64,IN,Indiana University-Purdue University Indianapolis
+360,George Hill,13.4,54,IN,Indiana University-Purdue University Indianapolis
+361,George Hill,13.3,53,IN,Indiana University-Purdue University Indianapolis
+362,George Hill,13.2,52,IN,Indiana University-Purdue University Indianapolis
+363,Lou Williams,21.4,94,FL,Stetson University
+364,Lou Williams,20.2,92,FL,Stetson University
+365,Lou Williams,20.2,92,FL,Stetson University
+366,Lou Williams,19.9,91,FL,Stetson University
+367,Lou Williams,18.9,88,FL,Stetson University
+368,Lou Williams,17.7,83,FL,Stetson University
+369,Lou Williams,15.9,74,FL,Stetson University
+370,Lou Williams,14.2,61,FL,Stetson University
+371,Kevin Martin,21.4,94,OH,University of Cincinnati
+372,Kevin Martin,16.7,79,OH,University of Cincinnati
+373,Kevin Martin,16.5,77,OH,University of Cincinnati
+374,Kevin Martin,16.3,76,OH,University of Cincinnati
+375,Kevin Martin,16.0,74,OH,University of Cincinnati
+376,Kevin Martin,11.5,38,OH,University of Cincinnati
+377,Kemba Walker,21.3,94,KY,University of Kentucky
+378,Kemba Walker,20.8,93,KY,University of Kentucky
+379,Kemba Walker,20.6,93,KY,University of Kentucky
+380,Kemba Walker,18.8,88,KY,University of Kentucky
+381,Kemba Walker,17.6,83,KY,University of Kentucky
+382,Kemba Walker,16.8,79,KY,University of Kentucky
+383,Kemba Walker,14.9,66,KY,University of Kentucky
+384,Cole Aldrich,21.3,94,KS,University of Kansas
+385,Cole Aldrich,19.1,89,KS,University of Kansas
+386,Cole Aldrich,18.1,85,KS,University of Kansas
+387,Cole Aldrich,17.7,83,KS,University of Kansas
+388,Cole Aldrich,12.7,48,KS,University of Kansas
+389,Cole Aldrich,11.1,34,KS,University of Kansas
+390,Cole Aldrich,7.0,11,KS,University of Kansas
+391,Cole Aldrich,6.0,8,KS,University of Kansas
+392,Ryan Anderson,21.2,94,CA,University of California
+393,Ryan Anderson,19.0,88,CA,University of California
+394,Ryan Anderson,18.8,88,CA,University of California
+395,Ryan Anderson,18.1,85,CA,University of California
+396,Ryan Anderson,17.2,81,CA,University of California
+397,Ryan Anderson,15.6,71,CA,University of California
+398,Ryan Anderson,13.5,55,CA,University of California
+399,Ryan Anderson,12.6,47,CA,University of California
+400,Alan Williams,21.1,93,IA,Drake University
+401,Alan Williams,19.5,90,IA,Drake University
+402,Alan Williams,9.3,21,IA,Drake University
+403,Tyreke Evans,21.1,93,TN,University of Memphis
+404,Tyreke Evans,18.4,86,TN,University of Memphis
+405,Tyreke Evans,18.1,85,TN,University of Memphis
+406,Tyreke Evans,17.9,85,TN,University of Memphis
+407,Tyreke Evans,17.7,83,TN,University of Memphis
+408,Tyreke Evans,16.4,77,TN,University of Memphis
+409,Tyreke Evans,15.5,71,TN,University of Memphis
+410,Tyreke Evans,14.4,62,TN,University of Memphis
+411,Josh Smith,21.1,93,CO,University of Southern Colorado
+412,Josh Smith,19.2,89,CO,University of Southern Colorado
+413,Josh Smith,17.7,83,CO,University of Southern Colorado
+414,Josh Smith,14.9,66,CO,University of Southern Colorado
+415,Josh Smith,14.1,60,CO,University of Southern Colorado
+416,Josh Smith,10.6,30,CO,University of Southern Colorado
+417,Josh Smith,3.5,4,CO,University of Southern Colorado
+418,Deron Williams,21.1,93,IL,University of Illinois at Urbana-Champaign
+419,Deron Williams,20.3,92,IL,University of Illinois at Urbana-Champaign
+420,Deron Williams,20.3,92,IL,University of Illinois at Urbana-Champaign
+421,Deron Williams,17.6,83,IL,University of Illinois at Urbana-Champaign
+422,Deron Williams,15.7,72,IL,University of Illinois at Urbana-Champaign
+423,Deron Williams,14.6,64,IL,University of Illinois at Urbana-Champaign
+424,Deron Williams,14.0,59,IL,University of Illinois at Urbana-Champaign
+425,Trey Burke,21.0,93,MI,University of Michigan
+426,Trey Burke,14.0,59,MI,University of Michigan
+427,Trey Burke,12.6,47,MI,University of Michigan
+428,Trey Burke,12.6,47,MI,University of Michigan
+429,Trey Burke,10.8,32,MI,University of Michigan
+430,Paul George,20.9,93,CA,"California State University, Fresno"
+431,Paul George,20.2,92,CA,"California State University, Fresno"
+432,Paul George,20.1,91,CA,"California State University, Fresno"
+433,Paul George,18.7,87,CA,"California State University, Fresno"
+434,Paul George,16.8,79,CA,"California State University, Fresno"
+435,Paul George,16.5,77,CA,"California State University, Fresno"
+436,Paul George,13.0,50,CA,"California State University, Fresno"
+437,Paul George,13.0,50,CA,"California State University, Fresno"
+438,David West,20.9,93,OH,Xavier University
+439,David West,20.4,92,OH,Xavier University
+440,David West,20.1,91,OH,Xavier University
+441,David West,17.8,84,OH,Xavier University
+442,David West,17.6,83,OH,Xavier University
+443,David West,17.5,82,OH,Xavier University
+444,David West,16.6,78,OH,Xavier University
+445,David West,16.0,74,OH,Xavier University
+446,Klay Thompson,20.8,93,WA,Washington State University
+447,Klay Thompson,18.6,87,WA,Washington State University
+448,Klay Thompson,17.4,82,WA,Washington State University
+449,Klay Thompson,16.1,75,WA,Washington State University
+450,Klay Thompson,14.9,66,WA,Washington State University
+451,Klay Thompson,14.3,61,WA,Washington State University
+452,Klay Thompson,12.7,48,WA,Washington State University
+453,Steve Nash,20.8,93,CA,Santa Clara University
+454,Steve Nash,20.3,92,CA,Santa Clara University
+455,Steve Nash,16.0,74,CA,Santa Clara University
+456,Steve Nash,12.2,43,CA,Santa Clara University
+457,Steven Adams,20.6,93,PA,University of Pittsburgh
+458,Steven Adams,16.5,77,PA,University of Pittsburgh
+459,Steven Adams,15.5,71,PA,University of Pittsburgh
+460,Steven Adams,14.1,60,PA,University of Pittsburgh
+461,Steven Adams,11.2,35,PA,University of Pittsburgh
+462,Jeff Teague,20.6,93,NC,Wake Forest University
+463,Jeff Teague,19.2,89,NC,Wake Forest University
+464,Jeff Teague,17.9,85,NC,Wake Forest University
+465,Jeff Teague,17.1,81,NC,Wake Forest University
+466,Jeff Teague,16.8,79,NC,Wake Forest University
+467,Jeff Teague,16.4,77,NC,Wake Forest University
+468,Jeff Teague,15.8,73,NC,Wake Forest University
+469,Jeff Teague,14.6,64,NC,Wake Forest University
+470,Eric Bledsoe,20.5,92,KY,University of Kentucky
+471,Eric Bledsoe,20.0,91,KY,University of Kentucky
+472,Eric Bledsoe,19.7,90,KY,University of Kentucky
+473,Eric Bledsoe,19.6,90,KY,University of Kentucky
+474,Eric Bledsoe,18.4,86,KY,University of Kentucky
+475,Eric Bledsoe,17.5,82,KY,University of Kentucky
+476,Eric Bledsoe,11.2,35,KY,University of Kentucky
+477,Eric Bledsoe,10.8,32,KY,University of Kentucky
+478,Kyle O'Quinn,20.5,92,VA,Norfolk State University
+479,Kyle O'Quinn,20.0,91,VA,Norfolk State University
+480,Kyle O'Quinn,17.5,82,VA,Norfolk State University
+481,Kyle O'Quinn,16.5,77,VA,Norfolk State University
+482,Kyle O'Quinn,15.8,73,VA,Norfolk State University
+483,Kyle O'Quinn,14.8,65,VA,Norfolk State University
+484,Jeremy Evans,20.5,92,KY,Western Kentucky University
+485,Jeremy Evans,19.9,91,KY,Western Kentucky University
+486,Jeremy Evans,19.6,90,KY,Western Kentucky University
+487,Jeremy Evans,18.8,88,KY,Western Kentucky University
+488,Jeremy Evans,16.2,76,KY,Western Kentucky University
+489,Jeremy Evans,12.6,47,KY,Western Kentucky University
+490,Jeremy Evans,10.4,29,KY,Western Kentucky University
+491,Nerlens Noel,20.4,92,KY,University of Kentucky
+492,Nerlens Noel,16.2,76,KY,University of Kentucky
+493,Nerlens Noel,16.2,76,KY,University of Kentucky
+494,Nerlens Noel,15.0,67,KY,University of Kentucky
+495,Chris Bosh,20.2,92,GA,Georgia Institute of Technology
+496,Chris Bosh,20.0,91,GA,Georgia Institute of Technology
+497,Chris Bosh,19.8,91,GA,Georgia Institute of Technology
+498,Chris Bosh,19.4,90,GA,Georgia Institute of Technology
+499,Chris Bosh,19.0,88,GA,Georgia Institute of Technology
+500,Chris Bosh,18.9,88,GA,Georgia Institute of Technology
+501,Larry Nance,20.2,92,SC,Clemson University
+502,Larry Nance,15.7,72,SC,Clemson University
+503,Larry Nance,13.4,54,SC,Clemson University
+504,Bradley Beal,20.1,91,FL,University of Florida
+505,Bradley Beal,18.4,86,FL,University of Florida
+506,Bradley Beal,15.5,71,FL,University of Florida
+507,Bradley Beal,14.3,61,FL,University of Florida
+508,Bradley Beal,14.0,59,FL,University of Florida
+509,Bradley Beal,13.6,56,FL,University of Florida
+510,Joakim Noah,20.0,91,FL,University of Florida
+511,Joakim Noah,19.6,90,FL,University of Florida
+512,Joakim Noah,18.8,88,FL,University of Florida
+513,Joakim Noah,18.1,85,FL,University of Florida
+514,Joakim Noah,15.6,71,FL,University of Florida
+515,Joakim Noah,15.3,69,FL,University of Florida
+516,Joakim Noah,15.2,68,FL,University of Florida
+517,Joakim Noah,14.1,60,FL,University of Florida
+518,Ed Davis,20.0,91,CA,University of North Carolina
+519,Ed Davis,18.7,87,CA,University of North Carolina
+520,Ed Davis,17.8,84,CA,University of North Carolina
+521,Ed Davis,15.9,74,CA,University of North Carolina
+522,Ed Davis,15.8,73,CA,University of North Carolina
+523,Ed Davis,15.5,71,CA,University of North Carolina
+524,Ed Davis,14.2,61,CA,University of North Carolina
+525,Ed Davis,11.5,38,CA,University of North Carolina
+526,Shayne Whittington,20.0,91,MI,Western Michigan University
+527,Shayne Whittington,7.4,12,MI,Western Michigan University
+528,Jeremy Lin,19.9,91,MA,Harvard University
+529,Jeremy Lin,19.2,89,MA,Harvard University
+530,Jeremy Lin,15.9,74,MA,Harvard University
+531,Jeremy Lin,15.6,71,MA,Harvard University
+532,Jeremy Lin,14.9,66,MA,Harvard University
+533,Jeremy Lin,14.8,65,MA,Harvard University
+534,Jeremy Lin,14.3,61,MA,Harvard University
+535,Jeremy Lin,13.8,57,MA,Harvard University
+536,Shabazz Muhammad,19.9,91,CA,"University of California, Los Angeles"
+537,Shabazz Muhammad,15.4,70,CA,"University of California, Los Angeles"
+538,Shabazz Muhammad,15.2,68,CA,"University of California, Los Angeles"
+539,Shabazz Muhammad,14.9,66,CA,"University of California, Los Angeles"
+540,Shabazz Muhammad,13.1,51,CA,"University of California, Los Angeles"
+541,Julius Randle,19.9,91,KY,University of Kentucky
+542,Julius Randle,16.3,76,KY,University of Kentucky
+543,Julius Randle,13.9,58,KY,University of Kentucky
+544,Julius Randle,-7.5,0,KY,University of Kentucky
+545,Brandon Bass,19.7,90,LA,Louisiana State University
+546,Brandon Bass,17.4,82,LA,Louisiana State University
+547,Brandon Bass,16.3,76,LA,Louisiana State University
+548,Brandon Bass,15.9,74,LA,Louisiana State University
+549,Brandon Bass,15.0,67,LA,Louisiana State University
+550,Brandon Bass,14.1,60,LA,Louisiana State University
+551,Brandon Bass,12.3,44,LA,Louisiana State University
+552,Jrue Holiday,19.7,90,CA,"University of California, Los Angeles"
+553,Jrue Holiday,18.8,88,CA,"University of California, Los Angeles"
+554,Jrue Holiday,17.8,84,CA,"University of California, Los Angeles"
+555,Jrue Holiday,17.1,81,CA,"University of California, Los Angeles"
+556,Jrue Holiday,17.1,81,CA,"University of California, Los Angeles"
+557,Jrue Holiday,16.7,79,CA,"University of California, Los Angeles"
+558,Jrue Holiday,15.4,70,CA,"University of California, Los Angeles"
+559,Jrue Holiday,14.7,65,CA,"University of California, Los Angeles"
+560,Joel Bolomboy,19.7,90,UT,Weber State University
+561,Joel Bolomboy,11.7,40,UT,Weber State University
+562,Jack Cooley,19.7,90,IN,University of Notre Dame
+563,Jack Cooley,11.4,37,IN,University of Notre Dame
+564,Bobby Portis,19.7,90,AR,University of Arkansas
+565,Bobby Portis,14.9,66,AR,University of Arkansas
+566,Bobby Portis,13.8,57,AR,University of Arkansas
+567,Carlos Boozer,19.7,90,NC,Duke University
+568,Carlos Boozer,18.8,88,NC,Duke University
+569,Carlos Boozer,17.1,81,NC,Duke University
+570,Carlos Boozer,16.4,77,NC,Duke University
+571,Carlos Boozer,14.4,62,NC,Duke University
+572,David Lee,19.7,90,CA,University of San Francisco
+573,David Lee,19.6,90,CA,University of San Francisco
+574,David Lee,19.2,89,CA,University of San Francisco
+575,David Lee,19.1,89,CA,University of San Francisco
+576,David Lee,18.5,87,CA,University of San Francisco
+577,David Lee,17.8,84,CA,University of San Francisco
+578,David Lee,17.8,84,CA,University of San Francisco
+579,Rudy Gay,19.7,90,CT,University of Connecticut
+580,Rudy Gay,18.3,86,CT,University of Connecticut
+581,Rudy Gay,18.0,85,CT,University of Connecticut
+582,Rudy Gay,17.9,85,CT,University of Connecticut
+583,Rudy Gay,17.8,84,CT,University of Connecticut
+584,Rudy Gay,17.8,84,CT,University of Connecticut
+585,Rudy Gay,15.6,71,CT,University of Connecticut
+586,Rudy Gay,15.5,71,CT,University of Connecticut
+587,Paul Pierce,19.7,90,KS,University of Kansas
+588,Paul Pierce,19.6,90,KS,University of Kansas
+589,Paul Pierce,19.1,89,KS,University of Kansas
+590,Paul Pierce,16.8,79,KS,University of Kansas
+591,Paul Pierce,15.2,68,KS,University of Kansas
+592,Paul Pierce,8.2,15,KS,University of Kansas
+593,Paul Pierce,5.7,7,KS,University of Kansas
+594,Reggie Jackson,19.6,90,MA,Boston College
+595,Reggie Jackson,17.2,81,MA,Boston College
+596,Reggie Jackson,15.9,74,MA,Boston College
+597,Reggie Jackson,15.4,70,MA,Boston College
+598,Reggie Jackson,14.9,66,MA,Boston College
+599,Reggie Jackson,14.2,61,MA,Boston College
+600,Reggie Jackson,9.2,21,MA,Boston College
+601,James Singleton,19.6,90,KY,Murray State University
+602,Marreese Speights,19.5,90,FL,University of Florida
+603,Marreese Speights,17.5,82,FL,University of Florida
+604,Marreese Speights,17.3,81,FL,University of Florida
+605,Marreese Speights,17.1,81,FL,University of Florida
+606,Marreese Speights,15.3,69,FL,University of Florida
+607,Marreese Speights,15.2,68,FL,University of Florida
+608,Marreese Speights,14.1,60,FL,University of Florida
+609,Marreese Speights,13.7,56,FL,University of Florida
+610,Alex Len,19.4,90,MD,University of Maryland
+611,Alex Len,15.0,67,MD,University of Maryland
+612,Alex Len,13.5,55,MD,University of Maryland
+613,Alex Len,12.4,45,MD,University of Maryland
+614,Alex Len,7.3,12,MD,University of Maryland
+615,Ty Lawson,19.4,90,CA,University of North Carolina
+616,Ty Lawson,19.0,88,CA,University of North Carolina
+617,Ty Lawson,18.5,87,CA,University of North Carolina
+618,Ty Lawson,17.9,85,CA,University of North Carolina
+619,Ty Lawson,17.9,85,CA,University of North Carolina
+620,Ty Lawson,15.4,70,CA,University of North Carolina
+621,Ty Lawson,9.7,24,CA,University of North Carolina
+622,Devin Ebanks,19.4,90,WV,West Virginia University
+623,Devin Ebanks,8.3,16,WV,West Virginia University
+624,Devin Ebanks,6.3,9,WV,West Virginia University
+625,Lamar Odom,19.4,90,RI,University of Rhode Island
+626,Lamar Odom,10.9,33,RI,University of Rhode Island
+627,Lamar Odom,9.2,21,RI,University of Rhode Island
+628,Maalik Wayns,19.3,89,PA,Villanova University
+629,Maalik Wayns,5.0,6,PA,Villanova University
+630,Draymond Green,19.3,89,MI,Michigan State University
+631,Draymond Green,16.5,77,MI,Michigan State University
+632,Draymond Green,16.4,77,MI,Michigan State University
+633,Draymond Green,16.1,75,MI,Michigan State University
+634,Draymond Green,12.7,48,MI,Michigan State University
+635,Draymond Green,7.1,11,MI,Michigan State University
+636,Roy Hibbert,19.3,89,DC,Georgetown University
+637,Roy Hibbert,17.3,81,DC,Georgetown University
+638,Roy Hibbert,15.9,74,DC,Georgetown University
+639,Roy Hibbert,15.4,70,DC,Georgetown University
+640,Roy Hibbert,13.5,55,DC,Georgetown University
+641,Roy Hibbert,13.5,55,DC,Georgetown University
+642,Roy Hibbert,11.2,35,DC,Georgetown University
+643,Jordan Hill,19.3,89,AZ,University of Arizona
+644,Jordan Hill,18.5,87,AZ,University of Arizona
+645,Jordan Hill,16.4,77,AZ,University of Arizona
+646,Jordan Hill,16.2,76,AZ,University of Arizona
+647,Jordan Hill,15.8,73,AZ,University of Arizona
+648,Jordan Hill,13.0,50,AZ,University of Arizona
+649,Jordan Hill,5.5,7,AZ,University of Arizona
+650,Willie Reed,19.2,89,LA,Grambling State University
+651,Willie Reed,19.2,89,LA,Grambling State University
+652,Willie Reed,17.1,81,LA,Grambling State University
+653,Eric Gordon,19.2,89,IN,Indiana University
+654,Eric Gordon,18.5,87,IN,Indiana University
+655,Eric Gordon,15.4,70,IN,Indiana University
+656,Eric Gordon,15.2,68,IN,Indiana University
+657,Eric Gordon,14.9,66,IN,Indiana University
+658,Eric Gordon,13.5,55,IN,Indiana University
+659,Eric Gordon,13.2,52,IN,Indiana University
+660,Eric Gordon,12.7,48,IN,Indiana University
+661,Terrence Jones,19.1,89,KY,University of Kentucky
+662,Terrence Jones,18.3,86,KY,University of Kentucky
+663,Terrence Jones,17.1,81,KY,University of Kentucky
+664,Terrence Jones,16.1,75,KY,University of Kentucky
+665,Terrence Jones,13.5,55,KY,University of Kentucky
+666,Jorge Gutierrez,19.1,89,CA,University of California
+667,Jorge Gutierrez,11.0,34,CA,University of California
+668,Jorge Gutierrez,8.7,18,CA,University of California
+669,Jordan Crawford,19.1,89,KY,University of Kentucky
+670,Jordan Crawford,17.6,83,KY,University of Kentucky
+671,Jordan Crawford,14.5,63,KY,University of Kentucky
+672,Jordan Crawford,14.3,61,KY,University of Kentucky
+673,Jordan Crawford,13.8,57,KY,University of Kentucky
+674,Jordan Crawford,11.8,40,KY,University of Kentucky
+675,Jabari Parker,19.1,89,NC,Duke University
+676,Jabari Parker,17.1,81,NC,Duke University
+677,Jabari Parker,14.8,65,NC,Duke University
+678,Jabari Parker,14.5,63,NC,Duke University
+679,Ramon Sessions,19.0,88,NV,"University of Nevada, Reno"
+680,Ramon Sessions,17.7,83,NV,"University of Nevada, Reno"
+681,Ramon Sessions,16.7,79,NV,"University of Nevada, Reno"
+682,Ramon Sessions,16.0,74,NV,"University of Nevada, Reno"
+683,Ramon Sessions,15.9,74,NV,"University of Nevada, Reno"
+684,Ramon Sessions,12.4,45,NV,"University of Nevada, Reno"
+685,Ramon Sessions,11.2,35,NV,"University of Nevada, Reno"
+686,Ramon Sessions,11.1,34,NV,"University of Nevada, Reno"
+687,Chris Andersen,19.0,88,TX,Blinn College
+688,Chris Andersen,18.9,88,TX,Blinn College
+689,Chris Andersen,18.5,87,TX,Blinn College
+690,Chris Andersen,17.4,82,TX,Blinn College
+691,Chris Andersen,16.1,75,TX,Blinn College
+692,Chris Andersen,15.3,69,TX,Blinn College
+693,Chris Andersen,11.6,39,TX,Blinn College
+694,Mason Plumlee,19.0,88,NC,Duke University
+695,Mason Plumlee,18.1,85,NC,Duke University
+696,Mason Plumlee,18.0,85,NC,Duke University
+697,Mason Plumlee,17.2,81,NC,Duke University
+698,Mason Plumlee,16.9,80,NC,Duke University
+699,Tyler Zeller,18.9,88,CA,University of North Carolina
+700,Tyler Zeller,16.0,74,CA,University of North Carolina
+701,Tyler Zeller,15.4,70,CA,University of North Carolina
+702,Tyler Zeller,15.4,70,CA,University of North Carolina
+703,Tyler Zeller,13.0,50,CA,University of North Carolina
+704,Tyler Zeller,11.0,34,CA,University of North Carolina
+705,Jannero Pargo,18.9,88,AR,University of Arkansas
+706,Jannero Pargo,14.9,66,AR,University of Arkansas
+707,Jannero Pargo,13.6,56,AR,University of Arkansas
+708,Jannero Pargo,10.3,28,AR,University of Arkansas
+709,Robin Lopez,18.9,88,CA,Stanford University
+710,Robin Lopez,17.7,83,CA,Stanford University
+711,Robin Lopez,17.6,83,CA,Stanford University
+712,Robin Lopez,16.2,76,CA,Stanford University
+713,Robin Lopez,15.2,68,CA,Stanford University
+714,Robin Lopez,14.7,65,CA,Stanford University
+715,Robin Lopez,14.4,62,CA,Stanford University
+716,Robin Lopez,13.9,58,CA,Stanford University
+717,Thaddeus Young,18.9,88,GA,Georgia Institute of Technology
+718,Thaddeus Young,18.4,86,GA,Georgia Institute of Technology
+719,Thaddeus Young,18.2,86,GA,Georgia Institute of Technology
+720,Thaddeus Young,17.5,82,GA,Georgia Institute of Technology
+721,Thaddeus Young,16.6,78,GA,Georgia Institute of Technology
+722,Thaddeus Young,15.7,72,GA,Georgia Institute of Technology
+723,Thaddeus Young,14.9,66,GA,Georgia Institute of Technology
+724,Thaddeus Young,14.8,65,GA,Georgia Institute of Technology
+725,Dwight Powell,18.8,88,CA,Stanford University
+726,Dwight Powell,17.6,83,CA,Stanford University
+727,Dwight Powell,16.8,79,CA,Stanford University
+728,Dwight Powell,13.8,57,CA,Stanford University
+729,Darren Collison,18.8,88,CA,"University of California, Los Angeles"
+730,Darren Collison,17.5,82,CA,"University of California, Los Angeles"
+731,Darren Collison,16.3,76,CA,"University of California, Los Angeles"
+732,Darren Collison,16.2,76,CA,"University of California, Los Angeles"
+733,Darren Collison,15.9,74,CA,"University of California, Los Angeles"
+734,Darren Collison,15.6,71,CA,"University of California, Los Angeles"
+735,Darren Collison,15.3,69,CA,"University of California, Los Angeles"
+736,Darren Collison,13.6,56,CA,"University of California, Los Angeles"
+737,Jeff Withey,18.8,88,KS,University of Kansas
+738,Jeff Withey,17.7,83,KS,University of Kansas
+739,Jeff Withey,17.6,83,KS,University of Kansas
+740,Jeff Withey,15.2,68,KS,University of Kansas
+741,Jeff Withey,8.3,16,KS,University of Kansas
+742,Drew Gooden,18.8,88,KS,University of Kansas
+743,Drew Gooden,18.4,86,KS,University of Kansas
+744,Drew Gooden,15.9,74,KS,University of Kansas
+745,Drew Gooden,11.9,41,KS,University of Kansas
+746,Drew Gooden,7.7,13,KS,University of Kansas
+747,Drew Gooden,7.5,12,KS,University of Kansas
+748,Elliot Williams,18.8,88,TN,University of Memphis
+749,Elliot Williams,8.7,18,TN,University of Memphis
+750,Elliot Williams,8.7,18,TN,University of Memphis
+751,Elliot Williams,3.3,4,TN,University of Memphis
+752,Adreian Payne,18.8,88,MI,Michigan State University
+753,Adreian Payne,14.4,62,MI,Michigan State University
+754,Adreian Payne,7.7,13,MI,Michigan State University
+755,Adreian Payne,5.6,7,MI,Michigan State University
+756,Chauncey Billups,18.7,87,CO,University of Colorado
+757,Chauncey Billups,16.1,75,CO,University of Colorado
+758,Chauncey Billups,15.0,67,CO,University of Colorado
+759,Chauncey Billups,5.3,7,CO,University of Colorado
+760,Larry Sanders,18.7,87,VA,Virginia Commonwealth University
+761,Larry Sanders,15.2,68,VA,Virginia Commonwealth University
+762,Larry Sanders,14.0,59,VA,Virginia Commonwealth University
+763,Larry Sanders,13.3,53,VA,Virginia Commonwealth University
+764,Larry Sanders,11.0,34,VA,Virginia Commonwealth University
+765,Larry Sanders,6.5,9,VA,Virginia Commonwealth University
+766,Archie Goodwin,18.7,87,KY,University of Kentucky
+767,Archie Goodwin,11.2,35,KY,University of Kentucky
+768,Archie Goodwin,11.1,34,KY,University of Kentucky
+769,Archie Goodwin,10.3,28,KY,University of Kentucky
+770,Sean Williams,18.7,87,MA,Boston College
+771,Samuel Dalembert,18.6,87,NJ,Seton Hall University
+772,Samuel Dalembert,16.9,80,NJ,Seton Hall University
+773,Samuel Dalembert,16.8,79,NJ,Seton Hall University
+774,Samuel Dalembert,14.1,60,NJ,Seton Hall University
+775,Samuel Dalembert,11.8,40,NJ,Seton Hall University
+776,Richaun Holmes,18.6,87,OH,Bowling Green State University
+777,Richaun Holmes,17.4,82,OH,Bowling Green State University
+778,Richaun Holmes,15.9,74,OH,Bowling Green State University
+779,Danny Granger,18.6,87,NM,University of New Mexico
+780,Danny Granger,17.8,84,NM,University of New Mexico
+781,Danny Granger,10.9,33,NM,University of New Mexico
+782,Danny Granger,8.6,17,NM,University of New Mexico
+783,Danny Granger,4.0,5,NM,University of New Mexico
+784,Kevon Looney,18.6,87,CA,"University of California, Los Angeles"
+785,Kevon Looney,14.8,65,CA,"University of California, Los Angeles"
+786,Kevon Looney,13.6,56,CA,"University of California, Los Angeles"
+787,John Henson,18.6,87,CA,University of North Carolina
+788,John Henson,18.2,86,CA,University of North Carolina
+789,John Henson,18.0,85,CA,University of North Carolina
+790,John Henson,17.9,85,CA,University of North Carolina
+791,John Henson,15.7,72,CA,University of North Carolina
+792,John Henson,15.3,69,CA,University of North Carolina
+793,Chris Wright,18.6,87,OH,University of Dayton
+794,Chris Wright,16.5,77,OH,University of Dayton
+795,Chris Wright,-1.9,1,OH,University of Dayton
+796,James Johnson,18.5,87,NC,Wake Forest University
+797,James Johnson,17.9,85,NC,Wake Forest University
+798,James Johnson,17.0,80,NC,Wake Forest University
+799,James Johnson,15.8,73,NC,Wake Forest University
+800,James Johnson,14.5,63,NC,Wake Forest University
+801,James Johnson,12.6,47,NC,Wake Forest University
+802,James Johnson,11.4,37,NC,Wake Forest University
+803,James Johnson,10.2,27,NC,Wake Forest University
+804,Elton Brand,18.5,87,NC,Duke University
+805,Elton Brand,18.0,85,NC,Duke University
+806,Elton Brand,15.2,68,NC,Duke University
+807,Elton Brand,14.0,59,NC,Duke University
+808,Elton Brand,11.4,37,NC,Duke University
+809,Elton Brand,9.4,22,NC,Duke University
+810,Myles Turner,18.5,87,TX,University of Texas at Austin
+811,Myles Turner,16.6,78,TX,University of Texas at Austin
+812,Myles Turner,15.4,70,TX,University of Texas at Austin
+813,Markieff Morris,18.4,86,IL,Northwestern University
+814,Markieff Morris,15.8,73,IL,Northwestern University
+815,Markieff Morris,13.7,56,IL,Northwestern University
+816,Markieff Morris,13.2,52,IL,Northwestern University
+817,Markieff Morris,12.6,47,IL,Northwestern University
+818,Markieff Morris,12.2,43,IL,Northwestern University
+819,Markieff Morris,12.1,43,IL,Northwestern University
+820,Chris Johnson,18.4,86,CA,University of California
+821,Chris Johnson,10.8,32,CA,University of California
+822,Chris Johnson,10.8,32,CA,University of California
+823,Chris Johnson,10.7,31,CA,University of California
+824,Chris Johnson,10.2,27,CA,University of California
+825,Chris Johnson,10.2,27,CA,University of California
+826,Chris Johnson,8.2,15,CA,University of California
+827,Joe Johnson,18.4,86,IA,University of Iowa
+828,Joe Johnson,16.4,77,IA,University of Iowa
+829,Joe Johnson,15.5,71,IA,University of Iowa
+830,Joe Johnson,14.1,60,IA,University of Iowa
+831,Joe Johnson,14.1,60,IA,University of Iowa
+832,Joe Johnson,12.8,49,IA,University of Iowa
+833,Joe Johnson,12.0,42,IA,University of Iowa
+834,Joe Johnson,8.1,15,IA,University of Iowa
+835,Rodney Stuckey,18.4,86,WA,Eastern Washington University
+836,Rodney Stuckey,17.6,83,WA,Eastern Washington University
+837,Rodney Stuckey,15.4,70,WA,Eastern Washington University
+838,Rodney Stuckey,14.0,59,WA,Eastern Washington University
+839,Rodney Stuckey,13.0,50,WA,Eastern Washington University
+840,Rodney Stuckey,12.6,47,WA,Eastern Washington University
+841,Rodney Stuckey,9.5,22,WA,Eastern Washington University
+842,Otto Porter,18.3,86,DC,Georgetown University
+843,Otto Porter,17.3,81,DC,Georgetown University
+844,Otto Porter,14.5,63,DC,Georgetown University
+845,Otto Porter,11.6,39,DC,Georgetown University
+846,Otto Porter,6.0,8,DC,Georgetown University
+847,Jerome Jordan,18.3,86,OK,University of Tulsa
+848,Jerome Jordan,16.8,79,OK,University of Tulsa
+849,Tony Allen,18.3,86,OK,Oklahoma State University
+850,Tony Allen,15.7,72,OK,Oklahoma State University
+851,Tony Allen,15.6,71,OK,Oklahoma State University
+852,Tony Allen,14.6,64,OK,Oklahoma State University
+853,Tony Allen,13.3,53,OK,Oklahoma State University
+854,Tony Allen,13.2,52,OK,Oklahoma State University
+855,Tony Allen,12.9,50,OK,Oklahoma State University
+856,Tony Allen,8.7,18,OK,Oklahoma State University
+857,Vernon Macklin,18.2,86,FL,University of Florida
+858,Kris Humphries,18.2,86,MN,University of Minnesota
+859,Kris Humphries,17.9,85,MN,University of Minnesota
+860,Kris Humphries,17.8,84,MN,University of Minnesota
+861,Kris Humphries,15.4,70,MN,University of Minnesota
+862,Kris Humphries,13.6,56,MN,University of Minnesota
+863,Kris Humphries,13.6,56,MN,University of Minnesota
+864,Kris Humphries,13.1,51,MN,University of Minnesota
+865,Brice Johnson,18.2,86,UT,University of Utah
+866,Brice Johnson,17.2,81,UT,University of Utah
+867,Spencer Hawes,18.1,85,WA,University of Washington
+868,Spencer Hawes,16.0,74,WA,University of Washington
+869,Spencer Hawes,15.7,72,WA,University of Washington
+870,Spencer Hawes,15.6,71,WA,University of Washington
+871,Spencer Hawes,12.8,49,WA,University of Washington
+872,Spencer Hawes,12.4,45,WA,University of Washington
+873,Spencer Hawes,9.8,24,WA,University of Washington
+874,Devin Booker,18.1,85,KY,University of Kentucky
+875,Devin Booker,14.6,64,KY,University of Kentucky
+876,Devin Booker,11.9,41,KY,University of Kentucky
+877,Rajon Rondo,18.1,85,KY,University of Kentucky
+878,Rajon Rondo,17.5,82,KY,University of Kentucky
+879,Rajon Rondo,17.1,81,KY,University of Kentucky
+880,Rajon Rondo,16.9,80,KY,University of Kentucky
+881,Rajon Rondo,15.3,69,KY,University of Kentucky
+882,Rajon Rondo,15.3,69,KY,University of Kentucky
+883,Rajon Rondo,13.6,56,KY,University of Kentucky
+884,Rajon Rondo,13.5,55,KY,University of Kentucky
+885,Chris Wilcox,18.0,85,MD,University of Maryland
+886,Chris Wilcox,15.3,69,MD,University of Maryland
+887,Chris Wilcox,12.4,45,MD,University of Maryland
+888,Mike Muscala,18.0,85,PA,Bucknell University
+889,Mike Muscala,14.4,62,PA,Bucknell University
+890,Mike Muscala,14.4,62,PA,Bucknell University
+891,Mike Muscala,13.6,56,PA,Bucknell University
+892,Mike Muscala,10.8,32,PA,Bucknell University
+893,Shawn Marion,18.0,85,NV,"University of Nevada, Las Vegas"
+894,Shawn Marion,17.0,80,NV,"University of Nevada, Las Vegas"
+895,Shawn Marion,15.0,67,NV,"University of Nevada, Las Vegas"
+896,Shawn Marion,13.7,56,NV,"University of Nevada, Las Vegas"
+897,Shawn Marion,11.0,34,NV,"University of Nevada, Las Vegas"
+898,Nate Robinson,18.0,85,WA,University of Washington
+899,Nate Robinson,17.4,82,WA,University of Washington
+900,Nate Robinson,15.6,71,WA,University of Washington
+901,Nate Robinson,10.6,30,WA,University of Washington
+902,Nate Robinson,10.0,25,WA,University of Washington
+903,Nate Robinson,2.6,3,WA,University of Washington
+904,Jared Sullinger,17.9,85,OH,Ohio State University
+905,Jared Sullinger,16.7,79,OH,Ohio State University
+906,Jared Sullinger,16.4,77,OH,Ohio State University
+907,Jared Sullinger,13.5,55,OH,Ohio State University
+908,Jared Sullinger,6.0,8,OH,Ohio State University
+909,Trey Lyles,17.9,85,KY,University of Kentucky
+910,Trey Lyles,11.6,39,KY,University of Kentucky
+911,Trey Lyles,9.9,25,KY,University of Kentucky
+912,Mike Harris,17.9,85,TX,Rice University
+913,Mike Harris,15.3,69,TX,Rice University
+914,Jarrett Jack,17.9,85,GA,Georgia Institute of Technology
+915,Jarrett Jack,15.9,74,GA,Georgia Institute of Technology
+916,Jarrett Jack,14.6,64,GA,Georgia Institute of Technology
+917,Jarrett Jack,14.5,63,GA,Georgia Institute of Technology
+918,Jarrett Jack,14.2,61,GA,Georgia Institute of Technology
+919,Jarrett Jack,11.5,38,GA,Georgia Institute of Technology
+920,Jarrett Jack,11.5,38,GA,Georgia Institute of Technology
+921,Jarrett Jack,7.7,13,GA,Georgia Institute of Technology
+922,Steve Novak,17.8,84,WI,Marquette University
+923,Steve Novak,15.9,74,WI,Marquette University
+924,Steve Novak,14.4,62,WI,Marquette University
+925,Steve Novak,11.3,36,WI,Marquette University
+926,Steve Novak,11.1,34,WI,Marquette University
+927,Steve Novak,8.6,17,WI,Marquette University
+928,Steve Novak,1.3,2,WI,Marquette University
+929,Andre Miller,17.8,84,MI,Michigan State University
+930,Andre Miller,15.7,72,MI,Michigan State University
+931,Andre Miller,14.8,65,MI,Michigan State University
+932,Andre Miller,13.9,58,MI,Michigan State University
+933,Andre Miller,13.4,54,MI,Michigan State University
+934,Andre Miller,13.3,53,MI,Michigan State University
+935,Kelly Olynyk,17.8,84,WA,Gonzaga University
+936,Kelly Olynyk,16.3,76,WA,Gonzaga University
+937,Kelly Olynyk,15.9,74,WA,Gonzaga University
+938,Kelly Olynyk,15.3,69,WA,Gonzaga University
+939,Kelly Olynyk,15.2,68,WA,Gonzaga University
+940,Vince Carter,17.8,84,CA,University of North Carolina
+941,Vince Carter,15.9,74,CA,University of North Carolina
+942,Vince Carter,14.8,65,CA,University of North Carolina
+943,Vince Carter,13.6,56,CA,University of North Carolina
+944,Vince Carter,12.7,48,CA,University of North Carolina
+945,Vince Carter,11.7,40,CA,University of North Carolina
+946,Vince Carter,10.8,32,CA,University of North Carolina
+947,Vince Carter,9.6,23,CA,University of North Carolina
+948,Meyers Leonard,17.8,84,IL,University of Illinois at Urbana-Champaign
+949,Meyers Leonard,14.8,65,IL,University of Illinois at Urbana-Champaign
+950,Meyers Leonard,12.1,43,IL,University of Illinois at Urbana-Champaign
+951,Meyers Leonard,11.3,36,IL,University of Illinois at Urbana-Champaign
+952,Meyers Leonard,9.4,22,IL,University of Illinois at Urbana-Champaign
+953,Meyers Leonard,8.9,19,IL,University of Illinois at Urbana-Champaign
+954,Aron Baynes,17.8,84,WA,Washington State University
+955,Aron Baynes,15.9,74,WA,Washington State University
+956,Aron Baynes,13.1,51,WA,Washington State University
+957,Aron Baynes,12.1,43,WA,Washington State University
+958,Aron Baynes,9.7,24,WA,Washington State University
+959,Aron Baynes,8.8,18,WA,Washington State University
+960,James Ennis,17.8,84,CA,"California State University, Long Beach"
+961,James Ennis,11.6,39,CA,"California State University, Long Beach"
+962,James Ennis,11.5,38,CA,"California State University, Long Beach"
+963,James Ennis,10.6,30,CA,"California State University, Long Beach"
+964,Delon Wright,17.8,84,UT,University of Utah
+965,Delon Wright,16.5,77,UT,University of Utah
+966,Delon Wright,15.0,67,UT,University of Utah
+967,Jerryd Bayless,17.7,83,AZ,University of Arizona
+968,Jerryd Bayless,14.1,60,AZ,University of Arizona
+969,Jerryd Bayless,13.5,55,AZ,University of Arizona
+970,Jerryd Bayless,12.4,45,AZ,University of Arizona
+971,Jerryd Bayless,12.0,42,AZ,University of Arizona
+972,Jerryd Bayless,11.1,34,AZ,University of Arizona
+973,Jerryd Bayless,8.7,18,AZ,University of Arizona
+974,Jerryd Bayless,7.5,12,AZ,University of Arizona
+975,Festus Ezeli,17.7,83,TN,Vanderbilt University
+976,Festus Ezeli,16.2,76,TN,Vanderbilt University
+977,Festus Ezeli,9.3,21,TN,Vanderbilt University
+978,Earl Boykins,17.6,83,MI,Eastern Michigan University
+979,Earl Boykins,10.3,28,MI,Eastern Michigan University
+980,Willie Cauley-Stein,17.6,83,KY,University of Kentucky
+981,Willie Cauley-Stein,16.3,76,KY,University of Kentucky
+982,Willie Cauley-Stein,15.3,69,KY,University of Kentucky
+983,Jon Leuer,17.6,83,WI,University of Wisconsin
+984,Jon Leuer,16.2,76,WI,University of Wisconsin
+985,Jon Leuer,15.3,69,WI,University of Wisconsin
+986,Jon Leuer,14.2,61,WI,University of Wisconsin
+987,Jon Leuer,11.9,41,WI,University of Wisconsin
+988,Jon Leuer,10.4,29,WI,University of Wisconsin
+989,Jon Leuer,8.9,19,WI,University of Wisconsin
+990,DeJuan Blair,17.6,83,PA,University of Pittsburgh
+991,DeJuan Blair,17.3,81,PA,University of Pittsburgh
+992,DeJuan Blair,17.1,81,PA,University of Pittsburgh
+993,DeJuan Blair,14.6,64,PA,University of Pittsburgh
+994,DeJuan Blair,7.7,13,PA,University of Pittsburgh
+995,DeJuan Blair,5.4,7,PA,University of Pittsburgh
+996,Chris Copeland,17.6,83,CO,University of Colorado
+997,Chris Copeland,16.8,79,CO,University of Colorado
+998,Chris Copeland,7.4,12,CO,University of Colorado
+999,Chris Copeland,5.4,7,CO,University of Colorado
+1000,Ryan Reid,17.6,83,FL,Florida State University
+1001,Anthony Randolph,17.6,83,LA,Louisiana State University
+1002,Anthony Randolph,16.2,76,LA,Louisiana State University
+1003,Anthony Randolph,15.6,71,LA,Louisiana State University
+1004,Anthony Randolph,12.2,43,LA,Louisiana State University
+1005,Andre Iguodala,17.6,83,AZ,University of Arizona
+1006,Andre Iguodala,17.2,81,AZ,University of Arizona
+1007,Andre Iguodala,15.2,68,AZ,University of Arizona
+1008,Andre Iguodala,14.3,61,AZ,University of Arizona
+1009,Andre Iguodala,13.7,56,AZ,University of Arizona
+1010,Andre Iguodala,12.3,44,AZ,University of Arizona
+1011,Andre Iguodala,12.2,43,AZ,University of Arizona
+1012,Andre Iguodala,11.2,35,AZ,University of Arizona
+1013,Kosta Koufos,17.5,82,OH,Ohio State University
+1014,Kosta Koufos,17.3,81,OH,Ohio State University
+1015,Kosta Koufos,17.2,81,OH,Ohio State University
+1016,Kosta Koufos,16.5,77,OH,Ohio State University
+1017,Kosta Koufos,15.1,68,OH,Ohio State University
+1018,Kosta Koufos,14.2,61,OH,Ohio State University
+1019,Kosta Koufos,13.8,57,OH,Ohio State University
+1020,Kosta Koufos,12.6,47,OH,Ohio State University
+1021,Jakob Poeltl,17.5,82,UT,University of Utah
+1022,Jakob Poeltl,12.2,43,UT,University of Utah
+1023,Domantas Sabonis,17.5,82,WA,Gonzaga University
+1024,Domantas Sabonis,6.9,11,WA,Gonzaga University
+1025,Charlie Villanueva,17.4,82,CT,University of Connecticut
+1026,Charlie Villanueva,16.2,76,CT,University of Connecticut
+1027,Charlie Villanueva,15.9,74,CT,University of Connecticut
+1028,Charlie Villanueva,14.0,59,CT,University of Connecticut
+1029,Charlie Villanueva,12.7,48,CT,University of Connecticut
+1030,Charlie Villanueva,11.9,41,CT,University of Connecticut
+1031,Jeff Adrien,17.4,82,CT,University of Connecticut
+1032,Jeff Adrien,14.2,61,CT,University of Connecticut
+1033,Jeff Adrien,13.4,54,CT,University of Connecticut
+1034,Jeff Adrien,11.3,36,CT,University of Connecticut
+1035,Jeff Adrien,11.2,35,CT,University of Connecticut
+1036,Miles Plumlee,17.4,82,NC,Duke University
+1037,Miles Plumlee,14.6,64,NC,Duke University
+1038,Miles Plumlee,13.4,54,NC,Duke University
+1039,Miles Plumlee,10.6,30,NC,Duke University
+1040,Miles Plumlee,8.8,18,NC,Duke University
+1041,Miles Plumlee,8.4,16,NC,Duke University
+1042,Khris Middleton,17.4,82,TX,Texas A&M University
+1043,Khris Middleton,16.8,79,TX,Texas A&M University
+1044,Khris Middleton,15.6,71,TX,Texas A&M University
+1045,Khris Middleton,15.0,67,TX,Texas A&M University
+1046,Khris Middleton,12.5,46,TX,Texas A&M University
+1047,Khris Middleton,11.4,37,TX,Texas A&M University
+1048,Jordan Farmar,17.4,82,CA,"University of California, Los Angeles"
+1049,Jordan Farmar,15.0,67,CA,"University of California, Los Angeles"
+1050,Jordan Farmar,14.4,62,CA,"University of California, Los Angeles"
+1051,Jordan Farmar,14.1,60,CA,"University of California, Los Angeles"
+1052,Jordan Farmar,13.2,52,CA,"University of California, Los Angeles"
+1053,Jordan Farmar,9.9,25,CA,"University of California, Los Angeles"
+1054,Marcus Thornton,17.4,82,LA,Louisiana State University
+1055,Marcus Thornton,16.5,77,LA,Louisiana State University
+1056,Marcus Thornton,16.3,76,LA,Louisiana State University
+1057,Marcus Thornton,15.0,67,LA,Louisiana State University
+1058,Marcus Thornton,14.7,65,LA,Louisiana State University
+1059,Marcus Thornton,12.0,42,LA,Louisiana State University
+1060,Marcus Thornton,10.4,29,LA,Louisiana State University
+1061,John Jenkins,17.3,81,TN,Vanderbilt University
+1062,John Jenkins,15.9,74,TN,Vanderbilt University
+1063,John Jenkins,13.0,50,TN,Vanderbilt University
+1064,John Jenkins,10.0,25,TN,Vanderbilt University
+1065,John Jenkins,4.7,6,TN,Vanderbilt University
+1066,Thomas Robinson,17.3,81,KS,University of Kansas
+1067,Thomas Robinson,15.3,69,KS,University of Kansas
+1068,Thomas Robinson,14.5,63,KS,University of Kansas
+1069,Thomas Robinson,14.1,60,KS,University of Kansas
+1070,Thomas Robinson,10.9,33,KS,University of Kansas
+1071,Jordan Adams,17.3,81,CA,"University of California, Los Angeles"
+1072,Jordan Adams,12.8,49,CA,"University of California, Los Angeles"
+1073,Mario Chalmers,17.3,81,KS,University of Kansas
+1074,Mario Chalmers,14.0,59,KS,University of Kansas
+1075,Mario Chalmers,13.3,53,KS,University of Kansas
+1076,Mario Chalmers,13.0,50,KS,University of Kansas
+1077,Mario Chalmers,11.7,40,KS,University of Kansas
+1078,Mario Chalmers,10.4,29,KS,University of Kansas
+1079,Mario Chalmers,10.3,28,KS,University of Kansas
+1080,Jamal Crawford,17.3,81,MI,University of Michigan
+1081,Jamal Crawford,16.8,79,MI,University of Michigan
+1082,Jamal Crawford,16.6,78,MI,University of Michigan
+1083,Jamal Crawford,15.7,72,MI,University of Michigan
+1084,Jamal Crawford,14.2,61,MI,University of Michigan
+1085,Jamal Crawford,14.0,59,MI,University of Michigan
+1086,Jamal Crawford,13.0,50,MI,University of Michigan
+1087,Jamal Crawford,12.0,42,MI,University of Michigan
+1088,Chris Kaman,17.3,81,MI,Central Michigan University
+1089,Chris Kaman,17.0,80,MI,Central Michigan University
+1090,Chris Kaman,16.3,76,MI,Central Michigan University
+1091,Chris Kaman,15.7,72,MI,Central Michigan University
+1092,Chris Kaman,15.3,69,MI,Central Michigan University
+1093,Chris Kaman,11.1,34,MI,Central Michigan University
+1094,Derrick Williams,17.2,81,IL,University of Illinois at Urbana-Champaign
+1095,Derrick Williams,14.5,63,IL,University of Illinois at Urbana-Champaign
+1096,Derrick Williams,12.9,50,IL,University of Illinois at Urbana-Champaign
+1097,Derrick Williams,12.8,49,IL,University of Illinois at Urbana-Champaign
+1098,Derrick Williams,11.5,38,IL,University of Illinois at Urbana-Champaign
+1099,Derrick Williams,10.6,30,IL,University of Illinois at Urbana-Champaign
+1100,Derrick Williams,-3.2,1,IL,University of Illinois at Urbana-Champaign
+1101,Gorgui Dieng,17.2,81,KY,University of Louisville
+1102,Gorgui Dieng,17.1,81,KY,University of Louisville
+1103,Gorgui Dieng,16.5,77,KY,University of Louisville
+1104,Gorgui Dieng,14.7,65,KY,University of Louisville
+1105,Gorgui Dieng,14.2,61,KY,University of Louisville
+1106,Elfrid Payton,17.2,81,LA,University of Louisiana at Lafayette
+1107,Elfrid Payton,16.5,77,LA,University of Louisiana at Lafayette
+1108,Elfrid Payton,13.9,58,LA,University of Louisiana at Lafayette
+1109,Elfrid Payton,13.8,57,LA,University of Louisiana at Lafayette
+1110,Devin Harris,17.2,81,WI,University of Wisconsin
+1111,Devin Harris,16.0,74,WI,University of Wisconsin
+1112,Devin Harris,14.8,65,WI,University of Wisconsin
+1113,Devin Harris,14.6,64,WI,University of Wisconsin
+1114,Devin Harris,14.6,64,WI,University of Wisconsin
+1115,Devin Harris,13.8,57,WI,University of Wisconsin
+1116,Devin Harris,13.1,51,WI,University of Wisconsin
+1117,Devin Harris,13.0,50,WI,University of Wisconsin
+1118,Jahlil Okafor,17.1,81,NC,Duke University
+1119,Jahlil Okafor,15.3,69,NC,Duke University
+1120,Jahlil Okafor,14.8,65,NC,Duke University
+1121,Tobias Harris,17.1,81,LA,University of New Orleans
+1122,Tobias Harris,16.9,80,LA,University of New Orleans
+1123,Tobias Harris,16.7,79,LA,University of New Orleans
+1124,Tobias Harris,16.5,77,LA,University of New Orleans
+1125,Tobias Harris,16.2,76,LA,University of New Orleans
+1126,Tobias Harris,16.0,74,LA,University of New Orleans
+1127,Tobias Harris,14.2,61,LA,University of New Orleans
+1128,Brandon Knight,17.1,81,CA,Stanford University
+1129,Brandon Knight,16.5,77,CA,Stanford University
+1130,Brandon Knight,14.7,65,CA,Stanford University
+1131,Brandon Knight,12.4,45,CA,Stanford University
+1132,Brandon Knight,12.0,42,CA,Stanford University
+1133,Brandon Knight,11.7,40,CA,Stanford University
+1134,Andrew Bogut,17.0,80,UT,University of Utah
+1135,Andrew Bogut,16.7,79,UT,University of Utah
+1136,Andrew Bogut,15.9,74,UT,University of Utah
+1137,Andrew Bogut,15.8,73,UT,University of Utah
+1138,Andrew Bogut,14.9,66,UT,University of Utah
+1139,Andrew Bogut,13.8,57,UT,University of Utah
+1140,Andrew Bogut,10.9,33,UT,University of Utah
+1141,Andrew Bogut,9.3,21,UT,University of Utah
+1142,Hilton Armstrong,17.0,80,CT,University of Connecticut
+1143,Hilton Armstrong,8.8,18,CT,University of Connecticut
+1144,Cheick Diallo,17.0,80,KS,University of Kansas
+1145,Cheick Diallo,16.8,79,KS,University of Kansas
+1146,Jeremy Lamb,17.0,80,CT,University of Connecticut
+1147,Jeremy Lamb,17.0,80,CT,University of Connecticut
+1148,Jeremy Lamb,15.9,74,CT,University of Connecticut
+1149,Jeremy Lamb,14.9,66,CT,University of Connecticut
+1150,Jeremy Lamb,13.4,54,CT,University of Connecticut
+1151,Jeremy Lamb,11.2,35,CT,University of Connecticut
+1152,Baron Davis,17.0,80,CA,"University of California, Los Angeles"
+1153,Baron Davis,10.0,25,CA,"University of California, Los Angeles"
+1154,Aaron Gordon,17.0,80,AZ,University of Arizona
+1155,Aaron Gordon,16.5,77,AZ,University of Arizona
+1156,Aaron Gordon,14.5,63,AZ,University of Arizona
+1157,Aaron Gordon,11.4,37,AZ,University of Arizona
+1158,Dewayne Dedmon,17.0,80,CA,University of Southern California
+1159,Dewayne Dedmon,16.0,74,CA,University of Southern California
+1160,Dewayne Dedmon,15.8,73,CA,University of Southern California
+1161,Dewayne Dedmon,13.3,53,CA,University of Southern California
+1162,Dewayne Dedmon,10.7,31,CA,University of Southern California
+1163,Jordan Clarkson,16.9,80,MI,University of Missouri
+1164,Jordan Clarkson,16.4,77,MI,University of Missouri
+1165,Jordan Clarkson,14.3,61,MI,University of Missouri
+1166,Jordan Clarkson,13.2,52,MI,University of Missouri
+1167,Jordan Hamilton,16.9,80,TX,University of North Texas
+1168,Jordan Hamilton,13.9,58,TX,University of North Texas
+1169,Jordan Hamilton,12.7,48,TX,University of North Texas
+1170,Jordan Hamilton,12.4,45,TX,University of North Texas
+1171,Jordan Hamilton,8.3,16,TX,University of North Texas
+1172,Rondae Hollis-Jefferson,16.9,80,AZ,University of Arizona
+1173,Rondae Hollis-Jefferson,14.2,61,AZ,University of Arizona
+1174,Rondae Hollis-Jefferson,13.7,56,AZ,University of Arizona
+1175,Michael Kidd-Gilchrist,16.9,80,KY,University of Kentucky
+1176,Michael Kidd-Gilchrist,15.1,68,KY,University of Kentucky
+1177,Michael Kidd-Gilchrist,14.3,61,KY,University of Kentucky
+1178,Michael Kidd-Gilchrist,14.0,59,KY,University of Kentucky
+1179,Michael Kidd-Gilchrist,12.5,46,KY,University of Kentucky
+1180,Michael Kidd-Gilchrist,12.0,42,KY,University of Kentucky
+1181,Taj Gibson,16.9,80,CA,University of Southern California
+1182,Taj Gibson,16.1,75,CA,University of Southern California
+1183,Taj Gibson,16.0,74,CA,University of Southern California
+1184,Taj Gibson,15.7,72,CA,University of Southern California
+1185,Taj Gibson,15.4,70,CA,University of Southern California
+1186,Taj Gibson,15.0,67,CA,University of Southern California
+1187,Taj Gibson,14.4,62,CA,University of Southern California
+1188,Taj Gibson,14.3,61,CA,University of Southern California
+1189,Skal Labissiere,16.8,79,KY,University of Kentucky
+1190,Skal Labissiere,14.3,61,KY,University of Kentucky
+1191,Marvin Williams,16.8,79,AL,University of Alabama
+1192,Marvin Williams,15.8,73,AL,University of Alabama
+1193,Marvin Williams,14.0,59,AL,University of Alabama
+1194,Marvin Williams,13.9,58,AL,University of Alabama
+1195,Marvin Williams,13.7,56,AL,University of Alabama
+1196,Marvin Williams,13.5,55,AL,University of Alabama
+1197,Marvin Williams,11.8,40,AL,University of Alabama
+1198,Marvin Williams,10.9,33,AL,University of Alabama
+1199,Jason Smith,16.8,79,LA,Louisiana State University
+1200,Jason Smith,16.6,78,LA,Louisiana State University
+1201,Jason Smith,14.6,64,LA,Louisiana State University
+1202,Jason Smith,13.6,56,LA,Louisiana State University
+1203,Jason Smith,12.4,45,LA,Louisiana State University
+1204,Jason Smith,12.0,42,LA,Louisiana State University
+1205,Jason Smith,10.8,32,LA,Louisiana State University
+1206,Jason Smith,8.8,18,LA,Louisiana State University
+1207,Antawn Jamison,16.8,79,CA,University of North Carolina
+1208,Antawn Jamison,16.1,75,CA,University of North Carolina
+1209,Antawn Jamison,15.3,69,CA,University of North Carolina
+1210,Antawn Jamison,7.8,14,CA,University of North Carolina
+1211,Rasheed Wallace,16.7,79,CA,University of North Carolina
+1212,Patrick Patterson,16.7,79,KY,University of Kentucky
+1213,Patrick Patterson,15.2,68,KY,University of Kentucky
+1214,Patrick Patterson,14.6,64,KY,University of Kentucky
+1215,Patrick Patterson,14.6,64,KY,University of Kentucky
+1216,Patrick Patterson,11.5,38,KY,University of Kentucky
+1217,Patrick Patterson,10.8,32,KY,University of Kentucky
+1218,Patrick Patterson,10.6,30,KY,University of Kentucky
+1219,Patrick Patterson,10.0,25,KY,University of Kentucky
+1220,Cody Zeller,16.7,79,IN,Indiana University
+1221,Cody Zeller,16.1,75,IN,Indiana University
+1222,Cody Zeller,15.9,74,IN,Indiana University
+1223,Cody Zeller,14.1,60,IN,Indiana University
+1224,Cody Zeller,13.1,51,IN,Indiana University
+1225,Arnett Moultrie,16.7,79,MS,Mississippi State University
+1226,Arnett Moultrie,6.7,10,MS,Mississippi State University
+1227,Will Bynum,16.6,78,GA,Georgia Institute of Technology
+1228,Will Bynum,15.2,68,GA,Georgia Institute of Technology
+1229,Will Bynum,14.4,62,GA,Georgia Institute of Technology
+1230,Will Bynum,10.0,25,GA,Georgia Institute of Technology
+1231,Will Bynum,4.8,6,GA,Georgia Institute of Technology
+1232,Wilson Chandler,16.6,78,IL,DePaul University
+1233,Wilson Chandler,14.9,66,IL,DePaul University
+1234,Wilson Chandler,14.6,64,IL,DePaul University
+1235,Wilson Chandler,13.2,52,IL,DePaul University
+1236,Wilson Chandler,12.4,45,IL,DePaul University
+1237,Wilson Chandler,11.0,34,IL,DePaul University
+1238,Wilson Chandler,9.0,19,IL,DePaul University
+1239,Mitch McGary,16.6,78,MI,University of Michigan
+1240,Mitch McGary,7.4,12,MI,University of Michigan
+1241,Mike Dunleavy,16.6,78,SC,University of South Carolina
+1242,Mike Dunleavy,14.6,64,SC,University of South Carolina
+1243,Mike Dunleavy,13.6,56,SC,University of South Carolina
+1244,Mike Dunleavy,12.6,47,SC,University of South Carolina
+1245,Mike Dunleavy,11.6,39,SC,University of South Carolina
+1246,Mike Dunleavy,10.1,26,SC,University of South Carolina
+1247,Mike Dunleavy,9.1,20,SC,University of South Carolina
+1248,Wade Baldwin,16.6,78,TN,Vanderbilt University
+1249,Wade Baldwin,6.5,9,TN,Vanderbilt University
+1250,Deyonta Davis,16.6,78,MI,Michigan State University
+1251,Deyonta Davis,10.6,30,MI,Michigan State University
+1252,Raymond Felton,16.6,78,CA,University of North Carolina
+1253,Raymond Felton,15.2,68,CA,University of North Carolina
+1254,Raymond Felton,13.4,54,CA,University of North Carolina
+1255,Raymond Felton,13.0,50,CA,University of North Carolina
+1256,Raymond Felton,12.9,50,CA,University of North Carolina
+1257,Raymond Felton,12.4,45,CA,University of North Carolina
+1258,Raymond Felton,11.9,41,CA,University of North Carolina
+1259,Raymond Felton,10.9,33,CA,University of North Carolina
+1260,Andrew Wiggins,16.5,77,KS,University of Kansas
+1261,Andrew Wiggins,16.5,77,KS,University of Kansas
+1262,Andrew Wiggins,13.9,58,KS,University of Kansas
+1263,Andrew Wiggins,13.0,50,KS,University of Kansas
+1264,Hakim Warrick,16.5,77,NY,Syracuse University
+1265,Hakim Warrick,13.1,51,NY,Syracuse University
+1266,Hakim Warrick,11.5,38,NY,Syracuse University
+1267,Danny Green,16.5,77,CA,"University of California, Los Angeles"
+1268,Danny Green,15.5,71,CA,"University of California, Los Angeles"
+1269,Danny Green,14.1,60,CA,"University of California, Los Angeles"
+1270,Danny Green,13.9,58,CA,"University of California, Los Angeles"
+1271,Danny Green,13.2,52,CA,"University of California, Los Angeles"
+1272,Danny Green,11.4,37,CA,"University of California, Los Angeles"
+1273,Danny Green,10.5,29,CA,"University of California, Los Angeles"
+1274,Danny Green,10.1,26,CA,"University of California, Los Angeles"
+1275,Gary Harris,16.5,77,MI,Michigan State University
+1276,Gary Harris,16.5,77,MI,Michigan State University
+1277,Gary Harris,12.7,48,MI,Michigan State University
+1278,Gary Harris,4.9,6,MI,Michigan State University
+1279,Reggie Williams,16.4,77,DC,Georgetown University
+1280,Reggie Williams,14.9,66,DC,Georgetown University
+1281,Reggie Williams,13.2,52,DC,Georgetown University
+1282,Reggie Williams,12.4,45,DC,Georgetown University
+1283,Reggie Williams,11.7,40,DC,Georgetown University
+1284,Reggie Williams,10.5,29,DC,Georgetown University
+1285,Emeka Okafor,16.4,77,CT,University of Connecticut
+1286,Emeka Okafor,16.0,74,CT,University of Connecticut
+1287,Emeka Okafor,15.8,73,CT,University of Connecticut
+1288,Emeka Okafor,15.1,68,CT,University of Connecticut
+1289,Ray Allen,16.4,77,FL,Florida State University
+1290,Ray Allen,14.8,65,FL,Florida State University
+1291,Ray Allen,14.7,65,FL,Florida State University
+1292,Ray Allen,12.8,49,FL,Florida State University
+1293,Gerald Henderson,16.4,77,VA,Virginia Commonwealth University
+1294,Gerald Henderson,14.0,59,VA,Virginia Commonwealth University
+1295,Gerald Henderson,13.2,52,VA,Virginia Commonwealth University
+1296,Gerald Henderson,13.2,52,VA,Virginia Commonwealth University
+1297,Gerald Henderson,13.1,51,VA,Virginia Commonwealth University
+1298,Gerald Henderson,12.9,50,VA,Virginia Commonwealth University
+1299,Gerald Henderson,10.8,32,VA,Virginia Commonwealth University
+1300,Christian Wood,16.4,77,NV,"University of Nevada, Las Vegas"
+1301,Christian Wood,15.1,68,NV,"University of Nevada, Las Vegas"
+1302,Jason Thompson,16.4,77,SC,University of South Carolina
+1303,Jason Thompson,14.6,64,SC,University of South Carolina
+1304,Jason Thompson,14.2,61,SC,University of South Carolina
+1305,Jason Thompson,13.6,56,SC,University of South Carolina
+1306,Jason Thompson,11.1,34,SC,University of South Carolina
+1307,Jason Thompson,10.2,27,SC,University of South Carolina
+1308,Tyler Hansbrough,16.4,77,CA,University of North Carolina
+1309,Tyler Hansbrough,15.3,69,CA,University of North Carolina
+1310,Tyler Hansbrough,14.7,65,CA,University of North Carolina
+1311,Tyler Hansbrough,14.2,61,CA,University of North Carolina
+1312,Tyler Hansbrough,13.3,53,CA,University of North Carolina
+1313,Tyler Hansbrough,12.5,46,CA,University of North Carolina
+1314,Brad Miller,16.3,76,IN,Purdue University
+1315,Brad Miller,10.7,31,IN,Purdue University
+1316,Mike Scott,16.3,76,VA,University of Virginia
+1317,Mike Scott,15.3,69,VA,University of Virginia
+1318,Mike Scott,15.1,68,VA,University of Virginia
+1319,Mike Scott,14.0,59,VA,University of Virginia
+1320,Mike Scott,13.7,56,VA,University of Virginia
+1321,Mike Scott,5.9,8,VA,University of Virginia
+1322,Harrison Barnes,16.3,76,MA,Northeastern University
+1323,Harrison Barnes,15.8,73,MA,Northeastern University
+1324,Harrison Barnes,13.4,54,MA,Northeastern University
+1325,Harrison Barnes,12.3,44,MA,Northeastern University
+1326,Harrison Barnes,11.0,34,MA,Northeastern University
+1327,Harrison Barnes,9.8,24,MA,Northeastern University
+1328,Chandler Parsons,16.3,76,FL,University of Florida
+1329,Chandler Parsons,16.2,76,FL,University of Florida
+1330,Chandler Parsons,15.9,74,FL,University of Florida
+1331,Chandler Parsons,15.3,69,FL,University of Florida
+1332,Chandler Parsons,13.6,56,FL,University of Florida
+1333,Chandler Parsons,13.3,53,FL,University of Florida
+1334,Chandler Parsons,7.7,13,FL,University of Florida
+1335,Greivis Vasquez,16.3,76,MD,University of Maryland
+1336,Greivis Vasquez,14.2,61,MD,University of Maryland
+1337,Greivis Vasquez,14.1,60,MD,University of Maryland
+1338,Greivis Vasquez,12.6,47,MD,University of Maryland
+1339,Greivis Vasquez,9.4,22,MD,University of Maryland
+1340,Greivis Vasquez,7.4,12,MD,University of Maryland
+1341,Greivis Vasquez,4.1,5,MD,University of Maryland
+1342,Marcus Camby,16.2,76,MA,University of Massachusetts Amherst
+1343,Marcus Camby,14.8,65,MA,University of Massachusetts Amherst
+1344,Marcus Camby,8.6,17,MA,University of Massachusetts Amherst
+1345,Jerami Grant,16.2,76,NY,Syracuse University
+1346,Jerami Grant,12.6,47,NY,Syracuse University
+1347,Jerami Grant,10.1,26,NY,Syracuse University
+1348,Jerami Grant,8.7,18,NY,Syracuse University
+1349,Will Barton,16.2,76,TN,University of Memphis
+1350,Will Barton,16.0,74,TN,University of Memphis
+1351,Will Barton,15.5,71,TN,University of Memphis
+1352,Will Barton,13.6,56,TN,University of Memphis
+1353,Will Barton,13.5,55,TN,University of Memphis
+1354,Will Barton,9.1,20,TN,University of Memphis
+1355,Chuck Hayes,16.2,76,KY,University of Kentucky
+1356,Chuck Hayes,10.7,31,KY,University of Kentucky
+1357,Chuck Hayes,10.4,29,KY,University of Kentucky
+1358,Chuck Hayes,10.0,25,KY,University of Kentucky
+1359,Chuck Hayes,8.9,19,KY,University of Kentucky
+1360,Chuck Hayes,1.6,2,KY,University of Kentucky
+1361,Gerald Wallace,16.2,76,AL,University of Alabama
+1362,Gerald Wallace,15.9,74,AL,University of Alabama
+1363,Gerald Wallace,11.6,39,AL,University of Alabama
+1364,Gerald Wallace,10.0,25,AL,University of Alabama
+1365,Gerald Wallace,6.2,9,AL,University of Alabama
+1366,Jamal Murray,16.1,75,KY,University of Kentucky
+1367,Jamal Murray,11.9,41,KY,University of Kentucky
+1368,Buddy Hield,16.1,75,OK,University of Oklahoma
+1369,Buddy Hield,11.8,40,OK,University of Oklahoma
+1370,Tristan Thompson,16.1,75,TX,University of Texas at Austin
+1371,Tristan Thompson,15.9,74,TX,University of Texas at Austin
+1372,Tristan Thompson,15.6,71,TX,University of Texas at Austin
+1373,Tristan Thompson,15.3,69,TX,University of Texas at Austin
+1374,Tristan Thompson,14.9,66,TX,University of Texas at Austin
+1375,Tristan Thompson,13.6,56,TX,University of Texas at Austin
+1376,Tristan Thompson,13.3,53,TX,University of Texas at Austin
+1377,Wesley Matthews,16.1,75,WI,University of Wisconsin
+1378,Wesley Matthews,15.7,72,WI,University of Wisconsin
+1379,Wesley Matthews,15.5,71,WI,University of Wisconsin
+1380,Wesley Matthews,14.1,60,WI,University of Wisconsin
+1381,Wesley Matthews,14.1,60,WI,University of Wisconsin
+1382,Wesley Matthews,11.9,41,WI,University of Wisconsin
+1383,Wesley Matthews,11.4,37,WI,University of Wisconsin
+1384,Wesley Matthews,10.9,33,WI,University of Wisconsin
+1385,Greg Smith,16.1,75,KY,Western Kentucky University
+1386,Greg Smith,13.7,56,KY,Western Kentucky University
+1387,Greg Smith,12.3,44,KY,Western Kentucky University
+1388,Greg Smith,10.2,27,KY,Western Kentucky University
+1389,Greg Smith,7.9,14,KY,Western Kentucky University
+1390,Josh McRoberts,16.0,74,NC,Duke University
+1391,Josh McRoberts,13.8,57,NC,Duke University
+1392,Josh McRoberts,12.7,48,NC,Duke University
+1393,Josh McRoberts,10.9,33,NC,Duke University
+1394,Josh McRoberts,10.2,27,NC,Duke University
+1395,Josh McRoberts,9.9,25,NC,Duke University
+1396,Josh McRoberts,9.8,24,NC,Duke University
+1397,Josh McRoberts,-12.5,0,NC,Duke University
+1398,Troy Daniels,16.0,74,VA,Virginia Commonwealth University
+1399,Troy Daniels,14.9,66,VA,Virginia Commonwealth University
+1400,Troy Daniels,10.4,29,VA,Virginia Commonwealth University
+1401,Troy Daniels,9.8,24,VA,Virginia Commonwealth University
+1402,Troy Daniels,9.6,23,VA,Virginia Commonwealth University
+1403,Nick Young,16.0,74,CA,University of Southern California
+1404,Nick Young,14.5,63,CA,University of Southern California
+1405,Nick Young,14.2,61,CA,University of Southern California
+1406,Nick Young,14.1,60,CA,University of Southern California
+1407,Nick Young,13.3,53,CA,University of Southern California
+1408,Nick Young,12.9,50,CA,University of Southern California
+1409,Nick Young,10.0,25,CA,University of Southern California
+1410,Nick Young,9.1,20,CA,University of Southern California
+1411,Bernard James,16.0,74,FL,Florida State University
+1412,Bernard James,14.7,65,FL,Florida State University
+1413,Bernard James,8.5,17,FL,Florida State University
+1414,Lester Hudson,16.0,74,TN,University of Tennessee at Martin
+1415,Lester Hudson,13.9,58,TN,University of Tennessee at Martin
+1416,Lester Hudson,6.0,8,TN,University of Tennessee at Martin
+1417,Arron Afflalo,16.0,74,CA,"University of California, Los Angeles"
+1418,Arron Afflalo,14.7,65,CA,"University of California, Los Angeles"
+1419,Arron Afflalo,13.6,56,CA,"University of California, Los Angeles"
+1420,Arron Afflalo,13.0,50,CA,"University of California, Los Angeles"
+1421,Arron Afflalo,10.9,33,CA,"University of California, Los Angeles"
+1422,Arron Afflalo,10.7,31,CA,"University of California, Los Angeles"
+1423,Arron Afflalo,8.9,19,CA,"University of California, Los Angeles"
+1424,Arron Afflalo,5.8,8,CA,"University of California, Los Angeles"
+1425,Shavlik Randolph,15.9,74,NC,Duke University
+1426,Shavlik Randolph,7.7,13,NC,Duke University
+1427,Shavlik Randolph,7.2,11,NC,Duke University
+1428,Quincy Acy,15.9,74,TX,Baylor University
+1429,Quincy Acy,14.7,65,TX,Baylor University
+1430,Quincy Acy,11.9,41,TX,Baylor University
+1431,Quincy Acy,11.8,40,TX,Baylor University
+1432,Quincy Acy,10.1,26,TX,Baylor University
+1433,Quincy Acy,8.2,15,TX,Baylor University
+1434,Kyle Anderson,15.9,74,CA,"University of California, Los Angeles"
+1435,Kyle Anderson,12.9,50,CA,"University of California, Los Angeles"
+1436,Kyle Anderson,12.5,46,CA,"University of California, Los Angeles"
+1437,Kyle Anderson,8.2,15,CA,"University of California, Los Angeles"
+1438,Jason Terry,15.9,74,AZ,University of Arizona
+1439,Jason Terry,15.7,72,AZ,University of Arizona
+1440,Jason Terry,12.8,49,AZ,University of Arizona
+1441,Jason Terry,11.4,37,AZ,University of Arizona
+1442,Jason Terry,10.2,27,AZ,University of Arizona
+1443,Jason Terry,9.1,20,AZ,University of Arizona
+1444,Jason Terry,8.1,15,AZ,University of Arizona
+1445,Jason Terry,7.4,12,AZ,University of Arizona
+1446,Nazr Mohammed,15.9,74,KY,University of Kentucky
+1447,Nazr Mohammed,11.0,34,KY,University of Kentucky
+1448,Nazr Mohammed,10.8,32,KY,University of Kentucky
+1449,Nazr Mohammed,10.1,26,KY,University of Kentucky
+1450,Nazr Mohammed,8.7,18,KY,University of Kentucky
+1451,Nazr Mohammed,6.0,8,KY,University of Kentucky
+1452,Spencer Dinwiddie,15.9,74,CO,University of Colorado
+1453,Spencer Dinwiddie,12.7,48,CO,University of Colorado
+1454,Spencer Dinwiddie,10.2,27,CO,University of Colorado
+1455,Spencer Dinwiddie,8.9,19,CO,University of Colorado
+1456,Tyler Johnson,15.9,74,CA,"California State University, Fresno"
+1457,Tyler Johnson,13.8,57,CA,"California State University, Fresno"
+1458,Tyler Johnson,13.0,50,CA,"California State University, Fresno"
+1459,Tyler Johnson,12.0,42,CA,"California State University, Fresno"
+1460,DeMarre Carroll,15.9,74,MI,University of Missouri
+1461,DeMarre Carroll,15.5,71,MI,University of Missouri
+1462,DeMarre Carroll,14.3,61,MI,University of Missouri
+1463,DeMarre Carroll,13.9,58,MI,University of Missouri
+1464,DeMarre Carroll,11.9,41,MI,University of Missouri
+1465,DeMarre Carroll,11.9,41,MI,University of Missouri
+1466,DeMarre Carroll,11.1,34,MI,University of Missouri
+1467,DeMarre Carroll,8.7,18,MI,University of Missouri
+1468,Fred VanVleet,15.9,74,KS,Wichita State University
+1469,Fred VanVleet,10.5,29,KS,Wichita State University
+1470,Jae Crowder,15.8,73,WI,Marquette University
+1471,Jae Crowder,14.9,66,WI,Marquette University
+1472,Jae Crowder,13.9,58,WI,Marquette University
+1473,Jae Crowder,11.9,41,WI,Marquette University
+1474,Jae Crowder,10.4,29,WI,Marquette University
+1475,Jae Crowder,10.2,27,WI,Marquette University
+1476,Jimmer Fredette,15.8,73,UT,Brigham Young University
+1477,Jimmer Fredette,14.6,64,UT,Brigham Young University
+1478,Jimmer Fredette,12.0,42,UT,Brigham Young University
+1479,Jimmer Fredette,10.8,32,UT,Brigham Young University
+1480,Jimmer Fredette,9.8,24,UT,Brigham Young University
+1481,Alec Burks,15.8,73,CO,University of Colorado
+1482,Alec Burks,14.3,61,CO,University of Colorado
+1483,Alec Burks,14.0,59,CO,University of Colorado
+1484,Alec Burks,13.1,51,CO,University of Colorado
+1485,Alec Burks,13.0,50,CO,University of Colorado
+1486,Alec Burks,11.6,39,CO,University of Colorado
+1487,Alec Burks,11.5,38,CO,University of Colorado
+1488,Trevor Ariza,15.8,73,CA,"University of California, Los Angeles"
+1489,Trevor Ariza,14.2,61,CA,"University of California, Los Angeles"
+1490,Trevor Ariza,14.0,59,CA,"University of California, Los Angeles"
+1491,Trevor Ariza,12.9,50,CA,"University of California, Los Angeles"
+1492,Trevor Ariza,12.7,48,CA,"University of California, Los Angeles"
+1493,Trevor Ariza,12.4,45,CA,"University of California, Los Angeles"
+1494,Trevor Ariza,11.8,40,CA,"University of California, Los Angeles"
+1495,Trevor Ariza,11.3,36,CA,"University of California, Los Angeles"
+1496,Chris McCullough,15.8,73,NY,Syracuse University
+1497,Chris McCullough,15.2,68,NY,Syracuse University
+1498,Chris McCullough,12.2,43,NY,Syracuse University
+1499,Richard Hamilton,15.8,73,CT,University of Connecticut
+1500,Richard Hamilton,13.2,52,CT,University of Connecticut
+1501,Richard Hamilton,10.6,30,CT,University of Connecticut
+1502,Corey Maggette,15.8,73,NC,Duke University
+1503,Corey Maggette,14.1,60,NC,Duke University
+1504,Corey Maggette,7.9,14,NC,Duke University
+1505,Trevor Booker,15.7,72,SC,Clemson University
+1506,Trevor Booker,15.4,70,SC,Clemson University
+1507,Trevor Booker,15.3,69,SC,Clemson University
+1508,Trevor Booker,15.3,69,SC,Clemson University
+1509,Trevor Booker,15.0,67,SC,Clemson University
+1510,Trevor Booker,14.9,66,SC,Clemson University
+1511,Trevor Booker,14.4,62,SC,Clemson University
+1512,Trevor Booker,13.9,58,SC,Clemson University
+1513,Ivan Johnson,15.7,72,OR,University of Oregon
+1514,Ivan Johnson,14.3,61,OR,University of Oregon
+1515,Darrell Arthur,15.7,72,KS,University of Kansas
+1516,Darrell Arthur,12.8,49,KS,University of Kansas
+1517,Darrell Arthur,12.5,46,KS,University of Kansas
+1518,Darrell Arthur,11.8,40,KS,University of Kansas
+1519,Darrell Arthur,11.5,38,KS,University of Kansas
+1520,Darrell Arthur,9.4,22,KS,University of Kansas
+1521,Darrell Arthur,8.4,16,KS,University of Kansas
+1522,Channing Frye,15.6,71,AZ,University of Arizona
+1523,Channing Frye,14.9,66,AZ,University of Arizona
+1524,Channing Frye,13.2,52,AZ,University of Arizona
+1525,Channing Frye,13.1,51,AZ,University of Arizona
+1526,Channing Frye,12.9,50,AZ,University of Arizona
+1527,Channing Frye,12.8,49,AZ,University of Arizona
+1528,Channing Frye,9.5,22,AZ,University of Arizona
+1529,Jared Dudley,15.6,71,MA,Boston College
+1530,Jared Dudley,15.4,70,MA,Boston College
+1531,Jared Dudley,14.9,66,MA,Boston College
+1532,Jared Dudley,12.3,44,MA,Boston College
+1533,Jared Dudley,11.7,40,MA,Boston College
+1534,Jared Dudley,10.6,30,MA,Boston College
+1535,Jared Dudley,8.9,19,MA,Boston College
+1536,Jared Dudley,8.8,18,MA,Boston College
+1537,Sean Kilpatrick,15.6,71,OH,University of Cincinnati
+1538,Sean Kilpatrick,13.1,51,OH,University of Cincinnati
+1539,Sean Kilpatrick,11.6,39,OH,University of Cincinnati
+1540,Sean Kilpatrick,10.0,25,OH,University of Cincinnati
+1541,Luol Deng,15.5,71,NC,Duke University
+1542,Luol Deng,15.5,71,NC,Duke University
+1543,Luol Deng,15.2,68,NC,Duke University
+1544,Luol Deng,15.1,68,NC,Duke University
+1545,Luol Deng,15.0,67,NC,Duke University
+1546,Luol Deng,14.1,60,NC,Duke University
+1547,Luol Deng,10.1,26,NC,Duke University
+1548,Luol Deng,5.5,7,NC,Duke University
+1549,Cory Joseph,15.5,71,TX,University of Texas at Austin
+1550,Cory Joseph,14.7,65,TX,University of Texas at Austin
+1551,Cory Joseph,13.5,55,TX,University of Texas at Austin
+1552,Cory Joseph,13.2,52,TX,University of Texas at Austin
+1553,Cory Joseph,12.4,45,TX,University of Texas at Austin
+1554,Cory Joseph,11.0,34,TX,University of Texas at Austin
+1555,Cory Joseph,6.9,11,TX,University of Texas at Austin
+1556,Michael Carter-Williams,15.5,71,NY,Syracuse University
+1557,Michael Carter-Williams,14.1,60,NY,Syracuse University
+1558,Michael Carter-Williams,13.9,58,NY,Syracuse University
+1559,Michael Carter-Williams,10.8,32,NY,Syracuse University
+1560,Michael Carter-Williams,9.9,25,NY,Syracuse University
+1561,Seth Curry,15.5,71,NC,Duke University
+1562,Seth Curry,13.8,57,NC,Duke University
+1563,Seth Curry,13.8,57,NC,Duke University
+1564,Seth Curry,-11.4,0,NC,Duke University
+1565,Matt Barnes,15.5,71,RI,Providence College
+1566,Matt Barnes,15.5,71,RI,Providence College
+1567,Matt Barnes,14.6,64,RI,Providence College
+1568,Matt Barnes,12.0,42,RI,Providence College
+1569,Matt Barnes,11.7,40,RI,Providence College
+1570,Matt Barnes,11.3,36,RI,Providence College
+1571,Matt Barnes,10.3,28,RI,Providence College
+1572,Patrick Beverley,15.4,70,AR,University of Arkansas
+1573,Patrick Beverley,13.0,50,AR,University of Arkansas
+1574,Patrick Beverley,13.0,50,AR,University of Arkansas
+1575,Patrick Beverley,12.4,45,AR,University of Arkansas
+1576,Patrick Beverley,12.3,44,AR,University of Arkansas
+1577,Patrick Beverley,11.3,36,AR,University of Arkansas
+1578,Craig Smith,15.4,70,MA,Boston College
+1579,Craig Smith,13.6,56,MA,Boston College
+1580,James Jones,15.4,70,MA,Assumption College
+1581,James Jones,11.6,39,MA,Assumption College
+1582,James Jones,11.1,34,MA,Assumption College
+1583,James Jones,11.1,34,MA,Assumption College
+1584,James Jones,11.1,34,MA,Assumption College
+1585,James Jones,9.7,24,MA,Assumption College
+1586,James Jones,8.1,15,MA,Assumption College
+1587,Ish Smith,15.4,70,NC,Wake Forest University
+1588,Ish Smith,14.9,66,NC,Wake Forest University
+1589,Ish Smith,14.7,65,NC,Wake Forest University
+1590,Ish Smith,14.1,60,NC,Wake Forest University
+1591,Ish Smith,12.3,44,NC,Wake Forest University
+1592,Ish Smith,11.7,40,NC,Wake Forest University
+1593,Ish Smith,8.5,17,NC,Wake Forest University
+1594,Ish Smith,7.6,13,NC,Wake Forest University
+1595,Jameer Nelson,15.4,70,PA,Saint Joseph's University
+1596,Jameer Nelson,14.6,64,PA,Saint Joseph's University
+1597,Jameer Nelson,14.4,62,PA,Saint Joseph's University
+1598,Jameer Nelson,13.9,58,PA,Saint Joseph's University
+1599,Jameer Nelson,12.1,43,PA,Saint Joseph's University
+1600,Jameer Nelson,11.5,38,PA,Saint Joseph's University
+1601,Jameer Nelson,9.5,22,PA,Saint Joseph's University
+1602,Jameer Nelson,8.1,15,PA,Saint Joseph's University
+1603,Mo Williams,15.4,70,IN,University of Notre Dame
+1604,Mo Williams,15.0,67,IN,University of Notre Dame
+1605,Mo Williams,14.4,62,IN,University of Notre Dame
+1606,Mo Williams,13.9,58,IN,University of Notre Dame
+1607,Mo Williams,12.4,45,IN,University of Notre Dame
+1608,Mo Williams,11.8,40,IN,University of Notre Dame
+1609,Jordan Mickey,15.3,69,LA,Louisiana State University
+1610,Jordan Mickey,10.6,30,LA,Louisiana State University
+1611,Jordan Mickey,9.8,24,LA,Louisiana State University
+1612,Delonte West,15.3,69,PA,Saint Joseph's University
+1613,Delonte West,12.3,44,PA,Saint Joseph's University
+1614,Josh Akognon,15.3,69,CA,"California State University, Fullerton"
+1615,Ekpe Udoh,15.2,68,TX,Baylor University
+1616,Ekpe Udoh,12.5,46,TX,Baylor University
+1617,Ekpe Udoh,12.0,42,TX,Baylor University
+1618,Ekpe Udoh,11.6,39,TX,Baylor University
+1619,Ekpe Udoh,9.7,24,TX,Baylor University
+1620,Ekpe Udoh,7.6,13,TX,Baylor University
+1621,Toney Douglas,15.2,68,FL,Florida State University
+1622,Toney Douglas,14.7,65,FL,Florida State University
+1623,Toney Douglas,13.4,54,FL,Florida State University
+1624,Toney Douglas,11.2,35,FL,Florida State University
+1625,Toney Douglas,10.6,30,FL,Florida State University
+1626,Toney Douglas,9.2,21,FL,Florida State University
+1627,Toney Douglas,7.1,11,FL,Florida State University
+1628,Brandon Rush,15.2,68,KS,University of Kansas
+1629,Brandon Rush,11.9,41,KS,University of Kansas
+1630,Brandon Rush,10.6,30,KS,University of Kansas
+1631,Brandon Rush,10.1,26,KS,University of Kansas
+1632,Brandon Rush,6.6,10,KS,University of Kansas
+1633,Brandon Rush,4.1,5,KS,University of Kansas
+1634,Brandon Rush,0.8,2,KS,University of Kansas
+1635,Tim Hardaway,15.2,68,TX,University of Texas at El Paso
+1636,Tim Hardaway,14.4,62,TX,University of Texas at El Paso
+1637,Tim Hardaway,12.7,48,TX,University of Texas at El Paso
+1638,Tim Hardaway,12.1,43,TX,University of Texas at El Paso
+1639,Tim Hardaway,11.7,40,TX,University of Texas at El Paso
+1640,Dejounte Murray,15.1,68,WA,University of Washington
+1641,Dejounte Murray,9.6,23,WA,University of Washington
+1642,Andrew Nicholson,15.1,68,NY,St. Bonaventure University
+1643,Andrew Nicholson,14.8,65,NY,St. Bonaventure University
+1644,Andrew Nicholson,10.3,28,NY,St. Bonaventure University
+1645,Andrew Nicholson,9.9,25,NY,St. Bonaventure University
+1646,Andrew Nicholson,5.9,8,NY,St. Bonaventure University
+1647,Troy Williams,15.1,68,SC,South Carolina State University
+1648,Troy Williams,9.0,19,SC,South Carolina State University
+1649,Terry Rozier,15.1,68,KY,University of Louisville
+1650,Terry Rozier,10.9,33,KY,University of Louisville
+1651,Terry Rozier,5.0,6,KY,University of Louisville
+1652,Tayshaun Prince,15.1,68,KY,University of Kentucky
+1653,Tayshaun Prince,12.8,49,KY,University of Kentucky
+1654,Tayshaun Prince,12.0,42,KY,University of Kentucky
+1655,Tayshaun Prince,11.5,38,KY,University of Kentucky
+1656,Tayshaun Prince,8.2,15,KY,University of Kentucky
+1657,Tayshaun Prince,6.3,9,KY,University of Kentucky
+1658,Etan Thomas,15.1,68,NY,Syracuse University
+1659,Tarik Black,15.0,67,KS,University of Kansas
+1660,Tarik Black,14.7,65,KS,University of Kansas
+1661,Tarik Black,14.3,61,KS,University of Kansas
+1662,Tarik Black,12.3,44,KS,University of Kansas
+1663,Leon Powe,15.0,67,CA,University of California
+1664,Sundiata Gaines,15.0,67,GA,University of Georgia
+1665,Sundiata Gaines,11.3,36,GA,University of Georgia
+1666,Jeff Green,15.0,67,MD,University of Maryland
+1667,Jeff Green,14.8,65,MD,University of Maryland
+1668,Jeff Green,14.4,62,MD,University of Maryland
+1669,Jeff Green,13.1,51,MD,University of Maryland
+1670,Jeff Green,13.0,50,MD,University of Maryland
+1671,Jeff Green,12.9,50,MD,University of Maryland
+1672,Jeff Green,10.5,29,MD,University of Maryland
+1673,Glen Davis,15.0,67,LA,Louisiana State University
+1674,Glen Davis,13.2,52,LA,Louisiana State University
+1675,Glen Davis,13.1,51,LA,Louisiana State University
+1676,Glen Davis,12.8,49,LA,Louisiana State University
+1677,Glen Davis,10.8,32,LA,Louisiana State University
+1678,Jason Richardson,15.0,67,MI,Michigan State University
+1679,Jason Richardson,13.3,53,MI,Michigan State University
+1680,Jason Richardson,12.6,47,MI,Michigan State University
+1681,Jason Richardson,11.7,40,MI,Michigan State University
+1682,Robert Covington,15.0,67,TN,Tennessee State University
+1683,Robert Covington,14.7,65,TN,Tennessee State University
+1684,Robert Covington,13.2,52,TN,Tennessee State University
+1685,Robert Covington,13.2,52,TN,Tennessee State University
+1686,Robert Covington,12.9,50,TN,Tennessee State University
+1687,Luke Ridnour,15.0,67,OR,University of Oregon
+1688,Luke Ridnour,13.6,56,OR,University of Oregon
+1689,Luke Ridnour,13.0,50,OR,University of Oregon
+1690,Luke Ridnour,10.0,25,OR,University of Oregon
+1691,Luke Ridnour,9.0,19,OR,University of Oregon
+1692,Tony Wroten,14.9,66,WA,University of Washington
+1693,Tony Wroten,12.9,50,WA,University of Washington
+1694,Tony Wroten,9.3,21,WA,University of Washington
+1695,Tony Wroten,1.8,3,WA,University of Washington
+1696,Johnny O'Bryant,14.9,66,LA,Louisiana State University
+1697,Johnny O'Bryant,11.9,41,LA,Louisiana State University
+1698,Johnny O'Bryant,7.4,12,LA,Louisiana State University
+1699,Johnny O'Bryant,3.8,4,LA,Louisiana State University
+1700,JaMychal Green,14.9,66,AL,University of Alabama
+1701,JaMychal Green,14.6,64,AL,University of Alabama
+1702,JaMychal Green,14.0,59,AL,University of Alabama
+1703,JaMychal Green,13.5,55,AL,University of Alabama
+1704,Lavoy Allen,14.9,66,PA,Temple University
+1705,Lavoy Allen,12.7,48,PA,Temple University
+1706,Lavoy Allen,12.5,46,PA,Temple University
+1707,Lavoy Allen,12.4,45,PA,Temple University
+1708,Lavoy Allen,11.6,39,PA,Temple University
+1709,Lavoy Allen,11.5,38,PA,Temple University
+1710,Dante Cunningham,14.9,66,PA,Villanova University
+1711,Dante Cunningham,13.3,53,PA,Villanova University
+1712,Dante Cunningham,12.6,47,PA,Villanova University
+1713,Dante Cunningham,10.7,31,PA,Villanova University
+1714,Dante Cunningham,10.2,27,PA,Villanova University
+1715,Dante Cunningham,10.0,25,PA,Villanova University
+1716,Dante Cunningham,8.9,19,PA,Villanova University
+1717,Dante Cunningham,8.6,17,PA,Villanova University
+1718,Chase Budinger,14.9,66,AZ,University of Arizona
+1719,Chase Budinger,14.2,61,AZ,University of Arizona
+1720,Chase Budinger,12.6,47,AZ,University of Arizona
+1721,Chase Budinger,12.2,43,AZ,University of Arizona
+1722,Chase Budinger,10.7,31,AZ,University of Arizona
+1723,Chase Budinger,9.7,24,AZ,University of Arizona
+1724,Derrick Byars,14.9,66,TN,Vanderbilt University
+1725,Malcolm Brogdon,14.9,66,VA,University of Virginia
+1726,Malcolm Brogdon,14.3,61,VA,University of Virginia
+1727,Marcus Morris,14.8,65,IL,Northwestern University
+1728,Marcus Morris,14.5,63,IL,Northwestern University
+1729,Marcus Morris,13.7,56,IL,Northwestern University
+1730,Marcus Morris,12.7,48,IL,Northwestern University
+1731,Marcus Morris,12.4,45,IL,Northwestern University
+1732,Marcus Morris,11.3,36,IL,Northwestern University
+1733,Marcus Morris,3.8,4,IL,Northwestern University
+1734,Kyle Korver,14.8,65,NE,Creighton University
+1735,Kyle Korver,13.9,58,NE,Creighton University
+1736,Kyle Korver,13.6,56,NE,Creighton University
+1737,Kyle Korver,13.5,55,NE,Creighton University
+1738,Kyle Korver,13.4,54,NE,Creighton University
+1739,Kyle Korver,13.0,50,NE,Creighton University
+1740,Kyle Korver,12.1,43,NE,Creighton University
+1741,Kyle Korver,9.7,24,NE,Creighton University
+1742,Anthony Morrow,14.8,65,GA,Georgia Institute of Technology
+1743,Anthony Morrow,13.9,58,GA,Georgia Institute of Technology
+1744,Anthony Morrow,13.1,51,GA,Georgia Institute of Technology
+1745,Anthony Morrow,12.1,43,GA,Georgia Institute of Technology
+1746,Anthony Morrow,12.0,42,GA,Georgia Institute of Technology
+1747,Anthony Morrow,10.7,31,GA,Georgia Institute of Technology
+1748,Anthony Morrow,10.1,26,GA,Georgia Institute of Technology
+1749,Jared Cunningham,14.8,65,OR,Oregon State University
+1750,Jared Cunningham,8.5,17,OR,Oregon State University
+1751,Jared Cunningham,7.3,12,OR,Oregon State University
+1752,Jared Cunningham,5.9,8,OR,Oregon State University
+1753,Alex Stepheson,14.8,65,CA,University of Southern California
+1754,Grant Hill,14.7,65,NC,Duke University
+1755,Grant Hill,12.3,44,NC,Duke University
+1756,Grant Hill,4.8,6,NC,Duke University
+1757,Jodie Meeks,14.7,65,KY,University of Kentucky
+1758,Jodie Meeks,14.1,60,KY,University of Kentucky
+1759,Jodie Meeks,13.5,55,KY,University of Kentucky
+1760,Jodie Meeks,13.1,51,KY,University of Kentucky
+1761,Jodie Meeks,12.6,47,KY,University of Kentucky
+1762,Jodie Meeks,12.4,45,KY,University of Kentucky
+1763,Jodie Meeks,11.5,38,KY,University of Kentucky
+1764,Jodie Meeks,11.4,37,KY,University of Kentucky
+1765,Lance Stephenson,14.7,65,OH,University of Cincinnati
+1766,Lance Stephenson,13.5,55,OH,University of Cincinnati
+1767,Lance Stephenson,12.4,45,OH,University of Cincinnati
+1768,Lance Stephenson,11.8,40,OH,University of Cincinnati
+1769,Lance Stephenson,9.6,23,OH,University of Cincinnati
+1770,Lance Stephenson,8.8,18,OH,University of Cincinnati
+1771,Lance Stephenson,7.0,11,OH,University of Cincinnati
+1772,Lance Stephenson,5.5,7,OH,University of Cincinnati
+1773,Joel Anthony,14.7,65,NV,"University of Nevada, Las Vegas"
+1774,Joel Anthony,14.1,60,NV,"University of Nevada, Las Vegas"
+1775,Joel Anthony,11.6,39,NV,"University of Nevada, Las Vegas"
+1776,Joel Anthony,10.4,29,NV,"University of Nevada, Las Vegas"
+1777,Joel Anthony,10.3,28,NV,"University of Nevada, Las Vegas"
+1778,Joel Anthony,8.1,15,NV,"University of Nevada, Las Vegas"
+1779,Joel Anthony,7.3,12,NV,"University of Nevada, Las Vegas"
+1780,Ben Uzoh,14.7,65,OK,University of Tulsa
+1781,Ben Uzoh,10.9,33,OK,University of Tulsa
+1782,Dahntay Jones,14.7,65,TX,University of Houston
+1783,Dahntay Jones,13.7,56,TX,University of Houston
+1784,Dahntay Jones,10.3,28,TX,University of Houston
+1785,Dahntay Jones,10.3,28,TX,University of Houston
+1786,Dahntay Jones,6.4,9,TX,University of Houston
+1787,Dahntay Jones,1.9,3,TX,University of Houston
+1788,Anthony Bennett,14.7,65,NV,"University of Nevada, Las Vegas"
+1789,Anthony Bennett,11.4,37,NV,"University of Nevada, Las Vegas"
+1790,Anthony Bennett,10.4,29,NV,"University of Nevada, Las Vegas"
+1791,Anthony Bennett,6.9,11,NV,"University of Nevada, Las Vegas"
+1792,Derrick Brown,14.7,65,FL,Jacksonville University
+1793,Derrick Brown,12.9,50,FL,Jacksonville University
+1794,Corey Brewer,14.7,65,FL,University of Florida
+1795,Corey Brewer,13.9,58,FL,University of Florida
+1796,Corey Brewer,13.7,56,FL,University of Florida
+1797,Corey Brewer,12.7,48,FL,University of Florida
+1798,Corey Brewer,11.2,35,FL,University of Florida
+1799,Corey Brewer,11.0,34,FL,University of Florida
+1800,Corey Brewer,9.9,25,FL,University of Florida
+1801,Corey Brewer,9.1,20,FL,University of Florida
+1802,Brian Roberts,14.6,64,OH,University of Dayton
+1803,Brian Roberts,13.8,57,OH,University of Dayton
+1804,Brian Roberts,13.4,54,OH,University of Dayton
+1805,Brian Roberts,11.7,40,OH,University of Dayton
+1806,Brian Roberts,9.8,24,OH,University of Dayton
+1807,Zach LaVine,14.6,64,CA,"University of California, Los Angeles"
+1808,Zach LaVine,14.6,64,CA,"University of California, Los Angeles"
+1809,Zach LaVine,14.3,61,CA,"University of California, Los Angeles"
+1810,Zach LaVine,11.3,36,CA,"University of California, Los Angeles"
+1811,Eric Dawson,14.6,64,TX,Midwestern State University
+1812,Travis Leslie,14.6,64,GA,University of Georgia
+1813,Stephen Jackson,14.6,64,AL,University of Alabama at Birmingham
+1814,Stephen Jackson,10.7,31,AL,University of Alabama at Birmingham
+1815,Stephen Jackson,8.0,14,AL,University of Alabama at Birmingham
+1816,Stephen Jackson,0.1,2,AL,University of Alabama at Birmingham
+1817,Justin Hamilton,14.6,64,LA,Louisiana State University
+1818,Justin Hamilton,13.6,56,LA,Louisiana State University
+1819,Justin Hamilton,11.9,41,LA,Louisiana State University
+1820,Pascal Siakam,14.5,63,NM,New Mexico State University
+1821,Pascal Siakam,11.5,38,NM,New Mexico State University
+1822,Jordan Williams,14.5,63,NM,New Mexico State University
+1823,Kris Dunn,14.5,63,RI,Providence College
+1824,Kris Dunn,8.1,15,RI,Providence College
+1825,Dion Waiters,14.5,63,NY,Syracuse University
+1826,Dion Waiters,14.0,59,NY,Syracuse University
+1827,Dion Waiters,13.7,56,NY,Syracuse University
+1828,Dion Waiters,10.9,33,NY,Syracuse University
+1829,Dion Waiters,10.5,29,NY,Syracuse University
+1830,Dion Waiters,9.4,22,NY,Syracuse University
+1831,Bryce Cotton,14.5,63,RI,Providence College
+1832,Bryce Cotton,1.7,3,RI,Providence College
+1833,Kent Bazemore,14.5,63,VA,Old Dominion University
+1834,Kent Bazemore,13.4,54,VA,Old Dominion University
+1835,Kent Bazemore,11.5,38,VA,Old Dominion University
+1836,Kent Bazemore,11.3,36,VA,Old Dominion University
+1837,Kent Bazemore,11.2,35,VA,Old Dominion University
+1838,Kent Bazemore,9.7,24,VA,Old Dominion University
+1839,Frank Kaminsky,14.4,62,WI,University of Wisconsin
+1840,Frank Kaminsky,13.0,50,WI,University of Wisconsin
+1841,Frank Kaminsky,12.5,46,WI,University of Wisconsin
+1842,Jason Kidd,14.4,62,CA,University of California
+1843,Jason Kidd,13.5,55,CA,University of California
+1844,Jason Kidd,13.1,51,CA,University of California
+1845,Avery Bradley,14.4,62,TX,University of Texas at Austin
+1846,Avery Bradley,13.2,52,TX,University of Texas at Austin
+1847,Avery Bradley,12.7,48,TX,University of Texas at Austin
+1848,Avery Bradley,11.5,38,TX,University of Texas at Austin
+1849,Avery Bradley,11.3,36,TX,University of Texas at Austin
+1850,Avery Bradley,9.6,23,TX,University of Texas at Austin
+1851,Avery Bradley,8.8,18,TX,University of Texas at Austin
+1852,Avery Bradley,2.2,3,TX,University of Texas at Austin
+1853,Aaron Brooks,14.4,62,OR,University of Oregon
+1854,Aaron Brooks,13.1,51,OR,University of Oregon
+1855,Aaron Brooks,12.5,46,OR,University of Oregon
+1856,Aaron Brooks,11.8,40,OR,University of Oregon
+1857,Aaron Brooks,11.8,40,OR,University of Oregon
+1858,Aaron Brooks,9.8,24,OR,University of Oregon
+1859,Aaron Brooks,9.5,22,OR,University of Oregon
+1860,Al-Farouq Aminu,14.4,62,NC,Wake Forest University
+1861,Al-Farouq Aminu,13.7,56,NC,Wake Forest University
+1862,Al-Farouq Aminu,13.2,52,NC,Wake Forest University
+1863,Al-Farouq Aminu,12.7,48,NC,Wake Forest University
+1864,Al-Farouq Aminu,12.0,42,NC,Wake Forest University
+1865,Al-Farouq Aminu,11.3,36,NC,Wake Forest University
+1866,Al-Farouq Aminu,10.6,30,NC,Wake Forest University
+1867,Al-Farouq Aminu,9.6,23,NC,Wake Forest University
+1868,Jeff Foster,14.3,61,TX,Texas State University
+1869,Jeff Foster,11.1,34,TX,Texas State University
+1870,Jerian Grant,14.3,61,NY,Syracuse University
+1871,Jerian Grant,13.2,52,NY,Syracuse University
+1872,Jerian Grant,11.2,35,NY,Syracuse University
+1873,Caris LeVert,14.3,61,MI,University of Michigan
+1874,Caris LeVert,12.3,44,MI,University of Michigan
+1875,Renaldo Balkman,14.3,61,SC,University of South Carolina
+1876,Renaldo Balkman,9.3,21,SC,University of South Carolina
+1877,Rodney Hood,14.3,61,NC,Duke University
+1878,Rodney Hood,14.1,60,NC,Duke University
+1879,Rodney Hood,12.4,45,NC,Duke University
+1880,Rodney Hood,12.3,44,NC,Duke University
+1881,Solomon Alabi,14.2,61,FL,Florida State University
+1882,Solomon Alabi,2.0,3,FL,Florida State University
+1883,Gary Neal,14.2,61,MD,Towson University
+1884,Gary Neal,13.5,55,MD,Towson University
+1885,Gary Neal,13.1,51,MD,Towson University
+1886,Gary Neal,12.5,46,MD,Towson University
+1887,Gary Neal,11.5,38,MD,Towson University
+1888,Gary Neal,11.1,34,MD,Towson University
+1889,Gary Neal,-4.3,1,MD,Towson University
+1890,Shabazz Napier,14.2,61,CT,University of Connecticut
+1891,Shabazz Napier,13.6,56,CT,University of Connecticut
+1892,Shabazz Napier,9.6,23,CT,University of Connecticut
+1893,Shabazz Napier,9.3,21,CT,University of Connecticut
+1894,Caron Butler,14.2,61,CT,University of Connecticut
+1895,Caron Butler,12.4,45,CT,University of Connecticut
+1896,Caron Butler,12.2,43,CT,University of Connecticut
+1897,Caron Butler,11.7,40,CT,University of Connecticut
+1898,Caron Butler,11.3,36,CT,University of Connecticut
+1899,Caron Butler,9.3,21,CT,University of Connecticut
+1900,Jordan McRae,14.2,61,TN,University of Tennessee
+1901,Jordan McRae,9.7,24,TN,University of Tennessee
+1902,Joey Dorsey,14.2,61,TN,University of Memphis
+1903,Joey Dorsey,11.1,34,TN,University of Memphis
+1904,Kenyon Martin,14.1,60,OH,University of Cincinnati
+1905,Kenyon Martin,13.9,58,OH,University of Cincinnati
+1906,Kenyon Martin,12.2,43,OH,University of Cincinnati
+1907,Kenyon Martin,10.0,25,OH,University of Cincinnati
+1908,Kenyon Martin,9.9,25,OH,University of Cincinnati
+1909,Matt Bonner,14.1,60,FL,University of Florida
+1910,Matt Bonner,13.5,55,FL,University of Florida
+1911,Matt Bonner,13.2,52,FL,University of Florida
+1912,Matt Bonner,11.8,40,FL,University of Florida
+1913,Matt Bonner,11.2,35,FL,University of Florida
+1914,Matt Bonner,10.1,26,FL,University of Florida
+1915,Tyus Jones,14.1,60,NC,Duke University
+1916,Tyus Jones,13.8,57,NC,Duke University
+1917,Tyus Jones,11.2,35,NC,Duke University
+1918,Cameron Payne,14.0,59,KY,Murray State University
+1919,Cameron Payne,12.9,50,KY,Murray State University
+1920,Cameron Payne,5.5,7,KY,Murray State University
+1921,Norman Powell,14.0,59,CA,"University of California, Los Angeles"
+1922,Norman Powell,13.3,53,CA,"University of California, Los Angeles"
+1923,Norman Powell,8.5,17,CA,"University of California, Los Angeles"
+1924,Jarell Martin,14.0,59,LA,Louisiana State University
+1925,Jarell Martin,10.5,29,LA,Louisiana State University
+1926,Jarell Martin,8.7,18,LA,Louisiana State University
+1927,Daniel Orton,14.0,59,KY,University of Kentucky
+1928,Daniel Orton,12.7,48,KY,University of Kentucky
+1929,Daniel Orton,10.5,29,KY,University of Kentucky
+1930,Tim Frazier,13.9,58,PA,Pennsylvania State University
+1931,Tim Frazier,12.4,45,PA,Pennsylvania State University
+1932,Tim Frazier,11.3,36,PA,Pennsylvania State University
+1933,Tim Frazier,8.1,15,PA,Pennsylvania State University
+1934,Ronny Turiaf,13.9,58,WA,Gonzaga University
+1935,Ronny Turiaf,13.6,56,WA,Gonzaga University
+1936,Ronny Turiaf,12.3,44,WA,Gonzaga University
+1937,Ronny Turiaf,9.4,22,WA,Gonzaga University
+1938,Ronny Turiaf,4.3,5,WA,Gonzaga University
+1939,Michael Redd,13.9,58,OH,Ohio State University
+1940,Michael Redd,9.7,24,OH,Ohio State University
+1941,Donald Sloan,13.9,58,TX,Texas A&M University
+1942,Donald Sloan,13.1,51,TX,Texas A&M University
+1943,Donald Sloan,9.6,23,TX,Texas A&M University
+1944,Donald Sloan,8.9,19,TX,Texas A&M University
+1945,Donald Sloan,8.5,17,TX,Texas A&M University
+1946,Willie Green,13.9,58,MI,University of Detroit Mercy
+1947,Willie Green,11.8,40,MI,University of Detroit Mercy
+1948,Willie Green,10.8,32,MI,University of Detroit Mercy
+1949,Willie Green,7.9,14,MI,University of Detroit Mercy
+1950,Willie Green,7.1,11,MI,University of Detroit Mercy
+1951,Brandon Roy,13.9,58,WA,University of Washington
+1952,Brandon Roy,8.3,16,WA,University of Washington
+1953,Jarrod Uthoff,13.9,58,IA,University of Iowa
+1954,Justin Anderson,13.9,58,VA,University of Virginia
+1955,Justin Anderson,13.0,50,VA,University of Virginia
+1956,Justin Anderson,12.3,44,VA,University of Virginia
+1957,Anthony Tolliver,13.9,58,NE,Creighton University
+1958,Anthony Tolliver,13.3,53,NE,Creighton University
+1959,Anthony Tolliver,11.1,34,NE,Creighton University
+1960,Anthony Tolliver,11.1,34,NE,Creighton University
+1961,Anthony Tolliver,11.0,34,NE,Creighton University
+1962,Anthony Tolliver,10.2,27,NE,Creighton University
+1963,Anthony Tolliver,8.4,16,NE,Creighton University
+1964,Anthony Tolliver,8.3,16,NE,Creighton University
+1965,Martell Webster,13.9,58,MD,Morgan State University
+1966,Martell Webster,12.4,45,MD,Morgan State University
+1967,Martell Webster,11.5,38,MD,Morgan State University
+1968,Martell Webster,10.0,25,MD,Morgan State University
+1969,Martell Webster,5.9,8,MD,Morgan State University
+1970,JaKarr Sampson,13.9,58,CA,University of California
+1971,JaKarr Sampson,9.4,22,CA,University of California
+1972,JaKarr Sampson,8.3,16,CA,University of California
+1973,Mike James,13.9,58,PA,Duquesne University
+1974,Mike James,13.7,56,PA,Duquesne University
+1975,Mike James,9.5,22,PA,Duquesne University
+1976,Mike James,1.5,2,PA,Duquesne University
+1977,James Anderson,13.9,58,OK,Oklahoma State University
+1978,James Anderson,10.9,33,OK,Oklahoma State University
+1979,James Anderson,8.8,18,OK,Oklahoma State University
+1980,James Anderson,8.5,17,OK,Oklahoma State University
+1981,James Anderson,6.0,8,OK,Oklahoma State University
+1982,Ronnie Brewer,13.8,57,AR,University of Arkansas
+1983,Ronnie Brewer,12.3,44,AR,University of Arkansas
+1984,Ronnie Brewer,10.0,25,AR,University of Arkansas
+1985,Ronnie Brewer,3.4,4,AR,University of Arkansas
+1986,Courtney Lee,13.8,57,KY,Western Kentucky University
+1987,Courtney Lee,13.0,50,KY,Western Kentucky University
+1988,Courtney Lee,12.6,47,KY,Western Kentucky University
+1989,Courtney Lee,12.6,47,KY,Western Kentucky University
+1990,Courtney Lee,12.2,43,KY,Western Kentucky University
+1991,Courtney Lee,11.7,40,KY,Western Kentucky University
+1992,Courtney Lee,11.5,38,KY,Western Kentucky University
+1993,Courtney Lee,11.5,38,KY,Western Kentucky University
+1994,Malcolm Thomas,13.8,57,CA,San Diego State University
+1995,Malcolm Thomas,8.2,15,CA,San Diego State University
+1996,Malcolm Thomas,7.1,11,CA,San Diego State University
+1997,Malcolm Thomas,4.6,5,CA,San Diego State University
+1998,Brandon Ingram,13.8,57,NC,Duke University
+1999,Brandon Ingram,8.5,17,NC,Duke University
+2000,Ike Diogu,13.7,56,AZ,Arizona State University
+2001,Ike Diogu,-2.9,1,AZ,Arizona State University
+2002,Josh Harrellson,13.7,56,KY,University of Kentucky
+2003,Josh Harrellson,13.4,54,KY,University of Kentucky
+2004,Josh Harrellson,8.5,17,KY,University of Kentucky
+2005,Malik Beasley,13.7,56,FL,Florida State University
+2006,Malik Beasley,9.0,19,FL,Florida State University
+2007,Jaylen Brown,13.6,56,MI,University of Missouri
+2008,Jaylen Brown,10.3,28,MI,University of Missouri
+2009,Evan Turner,13.6,56,OH,Ohio State University
+2010,Evan Turner,12.8,49,OH,Ohio State University
+2011,Evan Turner,12.6,47,OH,Ohio State University
+2012,Evan Turner,12.4,45,OH,Ohio State University
+2013,Evan Turner,12.1,43,OH,Ohio State University
+2014,Evan Turner,11.4,37,OH,Ohio State University
+2015,Evan Turner,10.8,32,OH,Ohio State University
+2016,Evan Turner,9.9,25,OH,Ohio State University
+2017,Reggie Bullock,13.6,56,CA,University of North Carolina
+2018,Reggie Bullock,12.0,42,CA,University of North Carolina
+2019,Reggie Bullock,11.7,40,CA,University of North Carolina
+2020,Reggie Bullock,6.7,10,CA,University of North Carolina
+2021,Reggie Bullock,6.2,9,CA,University of North Carolina
+2022,Shelvin Mack,13.6,56,IN,Butler University
+2023,Shelvin Mack,13.3,53,IN,Butler University
+2024,Shelvin Mack,13.2,52,IN,Butler University
+2025,Shelvin Mack,13.2,52,IN,Butler University
+2026,Shelvin Mack,11.9,41,IN,Butler University
+2027,Shelvin Mack,11.3,36,IN,Butler University
+2028,Shelvin Mack,10.9,33,IN,Butler University
+2029,Josh Richardson,13.6,56,TN,University of Tennessee
+2030,Josh Richardson,11.4,37,TN,University of Tennessee
+2031,Josh Richardson,10.7,31,TN,University of Tennessee
+2032,Chasson Randle,13.6,56,CA,Stanford University
+2033,Nick Collison,13.6,56,KS,University of Kansas
+2034,Nick Collison,13.2,52,KS,University of Kansas
+2035,Nick Collison,12.9,50,KS,University of Kansas
+2036,Nick Collison,12.1,43,KS,University of Kansas
+2037,Nick Collison,11.8,40,KS,University of Kansas
+2038,Nick Collison,11.2,35,KS,University of Kansas
+2039,Nick Collison,10.8,32,KS,University of Kansas
+2040,Nick Collison,7.7,13,KS,University of Kansas
+2041,Greg Stiemsma,13.6,56,WI,University of Wisconsin
+2042,Greg Stiemsma,10.5,29,WI,University of Wisconsin
+2043,Greg Stiemsma,9.7,24,WI,University of Wisconsin
+2044,Greg Stiemsma,7.8,14,WI,University of Wisconsin
+2045,Shannon Brown,13.6,56,MI,Michigan State University
+2046,Shannon Brown,13.6,56,MI,Michigan State University
+2047,Shannon Brown,13.1,51,MI,Michigan State University
+2048,Shannon Brown,4.7,6,MI,Michigan State University
+2049,Shannon Brown,4.4,5,MI,Michigan State University
+2050,Brian Scalabrine,13.5,55,CA,University of Southern California
+2051,Brian Scalabrine,6.5,9,CA,University of Southern California
+2052,Isaiah Canaan,13.5,55,KY,Murray State University
+2053,Isaiah Canaan,12.4,45,KY,Murray State University
+2054,Isaiah Canaan,11.1,34,KY,Murray State University
+2055,Isaiah Canaan,9.5,22,KY,Murray State University
+2056,Isaiah Canaan,8.1,15,KY,Murray State University
+2057,Mike Miller,13.5,55,FL,University of Florida
+2058,Mike Miller,12.5,46,FL,University of Florida
+2059,Mike Miller,11.4,37,FL,University of Florida
+2060,Mike Miller,9.7,24,FL,University of Florida
+2061,Mike Miller,7.6,13,FL,University of Florida
+2062,Mike Miller,6.5,9,FL,University of Florida
+2063,Mike Miller,4.6,5,FL,University of Florida
+2064,Ben Gordon,13.5,55,CT,University of Connecticut
+2065,Ben Gordon,12.7,48,CT,University of Connecticut
+2066,Ben Gordon,12.4,45,CT,University of Connecticut
+2067,Ben Gordon,10.6,30,CT,University of Connecticut
+2068,Ben Gordon,6.4,9,CT,University of Connecticut
+2069,Randy Foye,13.5,55,PA,Villanova University
+2070,Randy Foye,13.3,53,PA,Villanova University
+2071,Randy Foye,11.7,40,PA,Villanova University
+2072,Randy Foye,11.4,37,PA,Villanova University
+2073,Randy Foye,11.0,34,PA,Villanova University
+2074,Randy Foye,7.6,13,PA,Villanova University
+2075,Randy Foye,7.3,12,PA,Villanova University
+2076,Francisco Garcia,13.5,55,KY,University of Louisville
+2077,Francisco Garcia,11.0,34,KY,University of Louisville
+2078,Francisco Garcia,10.7,31,KY,University of Louisville
+2079,Francisco Garcia,9.3,21,KY,University of Louisville
+2080,Francisco Garcia,3.6,4,KY,University of Louisville
+2081,Landry Fields,13.5,55,CA,Stanford University
+2082,Landry Fields,12.0,42,CA,Stanford University
+2083,Landry Fields,10.8,32,CA,Stanford University
+2084,Landry Fields,10.3,28,CA,Stanford University
+2085,Landry Fields,8.6,17,CA,Stanford University
+2086,Garret Siler,13.5,55,GA,Augusta State University
+2087,Terrence Ross,13.4,54,WA,University of Washington
+2088,Terrence Ross,12.9,50,WA,University of Washington
+2089,Terrence Ross,12.0,42,WA,University of Washington
+2090,Terrence Ross,11.2,35,WA,University of Washington
+2091,Terrence Ross,10.4,29,WA,University of Washington
+2092,Terrence Ross,9.9,25,WA,University of Washington
+2093,Rasual Butler,13.4,54,LA,La Salle University
+2094,Rasual Butler,12.2,43,LA,La Salle University
+2095,Rasual Butler,11.4,37,LA,La Salle University
+2096,Rasual Butler,6.2,9,LA,La Salle University
+2097,Rasual Butler,4.8,6,LA,La Salle University
+2098,Gary Forbes,13.3,53,MA,University of Massachusetts Amherst
+2099,Gary Forbes,11.7,40,MA,University of Massachusetts Amherst
+2100,Andre Emmett,13.3,53,TX,Texas Tech University
+2101,Othyus Jeffers,13.3,53,IL,Robert Morris University (IL)
+2102,Othyus Jeffers,6.9,11,IL,Robert Morris University (IL)
+2103,Carrick Felix,13.3,53,AZ,Arizona State University
+2104,Jarvis Varnado,13.3,53,MS,Mississippi State University
+2105,Jarvis Varnado,1.2,2,MS,Mississippi State University
+2106,Kurt Thomas,13.3,53,TX,Texas Christian University
+2107,Kurt Thomas,10.0,25,TX,Texas Christian University
+2108,Kurt Thomas,9.5,22,TX,Texas Christian University
+2109,Joe Harris,13.3,53,VA,University of Virginia
+2110,Joe Harris,9.0,19,VA,University of Virginia
+2111,Joe Harris,5.6,7,VA,University of Virginia
+2112,Joe Harris,3.4,4,VA,University of Virginia
+2113,Maurice Harkless,13.3,53,NY,St. John's University
+2114,Maurice Harkless,13.1,51,NY,St. John's University
+2115,Maurice Harkless,12.6,47,NY,St. John's University
+2116,Maurice Harkless,12.5,46,NY,St. John's University
+2117,Maurice Harkless,11.8,40,NY,St. John's University
+2118,Maurice Harkless,8.4,16,NY,St. John's University
+2119,Shane Larkin,13.3,53,FL,University of Miami
+2120,Shane Larkin,10.9,33,FL,University of Miami
+2121,Shane Larkin,10.4,29,FL,University of Miami
+2122,Shane Larkin,8.3,16,FL,University of Miami
+2123,Daniel Gibson,13.2,52,TX,University of Texas at Austin
+2124,Daniel Gibson,9.2,21,TX,University of Texas at Austin
+2125,Daniel Gibson,7.7,13,TX,University of Texas at Austin
+2126,Alonzo Gee,13.2,52,AL,University of Alabama
+2127,Alonzo Gee,13.0,50,AL,University of Alabama
+2128,Alonzo Gee,10.8,32,AL,University of Alabama
+2129,Alonzo Gee,10.5,29,AL,University of Alabama
+2130,Alonzo Gee,8.6,17,AL,University of Alabama
+2131,Alonzo Gee,8.4,16,AL,University of Alabama
+2132,Alonzo Gee,3.1,4,AL,University of Alabama
+2133,Kentavious Caldwell-Pope,13.2,52,GA,University of Georgia
+2134,Kentavious Caldwell-Pope,12.8,49,GA,University of Georgia
+2135,Kentavious Caldwell-Pope,12.4,45,GA,University of Georgia
+2136,Kentavious Caldwell-Pope,11.2,35,GA,University of Georgia
+2137,Kentavious Caldwell-Pope,9.4,22,GA,University of Georgia
+2138,Noah Vonleh,13.2,52,IN,Indiana University
+2139,Noah Vonleh,12.8,49,IN,Indiana University
+2140,Noah Vonleh,10.8,32,IN,Indiana University
+2141,Noah Vonleh,8.6,17,IN,Indiana University
+2142,Alex Poythress,13.2,52,KY,University of Kentucky
+2143,Alex Poythress,7.8,14,KY,University of Kentucky
+2144,Cory Jefferson,13.2,52,TX,Baylor University
+2145,Cory Jefferson,12.7,48,TX,Baylor University
+2146,Dwight Buycks,13.1,51,WI,Marquette University
+2147,Dwight Buycks,12.8,49,WI,Marquette University
+2148,Dwight Buycks,7.2,11,WI,Marquette University
+2149,Ian Clark,13.1,51,TN,Belmont University
+2150,Ian Clark,11.5,38,TN,Belmont University
+2151,Ian Clark,9.4,22,TN,Belmont University
+2152,Ian Clark,9.2,21,TN,Belmont University
+2153,Ian Clark,8.8,18,TN,Belmont University
+2154,Sam Dekker,13.1,51,WI,University of Wisconsin
+2155,Sam Dekker,11.5,38,WI,University of Wisconsin
+2156,Sam Dekker,10.8,32,WI,University of Wisconsin
+2157,Ryan Hollins,13.1,51,CA,"University of California, Los Angeles"
+2158,Ryan Hollins,12.3,44,CA,"University of California, Los Angeles"
+2159,Ryan Hollins,11.9,41,CA,"University of California, Los Angeles"
+2160,Ryan Hollins,11.3,36,CA,"University of California, Los Angeles"
+2161,Ryan Hollins,10.7,31,CA,"University of California, Los Angeles"
+2162,Ryan Hollins,6.9,11,CA,"University of California, Los Angeles"
+2163,Terrence Williams,13.1,51,KY,University of Louisville
+2164,Terrence Williams,12.3,44,KY,University of Louisville
+2165,Terrence Williams,6.9,11,KY,University of Louisville
+2166,Yogi Ferrell,13.1,51,IN,Indiana University
+2167,Yogi Ferrell,11.4,37,IN,Indiana University
+2168,Dexter Pittman,13.1,51,TX,University of Texas at Austin
+2169,Dexter Pittman,10.4,29,TX,University of Texas at Austin
+2170,Dexter Pittman,1.6,2,TX,University of Texas at Austin
+2171,Dexter Pittman,-6.4,0,TX,University of Texas at Austin
+2172,Tyler Ulis,13.0,50,KY,University of Kentucky
+2173,Tyler Ulis,10.1,26,KY,University of Kentucky
+2174,Josh Childress,13.0,50,CA,Stanford University
+2175,Josh Childress,11.1,34,CA,Stanford University
+2176,Josh Childress,7.0,11,CA,Stanford University
+2177,Josh Childress,3.9,4,CA,Stanford University
+2178,Pierre Jackson,13.0,50,TX,Baylor University
+2179,Casper Ware,13.0,50,CA,"California State University, Long Beach"
+2180,Julyan Stone,13.0,50,TX,University of Texas at El Paso
+2181,Julyan Stone,11.4,37,TX,University of Texas at El Paso
+2182,Julyan Stone,7.6,13,TX,University of Texas at El Paso
+2183,Julyan Stone,6.6,10,TX,University of Texas at El Paso
+2184,Byron Mullens,13.0,50,OH,Ohio State University
+2185,Byron Mullens,12.8,49,OH,Ohio State University
+2186,Byron Mullens,12.3,44,OH,Ohio State University
+2187,Byron Mullens,3.5,4,OH,Ohio State University
+2188,Austin Daye,13.0,50,WA,Gonzaga University
+2189,Austin Daye,12.9,50,WA,Gonzaga University
+2190,Austin Daye,11.0,34,WA,Gonzaga University
+2191,Austin Daye,8.2,15,WA,Gonzaga University
+2192,Austin Daye,7.1,11,WA,Gonzaga University
+2193,Brendan Haywood,12.9,50,CA,University of North Carolina
+2194,Brendan Haywood,11.7,40,CA,University of North Carolina
+2195,Brendan Haywood,9.1,20,CA,University of North Carolina
+2196,Brendan Haywood,8.7,18,CA,University of North Carolina
+2197,Armon Johnson,12.9,50,MN,Bemidji State University
+2198,Armon Johnson,9.3,21,MN,Bemidji State University
+2199,Reggie Evans,12.8,49,IA,University of Iowa
+2200,Reggie Evans,12.4,45,IA,University of Iowa
+2201,Reggie Evans,11.7,40,IA,University of Iowa
+2202,Reggie Evans,11.7,40,IA,University of Iowa
+2203,Reggie Evans,9.2,21,IA,University of Iowa
+2204,Quinn Cook,12.8,49,NC,Duke University
+2205,Quinn Cook,11.8,40,NC,Duke University
+2206,Daequan Cook,12.8,49,OR,University of Portland
+2207,Daequan Cook,9.2,21,OR,University of Portland
+2208,Daequan Cook,5.8,8,OR,University of Portland
+2209,John Salmons,12.8,49,FL,University of Miami
+2210,John Salmons,10.2,27,FL,University of Miami
+2211,John Salmons,9.0,19,FL,University of Miami
+2212,John Salmons,7.8,14,FL,University of Miami
+2213,John Salmons,5.1,6,FL,University of Miami
+2214,Antonio McDyess,12.8,49,AL,University of Alabama
+2215,Cartier Martin,12.8,49,KS,Kansas State University
+2216,Cartier Martin,11.7,40,KS,Kansas State University
+2217,Cartier Martin,11.0,34,KS,Kansas State University
+2218,Cartier Martin,9.7,24,KS,Kansas State University
+2219,Cartier Martin,1.6,2,KS,Kansas State University
+2220,Jonathon Simmons,12.7,48,NY,New York University
+2221,Jonathon Simmons,11.9,41,NY,New York University
+2222,Jonathon Simmons,9.9,25,NY,New York University
+2223,Justin Holiday,12.7,48,WA,University of Washington
+2224,Justin Holiday,12.1,43,WA,University of Washington
+2225,Justin Holiday,10.8,32,WA,University of Washington
+2226,Justin Holiday,9.4,22,WA,University of Washington
+2227,Justin Holiday,7.6,13,WA,University of Washington
+2228,Andrew Harrison,12.7,48,KY,University of Kentucky
+2229,Andrew Harrison,8.7,18,KY,University of Kentucky
+2230,Nate Wolters,12.7,48,SD,South Dakota State University
+2231,Nate Wolters,4.6,5,SD,South Dakota State University
+2232,Nate Wolters,-2.9,1,SD,South Dakota State University
+2233,Jamaal Magloire,12.7,48,KY,University of Kentucky
+2234,Jamaal Magloire,2.7,3,KY,University of Kentucky
+2235,Udonis Haslem,12.7,48,FL,University of Florida
+2236,Udonis Haslem,10.9,33,FL,University of Florida
+2237,Udonis Haslem,10.6,30,FL,University of Florida
+2238,Udonis Haslem,10.5,29,FL,University of Florida
+2239,Udonis Haslem,9.9,25,FL,University of Florida
+2240,Udonis Haslem,9.1,20,FL,University of Florida
+2241,Udonis Haslem,8.8,18,FL,University of Florida
+2242,Udonis Haslem,1.8,3,FL,University of Florida
+2243,Ryan Kelly,12.6,47,NC,Duke University
+2244,Ryan Kelly,10.3,28,NC,Duke University
+2245,Ryan Kelly,8.6,17,NC,Duke University
+2246,Ryan Kelly,7.8,14,NC,Duke University
+2247,Kendall Marshall,12.6,47,CA,University of North Carolina
+2248,Kendall Marshall,12.4,45,CA,University of North Carolina
+2249,Kendall Marshall,7.8,14,CA,University of North Carolina
+2250,Kendall Marshall,6.7,10,CA,University of North Carolina
+2251,Wayne Ellington,12.6,47,CA,University of North Carolina
+2252,Wayne Ellington,12.5,46,CA,University of North Carolina
+2253,Wayne Ellington,12.2,43,CA,University of North Carolina
+2254,Wayne Ellington,12.2,43,CA,University of North Carolina
+2255,Wayne Ellington,11.6,39,CA,University of North Carolina
+2256,Wayne Ellington,10.1,26,CA,University of North Carolina
+2257,Wayne Ellington,9.4,22,CA,University of North Carolina
+2258,Wayne Ellington,8.6,17,CA,University of North Carolina
+2259,Alan Anderson,12.6,47,MI,Michigan State University
+2260,Alan Anderson,10.6,30,MI,Michigan State University
+2261,Alan Anderson,9.5,22,MI,Michigan State University
+2262,Alan Anderson,9.2,21,MI,Michigan State University
+2263,Alan Anderson,8.7,18,MI,Michigan State University
+2264,Alan Anderson,5.0,6,MI,Michigan State University
+2265,Cory Higgins,12.6,47,CO,University of Colorado
+2266,Cory Higgins,4.1,5,CO,University of Colorado
+2267,Austin Rivers,12.6,47,NC,Duke University
+2268,Austin Rivers,11.6,39,NC,Duke University
+2269,Austin Rivers,11.4,37,NC,Duke University
+2270,Austin Rivers,11.1,34,NC,Duke University
+2271,Austin Rivers,10.3,28,NC,Duke University
+2272,Austin Rivers,5.9,8,NC,Duke University
+2273,Sasha Kaun,12.5,46,KS,University of Kansas
+2274,Ray McCallum,12.5,46,MI,University of Detroit Mercy
+2275,Ray McCallum,9.7,24,MI,University of Detroit Mercy
+2276,Ray McCallum,9.1,20,MI,University of Detroit Mercy
+2277,Sam Young,12.5,46,PA,University of Pittsburgh
+2278,Sam Young,9.7,24,PA,University of Pittsburgh
+2279,Sam Young,7.5,12,PA,University of Pittsburgh
+2280,Damien Wilkins,12.5,46,ID,Idaho State University
+2281,Damien Wilkins,11.4,37,ID,Idaho State University
+2282,Damien Wilkins,6.9,11,ID,Idaho State University
+2283,Damien Wilkins,4.9,6,ID,Idaho State University
+2284,Linas Kleiza,12.4,45,MI,University of Missouri
+2285,Linas Kleiza,10.1,26,MI,University of Missouri
+2286,Linas Kleiza,8.2,15,MI,University of Missouri
+2287,Hasheem Thabeet,12.4,45,CT,University of Connecticut
+2288,Hasheem Thabeet,11.6,39,CT,University of Connecticut
+2289,Hasheem Thabeet,4.7,6,CT,University of Connecticut
+2290,Hasheem Thabeet,2.6,3,CT,University of Connecticut
+2291,Charles Jenkins,12.4,45,NY,Hofstra University
+2292,Charles Jenkins,7.5,12,NY,Hofstra University
+2293,Erick Green,12.4,45,VA,Virginia Polytechnic Institute and State University
+2294,Erick Green,8.9,19,VA,Virginia Polytechnic Institute and State University
+2295,Andrew Goudelock,12.4,45,SC,College of Charleston
+2296,Andrew Goudelock,8.4,16,SC,College of Charleston
+2297,Andrew Goudelock,-6.4,0,SC,College of Charleston
+2298,Danuel House,12.4,45,TX,Texas A&M University
+2299,Danuel House,12.2,43,TX,Texas A&M University
+2300,Richard Jefferson,12.4,45,AZ,University of Arizona
+2301,Richard Jefferson,11.8,40,AZ,University of Arizona
+2302,Richard Jefferson,11.3,36,AZ,University of Arizona
+2303,Richard Jefferson,11.1,34,AZ,University of Arizona
+2304,Richard Jefferson,10.3,28,AZ,University of Arizona
+2305,Richard Jefferson,9.7,24,AZ,University of Arizona
+2306,Richard Jefferson,8.3,16,AZ,University of Arizona
+2307,Richard Jefferson,6.4,9,AZ,University of Arizona
+2308,Greg Oden,12.4,45,OH,Ohio State University
+2309,Earl Clark,12.4,45,KY,University of Louisville
+2310,Earl Clark,10.1,26,KY,University of Louisville
+2311,Earl Clark,9.1,20,KY,University of Louisville
+2312,Earl Clark,8.1,15,KY,University of Louisville
+2313,Earl Clark,6.7,10,KY,University of Louisville
+2314,Dominique Jones,12.4,45,MS,Mississippi State University
+2315,Dominique Jones,11.8,40,MS,Mississippi State University
+2316,Dominique Jones,10.6,30,MS,Mississippi State University
+2317,Shelden Williams,12.3,44,CA,University of North Carolina
+2318,Shelden Williams,11.9,41,CA,University of North Carolina
+2319,Langston Galloway,12.3,44,PA,Saint Joseph's University
+2320,Langston Galloway,12.2,43,PA,Saint Joseph's University
+2321,Langston Galloway,11.7,40,PA,Saint Joseph's University
+2322,Langston Galloway,10.4,29,PA,Saint Joseph's University
+2323,Nick Calathes,12.3,44,FL,University of Florida
+2324,Nick Calathes,12.3,44,FL,University of Florida
+2325,Xavier Henry,12.3,44,KS,University of Kansas
+2326,Xavier Henry,9.2,21,KS,University of Kansas
+2327,Xavier Henry,7.6,13,KS,University of Kansas
+2328,Xavier Henry,7.0,11,KS,University of Kansas
+2329,Xavier Henry,4.9,6,KS,University of Kansas
+2330,Chinanu Onuaku,12.3,44,KY,University of Louisville
+2331,Chinanu Onuaku,-3.2,1,KY,University of Louisville
+2332,Marquese Chriss,12.3,44,WA,University of Washington
+2333,Marquese Chriss,11.1,34,WA,University of Washington
+2334,Allen Crabbe,12.3,44,CA,University of California
+2335,Allen Crabbe,12.2,43,CA,University of California
+2336,Allen Crabbe,11.6,39,CA,University of California
+2337,Allen Crabbe,8.7,18,CA,University of California
+2338,Allen Crabbe,7.7,13,CA,University of California
+2339,Darnell Jackson,12.3,44,KS,University of Kansas
+2340,Ben Wallace,12.3,44,VA,Virginia Union University
+2341,Ben Wallace,10.7,31,VA,Virginia Union University
+2342,Kirk Hinrich,12.3,44,KS,University of Kansas
+2343,Kirk Hinrich,10.8,32,KS,University of Kansas
+2344,Kirk Hinrich,10.8,32,KS,University of Kansas
+2345,Kirk Hinrich,9.2,21,KS,University of Kansas
+2346,Kirk Hinrich,7.2,11,KS,University of Kansas
+2347,Kirk Hinrich,6.8,10,KS,University of Kansas
+2348,Shane Battier,12.3,44,NC,Duke University
+2349,Shane Battier,10.7,31,NC,Duke University
+2350,Shane Battier,9.7,24,NC,Duke University
+2351,Shane Battier,8.7,18,NC,Duke University
+2352,David Nwaba,12.2,43,CA,"California Polytechnic State University, San Luis Obispo"
+2353,David Nwaba,12.2,43,CA,"California Polytechnic State University, San Luis Obispo"
+2354,Solomon Hill,12.2,43,AZ,University of Arizona
+2355,Solomon Hill,10.2,27,AZ,University of Arizona
+2356,Solomon Hill,8.0,14,AZ,University of Arizona
+2357,Solomon Hill,7.6,13,AZ,University of Arizona
+2358,Solomon Hill,4.8,6,AZ,University of Arizona
+2359,Chris Douglas-Roberts,12.2,43,TN,University of Memphis
+2360,Chris Douglas-Roberts,11.5,38,TN,University of Memphis
+2361,Chris Douglas-Roberts,8.3,16,TN,University of Memphis
+2362,Chris Douglas-Roberts,3.3,4,TN,University of Memphis
+2363,Matt Carroll,12.2,43,IN,University of Notre Dame
+2364,Matt Carroll,5.6,7,IN,University of Notre Dame
+2365,Matt Carroll,2.9,3,IN,University of Notre Dame
+2366,Jermaine Taylor,12.2,43,TX,Texas Tech University
+2367,Shawne Williams,12.2,43,CA,University of North Carolina
+2368,Shawne Williams,10.5,29,CA,University of North Carolina
+2369,Shawne Williams,9.5,22,CA,University of North Carolina
+2370,Shawne Williams,4.9,6,CA,University of North Carolina
+2371,Luke Babbitt,12.1,43,NV,"University of Nevada, Reno"
+2372,Luke Babbitt,11.6,39,NV,"University of Nevada, Reno"
+2373,Luke Babbitt,11.3,36,NV,"University of Nevada, Reno"
+2374,Luke Babbitt,11.1,34,NV,"University of Nevada, Reno"
+2375,Luke Babbitt,9.8,24,NV,"University of Nevada, Reno"
+2376,Luke Babbitt,9.4,22,NV,"University of Nevada, Reno"
+2377,Luke Babbitt,8.3,16,NV,"University of Nevada, Reno"
+2378,Luke Babbitt,1.0,2,NV,"University of Nevada, Reno"
+2379,Denzel Valentine,12.1,43,MI,Michigan State University
+2380,Denzel Valentine,7.3,12,MI,Michigan State University
+2381,Roger Mason,12.1,43,VA,University of Virginia
+2382,Roger Mason,10.0,25,VA,University of Virginia
+2383,Roger Mason,8.2,15,VA,University of Virginia
+2384,Roger Mason,7.1,11,VA,University of Virginia
+2385,Robert Sacre,12.1,43,WA,Gonzaga University
+2386,Robert Sacre,10.9,33,WA,Gonzaga University
+2387,Robert Sacre,10.4,29,WA,Gonzaga University
+2388,Robert Sacre,3.4,4,WA,Gonzaga University
+2389,Julian Wright,12.1,43,KS,University of Kansas
+2390,Rashard Lewis,12.0,42,LA,La Salle University
+2391,Rashard Lewis,11.1,34,LA,La Salle University
+2392,Rashard Lewis,10.7,31,LA,La Salle University
+2393,Rashard Lewis,9.3,21,LA,La Salle University
+2394,Trey Thompkins,12.0,42,TX,University of Texas at Austin
+2395,Rodney McGruder,12.0,42,KS,Kansas State University
+2396,Rodney McGruder,9.1,20,KS,Kansas State University
+2397,Marcus Smart,12.0,42,OK,Oklahoma State University
+2398,Marcus Smart,11.3,36,OK,Oklahoma State University
+2399,Marcus Smart,11.0,34,OK,Oklahoma State University
+2400,Marcus Smart,10.8,32,OK,Oklahoma State University
+2401,Derrick Jones,12.0,42,FL,University of Miami
+2402,Derrick Jones,10.1,26,FL,University of Miami
+2403,Kelly Oubre,11.9,41,KS,University of Kansas
+2404,Kelly Oubre,9.1,20,KS,University of Kansas
+2405,Kelly Oubre,8.2,15,KS,University of Kansas
+2406,Eddie House,11.9,41,AZ,Arizona State University
+2407,Wayne Selden,11.8,40,KS,University of Kansas
+2408,Wayne Selden,6.9,11,KS,University of Kansas
+2409,James Southerland,11.8,40,NY,Syracuse University
+2410,Kyle Singler,11.8,40,NC,Duke University
+2411,Kyle Singler,10.0,25,NC,Duke University
+2412,Kyle Singler,8.5,17,NC,Duke University
+2413,Kyle Singler,6.6,10,NC,Duke University
+2414,Kyle Singler,5.9,8,NC,Duke University
+2415,Kyle Singler,5.9,8,NC,Duke University
+2416,Dominic McGuire,11.8,40,CA,"California State University, Fresno"
+2417,Dominic McGuire,10.4,29,CA,"California State University, Fresno"
+2418,Dominic McGuire,7.7,13,CA,"California State University, Fresno"
+2419,Lou Amundson,11.8,40,NV,"University of Nevada, Las Vegas"
+2420,Lou Amundson,11.5,38,NV,"University of Nevada, Las Vegas"
+2421,Lou Amundson,11.5,38,NV,"University of Nevada, Las Vegas"
+2422,Lou Amundson,9.3,21,NV,"University of Nevada, Las Vegas"
+2423,Lou Amundson,9.1,20,NV,"University of Nevada, Las Vegas"
+2424,Lou Amundson,6.7,10,NV,"University of Nevada, Las Vegas"
+2425,Phil Pressey,11.8,40,MI,University of Missouri
+2426,Phil Pressey,10.6,30,MI,University of Missouri
+2427,Phil Pressey,8.8,18,MI,University of Missouri
+2428,Pat Connaughton,11.8,40,IN,University of Notre Dame
+2429,Pat Connaughton,9.3,21,IN,University of Notre Dame
+2430,Pat Connaughton,4.6,5,IN,University of Notre Dame
+2431,Donte Greene,11.8,40,NY,Syracuse University
+2432,Donte Greene,9.7,24,NY,Syracuse University
+2433,Trey Johnson,11.8,40,MS,Jackson State University
+2434,Trey Johnson,8.3,16,MS,Jackson State University
+2435,Iman Shumpert,11.7,40,GA,Georgia Institute of Technology
+2436,Iman Shumpert,11.4,37,GA,Georgia Institute of Technology
+2437,Iman Shumpert,10.8,32,GA,Georgia Institute of Technology
+2438,Iman Shumpert,9.6,23,GA,Georgia Institute of Technology
+2439,Iman Shumpert,9.0,19,GA,Georgia Institute of Technology
+2440,Iman Shumpert,8.4,16,GA,Georgia Institute of Technology
+2441,Iman Shumpert,6.4,9,GA,Georgia Institute of Technology
+2442,Steve Blake,11.7,40,MD,University of Maryland
+2443,Steve Blake,11.0,34,MD,University of Maryland
+2444,Steve Blake,9.8,24,MD,University of Maryland
+2445,Steve Blake,9.5,22,MD,University of Maryland
+2446,Steve Blake,8.5,17,MD,University of Maryland
+2447,Steve Blake,7.5,12,MD,University of Maryland
+2448,Zabian Dowdell,11.7,40,VA,Virginia Polytechnic Institute and State University
+2449,Al Thornton,11.7,40,FL,Florida State University
+2450,Samardo Samuels,11.7,40,KY,University of Louisville
+2451,Samardo Samuels,11.1,34,KY,University of Louisville
+2452,Samardo Samuels,6.2,9,KY,University of Louisville
+2453,Eric Maynor,11.7,40,VA,Virginia Commonwealth University
+2454,Eric Maynor,9.3,21,VA,Virginia Commonwealth University
+2455,Eric Maynor,9.1,20,VA,Virginia Commonwealth University
+2456,Eric Maynor,6.2,9,VA,Virginia Commonwealth University
+2457,Luther Head,11.7,40,IL,University of Illinois at Urbana-Champaign
+2458,Marquis Daniels,11.7,40,AL,Auburn University
+2459,Marquis Daniels,9.2,21,AL,Auburn University
+2460,Marquis Daniels,8.1,15,AL,Auburn University
+2461,Manny Harris,11.7,40,MI,University of Michigan
+2462,Manny Harris,10.9,33,MI,University of Michigan
+2463,Manny Harris,10.4,29,MI,University of Michigan
+2464,Manny Harris,-2.2,1,MI,University of Michigan
+2465,Jason Maxiell,11.7,40,OH,University of Cincinnati
+2466,Jason Maxiell,11.3,36,OH,University of Cincinnati
+2467,Jason Maxiell,10.4,29,OH,University of Cincinnati
+2468,Jason Maxiell,9.4,22,OH,University of Cincinnati
+2469,Jason Maxiell,8.1,15,OH,University of Cincinnati
+2470,Brian Cook,11.6,39,IL,University of Illinois at Urbana-Champaign
+2471,Brian Cook,5.8,8,IL,University of Illinois at Urbana-Champaign
+2472,Cliff Alexander,11.6,39,KS,University of Kansas
+2473,Glenn Robinson,11.5,38,IN,Purdue University
+2474,Glenn Robinson,11.4,37,IN,Purdue University
+2475,Glenn Robinson,10.8,32,IN,Purdue University
+2476,Glenn Robinson,8.5,17,IN,Purdue University
+2477,Jerry Stackhouse,11.5,38,CA,University of North Carolina
+2478,Jerry Stackhouse,8.5,17,CA,University of North Carolina
+2479,Jerry Stackhouse,6.0,8,CA,University of North Carolina
+2480,Justise Winslow,11.5,38,NC,Duke University
+2481,Justise Winslow,8.4,16,NC,Duke University
+2482,Justise Winslow,8.2,15,NC,Duke University
+2483,Isaiah Whitehead,11.5,38,NJ,Seton Hall University
+2484,Isaiah Whitehead,7.6,13,NJ,Seton Hall University
+2485,Joe Young,11.4,37,OR,University of Oregon
+2486,Joe Young,10.1,26,OR,University of Oregon
+2487,Joe Young,9.9,25,OR,University of Oregon
+2488,JaJuan Johnson,11.4,37,NC,Wake Forest University
+2489,Von Wafer,11.4,37,FL,Florida State University
+2490,Von Wafer,10.6,30,FL,Florida State University
+2491,Kay Felder,11.4,37,MI,Oakland University
+2492,Kay Felder,3.6,4,MI,Oakland University
+2493,Orlando Johnson,11.4,37,CA,"University of California, Santa Barbara"
+2494,Orlando Johnson,5.3,7,CA,"University of California, Santa Barbara"
+2495,Orlando Johnson,3.6,4,CA,"University of California, Santa Barbara"
+2496,Luke Walton,11.3,36,AZ,University of Arizona
+2497,Luke Walton,5.1,6,AZ,University of Arizona
+2498,Luke Walton,3.4,4,AZ,University of Arizona
+2499,Markel Brown,11.3,36,KY,Murray State University
+2500,Markel Brown,9.1,20,KY,Murray State University
+2501,Markel Brown,-1.2,1,KY,Murray State University
+2502,Keyon Dooling,11.3,36,MI,University of Missouri
+2503,Keyon Dooling,11.2,35,MI,University of Missouri
+2504,Keyon Dooling,6.9,11,MI,University of Missouri
+2505,Kyle Weaver,11.3,36,WA,Washington State University
+2506,Matthew Dellavedova,11.3,36,CA,Saint Mary's College of California
+2507,Matthew Dellavedova,10.7,31,CA,Saint Mary's College of California
+2508,Matthew Dellavedova,9.4,22,CA,Saint Mary's College of California
+2509,Matthew Dellavedova,8.6,17,CA,Saint Mary's College of California
+2510,Matthew Dellavedova,8.5,17,CA,Saint Mary's College of California
+2511,Josh Davis,11.3,36,OH,University of Dayton
+2512,Jerome Dyson,11.3,36,CT,University of Connecticut
+2513,Maurice Ndour,11.3,36,OH,Ohio University
+2514,Garrett Temple,11.2,35,LA,Louisiana State University
+2515,Garrett Temple,10.9,33,LA,Louisiana State University
+2516,Garrett Temple,10.2,27,LA,Louisiana State University
+2517,Garrett Temple,9.3,21,LA,Louisiana State University
+2518,Garrett Temple,8.8,18,LA,Louisiana State University
+2519,Garrett Temple,7.8,14,LA,Louisiana State University
+2520,Garrett Temple,4.7,6,LA,Louisiana State University
+2521,Lazar Hayward,11.2,35,WI,Marquette University
+2522,Lazar Hayward,10.8,32,WI,Marquette University
+2523,Lazar Hayward,3.1,4,WI,Marquette University
+2524,Jonny Flynn,11.2,35,NY,Syracuse University
+2525,Jonny Flynn,7.1,11,NY,Syracuse University
+2526,Larry Owens,11.2,35,OK,Oral Roberts University
+2527,Larry Owens,5.8,8,OK,Oral Roberts University
+2528,Wesley Johnson,11.1,34,NY,Syracuse University
+2529,Wesley Johnson,11.0,34,NY,Syracuse University
+2530,Wesley Johnson,11.0,34,NY,Syracuse University
+2531,Wesley Johnson,10.3,28,NY,Syracuse University
+2532,Wesley Johnson,10.2,27,NY,Syracuse University
+2533,Wesley Johnson,9.8,24,NY,Syracuse University
+2534,Wesley Johnson,8.4,16,NY,Syracuse University
+2535,Wesley Johnson,8.0,14,NY,Syracuse University
+2536,Dionte Christmas,11.1,34,PA,Temple University
+2537,Eugene Jeter,11.1,34,OR,University of Portland
+2538,Tyler Ennis,11.1,34,NY,Syracuse University
+2539,Tyler Ennis,10.9,33,NY,Syracuse University
+2540,Tyler Ennis,10.7,31,NY,Syracuse University
+2541,Tyler Ennis,7.3,12,NY,Syracuse University
+2542,Toure' Murry,11.1,34,KS,Wichita State University
+2543,Toure' Murry,1.1,2,KS,Wichita State University
+2544,Aaron Gray,11.1,34,PA,University of Pittsburgh
+2545,Aaron Gray,11.0,34,PA,University of Pittsburgh
+2546,Aaron Gray,9.0,19,PA,University of Pittsburgh
+2547,Aaron Gray,7.8,14,PA,University of Pittsburgh
+2548,Kevin Jones,11.1,34,WV,West Virginia University
+2549,Briante Weber,11.0,34,VA,Virginia Commonwealth University
+2550,Briante Weber,10.1,26,VA,Virginia Commonwealth University
+2551,Briante Weber,8.9,19,VA,Virginia Commonwealth University
+2552,Quincy Pondexter,11.0,34,WA,University of Washington
+2553,Quincy Pondexter,10.3,28,WA,University of Washington
+2554,Quincy Pondexter,9.9,25,WA,University of Washington
+2555,Quincy Pondexter,9.4,22,WA,University of Washington
+2556,Quincy Pondexter,8.5,17,WA,University of Washington
+2557,Quincy Pondexter,4.0,5,WA,University of Washington
+2558,Jabari Brown,11.0,34,MI,University of Missouri
+2559,Lorenzo Brown,11.0,34,NC,North Carolina State University
+2560,Lorenzo Brown,8.2,15,NC,North Carolina State University
+2561,Lorenzo Brown,8.2,15,NC,North Carolina State University
+2562,Lorenzo Brown,4.4,5,NC,North Carolina State University
+2563,Jarell Eddie,11.0,34,VA,Virginia Polytechnic Institute and State University
+2564,Jarell Eddie,9.7,24,VA,Virginia Polytechnic Institute and State University
+2565,Jarell Eddie,-1.9,1,VA,Virginia Polytechnic Institute and State University
+2566,Doug McDermott,10.9,33,NE,Creighton University
+2567,Doug McDermott,10.7,31,NE,Creighton University
+2568,Doug McDermott,10.4,29,NE,Creighton University
+2569,Doug McDermott,6.1,9,NE,Creighton University
+2570,Jamaal Tinsley,10.9,33,IA,Iowa State University
+2571,Jamaal Tinsley,10.6,30,IA,Iowa State University
+2572,Jamaal Tinsley,1.9,3,IA,Iowa State University
+2573,Norris Cole,10.9,33,OH,Cleveland State University
+2574,Norris Cole,10.8,32,OH,Cleveland State University
+2575,Norris Cole,8.8,18,OH,Cleveland State University
+2576,Norris Cole,7.9,14,OH,Cleveland State University
+2577,Norris Cole,7.9,14,OH,Cleveland State University
+2578,Norris Cole,5.4,7,OH,Cleveland State University
+2579,Andre Roberson,10.9,33,OK,Oral Roberts University
+2580,Andre Roberson,10.2,27,OK,Oral Roberts University
+2581,Andre Roberson,9.6,23,OK,Oral Roberts University
+2582,Andre Roberson,9.1,20,OK,Oral Roberts University
+2583,Andre Roberson,9.0,19,OK,Oral Roberts University
+2584,Hollis Thompson,10.9,33,DC,Georgetown University
+2585,Hollis Thompson,9.5,22,DC,Georgetown University
+2586,Hollis Thompson,9.2,21,DC,Georgetown University
+2587,Hollis Thompson,7.9,14,DC,Georgetown University
+2588,Anthony Parker,10.9,33,IL,Bradley University
+2589,Anthony Parker,10.5,29,IL,Bradley University
+2590,Jared Jeffries,10.9,33,IN,Indiana University
+2591,Jared Jeffries,8.0,14,IN,Indiana University
+2592,Jared Jeffries,2.4,3,IN,Indiana University
+2593,Marshall Plumlee,10.9,33,NC,Duke University
+2594,Marshall Plumlee,10.9,33,NC,Duke University
+2595,Mike Bibby,10.9,33,AZ,University of Arizona
+2596,Mike Bibby,7.8,14,AZ,University of Arizona
+2597,Isaiah Taylor,10.9,33,TX,University of Texas at Austin
+2598,Isaiah Taylor,0.3,2,TX,University of Texas at Austin
+2599,David Andersen,10.9,33,MN,Augsburg College
+2600,Willie Warren,10.8,32,OK,University of Oklahoma
+2601,Darryl Watkins,10.8,32,NY,Syracuse University
+2602,Gilbert Arenas,10.8,32,AZ,University of Arizona
+2603,Gilbert Arenas,9.9,25,AZ,University of Arizona
+2604,Rodney Carney,10.8,32,TN,University of Memphis
+2605,Bobby Brown,10.8,32,FL,Miami University
+2606,Bobby Brown,5.5,7,FL,Miami University
+2607,Darrun Hilliard,10.7,31,PA,Villanova University
+2608,Darrun Hilliard,5.9,8,PA,Villanova University
+2609,Darrun Hilliard,3.4,4,PA,Villanova University
+2610,Malcolm Delaney,10.6,30,VA,Virginia Polytechnic Institute and State University
+2611,Malcolm Delaney,7.5,12,VA,Virginia Polytechnic Institute and State University
+2612,Treveon Graham,10.6,30,VA,Virginia Commonwealth University
+2613,Treveon Graham,9.0,19,VA,Virginia Commonwealth University
+2614,Russ Smith,10.5,29,KY,University of Louisville
+2615,Russ Smith,5.2,7,KY,University of Louisville
+2616,Josh Howard,10.5,29,NC,Wake Forest University
+2617,Josh Howard,9.5,22,NC,Wake Forest University
+2618,Josh Howard,9.2,21,NC,Wake Forest University
+2619,Henry Ellenson,10.5,29,WI,Marquette University
+2620,Henry Ellenson,7.5,12,WI,Marquette University
+2621,Brandon Davies,10.5,29,UT,Brigham Young University
+2622,Brandon Davies,7.5,12,UT,Brigham Young University
+2623,Ben McLemore,10.4,29,KS,University of Kansas
+2624,Ben McLemore,9.8,24,KS,University of Kansas
+2625,Ben McLemore,9.7,24,KS,University of Kansas
+2626,Ben McLemore,8.6,17,KS,University of Kansas
+2627,Ben McLemore,7.7,13,KS,University of Kansas
+2628,Tyler Honeycutt,10.4,29,CA,"University of California, Los Angeles"
+2629,Tyler Honeycutt,1.9,3,CA,"University of California, Los Angeles"
+2630,Luke Harangody,10.4,29,IN,University of Notre Dame
+2631,Luke Harangody,10.1,26,IN,University of Notre Dame
+2632,Jeremy Pargo,10.4,29,WA,Gonzaga University
+2633,Jeremy Pargo,4.4,5,WA,Gonzaga University
+2634,Lance Thomas,10.4,29,NC,Duke University
+2635,Lance Thomas,10.1,26,NC,Duke University
+2636,Lance Thomas,10.1,26,NC,Duke University
+2637,Lance Thomas,8.4,16,NC,Duke University
+2638,Lance Thomas,8.0,14,NC,Duke University
+2639,Lance Thomas,6.3,9,NC,Duke University
+2640,Lance Thomas,0.5,2,NC,Duke University
+2641,Jeffery Taylor,10.3,28,TX,Texas Tech University
+2642,Jeffery Taylor,8.2,15,TX,Texas Tech University
+2643,Jeffery Taylor,5.9,8,TX,Texas Tech University
+2644,Marcus Georges-Hunt,10.2,27,GA,Georgia Institute of Technology
+2645,Marcus Georges-Hunt,6.9,11,GA,Georgia Institute of Technology
+2646,Ronnie Price,10.2,27,UT,Utah Valley State College
+2647,Ronnie Price,9.6,23,UT,Utah Valley State College
+2648,Ronnie Price,8.4,16,UT,Utah Valley State College
+2649,Ronnie Price,7.6,13,UT,Utah Valley State College
+2650,Ronnie Price,6.8,10,UT,Utah Valley State College
+2651,Ronnie Price,5.9,8,UT,Utah Valley State College
+2652,Ronnie Price,5.5,7,UT,Utah Valley State College
+2653,Tony Snell,10.2,27,NM,University of New Mexico
+2654,Tony Snell,9.7,24,NM,University of New Mexico
+2655,Tony Snell,8.5,17,NM,University of New Mexico
+2656,Tony Snell,8.0,14,NM,University of New Mexico
+2657,Tony Snell,6.4,9,NM,University of New Mexico
+2658,Earl Watson,10.2,27,CA,"University of California, Los Angeles"
+2659,Earl Watson,9.5,22,CA,"University of California, Los Angeles"
+2660,Earl Watson,7.7,13,CA,"University of California, Los Angeles"
+2661,Earl Watson,2.1,3,CA,"University of California, Los Angeles"
+2662,Sonny Weems,10.2,27,AR,University of Arkansas
+2663,Sonny Weems,3.7,4,AR,University of Arkansas
+2664,Tim Quarterman,10.2,27,LA,Louisiana State University
+2665,Tim Quarterman,2.9,3,LA,Louisiana State University
+2666,Jamario Moon,10.1,26,MS,Meridian Community College
+2667,Jamario Moon,3.4,4,MS,Meridian Community College
+2668,Perry Jones,10.1,26,TX,Baylor University
+2669,Perry Jones,7.8,14,TX,Baylor University
+2670,Perry Jones,6.9,11,TX,Baylor University
+2671,Derek Fisher,10.1,26,AR,University of Arkansas at Little Rock
+2672,Derek Fisher,8.9,19,AR,University of Arkansas at Little Rock
+2673,Derek Fisher,8.0,14,AR,University of Arkansas at Little Rock
+2674,Derek Fisher,7.7,13,AR,University of Arkansas at Little Rock
+2675,Damion James,10.1,26,TX,University of Texas at Austin
+2676,Damion James,6.1,9,TX,University of Texas at Austin
+2677,Damion James,4.1,5,TX,University of Texas at Austin
+2678,Maurice Ager,10.1,26,MI,Michigan State University
+2679,Derrick Caracter,10.0,25,TX,University of Texas at El Paso
+2680,James Young,10.0,25,KY,University of Kentucky
+2681,James Young,8.5,17,KY,University of Kentucky
+2682,James Young,4.6,5,KY,University of Kentucky
+2683,James Young,3.6,4,KY,University of Kentucky
+2684,Courtney Fortson,9.9,25,AR,University of Arkansas
+2685,Acie Law,9.9,25,TX,Texas A&M University
+2686,Keith Bogans,9.9,25,KY,University of Kentucky
+2687,Keith Bogans,9.0,19,KY,University of Kentucky
+2688,Keith Bogans,6.7,10,KY,University of Kentucky
+2689,Keith Bogans,4.8,6,KY,University of Kentucky
+2690,Juwan Howard,9.9,25,MI,University of Michigan
+2691,Juwan Howard,8.4,16,MI,University of Michigan
+2692,Juwan Howard,3.6,4,MI,University of Michigan
+2693,Dan Gadzuric,9.9,25,CA,"University of California, Los Angeles"
+2694,Dan Gadzuric,-4.3,1,CA,"University of California, Los Angeles"
+2695,Gary Payton,9.8,24,OR,Oregon State University
+2696,Gary Payton,4.5,5,OR,Oregon State University
+2697,Malcolm Lee,9.8,24,CA,"University of California, Los Angeles"
+2698,Malcolm Lee,9.3,21,CA,"University of California, Los Angeles"
+2699,Malcolm Lee,-19.7,0,CA,"University of California, Los Angeles"
+2700,Robbie Hummel,9.7,24,IN,Purdue University
+2701,Robbie Hummel,9.6,23,IN,Purdue University
+2702,Erick Dampier,9.7,24,MS,Mississippi State University
+2703,Erick Dampier,5.5,7,MS,Mississippi State University
+2704,Brian Cardinal,9.7,24,IN,Purdue University
+2705,Brian Cardinal,3.3,4,IN,Purdue University
+2706,Bryce Dejean-Jones,9.6,23,IA,Iowa State University
+2707,Jon Brockman,9.6,23,WA,University of Washington
+2708,Jon Brockman,6.6,10,WA,University of Washington
+2709,Malachi Richardson,9.6,23,NY,Syracuse University
+2710,Malachi Richardson,5.9,8,NY,Syracuse University
+2711,Mickell Gladness,9.5,22,AL,Alabama A&M University
+2712,Tony Battie,9.5,22,TX,Texas Tech University
+2713,Tony Battie,7.3,12,TX,Texas Tech University
+2714,DeAndre Liggins,9.4,22,KY,University of Kentucky
+2715,DeAndre Liggins,8.9,19,KY,University of Kentucky
+2716,DeAndre Liggins,7.5,12,KY,University of Kentucky
+2717,DeAndre Liggins,6.0,8,KY,University of Kentucky
+2718,Rashad Vaughn,9.3,21,NV,"University of Nevada, Las Vegas"
+2719,Rashad Vaughn,7.8,14,NV,"University of Nevada, Las Vegas"
+2720,Rashad Vaughn,4.2,5,NV,"University of Nevada, Las Vegas"
+2721,Darius Miller,9.3,21,KY,University of Kentucky
+2722,Darius Miller,9.0,19,KY,University of Kentucky
+2723,Darius Miller,6.3,9,KY,University of Kentucky
+2724,Darius Miller,-5.1,0,KY,University of Kentucky
+2725,Ron Baker,9.3,21,KS,Wichita State University
+2726,Ron Baker,7.5,12,KS,Wichita State University
+2727,Eduardo Najera,9.3,21,OK,University of Oklahoma
+2728,Eduardo Najera,5.5,7,OK,University of Oklahoma
+2729,Darius Morris,9.2,21,MI,University of Michigan
+2730,Darius Morris,8.1,15,MI,University of Michigan
+2731,Darius Morris,6.7,10,MI,University of Michigan
+2732,Darius Morris,5.2,7,MI,University of Michigan
+2733,Anthony Carter,9.2,21,HI,University of Hawaii
+2734,Anthony Carter,8.7,18,HI,University of Hawaii
+2735,Nik Stauskas,9.2,21,MI,University of Michigan
+2736,Nik Stauskas,9.0,19,MI,University of Michigan
+2737,Nik Stauskas,9.0,19,MI,University of Michigan
+2738,Nik Stauskas,7.5,12,MI,University of Michigan
+2739,Georges Niang,9.2,21,IA,Iowa State University
+2740,Georges Niang,0.1,2,IA,Iowa State University
+2741,Troy Murphy,9.1,20,IN,University of Notre Dame
+2742,Troy Murphy,9.0,19,IN,University of Notre Dame
+2743,Troy Murphy,8.0,14,IN,University of Notre Dame
+2744,James White,9.1,20,DC,Georgetown University
+2745,Solomon Jones,9.1,20,FL,University of South Florida
+2746,Solomon Jones,8.5,17,FL,University of South Florida
+2747,Solomon Jones,5.8,8,FL,University of South Florida
+2748,Solomon Jones,-5.7,0,FL,University of South Florida
+2749,Maurice Evans,9.1,20,TX,University of Texas at Austin
+2750,Maurice Evans,9.0,19,TX,University of Texas at Austin
+2751,Mario West,9.1,20,VA,Old Dominion University
+2752,Bryn Forbes,9.1,20,MI,Michigan State University
+2753,Bryn Forbes,5.9,8,MI,Michigan State University
+2754,DaJuan Summers,9.0,19,DC,Georgetown University
+2755,DaJuan Summers,4.4,5,DC,Georgetown University
+2756,DaJuan Summers,4.3,5,DC,Georgetown University
+2757,Diante Garrett,9.0,19,IL,Southern Illinois University
+2758,Diante Garrett,7.1,11,IL,Southern Illinois University
+2759,Stanley Johnson,9.0,19,KY,Murray State University
+2760,Stanley Johnson,8.7,18,KY,Murray State University
+2761,Stanley Johnson,7.2,11,KY,Murray State University
+2762,Ryan Gomes,9.0,19,RI,Providence College
+2763,Ryan Gomes,4.4,5,RI,Providence College
+2764,Ryan Gomes,0.2,2,RI,Providence College
+2765,Carlos Arroyo,9.0,19,FL,Florida International University
+2766,Okaro White,8.9,19,FL,Florida State University
+2767,Okaro White,7.5,12,FL,Florida State University
+2768,Earl Barron,8.9,19,TN,University of Memphis
+2769,Earl Barron,6.2,9,TN,University of Memphis
+2770,Earl Barron,5.0,6,TN,University of Memphis
+2771,Earl Barron,4.7,6,TN,University of Memphis
+2772,Carldell Johnson,8.9,19,AL,University of Alabama at Birmingham
+2773,Francisco Elson,8.9,19,CA,University of California
+2774,Francisco Elson,6.3,9,CA,University of California
+2775,DeAndre' Bembry,8.8,18,PA,Saint Joseph's University
+2776,DeAndre' Bembry,7.6,13,PA,Saint Joseph's University
+2777,Chris Singleton,8.8,18,FL,Florida State University
+2778,Chris Singleton,8.3,16,FL,Florida State University
+2779,Chris Singleton,7.8,14,FL,Florida State University
+2780,Morris Almond,8.7,18,TX,Rice University
+2781,Quentin Richardson,8.7,18,IL,DePaul University
+2782,Quentin Richardson,8.1,15,IL,DePaul University
+2783,Quentin Richardson,0.7,2,IL,DePaul University
+2784,Quincy Miller,8.6,17,TX,Baylor University
+2785,Quincy Miller,7.4,12,TX,Baylor University
+2786,Quincy Miller,5.9,8,TX,Baylor University
+2787,Patrick McCaw,8.6,17,NV,"University of Nevada, Las Vegas"
+2788,Patrick McCaw,7.4,12,NV,"University of Nevada, Las Vegas"
+2789,Travis Wear,8.5,17,CA,"University of California, Los Angeles"
+2790,Travis Wear,6.9,11,CA,"University of California, Los Angeles"
+2791,Alex Kirk,8.5,17,NM,University of New Mexico
+2792,Chris Duhon,8.4,16,NC,Duke University
+2793,Chris Duhon,8.0,14,NC,Duke University
+2794,Chris Duhon,5.6,7,NC,Duke University
+2795,Jason Williams,8.4,16,NY,St. John's University
+2796,DeQuan Jones,8.4,16,FL,University of Miami
+2797,Cleanthony Early,8.4,16,KS,Wichita State University
+2798,Cleanthony Early,2.2,3,KS,Wichita State University
+2799,Raja Bell,8.3,16,FL,Florida International University
+2800,Raja Bell,8.2,15,FL,Florida International University
+2801,Melvin Ely,8.3,16,CA,"California State University, Fresno"
+2802,Melvin Ely,3.9,4,CA,"California State University, Fresno"
+2803,Royal Ivey,8.2,15,TX,University of Texas at Austin
+2804,Royal Ivey,8.1,15,TX,University of Texas at Austin
+2805,Royal Ivey,4.7,6,TX,University of Texas at Austin
+2806,Royal Ivey,-16.5,0,TX,University of Texas at Austin
+2807,Josh Powell,8.0,14,NC,North Carolina State University
+2808,Josh Powell,2.5,3,NC,North Carolina State University
+2809,Kim English,7.9,14,MI,University of Missouri
+2810,Elijah Millsap,7.9,14,AL,University of Alabama at Birmingham
+2811,Elijah Millsap,6.5,9,AL,University of Alabama at Birmingham
+2812,Elijah Millsap,-3.4,1,AL,University of Alabama at Birmingham
+2813,Nolan Smith,7.8,14,NC,Duke University
+2814,Nolan Smith,7.1,11,NC,Duke University
+2815,Marcus Cousin,7.8,14,TX,University of Houston
+2816,Jerry Smith,7.8,14,KY,University of Louisville
+2817,Dorian Finney-Smith,7.7,13,FL,University of Florida
+2818,Dorian Finney-Smith,7.6,13,FL,University of Florida
+2819,Joey Graham,7.7,13,OK,Oklahoma State University
+2820,Elias Harris,7.6,13,WA,Gonzaga University
+2821,James Posey,7.5,12,OH,Xavier University
+2822,Chris Quinn,7.5,12,IN,University of Notre Dame
+2823,Chris Quinn,1.3,2,IN,University of Notre Dame
+2824,Doron Lamb,7.5,12,KY,University of Kentucky
+2825,Doron Lamb,4.8,6,KY,University of Kentucky
+2826,Adonis Thomas,7.3,12,TN,University of Memphis
+2827,Stephen Zimmerman,7.3,12,NV,"University of Nevada, Las Vegas"
+2828,Edwin Ubiles,7.3,12,NY,Siena College
+2829,Ben Hansbrough,7.2,11,IN,University of Notre Dame
+2830,Walker Russell,7.2,11,MI,Western Michigan University
+2831,Branden Dawson,7.1,11,MI,Michigan State University
+2832,Justin Harper,6.9,11,VA,University of Richmond
+2833,Justin Harper,4.9,6,VA,University of Richmond
+2834,Justin Harper,1.7,3,VA,University of Richmond
+2835,Damian Jones,6.8,10,TX,University of Houston
+2836,Damian Jones,5.3,7,TX,University of Houston
+2837,Mustafa Shakur,6.8,10,AZ,University of Arizona
+2838,Mustafa Shakur,-8.8,0,AZ,University of Arizona
+2839,Marcus Banks,6.8,10,NV,"University of Nevada, Las Vegas"
+2840,Cameron Bairstow,6.8,10,NM,University of New Mexico
+2841,Cameron Bairstow,2.1,3,NM,University of New Mexico
+2842,Terrel Harris,6.7,10,OK,Oklahoma State University
+2843,Terrel Harris,-3.8,1,OK,Oklahoma State University
+2844,Antonio Daniels,6.7,10,OH,Bowling Green State University
+2845,Kyle Wiltjer,6.7,10,WA,Gonzaga University
+2846,Glen Rice,6.6,10,MI,University of Michigan
+2847,Glen Rice,-3.6,1,MI,University of Michigan
+2848,Daniel Ochefu,6.6,10,PA,Villanova University
+2849,Dennis Horner,6.6,10,NC,North Carolina State University
+2850,Mikki Moore,6.3,9,NE,University of Nebraska
+2851,Tyshawn Taylor,6.2,9,KS,University of Kansas
+2852,Tyshawn Taylor,5.4,7,KS,University of Kansas
+2853,Joel Przybilla,6.2,9,MN,University of Minnesota
+2854,Joel Przybilla,6.0,8,MN,University of Minnesota
+2855,Joel Przybilla,3.3,4,MN,University of Minnesota
+2856,James Nunnally,6.1,9,CA,"University of California, Santa Barbara"
+2857,Bobby Simmons,6.0,8,IL,DePaul University
+2858,Bobby Simmons,-5.5,0,IL,DePaul University
+2859,Keith Benson,6.0,8,IN,Indiana University
+2860,Scott Machado,6.0,8,NY,Iona College
+2861,Marquis Teague,6.0,8,KY,University of Kentucky
+2862,Marquis Teague,5.7,7,KY,University of Kentucky
+2863,Marquis Teague,3.8,4,KY,University of Kentucky
+2864,Devyn Marble,5.9,8,IA,University of Iowa
+2865,Devyn Marble,5.2,7,IA,University of Iowa
+2866,Will Cherry,5.8,8,MT,University of Montana
+2867,Semaj Christon,5.7,7,OH,Xavier University
+2868,Peyton Siva,5.7,7,KY,University of Louisville
+2869,Luke Zeller,5.6,7,IN,University of Notre Dame
+2870,Jason Collins,5.4,7,FL,Florida State University
+2871,Jason Collins,4.1,5,FL,Florida State University
+2872,Jason Collins,3.7,4,FL,Florida State University
+2873,Jason Collins,3.0,3,FL,Florida State University
+2874,Gal Mekel,5.4,7,KS,Wichita State University
+2875,Gal Mekel,0.5,2,KS,Wichita State University
+2876,Hamady N'Diaye,5.3,7,NJ,Rutgers University
+2877,Hamady N'Diaye,2.9,3,NJ,Rutgers University
+2878,Hamady N'Diaye,-13.1,0,NJ,Rutgers University
+2879,Ime Udoka,5.3,7,OR,Portland State University
+2880,Lamar Patterson,5.1,6,PA,University of Pittsburgh
+2881,Lamar Patterson,-1.9,1,PA,University of Pittsburgh
+2882,Aaron Harrison,5.1,6,KY,University of Kentucky
+2883,Aaron Harrison,4.3,5,KY,University of Kentucky
+2884,Aaron Harrison,-2.2,1,KY,University of Kentucky
+2885,Jamaal Franklin,4.9,6,CA,San Diego State University
+2886,Jamaal Franklin,4.7,6,CA,San Diego State University
+2887,Jake Layman,4.9,6,MD,University of Maryland
+2888,Jake Layman,4.9,6,MD,University of Maryland
+2889,Fab Melo,4.9,6,NY,Syracuse University
+2890,Sean Marks,4.9,6,CA,University of California
+2891,Nick Johnson,4.8,6,AZ,University of Arizona
+2892,Justin Dentmon,4.8,6,WA,University of Washington
+2893,Justin Dentmon,-19.4,0,WA,University of Washington
+2894,Jawad Williams,4.8,6,NY,St. John's University
+2895,Jerrelle Benimon,4.7,6,MD,Towson University
+2896,Charlie Bell,4.7,6,MI,Michigan State University
+2897,Jason Kapono,4.5,5,CA,"University of California, Los Angeles"
+2898,Jason Kapono,1.6,2,CA,"University of California, Los Angeles"
+2899,Larry Drew,4.5,5,MI,University of Missouri
+2900,Larry Drew,2.9,3,MI,University of Missouri
+2901,Stephen Graham,4.4,5,OK,Oklahoma State University
+2902,Theo Ratliff,4.4,5,WY,University of Wyoming
+2903,Craig Brackins,4.3,5,IA,Iowa State University
+2904,Craig Brackins,0.1,2,IA,Iowa State University
+2905,Duje Dukan,4.2,5,WI,University of Wisconsin
+2906,Vander Blue,4.0,5,WI,Marquette University
+2907,Vander Blue,0.5,2,WI,Marquette University
+2908,Vander Blue,-1.8,1,WI,Marquette University
+2909,Drew Gordon,3.7,4,NM,University of New Mexico
+2910,Quinton Ross,3.7,4,TX,Southern Methodist University
+2911,Chris Babb,3.7,4,IA,Iowa State University
+2912,Sherron Collins,3.6,4,KS,University of Kansas
+2913,Josh Selby,3.3,4,KS,University of Kansas
+2914,Josh Selby,0.1,2,KS,University of Kansas
+2915,Malik Allen,3.3,4,PA,Villanova University
+2916,David Wear,2.4,3,CA,"University of California, Los Angeles"
+2917,Mychel Thompson,2.2,3,MN,University of Minnesota
+2918,Morris Peterson,1.7,3,MI,Michigan State University
+2919,Jarron Collins,1.6,2,FL,Florida State University
+2920,Grant Jerrett,1.5,2,AZ,University of Arizona
+2921,Darius Songaila,1.2,2,NC,Wake Forest University
+2922,Jerel McNeal,1.2,2,WI,Marquette University
+2923,Patrick Ewing,0.6,2,DC,Georgetown University
+2924,Kris Joseph,0.6,2,NY,Syracuse University
+2925,Ronald Dupree,0.5,2,LA,Louisiana State University
+2926,Erik Murphy,0.2,2,FL,University of Florida
+2927,Xavier Silas,0.1,2,IL,Northern Illinois University
+2928,Xavier Silas,-4.9,0,IL,Northern Illinois University
+2929,Brian Skinner,0.0,2,TX,Baylor University
+2930,Brian Skinner,-14.6,0,TX,Baylor University
+2931,Chris Smith,0.0,2,PA,University of Pittsburgh
+2932,Joe Smith,-0.1,2,CO,University of Southern Colorado
+2933,Mike Tobey,-0.1,2,VA,University of Virginia
+2934,Pops Mensah-Bonsu,-0.1,2,DC,George Washington University
+2935,Kalin Lucas,-0.7,1,MI,Michigan State University
+2936,Jeff Foote,-0.9,1,NY,Cornell University
+2937,Shane Edwards,-1.0,1,AR,University of Arkansas at Little Rock
+2938,Diamond Stone,-1.2,1,MD,University of Maryland
+2939,Andy Rautins,-1.2,1,NY,Syracuse University
+2940,Michael Gbinije,-2.1,1,NY,Syracuse University
+2941,Patrick Christopher,-2.6,1,CA,University of California
+2942,Luis Montero,-2.7,1,PA,Westchester CC
+2943,Luis Montero,-15.5,0,PA,Westchester CC
+2944,Darington Hobson,-3.3,1,NM,University of New Mexico
+2945,Kelenna Azubuike,-3.4,1,KY,University of Kentucky
+2946,Kevin Murphy,-4.5,1,TN,Tennessee Technological University
+2947,Scotty Hopson,-4.6,1,TN,University of Tennessee
+2948,Scotty Hopson,-6.5,0,TN,University of Tennessee
+2949,Keith Appling,-4.8,0,MI,Michigan State University
+2950,Larry Hughes,-4.8,0,MI,Saint Louis University
+2951,Antoine Wright,-4.8,0,TX,Texas A&M University
+2952,Andre Dawkins,-5.0,0,NC,Duke University
+2953,Darius Johnson-Odom,-6.7,0,NY,Syracuse University
+2954,Darius Johnson-Odom,-23.0,0,NY,Syracuse University
+2955,Blake Ahearn,-7.3,0,MO,Missouri State University
+2956,Royce White,-8.3,0,AL,University of South Alabama
+2957,Gani Lawal,-9.1,0,GA,Georgia Institute of Technology
+2958,Patricio Garino,-9.2,0,DC,George Washington University
+2959,Will Conroy,-15.2,0,WA,University of Washington
+2960,Ben Bentil,-17.6,0,RI,Providence College
