@@ -163,11 +163,13 @@ function loadMap(metric, year) {
                 //         grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
                 // }
                 let format = d3.format('.1f');
-                div.innerHTML = `<div><i style = "background: #ee3e32"></i> <p>0%</p></div><br>
-                                <div><i style = "background: '#f68838'"></i> 25%</div><br>
-                                <div><i style = "background: #fbb021"></i> 50%</div><br> 
-                                <div><i style = "background: #1b8a5a"></i> 75%</div><br>  
-                                <div><i style = "background: #1d4877"></i> 100%</div><br>`
+                div.innerHTML = `<div class = "row">
+                                <div class = "col-sm-12">Percenitle</div>
+                                <div class = "col-sm-12"><i style = "background: #ee3e32"></i> 100%</div>
+                                <div class = "col-sm-12"><i style = "background: #f68838"></i> 75%</div>
+                                <div class = "col-sm-12"><i style = "background: #fbb021"></i> 50%</div>
+                                <div class = "col-sm-12"><i style = "background: #1b8a5a"></i> 25%</div> 
+                                <div class = "col-sm-12"><i style = "background: #1d4877"></i> 0%</div></div>`;
                 // for(let i = 0; i < grades.length; i++){
                 //     div.innerHTML += format(grades[i]) + ' ';
                 // }
