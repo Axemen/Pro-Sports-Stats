@@ -206,115 +206,59 @@
     </section>
     <!-- <hr> -->
 
+   
     <section class="section_2">
-        <div class="container">
-            <div class="row align-items-center">
-                    <!-- <div class="col-lg-4 order-lg-1">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-1">Fast Facts</h2>
+                            <hr class="header-bar">
+    
+                            <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid,
+                                mollitia odio veniam
+                                sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
+                                voluptatum molestiae adipisci, beatae obcaecati.</p>
+    
+                        </div>
+                    </div>
+                    <div class="col-lg-8 order-lg-2">
+                        <div class="p-5">
+                     
+        
+                                      <div class="grid-container">
+                                            <div class="grid_selector"><select id="sport_fast_facts" class="minimal">
+                                                    <option value="sport_nfl" id="state-selected" selected>MLB</option>
+                                                    <option value="sport_nba">NBA</option>
+                                                    <option value="sport_nfl">NFL</option>
+                                                </select><select id="state_fast_facts" class="minimal">
+                                                    <option value="state_1" id="state-selected" selected>State_1</option>
+                                                    <option value="state_2">State_2</option>
+                                                    <option value="state_3">State_3</option>
+                                                </select></div>
+                                            <div class="home_text">As a home state</div>
+                                            <div class="college_text">As a college state</div>
+                                            <div class="home_money bold-metric">$3465</div>
+                                            <div class="college_money bold-metric">$3465</div>
+                                            <div class="home_text_2">and an average performance of</div>
+                                            <div class="college_text_2">and an average performance of</div>
+                                            <div class="home_perf bold-metric">2.3</div>
+                                            <div class="college_perf bold-metric">2.3</div>
+                                          </div>
+    
+    
+    
+    
+                        </div>
+                        <div class="col-lg-6 order-lg-2">
                             <div class="p-5">
-                                <h2 class="display-1">Pick Three...</h2>
-                                <hr class="header-bar">
-
-                                <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
-                                    sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                                    voluptatum molestiae adipisci, beatae obcaecati.</p>
-                                    
+                                <img class="img-fluid rounded-circle" src="img/03.jpg" alt="">
                             </div>
-                        </div> -->
-                <div class="col-lg-8 order-lg-2">
-                    <div class="p-5">
-
-                            <div class="row">
-                                    <div class="col-sm-4">
-                                            <li class="selector">
-                                                    <select id="sport-picker" class="minimal" onchange="optionChanged(this.value)">
-                                                            
-                                                        </select>
-                                                    <h3>State</h3>
-                                                   
-                                            </li>
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt nemo saepe eveniet porro eligendi eaque vel recusandae libero. Odio vitae corporis mollitia in magnam neque illo dignissimos vel unde cupiditate?</p>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="card" id="mlbcard">mlb</div>
-                                    </div>
-                                    <div class="col-sm-4"><div class="card" id="nbacard">nba</div></div>
-                                    <div class="col-sm-4"><div class="card" id="nflcard">nfl</div></div>
-                                </div>
-                            <!-- <div class="row">
-                                    <ul class="selectors col-sm-12">
-                                            <li class="selector">
-                                                    <select id="sport-picker" class="minimal-1">
-                                                            <option value="mlb" id="sport-picker" selected>MLB</option>
-                                                            <option value="nba">NBA</option>
-                                                            <option value="nfl">NFL</option>
-                                                        </select>
-                                                        <br>
-                                                     <h3>League</h3> -->
-                                                    <div class="legend-card">
-        
-                                                <p>Name</p>
-                                                <p>College</p>
-                                                <p>Average Salary ($)</p>
-                                                <p>Success Metric<br> (Percentile)</p>
-                                            </div>
-                                            </li>
-                                            <li class="selector card">
-                                                    <select id="sport-picker" class="minimal-1">
-                                                            <option value="mlb" id="sport-picker" selected>Player 1</option>
-                                                            <option value="nba">Player 2</option>
-                                                            <option value="nfl">Player 3</option>
-                                                        </select>
-                                                    <h3>League</h3>
-        
-                                                    <p class="card-label">Name</p>
-                                                    <p class="card-label">College</p>
-                                                    <p class="card-label">Average Salary ($)</p>
-                                                    <p class="card-label">Success Metric<br> (Percentile)</p>
-                                                </li>
-                                            <li class="selector card"> 
-                                                    <select id="sport-picker" class="minimal-1">
-                                                            <option value="mlb" id="sport-picker" selected>Player 1</option>
-                                                            <option value="nba">Player 2</option>
-                                                            <option value="nfl">Player 3</option>
-                                                        </select>
-                                                <h3>League</h3>
+                        </div>
     
-                                                <p class="card-label">Name</p>
-                                                <p class="card-label">College</p>
-                                                <p class="card-label">Average Salary ($)</p>
-                                                <p class="card-label">Success Metric<br> (Percentile)</p>
-                                    </li>
-                                            <li class="selector card"> <select id="sport-picker" class="minimal-1">
-                                                    <option value="mlb" id="sport-picker" selected>Player 1</option>
-                                                    <option value="nba">Player 2</option>
-                                                    <option value="nfl">Player 3</option>
-                                                </select><h3>League</h3>
-    
-                                                <p class="card-label">Name</p>
-                                                <p class="card-label">College</p>
-                                                <p class="card-label">Average Salary ($)</p>
-                                                <p class="card-label">Success Metric<br> (Percentile)</p>
-                                        </li>
-                                        </ul>
-
-                                   
-                              </div> -->
-
-
-
-
-
-
-
-
-                            </div>
                     </div>
                 </div>
-            </div>
-
-        </div>
-        </div>
-    </section>
+        </section>
     <section class="section_1">
             <div class="container">
                 <div class="row align-items-center">
