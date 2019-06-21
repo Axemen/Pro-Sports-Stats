@@ -211,8 +211,10 @@ linear-gradient(45deg, white 50%, transparent 50%),
 linear-gradient(135deg, transparent 50%, white 50%),
 linear-gradient(to right, gray, gray);
 background-position:
-calc(100% - 7px) 1em,
-calc(100% - 12px) 1em,
+/* calc(100% +15px) 1em,
+calc(100% - 10px) 1em, */
+calc(100% - 19px) calc(1em - 2px),
+calc(100% - 14px) calc(1em - 2px),
 100% 0;
 background-size:
 5px 5px,
@@ -361,6 +363,41 @@ div.home_text, div.college_text, div.home_text_2, div.college_text_2 {
 .home_perf { grid-area: home_perf; }
 
 .college_perf { grid-area: college_perf; }
+/* .card-grid-container {
+  display: grid;
+  text-align:center;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas: “card-card_selector card-card_selector card-card_selector" “card-card_1 card-card_2 card-card_3";
+}
+
+.card-card_1 { grid-area: card_1; margin-right:1rem;}
+
+.card-card_2 { grid-area: card_2; }
+
+.card-card_3 { grid-area: card_3; margin-left:1rem;}
+
+.card-card_selector { grid-area: card_selector; } */
+.card-grid-container {
+  display: grid;
+  text-align:center;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas: "card-card_selector card-card_selector card-card_selector" "card-card_1 card-card_2 card-card_3";
+}
+
+.card-card_1 { grid-area: card-card_1; margin-right:0.5em;}
+
+.card-card_2 { grid-area: card-card_2; }
+
+.card-card_3 { grid-area: card-card_3; margin-left:0.5em;}
+
+.card-card_selector { grid-area: card-card_selector;  display:flex;
+  vertical-align:middle; 
+  align-items: center;
+  justify-content: center;}
+
+
 .info {
 padding: 6px 8px;
 font: 14px/16px Arial, Helvetica, sans-serif;
