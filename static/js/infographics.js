@@ -4,7 +4,7 @@ function buildFacts(newstate){
     var panelnfl = d3.select("#nflcard");
     panelnfl.html("");
 
-    d3.csv("static//data/nfl_fast_factss_data.csv").then((nflplayers) => {
+    d3.csv("static/data/nfl_fast_factss_data.csv").then((nflplayers) => {
     var filteredDatanfl = nflplayers.filter(nflplayers => nflplayers.state === newstate);
 
     if (typeof(filteredDatanfl) === 'undefined')
