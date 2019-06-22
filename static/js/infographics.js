@@ -4,7 +4,7 @@ function buildFacts(newstate){
     var panelnfl = d3.select("#nflcard");
     panelnfl.html("");
 
-    d3.csv("/libs/unclean_data/nfl_fast_factss_data.csv").then((nflplayers) => {
+    d3.csv("static//data/nfl_fast_factss_data.csv").then((nflplayers) => {
     var filteredDatanfl = nflplayers.filter(nflplayers => nflplayers.state === newstate);
 
     if (typeof(filteredDatanfl) === 'undefined')
@@ -28,7 +28,7 @@ function buildFacts(newstate){
      var panelmlb = d3.select("#mlbcard");
      panelmlb.html("");
  
-     d3.csv("/libs/unclean_data/mlb_fast_factss_data.csv").then((mlbplayers) => {
+     d3.csv("static/data/nfl_fast_factss_data.csv").then((mlbplayers) => {
      var filteredDatamlb = mlbplayers.filter(mlbplayers => mlbplayers.state === newstate);
      if (typeof(filteredDatamlb) === 'undefined')
      {
@@ -50,7 +50,7 @@ function buildFacts(newstate){
     var panelnba = d3.select("#nbacard");
     panelnba.html("");
 
-    d3.csv("/libs/unclean_data/nba_fast_factss_data.csv").then((nbaplayers) => {
+    d3.csv("static/data/nfl_fast_factss_data.csv").then((nbaplayers) => {
     var filteredDatanba = nbaplayers.filter(nbaplayers => nbaplayers.state === newstate);
     if (typeof(filteredDatanba) === 'undefined')
     {
@@ -78,7 +78,7 @@ function init() {
     var selector = d3.select("#sport-picker");
   
     // Use the list of sample names to populate the select options
-    d3.csv("../static/data/states.csv").then((statenames) => {
+    d3.csv("static/data/states.csv").then((statenames) => {
         statenames.forEach((state) => {
           selector
           .append("option")
