@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, send_file
 
 app = Flask(__name__)
 
@@ -7,6 +7,11 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return render_template("index.html")
+
+
+@app.route('/team_img/<team_name>')
+def team_img(team_name):
+    return send_file(f'static/images/{team_name}.png')
 
     
 if __name__ == "__main__":
