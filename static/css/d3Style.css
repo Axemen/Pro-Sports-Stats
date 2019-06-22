@@ -27,9 +27,13 @@ text {
   font-family: Lato;
 }
 
-path {
+#scatter path {
   stroke: #464646;
 }
+#map path {
+  stroke: #fff;
+}
+
 
 .dotText {
   font-family: Lato;
@@ -57,7 +61,12 @@ path {
 
 }
 
-
+.tooltip_logo {
+  width: 3rem;
+height: auto;
+padding-right: 1em;
+margin-bottom: .25em;
+}
 
 .chart {
   display: block;

@@ -26,6 +26,23 @@ function formatter(number) {
     var formatted = numeral(number).format('($ 0.00 a)');
     return formatted;
 }
+const image_link_pretext = "static/icons/team_logos/"
+function logoer(team) {
+    switch (team) {
+        case 'hawks':
+            image_link = image_link_pretext + "hawks.png";
+            break;
+        case 'rockets':
+            image_link = image_link_pretext + "rockets.png";;
+            break;
+        case 'grizzlies':
+            image_link = image_link_pretext + "grizzlies.png";
+            break;
+        default: image_link = image_link_pretext + "rockets.png";
+    }
+    return image_link;
+}
+
 
 function colorer(sport) {
     switch (sport) {
@@ -34,10 +51,10 @@ function colorer(sport) {
             color = "#f68838";
             break;
         case 'nba':
-            color = "#1d4877";
+            color = "#fc444d";
             break;
         case 'nfl':
-            color = "#1b8a5a";
+            color = "#27c480";
             break;
         default: color = "#fffff"
     }
@@ -59,36 +76,36 @@ function changesportSelection(sel) {
     d3.selectAll(".scatter_plot").remove();
 
     var sport_options = document.getElementById("sport-inds").getElementsByTagName("option");
-    sel.options[sel.selectedIndex].id="sport-selected";
-for (i = 0; i < sport_options.length; i++) {
-     sport_options[i].id = "";
-console.log(sport_options[i]);
-}
-sel.options[sel.selectedIndex].id="sport-selected";
+    sel.options[sel.selectedIndex].id = "sport-selected";
+    for (i = 0; i < sport_options.length; i++) {
+        sport_options[i].id = "";
+        console.log(sport_options[i]);
+    }
+    sel.options[sel.selectedIndex].id = "sport-selected";
 
-loadChart()
+    loadChart()
 }
 function changeyearSelection(sel) {
     // d3.select("svg").remove();
-        d3.selectAll(".scatter_plot").remove();
+    d3.selectAll(".scatter_plot").remove();
 
     var year_options = document.getElementById("year-inds").getElementsByTagName("option");
-    sel.options[sel.selectedIndex].id="year-selected";
-for (i = 0; i < year_options.length; i++) {
-     year_options[i].id = "";
-console.log(year_options[i]);
+    sel.options[sel.selectedIndex].id = "year-selected";
+    for (i = 0; i < year_options.length; i++) {
+        year_options[i].id = "";
+        console.log(year_options[i]);
+    }
+    sel.options[sel.selectedIndex].id = "year-selected";
+
+
+    loadChart()
 }
-sel.options[sel.selectedIndex].id="year-selected";
 
+// var all_sports = document.getElementById("sport-inds");
+// var selected_sport = sel.options[sel.selectedIndex].value;
+// alert(all_sports);
 
-loadChart()
-}
-
-    // var all_sports = document.getElementById("sport-inds");
-    // var selected_sport = sel.options[sel.selectedIndex].value;
-    // alert(all_sports);
-
-    // alert(selected_sport);
+// alert(selected_sport);
 
 
 
@@ -112,15 +129,15 @@ function loadChart() {
         .attr("height", svgHeight)
         .attr("width", svgWidth)
         .classed("scatter_plot", true)
-;
+        ;
     var chartGroup = svg.append("g")
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
-        
+
 
     d3.csv("../static/data/all_attendance_keys.csv").then(function (allcsvData) {
         // console.log(d3.select("#sport-selected").node().value); 
-                console.log(d3.select("#year-selected").node().value);         
-        
+        console.log(d3.select("#year-selected").node().value);
+
         var csvData = allcsvData.filter(function (d) {
 
             if (d["sport"] == d3.select("#sport-selected").node().value) {
@@ -129,7 +146,7 @@ function loadChart() {
             }
 
         })
-        
+
         var csvData = csvData.filter(function (d) {
 
             if (d["year"] == d3.select("#year-selected").node().value) {
@@ -138,7 +155,7 @@ function loadChart() {
             }
 
         })
-        
+
 
 
 
@@ -181,12 +198,12 @@ function loadChart() {
             .attr('id', "x_axis_line")
             .call(xAxis)
             .selectAll("text")
-           
-        .style("text-anchor", "end")
-        .attr("dx", "-.8em")
-        .attr("dy", ".15em")
-        .attr("transform", "rotate(-35)");
-            ;
+
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", "rotate(-35)");
+        ;
 
         chartGroup.append("g")
             .attr('id', "y_axis_line")
@@ -198,7 +215,37 @@ function loadChart() {
             .attr("class", "d3-tip")
             .style("opacity", 0);
 
-                    
+
+        // chartGroup.selectAll("circle")
+        //     .data(csvData)
+        //     .enter()
+        //     .append("circle")
+        //     .attr("class", "dotCircle")
+        //     .style("fill", (d, i) => colorer(sport[i]))
+        //     .attr("cx", (d, i) => xScale(x_data[i]))
+        //     .attr("cy", (d, i) => yScale(y_data[i]))
+        //     .attr("r", 5)
+        //     .attr("width", (d, i) => chartWidth - xScale(x_data[i]))
+        //     .attr("height", (d, i) => chartHeight - yScale(y_data[i]))
+        //     .on('mouseover', function (d, i) {
+        //         d3.select(this).moveToFront().transition(t);
+        //         div.transition(t)
+        //             .duration(50)
+        //             .style("opacity", 1);
+        //         div.html(team[i] + " (" + year[i] + ")" + "<br/>"
+        //             + x_val + formatter(x_data[i])
+        //             + x_unit + "<br/>"
+        //             + y_val + y_data[i] + y_unit)
+        //             .style("left", (d3.event.pageX + 20) + "px")
+        //             .style("top", (d3.event.pageY - 20) + "px");
+        //     })
+        //     .on('mouseout', function (d, i) {
+        //         d3.select(this).moveToBack().transition(t)
+        //             .attr('opacity', '1');
+        //         div.transition(t).style("opacity", 0);
+        //     });
+
+
         chartGroup.selectAll("circle")
             .data(csvData)
             .enter()
@@ -215,7 +262,7 @@ function loadChart() {
                 div.transition(t)
                     .duration(50)
                     .style("opacity", 1);
-                div.html(team[i] + " (" + year[i] + ")" + "<br/>"
+                div.html("<img class='tooltip_logo' src='static/icons/team_logos/"+ team[i] + ".png'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
                     + x_val + formatter(x_data[i])
                     + x_unit + "<br/>"
                     + y_val + y_data[i] + y_unit)
@@ -227,6 +274,8 @@ function loadChart() {
                     .attr('opacity', '1');
                 div.transition(t).style("opacity", 0);
             });
+
+
 
 
         // chartGroup.selectAll("dotCircle")
@@ -352,7 +401,7 @@ function loadChart() {
                     div.transition(t)
                         .duration(50)
                         .style("opacity", 1);
-                    div.html(team[i] + " (" + year[i] + ")" + "<br/>"
+                    div.html("<img class='tooltip_logo' src='static/icons/team_logos/"+ team[i] + ".png'/>" +team[i] + " (" + year[i] + ")" + "<br/>"
                         + x_val + formatter(x_data[i])
                         + x_unit + "<br/>"
                         + y_val + y_data[i] + y_unit)
