@@ -17,10 +17,14 @@ function buildFacts(newstate){
       return second.AV - first.AV;
   
      }); 
-       panelnfl.append("h4").text(`NFL`);
-       panelnfl.append("h6").text(`Player: ${sorted_av_nfl[0].Player}`);
-       panelnfl.append("h6").text(`College: ${sorted_av_nfl[0].college}`);
-       panelnfl.append("h6").text(`Average Value: ${sorted_av_nfl[0].AV}`);
+     panelnfl.append("h6").html(`<hr class="hr_for_cards"><img src="/static/icons/user.png" alt="player" width="auto" height="39">
+     <br></br>`+ `${sorted_av_nfl[0].Player}<br></br>`);
+     panelnfl.append("h6").html(`<img src="/static/icons/college.png" alt="player" width="auto" height="39"> <br></br>` + `${sorted_av_nfl[0].college}`);
+     panelnfl.append("h6").html(`<br></br><strong>Average Value<\strong><br></br>` + `${sorted_av_nfl[0].AV}`);
+    
+      //  panelnfl.append("h6").text(`Player: ${sorted_av_nfl[0].Player}`);
+      //  panelnfl.append("h6").text(`College: ${sorted_av_nfl[0].college}`);
+      //  panelnfl.append("h6").text(`Average Value: ${sorted_av_nfl[0].AV}`);
       
     }
   });
@@ -40,11 +44,18 @@ function buildFacts(newstate){
        return second.WAR - first.WAR;
    
       }); 
-      panelmlb.append("h4").text(`MLB`);
-      panelmlb.append("h6").text(`Player: ${sorted_av_mlb[0].Player}`);
-      panelmlb.append("h6").text(`College: ${sorted_av_mlb[0].college}`);
-      panelmlb.append("h6").text(`Wins Above Replacement: ${sorted_av_mlb[0].WAR}`);
-    }
+  
+      panelmlb.append("h6").html(`<hr class="hr_for_cards"><img src="/static/icons/user.png" alt="player" width="auto" height="39">
+      <br></br>`+ `${sorted_av_mlb[0].Player}<br></br>`);
+      panelmlb.append("h6").html(`<img src="/static/icons/college.png" alt="player" width="auto" height="39"> <br></br>` + `${sorted_av_mlb[0].college}`);
+      panelmlb.append("h6").html(`<br></br><strong>Wins Above Replacement<\strong><br></br>` + `${sorted_av_mlb[0].WAR}`);
+     }
+
+
+    //   panelmlb.append("h6").text(`Player: ${sorted_av_mlb[0].Player}`);
+    //   panelmlb.append("h6").text(`College: ${sorted_av_mlb[0].college}`);
+    //   panelmlb.append("h6").text(`Wins Above Replacement: ${sorted_av_mlb[0].WAR}`);
+    // }
     });
 
     var panelnba = d3.select("#nbacard");
@@ -62,10 +73,10 @@ function buildFacts(newstate){
       return second.PER - first.PER;
   
      }); 
-     panelnba.append("h4").text(`NBA`);
-     panelnba.append("h6").text(`Player: ${sorted_av_nba[0].Player}`);
-     panelnba.append("h6").text(`College: ${sorted_av_nba[0].college}`);
-     panelnba.append("h6").text(`Player Efficiency Rating: ${sorted_av_nba[0].PER}`);
+     panelnba.append("h6").html(`<hr class="hr_for_cards"><img src="/static/icons/user.png" alt="player" width="auto" height="39">
+     <br></br>`+ `${sorted_av_nba[0].Player}<br></br>`);
+     panelnba.append("h6").html(`<img src="/static/icons/college.png" alt="player" width="auto" height="39"> <br></br>` + `${sorted_av_nba[0].college}`);
+     panelnba.append("h6").html(`<br></br><strong>Player Efficiency Rating<\strong><br></br>` + `${sorted_av_nba[0].PER}`);
     }
    });
     

@@ -483,4 +483,54 @@ h3 {
 /* line-height: 0px; */
 }
 
+#mlbcard::before {
+  background-image: url('../icons/mlb_logo_32.png');
+  background-size: 10px 20px;
+  background-size: 100% 100%;
+  display: inline-block;
+  width:45%; 
+  left: 50%;
+margin-left:30%;
+margin-bottom:1rem;
+  height: auto;
+  content:"\A \A";
+  white-space: pre;
+  font-weight:bold;
+}
 
+
+#nflcard::before {
+  background-image: url('../icons/nfl_logo_32.png');
+  background-size: 10px 20px;
+  background-size: 100% 100%;
+  display: inline-block;
+  width:45%; 
+  left: 50%;
+margin-left:30%;
+margin-bottom: 1rem;
+  height: auto;
+  content:"\A \A";
+  white-space: pre;
+  font-weight:bold;
+}
+
+
+#nbacard::before {
+  background-image: url('../icons/nba_logo.png');
+  background-size: 10px 20px;
+  background-size: 100% 100%;
+  display: inline-block;
+  width:45%; 
+  left: 50%;
+margin-left:30%;
+margin-bottom:1rem;
+  height: auto;
+  content:"\A \A";
+  white-space: pre;
+  font-weight:bold;
+}
+
+.hr_for_cards {
+  color:black;
+  width:100%;
+}
