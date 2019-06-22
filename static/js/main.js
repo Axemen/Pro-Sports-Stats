@@ -246,10 +246,9 @@ function loadChart() {
                 div.transition(t)
                     .duration(50)
                     .style("opacity", 1);
-                // div.html("<img class='tooltip_logo' src='../static/images/"+ team[i] + ".png'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
-                div.html("<img class='tooltip_logo' src='/team_img/"+ team[i] + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
+                div.html("<img class='tooltip_logo' src='https://prosports-stats.herokuapp.com/team_img/"+ team[i] + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
+                // div.html("<img class='tooltip_logo' src='/team_img/"+ team[i] + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
    
-                
                 + x_val + formatter(x_data[i])
                     + x_unit + "<br/>"
                     + y_val + y_data[i] + y_unit)
