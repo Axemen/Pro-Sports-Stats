@@ -1,1 +1,872 @@
-Player,college,state,WAR
+player,college,state,WAR
+A.J. Ellis,Austin Peay State University,TN,83.12
+A.J. Griffin,University of San Diego,CA,40.76
+A.J. Pollock,University of Notre Dame,IN,40.76
+Aaron Crow,University of Missouri Columbia,MO,73.13
+Aaron Cunningham,Everett Community College,WA,80.37
+Aaron Harang,San Diego State University,CA,40.76
+Aaron Heilman,University of Notre Dame,IN,71.70
+Aaron Hill,Louisiana State University,LA,83.81
+Aaron Loup,Tulane University,LA,40.76
+Aaron Poreda,University of San Francisco,CA,40.76
+Aaron Rowand,California State University Fullerton,CA,83.12
+Adam Eaton,Miami University of Ohio,OH,40.76
+Adam Everett,University of South Carolina,SC,40.76
+Adam Greenberg,University of North Carolina at Chapel Hill,NC,40.76
+Adam Kennedy,California State University Northridge,CA,70.38
+Adam LaRoche,Fort Scott Community College,KS,40.76
+Adam Lind,University of South Alabama,AL,77.21
+Adam Loewen,Chipola College,FL,40.76
+Adam Moore,University of Texas at Arlington,TX,68.89
+Adam Ottavino,Northeastern University,MA,40.76
+Adam Rosales,Western Michigan University,MI,40.76
+Adam Russell,Ohio University,OH,66.25
+Adam Warren,University of North Carolina at Chapel Hill,NC,40.76
+Adam Wilk,California State University Long Beach,CA,61.83
+Addison Reed,San Diego State University,CA,40.76
+AJ Ramos,Texas Tech University,TX,40.76
+Albert Pujols,Maple Woods Community College,MO,88.63
+Alex Avila,University of Alabama,AL,88.52
+Alex Castellanos,Belmont Abbey College,NC,40.76
+Alex Cora,University of Miami,FL,61.83
+Alex Gordon,University of Nebraska at Lincoln,NE,89.09
+Alex Hinshaw,Chaffey College,CA,40.76
+Alex Presley,University of Mississippi,MS,86.80
+Alex White,University of North Carolina at Chapel Hill,NC,40.76
+Alex Wilson,Texas A&M University,TX,40.76
+Alex Wood,University of Georgia,GA,40.76
+Alfredo Amezaga,St. Petersburg College,FL,40.76
+Allen Craig,"University of California, Berkeley",CA,87.83
+Andre Ethier,Arizona State University,AZ,87.60
+Andres Torres,"Miami-Dade College, Wolfson Campus",FL,85.25
+Andrew Albers,University of Kentucky,KY,40.76
+Andrew Bailey,Wagner College,NY,75.37
+Andrew Brackman,North Carolina State University,NC,40.76
+Andrew Brown,University of Nebraska at Lincoln,NE,40.76
+Andrew Carignan,University of North Carolina at Chapel Hill,NC,40.76
+Andrew Cashner,Texas Christian University,TX,73.13
+Andrew Miller,University of North Carolina at Chapel Hill,NC,61.83
+Andrew Romine,Arizona State University,AZ,40.76
+Andrew Taylor,North Carolina State University,NC,40.76
+Andy Dirks,Wichita State University,KS,83.81
+Andy LaRoche,Grayson County College,TX,40.76
+Andy Oliver,Oklahoma State University,OK,40.76
+Andy Pettitte,"San Jacinto College, North Campus",TX,40.76
+Andy Sonnanstine,Kent State University,OH,61.83
+Angel Pagan,Indian River Community College,FL,85.25
+Anthony Bass,Wayne State University,MI,61.83
+Anthony Recker,Alvernia College,PA,77.21
+Anthony Slama,Santa Ana College,CA,40.76
+Anthony Varvaro,St. John's University,NY,61.83
+Anthony Vasquez,Texas A&M University,TX,40.76
+Antoan Richardson,Vanderbilt University,TN,77.21
+Aubrey Huff,University of Miami,FL,40.76
+B.J. Rosenberg,University of Louisville,KY,40.76
+Barret Browning,Florida State University,FL,40.76
+Barry Enright,Pepperdine University,CA,78.19
+Barry Zito,Los Angeles Pierce College,CA,40.76
+Ben Francisco,Cypress College,CA,40.76
+Ben Sheets,University of Louisiana at Monroe,LA,40.76
+Ben Zobrist,Dallas Baptist University,TX,89.21
+Bill Bray,College of William and Mary,VA,74.23
+Billy Buckner,University of South Carolina,SC,40.76
+Blake Davis,California State University Fullerton,CA,80.37
+Blake Parker,University of Arkansas,AR,40.76
+Blake Tekotte,University of Miami,FL,40.76
+Blake Wood,Georgia Institute of Technology,GA,61.83
+Bobby Korecky,University of Michigan,MI,40.76
+Bobby LaFromboise,University of New Mexico,NM,40.76
+Bobby Parnell,Charleston Southern University,SC,66.25
+Bobby Wilson,St. Petersburg College,FL,61.83
+Boone Logan,Temple College,TX,68.89
+Brad Boxberger,University of Southern California,CA,40.76
+Brad Brach,Monmouth University,NJ,75.37
+Brad Eldred,Florida International University,FL,40.76
+Brad Emaus,Tulane University,LA,40.76
+Brad Hawpe,Louisiana State University,LA,40.76
+Brad Lidge,University of Notre Dame,IN,70.38
+Brad Lincoln,University of Houston,TX,70.38
+Brad Miller,Clemson University,SC,40.76
+Brad Mills,University of Arizona,AZ,40.76
+Brad Snyder,Ball State University,IN,40.76
+Brad Ziegler,Missouri State University,MO,61.83
+Brandon Bantz,Dallas Baptist University,TX,40.76
+Brandon Belt,University of Texas at Austin,TX,85.25
+Brandon Boggs,Georgia Institute of Technology,GA,75.37
+Brandon Crawford,"University of California, Los Angeles",CA,81.52
+Brandon Cumpton,Georgia Institute of Technology,GA,40.76
+Brandon Finnegan,Texas Christian University,TX,40.76
+Brandon Gomes,Tulane University,LA,71.70
+Brandon Guyer,University of Virginia,VA,71.70
+Brandon Hicks,Texas A&M University,TX,40.76
+Brandon Inge,Virginia Commonwealth University,VA,40.76
+Brandon Lyon,Dixie State College of Utah,UT,77.21
+Brandon McCarthy,Lamar Community College,CO,40.76
+Brandon Morrow,"University of California, Berkeley",CA,61.83
+Brandon Workman,University of Texas at Austin,TX,40.76
+Brendan Harris,College of William and Mary,VA,40.76
+Brendan Ryan,Lewis-Clark State College,ID,88.40
+Brennan Boesch,"University of California, Berkeley",CA,87.83
+Brent Lillibridge,University of Washington,WA,86.80
+Brent Morel,"California Polytechnic State University, San Luis Obispo",CA,86.22
+Brett Carroll,Middle Tennessee State University,TN,61.83
+Brett Cecil,University of Maryland,MD,40.76
+Brett Gardner,College of Charleston,SC,88.40
+Brett Hayes,University of Nevada-Reno,NV,82.09
+Brett Jackson,"University of California, Berkeley",CA,40.76
+Brett Pill,California State University Fullerton,CA,83.81
+Brett Tomko,Florida Southern College,FL,61.83
+Brett Wallace,Arizona State University,AZ,79.79
+Brian Bixler,Eastern Michigan University,MI,40.76
+Brian Bogusevic,Tulane University,LA,87.49
+Brian Burres,Mount Hood Community College,OR,74.23
+Brian Dozier,University of Southern Mississippi,MS,40.76
+Brian Duensing,University of Nebraska at Lincoln,NE,61.83
+Brian Flynn,Wichita State University,KS,40.76
+Brian Fuentes,Merced College,CA,71.70
+Brian Matusz,University of San Diego,CA,68.89
+Brian Omogrosso,Indiana State University,IN,40.76
+Brian Roberts,University of South Carolina,SC,76.41
+Brian Sanches,Lamar University,TX,61.83
+Brian Schlitter,College of Charleston,SC,40.76
+Brian Tallet,Louisiana State University,LA,61.83
+Brian Wilson,Louisiana State University,LA,61.83
+Brock Holt,Rice University,TX,40.76
+Brooks Conrad,Arizona State University,AZ,83.12
+Brooks Raley,Texas A&M University,TX,40.76
+Bruce Billings,San Diego State University,CA,75.37
+Bryan Augenstein,University of Florida,FL,79.05
+Bryan Holaday,Texas Christian University,TX,40.76
+Bryan LaHair,St. Petersburg College,FL,79.79
+Bryan Petersen,"University of California, Irvine",CA,83.12
+Bryan Shaw,California State University Long Beach,CA,61.83
+Buck Farmer,Georgia Institute of Technology,GA,40.76
+Bud Norris,"California Polytechnic State University, San Luis Obispo",CA,61.83
+Burch Smith,University of Oklahoma,OK,40.76
+Burke Badenhop,Bowling Green State University,OH,80.83
+Buster Posey,Florida State University,FL,86.22
+C.J. Fick,California State University Northridge,CA,40.76
+C.J. Wilson,Loyola Marymount University,CA,76.41
+Caleb Thielbar,South Dakota State University,SD,40.76
+Cameron Rupp,University of Texas at Austin,TX,40.76
+Carlos Pena,Northeastern University,MA,87.83
+Carlos Quentin,Stanford University,CA,87.83
+Carlos Torres,Kansas State University,KS,40.76
+Carter Capps,Mount Olive College,NC,40.76
+Casey Blake,Wichita State University,KS,85.25
+Casey Coleman,Florida Gulf Coast University,FL,78.19
+Casey Fien,"California Polytechnic State University, San Luis Obispo",CA,40.76
+Casey Janssen,"University of California, Los Angeles",CA,40.76
+Casey McGehee,California State University Fresno,CA,40.76
+Casper Wells,Towson University,MD,87.14
+Cesar Ramos,California State University Long Beach,CA,66.25
+Chad Beck,University of Louisiana at Lafayette,LA,40.76
+Chad Bettis,Texas Tech University,TX,40.76
+Chad Huffman,Texas Christian University,TX,40.76
+Chad Jenkins,Kennesaw State University,GA,40.76
+Chad Qualls,Los Angeles Harbor College,CA,66.25
+Chad Reineke,Miami University of Ohio,OH,40.76
+Chad Tracy,East Carolina University,NC,40.76
+Chance Ruffin,University of Texas at Austin,TX,66.25
+Charles Brewer,"University of California, Los Angeles",CA,40.76
+Charles Leesman,Xavier University,OH,40.76
+Charlie Blackmon,Georgia Institute of Technology,GA,40.76
+Charlie Furbush,Louisiana State University,LA,71.70
+Chase d'Arnaud,Pepperdine University,CA,40.76
+Chase Headley,University of the Pacific,CA,87.94
+Chase Utley,"University of California, Los Angeles",CA,88.29
+Chris Bootcheck,Auburn University,AL,40.76
+Chris Capuano,Duke University,NC,40.76
+Chris Carpenter,Kent State University,OH,74.23
+Chris Coghlan,University of Mississippi,MS,40.76
+Chris Davis,Navarro College,TX,61.83
+Chris Denorfia,Wheaton College,MA,85.76
+Chris Dickerson,University of Nevada-Reno,NV,81.52
+Chris Dwyer,Clemson University,SC,40.76
+Chris Getz,University of Michigan,MI,82.49
+Chris Gimenez,University of Nevada-Reno,NV,78.19
+Chris Hatcher,University of North Carolina at Wilmington,NC,71.70
+Chris Heisey,Messiah College,PA,87.03
+Chris Herrmann,University of Miami,FL,40.76
+Chris Iannetta,University of North Carolina at Chapel Hill,NC,88.06
+Chris Jakubauskas,Citrus College,CA,77.21
+Chris Johnson,Stetson University,FL,40.76
+Chris Leroux,Winthrop University,SC,70.38
+Chris McGuiness,The Citadel,SC,40.76
+Chris Perez,University of Miami,FL,66.25
+Chris Pettit,Loyola Marymount University,CA,66.25
+Chris Ray,College of William and Mary,VA,66.25
+Chris Robinson,University of Illinois at Urbana-Champaign,IL,40.76
+Chris Rusin,University of Kentucky,KY,40.76
+Chris Sale,Florida Gulf Coast University,FL,61.83
+Chris Snyder,University of Houston,TX,84.50
+Chris Stewart,Riverside Community College,CA,86.22
+Chris Valaika,"University of California, Santa Barbara",CA,80.83
+Chris Woodward,Mount San Antonio College,CA,40.76
+Chris Young,Princeton University,NJ,76.41
+Christian Friedrich,Eastern Kentucky University,KY,40.76
+Chuck James,Chattahoochee Valley Community College,AL,40.76
+Clay Buchholz,McNeese State University,LA,40.76
+Clay Hensley,Lamar University,TX,40.76
+Clay Rapada,Virginia State University,VA,66.25
+Clayton Mortensen,Gonzaga University,WA,40.76
+Clayton Richard,University of Michigan,MI,40.76
+Clete Thomas,Auburn University,AL,40.76
+Cliff Lee,University of Arkansas,AR,82.49
+Cliff Pennington,Texas A&M University,TX,83.12
+Clint Barmes,Olney Central College,IL,88.29
+Clint Robinson,Troy University,AL,40.76
+Coco Crisp,Los Angeles Pierce College,CA,87.83
+Cody Allen,High Point University,NC,40.76
+Cody Asche,University of Nebraska at Lincoln,NE,40.76
+Cody Clark,University of Arkansas,AR,40.76
+Cody Eppley,Virginia Commonwealth University,VA,40.76
+Cody Ransom,South Mountain Community College,AZ,40.76
+Colby Lewis,Bakersfield College,CA,70.38
+Cole Gillespie,Oregon State University,OR,78.19
+Cole Kimball,Centenary College,NJ,70.38
+Collin Cowgill,University of Kentucky,KY,83.12
+Colt Hynes,Texas Tech University,TX,40.76
+Conor Gillaspie,Wichita State University,KS,71.70
+Conor Jackson,"University of California, Berkeley",CA,70.38
+Cord Phelps,Stanford University,CA,40.76
+Corey Brown,Oklahoma State University,OK,61.83
+Corey Kluber,Stetson University,FL,40.76
+Corey Knebel,University of Texas at Austin,TX,40.76
+Corky Miller,San Bernardino Valley College,CA,40.76
+Cory Burns,University of Arizona,AZ,40.76
+Cory Gearrin,Mercer University,GA,71.70
+Cory Luebke,The Ohio State University,OH,81.52
+Cory Wade,Kentucky Wesleyan College,KY,61.83
+Craig Breslow,Yale University,CT,74.23
+Craig Counsell,University of Notre Dame,IN,80.83
+Craig Gentry,University of Arkansas,AR,87.03
+Craig Stammen,University of Dayton,OH,61.83
+Craig Tatum,Mississippi State University,MS,40.76
+Curtis Granderson,University of Illinois at Chicago,IL,88.75
+D.J. Carrasco,Pima Community College,AZ,74.23
+D.J. Mitchell,Clemson University,SC,40.76
+Dallas Braden,American River College,CA,40.76
+Dallas Keuchel,University of Arkansas,AR,40.76
+Dallas McPherson,The Citadel,SC,40.76
+Dan Haren,Pepperdine University,CA,78.19
+Dan Jennings,University of Nebraska at Lincoln,NE,40.76
+Dan Johnson,Butler University,IN,40.76
+Dan Otero,Duke University,NC,40.76
+Dan Runzler,"University of California, Riverside",CA,76.41
+Dan Straily,Marshall University,WV,40.76
+Dan Uggla,University of Memphis,TN,86.80
+Dan Wheeler,Central Arizona College,AZ,61.83
+Dana Eveland,College of the Canyons,CA,61.83
+Dane Sardinha,Pepperdine University,CA,79.79
+Daniel Bard,University of North Carolina at Chapel Hill,NC,75.37
+Daniel Descalso,"University of California, Davis",CA,84.16
+Daniel Hudson,Old Dominion University,VA,84.85
+Daniel McCutchen,University of Central Oklahoma,OK,61.83
+Daniel Moskos,Clemson University,SC,66.25
+Daniel Murphy,Jacksonville University,FL,87.94
+Daniel Schlereth,University of Arizona,AZ,61.83
+Daniel Stange,"University of California, Riverside",CA,40.76
+Danny Espinosa,California State University Long Beach,CA,87.94
+Danny Farquhar,University of Louisiana at Lafayette,LA,40.76
+Danny Herrera,University of New Mexico,NM,71.70
+Danny Valencia,University of Miami,FL,40.76
+Danny Worth,Pepperdine University,CA,61.83
+Darin Mastroianni,University of Southern Indiana,IN,40.76
+Darin Ruf,Creighton University,NE,40.76
+Darren O'Day,University of Florida,FL,40.76
+Darwin Barney,Oregon State University,OR,87.26
+Dave Bush,Wake Forest University,NC,74.23
+Dave Sappelt,Coastal Carolina University,SC,61.83
+David Aardsma,Pennsylvania State University,PA,40.76
+David Adams,University of Virginia,VA,40.76
+David Carpenter,West Virginia University,WV,74.23
+David Cooper,"University of California, Berkeley",CA,40.76
+David DeJesus,"Rutgers, the State University of New Jersey",NJ,85.76
+David Freese,"St. Louis Community College, Meramec Campus",MO,87.49
+David Hale,Princeton University,NJ,40.76
+David Huff,"University of California, Irvine",CA,40.76
+David Lough,Mercyhurst College,PA,40.76
+David Murphy,Baylor University,TX,84.50
+David Phelps,University of Notre Dame,IN,40.76
+David Price,Vanderbilt University,TN,66.25
+David Purcey,University of Oklahoma,OK,66.25
+David Robertson,University of Alabama,AL,66.25
+David Ross,Auburn University,AL,85.76
+Derek Dietrich,Georgia Institute of Technology,GA,40.76
+Deunte Heath,University of Tennessee,TN,40.76
+Dillon Gee,University of Texas at Arlington,TX,40.76
+DJ LeMahieu,Louisiana State University,LA,40.76
+Dominic Leone,Clemson University,SC,40.76
+Don Kelly,Point Park University,PA,83.58
+Donnie Joseph,University of Houston,TX,40.76
+Donnie Murphy,Orange Coast College,CA,40.76
+Donnie Veal,Pima Community College,AZ,40.76
+Donny Lucy,Stanford University,CA,68.89
+Donovan Hand,Jacksonville State University,AL,40.76
+Doug Bernier,Cuesta College,CA,40.76
+Doug Davis,Diablo Valley College,CA,40.76
+Doug Fister,California State University Fresno,CA,78.19
+Doug Slaten,Los Angeles Pierce College,CA,61.83
+Drew Butera,University of Central Florida,FL,40.76
+Drew Carpenter,Sacramento City College,CA,74.23
+Drew Pomeranz,University of Mississippi,MS,66.25
+Drew Smyly,University of Arkansas,AR,40.76
+Drew Storen,Stanford University,CA,61.83
+Drew Stubbs,University of Texas at Austin,TX,87.14
+Drew Sutton,Baylor University,TX,79.79
+Duke Welker,University of Arkansas,AR,40.76
+Dustin Ackley,University of North Carolina at Chapel Hill,NC,88.29
+Dustin Pedroia,Arizona State University,AZ,89.32
+Dusty Hughes,Delta State University,MS,70.38
+Dylan Axelrod,"University of California, Irvine",CA,40.76
+Ed Lucas,Dartmouth College,NH,40.76
+Eddy Rodriguez,University of Miami,FL,40.76
+Edwin Maysonet,Delta State University,MS,40.76
+Efren Navarro,University of Nevada-Las Vegas,NV,61.83
+Eli Whiteside,Delta State University,MS,40.76
+Elih Villanueva,Florida International University,FL,61.83
+Emmanuel Burriss,Kent State University,OH,40.76
+Eric Farris,Loyola Marymount University,CA,71.70
+Eric Fryer,The Ohio State University,OH,80.37
+Eric Hinske,University of Arkansas,AR,71.70
+Eric Patterson,Georgia Institute of Technology,GA,40.76
+Eric Sogard,Arizona State University,AZ,80.83
+Eric Surkamp,North Carolina State University,NC,61.83
+Eric Thames,Pepperdine University,CA,82.49
+Erik Bedard,Norwalk Community College,CT,75.37
+Erik Davis,Stanford University,CA,40.76
+Erik Hamren,University of the Pacific,CA,71.70
+Erik Johnson,"University of California, Berkeley",CA,40.76
+Erik Komatsu,California State University Fullerton,CA,40.76
+Erik Kratz,Eastern Mennonite University,VA,70.38
+Evan Crawford,Auburn University,AL,40.76
+Evan Gattis,,,40.76
+Evan Longoria,Rio Hondo College,CA,89.09
+Evan Meek,Bellevue Community College,WA,68.89
+Evan Reed,"California Polytechnic State University, San Luis Obispo",CA,40.76
+Evan Scribner,Central Connecticut State University,CT,61.83
+Everett Teaford,Georgia Southern University,GA,40.76
+Fred Lewis,Mississippi Gulf Coast Community College,MS,82.09
+Freddy Sanchez,Glendale Community College,CA,84.50
+Gaby Sanchez,University of Miami,FL,87.83
+Garrett Olson,"California Polytechnic State University, San Luis Obispo",CA,66.25
+Garrett Richards,University of Oklahoma,OK,40.76
+Geoff Blum,"University of California, Berkeley",CA,80.83
+George Kontos,Northwestern University,IL,40.76
+George Kottaras,Connors State College,OK,82.49
+George Sherrill,Austin Peay State University,TN,61.83
+Gerald Laird,Cypress College,CA,40.76
+Gerrit Cole,"University of California, Los Angeles",CA,40.76
+Glen Perkins,University of Minnesota,MN,66.25
+Gordon Beckham,University of Georgia,GA,86.51
+Graham Godfrey,College of Charleston,SC,71.70
+Grant Green,University of Southern California,CA,40.76
+Greg Dobbs,Riverside Community College,CA,40.76
+Greg Holland,Western Carolina University,NC,71.70
+Greg Reynolds,Stanford University,CA,66.25
+Heath Bell,Santa Ana College,CA,75.37
+Heath Hembree,College of Charleston,SC,40.76
+Hector Ambriz,"University of California, Los Angeles",CA,40.76
+Hiram Burgos,Bethune-Cookman College,FL,40.76
+Howie Kendrick,St. Johns River Community College,FL,88.40
+Hunter Pence,Texarkana College,TX,88.63
+Huston Street,University of Texas at Austin,TX,61.83
+Ian Kennedy,University of Southern California,CA,70.38
+Ian Kinsler,Arizona State University,AZ,88.98
+Ike Davis,Arizona State University,AZ,86.22
+J.A. Happ,Northwestern University,IL,82.09
+J.D. Martinez,Nova Southeastern University,FL,81.52
+J.J. Putz,University of Michigan,MI,66.25
+J.P. Arencibia,University of Tennessee,TN,86.05
+J.P. Howell,University of Texas at Austin,TX,70.38
+J.R. Towles,Collin College,TX,76.41
+Jack Egbert,"Rutgers, the State University of New Jersey",NJ,40.76
+Jack Hannahan,University of Minnesota,MN,87.72
+Jack Wilson,Oxnard College,CA,86.05
+Jackie Bradley Jr.,University of South Carolina,SC,40.76
+Jacoby Ellsbury,Oregon State University,OR,89.49
+Jake Arrieta,Texas Christian University,TX,75.37
+Jake Dunning,Indiana University-Bloomington,IN,40.76
+Jake Elmore,Arizona State University,AZ,40.76
+Jake Fox,University of Michigan,MI,40.76
+Jake Petricka,Indiana State University,IN,40.76
+James Darnell,University of South Carolina,SC,40.76
+James McDonald,Golden West College,CA,40.76
+James Paxton,University of Kentucky,KY,40.76
+James Russell,University of Texas at Austin,TX,61.83
+Jamey Carroll,University of Evansville,IN,85.76
+Jamie Moyer,St. Joseph's University,PA,40.76
+Jared Burton,Western Carolina University,NC,74.23
+Jared Hughes,California State University Long Beach,CA,70.38
+Jason Bartlett,San Joaquin Delta College,CA,40.76
+Jason Bay,Gonzaga University,WA,85.53
+Jason Berken,Clemson University,SC,75.37
+Jason Castro,Stanford University,CA,40.76
+Jason Donald,University of Arizona,AZ,85.76
+Jason Frasor,Southern Illinois University Carbondale,IL,71.70
+Jason Giambi,California State University Long Beach,CA,85.76
+Jason Grilli,Seton Hall University,NJ,71.70
+Jason Hammel,Treasure Valley Community College,OR,78.19
+Jason Isringhausen,Lewis & Clark Community College,IL,70.38
+Jason Jaramillo,Oklahoma State University,OK,77.21
+Jason Kipnis,Arizona State University,AZ,85.53
+Jason Lane,Santa Rosa Junior College,CA,40.76
+Jason Michaels,Northwest Florida State College,FL,40.76
+Jason Motte,Iona College,NY,66.25
+Jason Vargas,Cypress College,CA,61.83
+Jason Varitek,Georgia Institute of Technology,GA,84.16
+Javier Lopez,University of Virginia,VA,68.89
+Jay Buente,Purdue University,IN,74.23
+Jay Gibbons,California State University Los Angeles,CA,40.76
+JB Shuck,The Ohio State University,OH,61.83
+Jed Lowrie,Stanford University,CA,83.12
+Jedd Gyorko,West Virginia University,WV,40.76
+Jeff Baker,Clemson University,SC,75.37
+Jeff Beliveau,College of Charleston,SC,40.76
+Jeff Clement,University of Southern California,CA,40.76
+Jeff Fulchino,University of Connecticut,CT,71.70
+Jeff Gray,Missouri State University,MO,71.70
+Jeff Karstens,Grossmont College,CA,61.83
+Jeff Keppinger,University of Georgia,GA,40.76
+Jeff Kobernus,"University of California, Berkeley",CA,40.76
+Jeff Manship,University of Notre Dame,IN,40.76
+Jeff Niemann,Rice University,TX,66.25
+Jeff Samardzija,University of Notre Dame,IN,40.76
+Jeff Stevens,Loyola Marymount University,CA,61.83
+Jemile Weeks,University of Miami,FL,87.03
+Jered Weaver,California State University Long Beach,CA,40.76
+Jeremy Accardo,Illinois State University,IL,76.41
+Jeremy Guthrie,Brigham Young University,UT,78.19
+Jeremy Hefner,Oral Roberts University,OK,40.76
+Jeremy Horst,Armstrong Atlantic State University,GA,77.21
+Jeremy Reed,California State University Long Beach,CA,40.76
+Jermaine Curtis,"University of California, Los Angeles",CA,40.76
+Jerome Williams,Southeastern Louisiana University,LA,40.76
+Jerry Blevins,University of Dayton,OH,75.37
+Jerry Hairston,Southern Illinois University Carbondale,IL,86.80
+Jerry Sands,Catawba College,NC,81.52
+Jesse Chavez,Riverside Community College,CA,40.76
+Jesse Crain,University of Houston,TX,73.13
+Jesse Litsch,South Florida Community College,FL,68.89
+Jim Hoey,Rider University,NJ,71.70
+Jim Miller,Mars Hill College,NC,68.89
+Jim Thome,Illinois Central College,IL,86.51
+Jimmy Nelson,University of Alabama,AL,40.76
+Joba Chamberlain,University of Nebraska at Kearney,NE,40.76
+Joe Beimel,Duquesne University,PA,75.37
+Joe Blanton,University of Kentucky,KY,75.37
+Joe Inglett,University of Nevada-Reno,NV,40.76
+Joe Kelly,"University of California, Riverside",CA,40.76
+Joe Mahoney,University of Richmond,VA,40.76
+Joe Martinez,Boston College,MA,40.76
+Joe Nathan,Stony Brook University,NY,66.25
+Joe Paterson,Linfield College,OR,66.25
+Joe Saunders,Virginia Polytechnic Institute and State University,VA,80.83
+Joe Savery,Rice University,TX,61.83
+Joe Smith,Wright State University,OH,61.83
+Joe Thatcher,Indiana State University,IN,61.83
+Joe Thurston,Sacramento City College,CA,61.83
+Joel Pineiro,Edison College,FL,40.76
+Joey Butler,University of New Orleans,LA,40.76
+Joey Devine,North Carolina State University,NC,73.13
+Joey Terdoslavich,California State University Long Beach,CA,40.76
+John Axford,Canisius College,NY,75.37
+John Baker,"University of California, Berkeley",CA,61.83
+John Bowker,California State University Long Beach,CA,40.76
+John Ely,Miami University of Ohio,OH,61.83
+John Gast,Florida State University,FL,40.76
+John Gaub,University of Minnesota,MN,71.70
+John Hester,Stanford University,CA,40.76
+John Lackey,Grayson County College,TX,77.21
+John Lannan,Siena College,NY,40.76
+John Maine,University of North Carolina at Charlotte,NC,40.76
+John Mayberry,Stanford University,CA,86.80
+John McDonald,University of Connecticut at Avery Point,CT,84.85
+Johnny Giavotella,University of New Orleans,LA,78.19
+Jon Jay,University of Miami,FL,87.94
+Jon Rauch,Morehead State University,KY,66.25
+Jonathan Albaladejo,Miami-Dade College,FL,40.76
+Jonathan Diaz,North Carolina State University,NC,40.76
+Jonathan Lucroy,University of Louisiana at Lafayette,LA,85.25
+Jonathan Papelbon,Mississippi State University,MS,66.25
+Jonathan Sanchez,Ohio Dominican University,OH,81.52
+Jonny Gomes,Santa Rosa Junior College,CA,80.37
+Jordan Brown,University of Arizona,AZ,40.76
+Jordan Danks,University of Texas at Austin,TX,40.76
+Jordan Pacheco,University of New Mexico,NM,40.76
+Jordan Zimmermann,University of Wisconsin at Stevens Point,WI,79.05
+Jordy Mercer,Oklahoma State University,OK,40.76
+Jorge Posada,Calhoun Community College,AL,40.76
+Jose Bautista,Chipola College,FL,89.49
+Josh Bard,Texas Tech University,TX,79.05
+Josh Collmenter,Central Michigan University,MI,73.13
+Josh Donaldson,Auburn University,AL,40.76
+Josh Edgin,The Ohio State University,OH,40.76
+Josh Fields,University of Georgia,GA,40.76
+Josh Harrison,University of Cincinnati,OH,86.22
+Josh Kinney,Quincy University,IL,40.76
+Josh Lindblom,Purdue University,IN,68.89
+Josh Outman,University of Central Missouri,MO,40.76
+Josh Phegley,Indiana University-Bloomington,IN,40.76
+Josh Prince,University of Texas at Austin,TX,40.76
+Josh Rodriguez,Rice University,TX,40.76
+Josh Roenicke,"University of California, Los Angeles",CA,66.25
+Josh Rupe,Louisburg College,NC,40.76
+Josh Rutledge,University of Alabama,AL,40.76
+Josh Satin,"University of California, Berkeley",CA,40.76
+Josh Spence,Arizona State University,AZ,61.83
+Josh Tomlin,Texas Tech University,TX,76.41
+Josh Willingham,University of North Alabama,AL,87.72
+Josh Zeid,Tulane University,LA,40.76
+Juan Pierre,University of South Alabama,AL,40.76
+Julio Borbon,University of Tennessee,TN,79.05
+Julio Lugo,Connors State College,OK,40.76
+Justin Christian,Auburn University,AL,83.81
+Justin Freeman,Kennesaw State University,GA,40.76
+Justin Grimm,University of Georgia,GA,40.76
+Justin Hampson,Southwestern Illinois College,IL,40.76
+Justin Masterson,San Diego State University,CA,68.89
+Justin Maxwell,University of Maryland,MD,40.76
+Justin Ruggiano,Texas A&M University,TX,82.49
+Justin Smoak,University of South Carolina,SC,85.25
+Justin Thomas,Youngstown State University,OH,40.76
+Justin Turner,California State University Fullerton,CA,79.79
+Justin Verlander,Old Dominion University,VA,40.76
+Justin Wilson,California State University Fresno,CA,40.76
+Kam Mickolio,College of Eastern Utah,UT,68.89
+Kelly Shoppach,Baylor University,TX,83.81
+Kendall Graveman,Mississippi State University,MS,40.76
+Kevin Chapman,University of Florida,FL,40.76
+Kevin Correia,"California Polytechnic State University, San Luis Obispo",CA,40.76
+Kevin Frandsen,San Jose State University,CA,40.76
+Kevin Gausman,Louisiana State University,LA,40.76
+Kevin Kouzmanoff,University of Arkansas at Little Rock,AR,40.76
+Kevin Mattison,University of North Carolina at Asheville,NC,40.76
+Kevin Pillar,California State University Dominguez Hills,CA,40.76
+Kevin Slowey,Winthrop University,SC,61.83
+Kevin Whelan,Texas A&M University,TX,40.76
+Kevin Youkilis,University of Cincinnati,OH,88.29
+Khris Davis,California State University Fullerton,CA,40.76
+Kip Wells,Baylor University,TX,40.76
+Kole Calhoun,Arizona State University,AZ,40.76
+Kolten Wong,University of Hawaii at Manoa,HI,40.76
+Koyie Hill,Wichita State University,KS,40.76
+Kris Johnson,Wichita State University,KS,40.76
+Kurt Suzuki,California State University Fullerton,CA,86.80
+Kyle Crockett,University of Virginia,VA,40.76
+Kyle Gibson,University of Missouri Columbia,MO,40.76
+Kyle Hudson,University of Illinois at Urbana-Champaign,IL,40.76
+Kyle Lohse,Butte College,CA,61.83
+Kyle Seager,University of North Carolina at Chapel Hill,NC,84.85
+Kyle Weiland,University of Notre Dame,IN,40.76
+Lance Berkman,Rice University,TX,88.29
+Lance Cormier,University of Alabama,AL,73.13
+Lance Lynn,University of Mississippi,MS,68.89
+Lance Pendleton,Rice University,TX,66.25
+Landon Powell,University of South Carolina,SC,40.76
+Lew Ford,Dallas Baptist University,TX,40.76
+Logan Forsythe,University of Arkansas,AR,84.16
+Logan Kensing,Texas A&M University,TX,40.76
+Logan Schafer,"California Polytechnic State University, San Luis Obispo",CA,76.41
+Lonnie Chisenhall,University of South Carolina,SC,86.51
+Louis Coleman,Louisiana State University,LA,73.13
+Lucas Duda,University of Southern California,CA,85.76
+Lucas Luetge,Rice University,TX,40.76
+Luke Carlin,Northeastern University,MA,40.76
+Luke Gregerson,St. Xavier University,IL,71.70
+Luke Hochevar,University of Tennessee,TN,77.21
+Luke Montz,Hill College,TX,40.76
+Luke Putkonen,University of North Carolina at Chapel Hill,NC,40.76
+Luke Scott,Indian River Community College,FL,80.83
+Lyle Overbay,University of Nevada-Reno,NV,40.76
+Manny Parra,American River College,CA,40.76
+Marc Krauss,Ohio University,OH,40.76
+Marc Rzepczynski,"University of California, Riverside",CA,61.83
+Marco Estrada,Glendale Community College,CA,80.37
+Marco Gonzales,Gonzaga University,WA,40.76
+Marcus Semien,"University of California, Berkeley",CA,40.76
+Marcus Stroman,Duke University,NC,40.76
+Marcus Thames,East Central Community College,MS,40.76
+Mark Buehrle,Jefferson College,MO,74.23
+Mark DeRosa,University of Pennsylvania,PA,78.19
+Mark DiFelice,Western Carolina University,NC,73.13
+Mark Ellis,University of Florida,FL,87.60
+Mark Hamilton,Tulane University,LA,61.83
+Mark Hendrickson,Washington State University,WA,40.76
+Mark Kotsay,California State University Fullerton,CA,80.37
+Mark Lowe,University of Texas at Arlington,TX,68.89
+Mark Melancon,University of Arizona,AZ,77.21
+Mark Reynolds,University of Virginia,VA,84.50
+Mark Teahen,St. Mary's College of California,CA,40.76
+Mark Teixeira,Georgia Institute of Technology,GA,88.17
+Mark Worrell,University of Arizona,AZ,40.76
+Marlon Byrd,Georgia Perimeter College,GA,87.49
+Mat Gamel,Chipola College,FL,40.76
+Matt Adams,Slippery Rock University of Pennsylvania,PA,40.76
+Matt Albers,"San Jacinto College, North Campus",TX,75.37
+Matt Angle,The Ohio State University,OH,40.76
+Matt Carpenter,Texas Christian University,TX,40.76
+Matt Daley,Bucknell University,PA,73.13
+Matt den Dekker,University of Florida,FL,40.76
+Matt Diaz,Florida State University,FL,40.76
+Matt Downs,University of Alabama,AL,86.51
+Matt Garza,California State University Fresno,CA,40.76
+Matt Hague,Oklahoma State University,OK,40.76
+Matt Harvey,University of North Carolina at Chapel Hill,NC,40.76
+Matt Langwell,Rice University,TX,40.76
+Matt LaPorta,University of Florida,FL,40.76
+Matt Lindstrom,Brigham Young University-Idaho,ID,68.89
+Matt Maloney,University of Mississippi,MS,61.83
+Matt McBride,Lehigh University,PA,40.76
+Matt Palmer,Three Rivers Community College,MO,40.76
+Matt Reynolds,Austin Peay State University,TN,66.25
+Matt Thornton,Grand Valley State University,MI,61.83
+Matt Tolbert,University of Mississippi,MS,61.83
+Matt Wieters,Georgia Institute of Technology,GA,88.63
+Matthew Joyce,Florida Southern College,FL,88.29
+Max Scherzer,University of Missouri Columbia,MO,40.76
+Micah Owings,Georgia Institute of Technology,GA,66.25
+Michael Bourn,University of Houston,TX,87.94
+Michael Choice,University of Texas at Arlington,TX,40.76
+Michael Crotta,Florida Atlantic University,FL,73.13
+Michael Kohn,College of Charleston,SC,70.38
+Michael McKenry,Middle Tennessee State University,TN,68.89
+Michael Roth,University of South Carolina,SC,40.76
+Michael Schwimer,University of Virginia,VA,61.83
+Michael Taylor,Stanford University,CA,40.76
+Michael Wacha,Texas A&M University,TX,40.76
+Michael Young,"University of California, Santa Barbara",CA,87.83
+Mickey Storey,Florida Atlantic University,FL,40.76
+Mike Adams,Texas A&M University-Kingsville,TX,76.41
+Mike Aviles,Concordia College-Bronxville,NY,81.52
+Mike Baxter,Columbia University,NY,83.12
+Mike Belfiore,Boston College,MA,40.76
+Mike Costanzo,Coastal Carolina University,SC,40.76
+Mike Ekstrom,Oregon State University,OR,40.76
+Mike Fiers,Nova Southeastern University,FL,71.70
+Mike Fontenot,Louisiana State University,LA,81.52
+Mike Gonzalez,"San Jacinto College, North Campus",TX,71.70
+Mike Jacobs,Grossmont College,CA,40.76
+Mike Kickham,Missouri State University,MO,40.76
+Mike MacDougal,Wake Forest University,NC,68.89
+Mike McCoy,University of San Diego,CA,84.50
+Mike Minor,Vanderbilt University,TN,77.21
+Mike Nickeas,Georgia Institute of Technology,GA,66.25
+Mike O'Connor,George Washington University,DC,66.25
+Mike Olt,University of Connecticut,CT,40.76
+Mike Pelfrey,Wichita State University,KS,40.76
+Mike Rivera,Troy University,AL,66.25
+Mike Zagurski,University of Kansas,KS,61.83
+Mike Zunino,University of Florida,FL,40.76
+Miles Mikolas,Nova Southeastern University,FL,40.76
+Mitch Maier,University of Toledo,OH,84.50
+Mitch Moreland,Mississippi State University,MS,68.89
+Mitch Stetter,Indiana State University,IN,61.83
+Mitchell Boggs,University of Georgia,GA,75.37
+Nate Freiman,Duke University,NC,40.76
+Nate Jones,Northern Kentucky University,KY,40.76
+Nate Karns,Texas Tech University,TX,40.76
+Nate Schierholtz,Chabot College,CA,85.53
+Neal Cotts,Illinois State University,IL,40.76
+Neil Wagner,North Dakota State University,ND,40.76
+Nelson Figueroa,Brandeis University,MA,71.70
+Nick Blackburn,Seminole State College,OK,75.37
+Nick Buss,University of Southern California,CA,40.76
+Nick Christiani,Vanderbilt University,TN,40.76
+Nick Green,Georgia Perimeter College,GA,40.76
+Nick Hagadone,University of Washington,WA,40.76
+Nick Hundley,University of Arizona,AZ,87.94
+Nick Maronde,University of Florida,FL,40.76
+Nick Masset,St. Petersburg College,FL,68.89
+Nick Punto,Saddleback College,CA,86.80
+Nick Swisher,The Ohio State University,OH,87.72
+Nick Tepesch,University of Missouri Columbia,MO,40.76
+Nick Vincent,California State University Long Beach,CA,40.76
+Nolan Reimold,Bowling Green State University,OH,85.25
+Nyjer Morgan,Walla Walla Community College,WA,87.94
+Omar Quintanilla,University of Texas at Austin,TX,40.76
+Omir Santos,East Central College,MO,40.76
+Orlando Hudson,Spartanburg Methodist College,SC,83.81
+P.J. Walters,University of South Alabama,AL,61.83
+Paco Rodriguez,University of Florida,FL,40.76
+Pat Burrell,University of Miami,FL,85.53
+Pat Misch,Western Michigan University,MI,68.89
+Pat Neshek,Butler University,IN,66.25
+Paul Goldschmidt,Texas State University,TX,82.09
+Paul Janish,Rice University,TX,40.76
+Paul Maholm,Mississippi State University,MS,68.89
+Pedro Alvarez,Vanderbilt University,TN,40.76
+Pete Orr,Galveston College,TX,77.21
+Phil Coke,San Joaquin Delta College,CA,73.13
+Phil Dumatrait,Bakersfield College,CA,73.13
+Phil Gosselin,University of Virginia,VA,40.76
+Phil Irwin,University of Mississippi,MS,40.76
+Philip Humber,Rice University,TX,61.83
+Placido Polanco,"Miami-Dade College, Wolfson Campus",FL,87.49
+Preston Claiborne,Tulane University,LA,40.76
+Preston Guilmet,University of Arizona,AZ,40.76
+Quintin Berry,San Diego State University,CA,40.76
+R.J. Alvarez,Florida Atlantic University,FL,40.76
+Rajai Davis,University of Connecticut at Avery Point,CT,40.76
+Randy Choate,Florida State University,FL,73.13
+Randy Wells,Southwestern Illinois College,IL,40.76
+Randy Williams,Lamar University,TX,40.76
+Randy Wolf,Pepperdine University,CA,61.83
+Raul Ibanez,"Miami-Dade College, Kendall Campus",FL,40.76
+Reed Johnson,California State University Fullerton,CA,86.05
+Reggie Willits,University of Oklahoma,OK,40.76
+Rex Brothers,Lipscomb University,TN,74.23
+Rich Harden,Central Arizona College,AZ,40.76
+Rich Hill,University of Michigan,MI,40.76
+Rich Thompson,James Madison University,VA,40.76
+Rickie Weeks,Southern University and A&M College,LA,87.94
+Ricky Romero,California State University Fullerton,CA,66.25
+Rob Brantly,"University of California, Riverside",CA,40.76
+Rob Johnson,Saddleback College,CA,40.76
+Rob Scahill,Bradley University,IL,40.76
+Rob Wooten,University of North Carolina at Chapel Hill,NC,40.76
+Robbie Weinhardt,Oklahoma State University,OK,40.76
+Robby Hammock,Georgia Perimeter College,GA,61.83
+Rod Barajas,Cerritos College,CA,86.51
+Roger Kieschnick,Texas Tech University,TX,40.76
+Ross Detwiler,Missouri State University,MO,61.83
+Ross Gload,University of South Florida,FL,40.76
+Ross Ohlendorf,Princeton University,NJ,79.79
+Ross Wolf,Wabash Valley College,IL,40.76
+Roy Oswalt,Holmes Community College,MS,40.76
+Russell Martin,Chipola College,FL,87.83
+Ryan Braun,University of Miami,FL,89.32
+Ryan Cook,University of Southern California,CA,73.13
+Ryan Flaherty,Vanderbilt University,TN,40.76
+Ryan Franklin,Seminole State College,OK,71.70
+Ryan Goins,Dallas Baptist University,TX,40.76
+Ryan Hanigan,Rollins College,FL,87.14
+Ryan Howard,Missouri State University,MO,86.05
+Ryan Jackson,University of Miami,FL,40.76
+Ryan Lavarnway,Yale University,CT,82.49
+Ryan Ludwick,University of Nevada-Las Vegas,NV,40.76
+Ryan Perry,University of Arizona,AZ,66.25
+Ryan Raburn,South Florida Community College,FL,66.25
+Ryan Reid,James Madison University,VA,40.76
+Ryan Roberts,Eastfield College,TX,87.83
+Ryan Rohlinger,University of Oklahoma,OK,66.25
+Ryan Spilborghs,"University of California, Santa Barbara",CA,40.76
+Ryan Theriot,Louisiana State University,LA,80.83
+Ryan Verdugo,Louisiana State University,LA,40.76
+Ryan Vogelsong,Kutztown University of Pennsylvania,PA,82.49
+Ryan Wheeler,Loyola Marymount University,CA,40.76
+Ryan Zimmerman,University of Virginia,VA,87.26
+Sam Demel,Texas Christian University,TX,73.13
+Sam Dyson,University of South Carolina,SC,40.76
+Sam Freeman,University of Kansas,KS,40.76
+Sam Fuld,Stanford University,CA,87.60
+Scott Atchison,Texas Christian University,TX,40.76
+Scott Baker,Oklahoma State University,OK,79.05
+Scott Barnes,St. John's University,NY,40.76
+Scott Cousins,University of San Francisco,CA,80.83
+Scott Downs,University of Kentucky,KY,73.13
+Scott Feldman,College of San Mateo,CA,40.76
+Scott Hairston,Central Arizona College,AZ,82.09
+Scott Linebrink,Concordia University at Austin,TX,68.89
+Scott Maine,University of Miami,FL,68.89
+Scott Proctor,Florida State University,FL,66.25
+Scott Richmond,Bossier Parish Community College,LA,40.76
+Scott Sizemore,Virginia Commonwealth University,VA,87.03
+Sean Doolittle,University of Virginia,VA,40.76
+Sean Green,University of Louisville,KY,71.70
+Sean Henn,McLennan Community College,TX,40.76
+Sean Marshall,Virginia Commonwealth University,VA,68.89
+Sergio Mitre,San Diego City College,CA,68.89
+Sergio Romo,Arizona Western College,AZ,66.25
+Seth Maness,East Carolina University,NC,40.76
+Seth Smith,University of Mississippi,MS,83.12
+Shane Peterson,California State University Long Beach,CA,40.76
+Shane Robinson,Florida State University,FL,40.76
+Shaun Marcum,University of Missouri Columbia,MO,81.52
+Shawn Camp,George Mason University,VA,74.23
+Shawn Kelley,Austin Peay State University,TN,40.76
+Shawn Tolleson,Baylor University,TX,40.76
+Shelley Duncan,University of Arizona,AZ,83.81
+Skip Schumaker,Loyola Marymount University,CA,84.50
+Sonny Gray,Vanderbilt University,TN,40.76
+Stephen Drew,Florida State University,FL,87.49
+Stephen Fife,University of Utah,UT,40.76
+Stephen Pryor,Tennessee Technological University,TN,40.76
+Stephen Strasburg,San Diego State University,CA,61.83
+Steve Ames,Gonzaga University,WA,40.76
+Steve Cishek,Carson-Newman College,TN,73.13
+Steve Clevenger,Southeastern Louisiana University,LA,79.05
+Steve Edlefsen,University of Nebraska at Lincoln,NE,71.70
+Steve Holm,American River College,CA,40.76
+Steve Pearce,Indian River Community College,FL,40.76
+Steve Susdorf,California State University Fresno,CA,40.76
+Steven Hill,Stephen F Austin State University,TX,40.76
+Steven Wright,University of Hawaii at Manoa,HI,40.76
+Tanner Scheppers,California State University Fresno,CA,40.76
+Taylor Teagarden,University of Texas at Austin,TX,79.79
+Ted Lilly,Fresno City College,CA,40.76
+Thad Weber,University of Nebraska at Lincoln,NE,40.76
+Thomas Field,Texas State University,TX,80.37
+Tim Byrdak,Rice University,TX,74.23
+Tim Dillard,Itawamba Community College,MS,73.13
+Tim Federowicz,University of North Carolina at Chapel Hill,NC,78.19
+Tim Hudson,Chattahoochee Valley Community College,AL,61.83
+Tim Lincecum,University of Washington,WA,40.76
+Tim Stauffer,University of Richmond,VA,76.41
+Tim Wakefield,Florida Institute of Technology,FL,40.76
+Todd Cunningham,Jacksonville State University,AL,40.76
+Todd Frazier,"Rutgers, the State University of New Jersey",NJ,84.85
+Todd Helton,University of Tennessee,TN,87.72
+Tom Gorzelanny,Triton College,IL,61.83
+Tom Koehler,Stony Brook University,NY,40.76
+Tommy Hottovy,Wichita State University,KS,70.38
+Tommy Hunter,University of Alabama,AL,70.38
+Tommy Medica,Santa Clara University,CA,40.76
+Tommy Milone,University of Southern California,CA,79.79
+Tony Campana,University of Cincinnati,OH,84.85
+Tony Cingrani,Rice University,TX,40.76
+Tony Sanchez,Boston College,MA,40.76
+Tony Sipp,Clemson University,SC,61.83
+Tony Watson,University of Nebraska at Lincoln,NE,61.83
+Travis Buck,Arizona State University,AZ,81.52
+Travis Hafner,Cowley County Community College,KS,86.80
+Trevor Bauer,"University of California, Los Angeles",CA,40.76
+Trevor Crowe,University of Arizona,AZ,73.13
+Troy Tulowitzki,California State University Long Beach,CA,88.86
+Trystan Magnuson,University of Louisville,KY,40.76
+Tuffy Gosewisch,Arizona State University,AZ,40.76
+Ty Wigginton,University of North Carolina at Asheville,NC,40.76
+Tyler Colvin,Clemson University,SC,40.76
+Tyler Graham,Oregon State University,OR,40.76
+Tyler Greene,Georgia Institute of Technology,GA,81.52
+Tyler Lyons,Oklahoma State University,OK,40.76
+Tyler Moore,Mississippi State University,MS,40.76
+Tyler Thornburg,Charleston Southern University,SC,40.76
+Tyson Brummett,"University of California, Los Angeles",CA,40.76
+Tyson Ross,"University of California, Berkeley",CA,40.76
+Val Pascucci,University of Oklahoma,OK,66.25
+Vance Worley,California State University Long Beach,CA,79.05
+Vic Black,Dallas Baptist University,TX,40.76
+Vinnie Chulk,St. Thomas University,FL,40.76
+Vinnie Pestano,California State University Fullerton,CA,66.25
+Vinny Rottino,University of Wisconsin at La Crosse,WI,40.76
+Wade LeBlanc,University of Alabama,AL,81.52
+Wade Miley,Southeastern Louisiana University,LA,68.89
+Will Ohman,Pepperdine University,CA,66.25
+Will Rhymes,College of William and Mary,VA,40.76
+Will Venable,Princeton University,NJ,87.49
+Willie Bloomquist,Arizona State University,AZ,40.76
+Willie Eyre,College of Eastern Utah,UT,40.76
+Willie Harris,Louisiana State University,LA,40.76
+Wyatt Toregas,Virginia Polytechnic Institute and State University,VA,40.76
+Xavier Nady,"University of California, Berkeley",CA,40.76
+Yan Gomes,Barry University,FL,40.76
+Yasmani Grandal,University of Miami,FL,40.76
+Yonder Alonso,University of Miami,FL,80.83
+Zach Kroenke,University of Nebraska at Lincoln,NE,70.38
+Zach Lutz,Alvernia College,PA,40.76
+Zach Putnam,University of Michigan,MI,40.76
+Zach Stewart,Texas Tech University,TX,61.83
+Zach Walters,University of San Diego,CA,40.76
+Zack Cozart,University of Mississippi,MS,84.85
