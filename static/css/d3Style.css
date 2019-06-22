@@ -14,7 +14,7 @@
 
 .inactive {
   font-weight: lighter;
-  fill: #ffffff;
+  fill: #464646;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
@@ -28,7 +28,7 @@ text {
 }
 
 path {
-  stroke: #ffffff;
+  stroke: #464646;
 }
 
 .dotText {
@@ -49,9 +49,9 @@ path {
   /* position: relative; */
 }
 .dotCircle:hover {
-  fill: #71d0ca;
+  /* fill: #71d0ca; */
   transition: fill .4s ease;
-  stroke: #e3e3e3;
+  stroke: #000000;
   r: 8;
   
 
@@ -68,7 +68,7 @@ path {
 div.d3-tip {
   position: absolute;
   padding: 6px;
-  font-size: 0.75rem;
+  font-size: 0.95rem;
   font-family: Lato;
   line-height: 1em;
   color: rgb(0, 0, 0);
@@ -82,9 +82,9 @@ div.d3-tip {
 
 g text, g line {
   font-family:Lato;
-  fill: #ffffff;
+  fill: #464646;
   text-transform:uppercase;
-  font-size:0.75em;
+  font-size:0.95em;
 
   /* stroke: #efefef; */
 
@@ -92,7 +92,7 @@ g text, g line {
 }
 
 g.tick line {
-  stroke: #ffffff;
+  stroke: #464646;
 }
 /* Mobile Rules */
 @media screen and (max-width: 530px) {
@@ -195,6 +195,7 @@ h1 {
 
 .info {
   padding: 6px 8px;
+  font-family:Lato;
   font: 14px/16px Arial, Helvetica, sans-serif;
   background: white;
   background: rgba(255,255,255,0.8);

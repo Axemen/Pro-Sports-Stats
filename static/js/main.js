@@ -30,15 +30,16 @@ function formatter(number) {
 function colorer(sport) {
     switch (sport) {
         case 'mlb':
-            color = "#dfec93";
+            // color = "#dfec93";
+            color = "#f68838";
             break;
         case 'nba':
-            color = "#62C370";
+            color = "#1d4877";
             break;
         case 'nfl':
-            color = "#92DCE5";
+            color = "#1b8a5a";
             break;
-        default: color = "#000000"
+        default: color = "#fffff"
     }
     return color;
 }
@@ -283,7 +284,7 @@ function loadChart() {
             .attr("transform",
                 "translate(" + (chartWidth / 2) + " ," +
                 (chartHeight + margin.top) + ")")
-            .attr("dy", "1.5em")
+            .attr("dy", "2.5em")
             .attr("id", "x_axis_1")
             .attr("class", "active")
             .text(xAxis_var[0])
