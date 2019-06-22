@@ -2,32 +2,31 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-32x32.png">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+        <link rel="stylesheet" href="static/css/d3Style.css">
+    
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Oswald:100,100i,300,300i,400,400i,700,700i,900,900i">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+            rel="stylesheet">
+      
+        <script src="static/js/d3.v5.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+            integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+            crossorigin=""></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+            integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+            crossorigin="" />
+        <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+        <link rel="stylesheet" href="static/css/style.css">
 
-    <link rel="stylesheet" href="../static/css/d3Style.css">
-
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css?family=Oswald:100,100i,300,300i,400,400i,700,700i,900,900i">
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
-        rel="stylesheet">
-  
-    <script src="../static/js/d3.v5.min.js"></script>
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-        crossorigin=""></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-        crossorigin="" />
-    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
-    <link rel="stylesheet" href="../static/css/style.css">
-
-    <title>Document</title>
+    <title>ProSports</title>
     
 </head>
 
@@ -36,7 +35,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><img class="logo-main-inverted" src="../static/icons/stock-logo.png">ProSports Stats</a>
+            <a class="navbar-brand" href="#"><img class="logo-main-inverted" src="static/icons/stock-logo.png">ProSports Stats</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -262,42 +261,42 @@
                 <div class="col-lg-8 order-lg-2">
                     <div class="p-5">
                             <!-- <div class="row logos_rows">
-                                <div class ="col-sm-6"><a href="https://www.pro-football-reference.com/play-index/psl_finder.cgi?request=1&match=combined&year_min=2009&year_max=2018&season_start=1&season_end=-1&pos%5B%5D=qb&pos%5B%5D=rb&pos%5B%5D=wr&pos%5B%5D=te&pos%5B%5D=e&pos%5B%5D=t&pos%5B%5D=g&pos%5B%5D=c&pos%5B%5D=ol&pos%5B%5D=dt&pos%5B%5D=de&pos%5B%5D=dl&pos%5B%5D=ilb&pos%5B%5D=olb&pos%5B%5D=lb&pos%5B%5D=cb&pos%5B%5D=s&pos%5B%5D=db&pos%5B%5D=k&pos%5B%5D=p&draft_year_min=1936&draft_year_max=2019&draft_slot_min=1&draft_slot_max=500&draft_pick_in_round=pick_overall&conference=any&draft_pos%5B%5D=qb&draft_pos%5B%5D=rb&draft_pos%5B%5D=wr&draft_pos%5B%5D=te&draft_pos%5B%5D=e&draft_pos%5B%5D=t&draft_pos%5B%5D=g&draft_pos%5B%5D=c&draft_pos%5B%5D=ol&draft_pos%5B%5D=dt&draft_pos%5B%5D=de&draft_pos%5B%5D=dl&draft_pos%5B%5D=ilb&draft_pos%5B%5D=olb&draft_pos%5B%5D=lb&draft_pos%5B%5D=cb&draft_pos%5B%5D=s&draft_pos%5B%5D=db&draft_pos%5B%5D=k&draft_pos%5B%5D=p&c1stat=av&c1comp=gt&c5val=1.0&order_by=av"><img class="logo_resources" src="../static/icons/pfr-logo.png"></img></a></div>
-                                <div class ="col-sm-6"><a href="http://www.espn.com/mlb/attendance"><img class="logo_resources" src="../static/icons/espn_logo.png"></img></a></div>
+                                <div class ="col-sm-6"><a href="https://www.pro-football-reference.com/play-index/psl_finder.cgi?request=1&match=combined&year_min=2009&year_max=2018&season_start=1&season_end=-1&pos%5B%5D=qb&pos%5B%5D=rb&pos%5B%5D=wr&pos%5B%5D=te&pos%5B%5D=e&pos%5B%5D=t&pos%5B%5D=g&pos%5B%5D=c&pos%5B%5D=ol&pos%5B%5D=dt&pos%5B%5D=de&pos%5B%5D=dl&pos%5B%5D=ilb&pos%5B%5D=olb&pos%5B%5D=lb&pos%5B%5D=cb&pos%5B%5D=s&pos%5B%5D=db&pos%5B%5D=k&pos%5B%5D=p&draft_year_min=1936&draft_year_max=2019&draft_slot_min=1&draft_slot_max=500&draft_pick_in_round=pick_overall&conference=any&draft_pos%5B%5D=qb&draft_pos%5B%5D=rb&draft_pos%5B%5D=wr&draft_pos%5B%5D=te&draft_pos%5B%5D=e&draft_pos%5B%5D=t&draft_pos%5B%5D=g&draft_pos%5B%5D=c&draft_pos%5B%5D=ol&draft_pos%5B%5D=dt&draft_pos%5B%5D=de&draft_pos%5B%5D=dl&draft_pos%5B%5D=ilb&draft_pos%5B%5D=olb&draft_pos%5B%5D=lb&draft_pos%5B%5D=cb&draft_pos%5B%5D=s&draft_pos%5B%5D=db&draft_pos%5B%5D=k&draft_pos%5B%5D=p&c1stat=av&c1comp=gt&c5val=1.0&order_by=av"><img class="logo_resources" src="static/icons/pfr-logo.png"></img></a></div>
+                                <div class ="col-sm-6"><a href="http://www.espn.com/mlb/attendance"><img class="logo_resources" src="static/icons/espn_logo.png"></img></a></div>
 
 
                             </div>
                             <div class="row lgoos_rows">
    
-                                    <div class ="col-sm-6"><a href="https://www.baseball-reference.com/"><img class="logo_resources" src="../static/icons/bb-ref_logo.png"></img></a></div>
-                                    <div class ="col-sm-6"><a href="https://www.spotrac.com/mlb/rankings/"><img class="logo_resources" src="../static/icons/spottrac_logo.png"></a></img></div>
+                                    <div class ="col-sm-6"><a href="https://www.baseball-reference.com/"><img class="logo_resources" src="static/icons/bb-ref_logo.png"></img></a></div>
+                                    <div class ="col-sm-6"><a href="https://www.spotrac.com/mlb/rankings/"><img class="logo_resources" src="static/icons/spottrac_logo.png"></a></img></div>
 
                                 </div>
                                 <div class="row logos_rows">
-                                        <div class ="col-sm-6"><a href="https://www.basketball-reference.com/play-index/tiny.fcgi?id=DdD3l"><img class="logo_resources" src="../static/icons/bbr-logo.png"></img></a></div>
-                                        <div class ="col-sm-6"><a href="https://en.wikipedia.org/wiki/List_of_World_Series_champions"><img class="logo_resources" src="../static/icons/wikipedia_logo.png"></img></a></div>
+                                        <div class ="col-sm-6"><a href="https://www.basketball-reference.com/play-index/tiny.fcgi?id=DdD3l"><img class="logo_resources" src="static/icons/bbr-logo.png"></img></a></div>
+                                        <div class ="col-sm-6"><a href="https://en.wikipedia.org/wiki/List_of_World_Series_champions"><img class="logo_resources" src="static/icons/wikipedia_logo.png"></img></a></div>
 
                                     </div> -->
 
                                     <article class="logo_containers">
-                                            <span></span><img class="logo"  src="../static/icons/pfr-logo.png" alt="pro-football-logo" />
+                                            <span></span><img class="logo"  src="static/icons/pfr-logo.png" alt="pro-football-logo" />
                                         </article>
                                         
                                         <article class="logo_containers">
-                                            <span></span><img class="logo-inverted" src="../static/icons/espn_logo.png" alt="espn-logo" />
+                                            <span></span><img class="logo-inverted" src="static/icons/espn_logo.png" alt="espn-logo" />
                                         </article>
                                         
                                         <article class="logo_containers">
-                                            <span></span><img class="logo"  src="../static/icons/bb-ref_logo.png" alt="baseball-reference-logo" />
+                                            <span></span><img class="logo"  src="static/icons/bb-ref_logo.png" alt="baseball-reference-logo" />
                                         </article>
                                         <article class="logo_containers">
-                                                <span></span><img class="logo-inverted"  src="../static/icons/spottrac_logo.png" alt="spottrac-logo" />
+                                                <span></span><img class="logo-inverted"  src="static/icons/spottrac_logo.png" alt="spottrac-logo" />
                                             </article>
                                             <article class="logo_containers">
-                                                    <span></span><img class="logo"  src="../static/icons/bbr-logo.png" alt="basketball-reference-logo" />
+                                                    <span></span><img class="logo"  src="static/icons/bbr-logo.png" alt="basketball-reference-logo" />
                                                 </article>
                                                 <article class="logo_containers">
-                                                        <span></span><img  class="logo" src="../static/icons/wikipedia_logo.png" alt="wikipedia-logo" />
+                                                        <span></span><img  class="logo" src="static/icons/wikipedia_logo.png" alt="wikipedia-logo" />
                                                     </article>
                                                   
                     </div>
@@ -317,17 +316,17 @@
             <p class="m-0 text-center text-black small">Logan Fitzpatrick, Ehsan Khan, Devynn Moreno, Jonathan Randolph
             </p>
             <p class="m-0 text-center text-black small">Rice University Data Analytics Boot Camp | July 2019</p>
-            <img class="logo-main-inverted" src="../static/icons/stock-logo.png">
+            <img class="logo-main-inverted" src="static/icons/stock-logo.png">
         </div>
         <!-- /.container -->
     </footer>
 
    
-    <!-- <script src="../static/js/chroma.js"></script> -->
-    <script src="../static/js/config.js"></script>
-    <script type="text/javascript" src="../static/js/main.js"></script>
-    <script src="../static/js/choropleth_spend.js"></script>
-    <script src="../static/js/infographics.js"></script>
+    <!-- <script src="static/js/chroma.js"></script> -->
+    <script src="static/js/config.js"></script>
+    <script type="text/javascript" src="static/js/main.js"></script>
+    <script src="static/js/choropleth_spend.js"></script>
+    <script src="static/js/infographics.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
 
