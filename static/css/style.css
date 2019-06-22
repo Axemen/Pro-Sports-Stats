@@ -324,13 +324,13 @@ height: 2px;
 h1, h3 {
 text-align: center;
 }
-.section_1 {
-background: #d6d6d6;
+/* .section_1 {
+background: rgb(246, 247, 248);
 
 }
 .section_2 {
-background: #e3e3e3;
-}
+background: #e85050;
+} */
 .grid-container {
   display: grid;
   text-align:center;
@@ -439,7 +439,7 @@ h3 {
 }
 
 .section_1 {
-  background: #b5b5b5;
+  background: rgb(246, 247, 248);
 }
 
 .section_2 {
@@ -482,3 +482,5 @@ h3 {
 .grid-container {
 /* line-height: 0px; */
 }
+
+
