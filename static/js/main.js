@@ -26,22 +26,6 @@ function formatter(number) {
     var formatted = numeral(number).format('($ 0.00 a)');
     return formatted;
 }
-const image_link_pretext = "static/icons/team_logos/"
-function logoer(team) {
-    switch (team) {
-        case 'hawks':
-            image_link = image_link_pretext + "hawks.png";
-            break;
-        case 'rockets':
-            image_link = image_link_pretext + "rockets.png";;
-            break;
-        case 'grizzlies':
-            image_link = image_link_pretext + "grizzlies.png";
-            break;
-        default: image_link = image_link_pretext + "rockets.png";
-    }
-    return image_link;
-}
 
 
 function colorer(sport) {
@@ -262,7 +246,7 @@ function loadChart() {
                 div.transition(t)
                     .duration(50)
                     .style("opacity", 1);
-                div.html("<img class='tooltip_logo' src='../icons/team_logos/"+ team[i] + ".png'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
+                div.html("<img class='tooltip_logo' src='../static/icons/team_logos/"+ team[i] + ".png'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
                     + x_val + formatter(x_data[i])
                     + x_unit + "<br/>"
                     + y_val + y_data[i] + y_unit)
@@ -401,7 +385,7 @@ function loadChart() {
                     div.transition(t)
                         .duration(50)
                         .style("opacity", 1);
-                    div.html("<img class='tooltip_logo' src='../icons/team_logos/"+ team[i] + ".png'/>" +team[i] + " (" + year[i] + ")" + "<br/>"
+                    div.html("<img class='tooltip_logo' src='../static/icons/team_logos/"+ team[i] + ".png'/>" +team[i] + " (" + year[i] + ")" + "<br/>"
                         + x_val + formatter(x_data[i])
                         + x_unit + "<br/>"
                         + y_val + y_data[i] + y_unit)
