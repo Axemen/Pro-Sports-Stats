@@ -14,7 +14,7 @@
         href="https://fonts.googleapis.com/css?family=Oswald:100,100i,300,300i,400,400i,700,700i,900,900i">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
         rel="stylesheet">
-
+  
     <script src="../static/js/d3.v5.min.js"></script>
     <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
         integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
@@ -23,7 +23,6 @@
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-    <!-- <script src="https://unpkg.com/d3-simple-slider"></script> -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
     <link rel="stylesheet" href="../static/css/style.css">
 
@@ -46,12 +45,16 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#map">MAP</a>
                     </li>
+                  
                     <li class="nav-item">
                         <a class="nav-link" href="#scatter">PLOT</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#pick_three">PICK THREE</a>
                     </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="#resources">RESOURCES</a>
+                        </li>
                     <li>
                         <a target="#_blank" href="https://github.com/Axemen/project-2" style="padding-left:20px;">
                             <img width="25px" src="../static/icons/GitHub-Mark-Light-32px.png">
@@ -67,7 +70,7 @@
             <div class="container">
                 <h1 class="main-banner-heading mb-0">Professional Sports Salaries</h1>
                 <h2 class="main-banner-subheading mb-0">A Look at MLB, NBA & NFL Salary Spend</h2>
-                <a href="#map" class="btn btn-primary btn-xl mt-5">Get Started</a>
+                <!-- <a href="#map" class="btn btn-primary btn-xl mt-5">Get Started</a> -->
             </div>
         </div>
 
@@ -78,12 +81,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 order-lg-1">
                     <div class="p-5">
-                        <h2 class="display-1">Spend Across States...</h2>
+                        <h2 class="display-1">States with the Highest Paid and Rated Athletes</h2>
                         <hr class="header-bar">
-                        <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid,
-                            mollitia odio veniam
-                            sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                            voluptatum molestiae adipisci, beatae obcaecati.</p>
+                        <p class="display-1">Using the interactive map, look at the average success metric and salary for professional athletes from each state. 
+                                This can be observed for the years 2011-2018. This data is based on what state the players were drafted from in each sport.</p>
                         <select id="map_metric" class="minimal" onChange="changemapMetric(this)">
                             <option value="war" id="map-sport-selected" selected>MLB</option>
                             <option value="per">NBA</option>
@@ -167,10 +168,10 @@
                         <h2 class="display-1">Spend and Performance...</h2>
                         <hr class="header-bar">
 
-                        <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid,
-                            mollitia odio veniam
-                            sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                            voluptatum molestiae adipisci, beatae obcaecati.</p>
+                        <p class="display-1">This data shows relationships between team attendance or success compared to how much they are spending each year, 
+                                broken down by sport. For attendance, we looked at the average attendance relative to stadium capacity for all three sports. 
+                                Success for the different sports is defined by their win/loss record for that respective year. 
+                                </p>
                         <select id="sport-inds" class="minimal" onChange="changesportSelection(this)">
                             <option value="mlb" id="sport-selected" selected>MLB</option>
                             <option value="nba">NBA</option>
@@ -207,10 +208,10 @@
                                 <h2 class="display-1">Pick Three...</h2>
                                 <hr class="header-bar">
 
-                                <p class="display-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
-                                    sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                                    voluptatum molestiae adipisci, beatae obcaecati.</p>
-                                    
+                                <p class="display-1">Use this feature to determine the best professional athlete that was drafted from each state. Here we identify the
+                                        top player from each sport that has the highest success metric (in percentile) and also display what school they were drafted 
+                                        from. </p>
+                                    <select id="sport-picker" class="minimal" onchange="optionChanged(this.value)"></select>
                             </div>
                         </div>
                         
@@ -221,7 +222,7 @@
                                                 <div class="card-card_1 card" id="mlbcard">mlb</div>
                                                 <div class="card-card_2 card" id="nbacard">nba</div>
                                                 <div class="card-card_3 card" id="nflcard">nfl</div>
-                                                <div class="card-card_selector"><select id="sport-picker" class="minimal" onchange="optionChanged(this.value)"></select></div>
+                                                <!-- <div class="card-card_selector"><select id="sport-picker" class="minimal" onchange="optionChanged(this.value)"></select></div> -->
                                               </div>
 
                                         
@@ -242,7 +243,7 @@
 
 
     </section>
-    <section class="section_1">
+    <section class="section_1" id="resources">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4 order-lg-1">
@@ -294,14 +295,12 @@
     </footer>
 
    
-    <!-- <script src="../static/js/chroma.js"></script> -->
     <script src="../static/js/config.js"></script>
     <script type="text/javascript" src="../static/js/main.js"></script>
     <script src="../static/js/choropleth.js"></script>
     <script src="../static/js/infographics.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
-    <script src="../static/js/scripts.js"></script>
 
 </body>
 

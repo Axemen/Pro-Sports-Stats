@@ -1,6 +1,6 @@
 let metric = 'war'
 let year = '2018'
-let year_spend='war_spend'
+let year_spend=`${year}_spend`
 loadMap(metric, year);
 
 
@@ -10,7 +10,8 @@ function changemapMetric(newMetric){
     mapContainer.select('div').remove();
     mapContainer.append('div').attr('id', 'map');
     metric = newMetric.value;
-    loadMap(metric, year);
+    year_spend=`${metric}_spend`;
+    loadMap(metric, year, year_spend);
 }
 
 // function changemapYear(newYear){
@@ -158,7 +159,9 @@ function loadMap(metric, year, year_spend) {
             info.update = function (props) {
                 this._div.innerHTML = '<h4> Average ' + metric.toUpperCase() + ' Rating & Salary Per state</h4>' + (props ?
                     '<b>' + props.abbr + '</b><br> ' 
-                    + props[year] + ` ${metric.toUpperCase()}` + '<br>'+ numeral(props[year_spend]).format('($ 0.00 a)')
+                    + props[year] + ` ${metric.toUpperCase()}` + '<br>'+ 
+                    props[year_spend]
+                    // numeral(props[year_spend]).format('($ 0.00 a)')
                     : 'Hover over a state');
 
             };
@@ -192,7 +195,7 @@ function loadMap(metric, year, year_spend) {
 
             const yearDropdown = d3.select('#map_year').on('change', d => {
                 year = d3.event.target.value;
-                year_spend = d3.event.target.value + "_spend";
+                year_spend = `${year}_spend`;
 
                 geojson.setStyle(style);
             })

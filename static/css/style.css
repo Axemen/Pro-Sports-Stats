@@ -382,7 +382,7 @@ div.home_text, div.college_text, div.home_text_2, div.college_text_2 {
   display: grid;
   text-align:center;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows:1fr;
   grid-template-areas: "card-card_selector card-card_selector card-card_selector" "card-card_1 card-card_2 card-card_3";
 }
 

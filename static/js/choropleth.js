@@ -1,6 +1,6 @@
 let metric = 'war'
 let year = '2018'
-let year_spend='war_spend'
+let year_spend=`${year}_spend`
 loadMap(metric, year);
 
 
@@ -10,7 +10,8 @@ function changemapMetric(newMetric){
     mapContainer.select('div').remove();
     mapContainer.append('div').attr('id', 'map');
     metric = newMetric.value;
-    loadMap(metric, year);
+    year_spend=`${metric}_spend`;
+    loadMap(metric, year, year_spend);
 }
 
 // function changemapYear(newYear){
@@ -156,9 +157,9 @@ function loadMap(metric, year, year_spend) {
             };
 
             info.update = function (props) {
-                this._div.innerHTML = '<h4> Average ' + metric.toUpperCase() + ' Rating & Salary Per state</h4>' + (props ?
+                this._div.innerHTML = '<h4> Average ' + metric.toUpperCase() + ' Rating Per state</h4>' + (props ?
                     '<b>' + props.abbr + '</b><br> ' 
-                    + props[year] + ` ${metric.toUpperCase()}` + '<br>'+ numeral(props[year_spend]).format('($ 0.00 a)')
+                    + props[year] + ` ${metric.toUpperCase()}`
                     : 'Hover over a state');
 
             };
@@ -177,7 +178,7 @@ function loadMap(metric, year, year_spend) {
              
                 let format = d3.format('.1f');
                 div.innerHTML = `<div class = "row">
-                                <div class = "col-sm-12">Percenitle</div>
+                                <div class = "col-sm-12">Ratings<br>Percentile</div>
                                 <div class = "col-sm-12"><i style = "background: #ee3e32"></i> 100%</div>
                                 <div class = "col-sm-12"><i style = "background: #f68838"></i> 75%</div>
                                 <div class = "col-sm-12"><i style = "background: #fbb021"></i> 50%</div>
@@ -192,7 +193,7 @@ function loadMap(metric, year, year_spend) {
 
             const yearDropdown = d3.select('#map_year').on('change', d => {
                 year = d3.event.target.value;
-                year_spend = d3.event.target.value + "_spend";
+                year_spend = `${year}_spend`;
 
                 geojson.setStyle(style);
             })
