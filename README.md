@@ -1,1 +1,1 @@
-![Prostat](static/images/webpage.png)
+![Prostat](static/images/Webpage.png)
