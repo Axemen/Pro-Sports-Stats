@@ -156,7 +156,7 @@ function loadChart() {
         var rank = csvData.map(csvDatum => +csvDatum.RK);
         var year = csvData.map(csvDatum => +csvDatum.year);
         var sport = csvData.map(csvDatum => csvDatum.sport);
-        var team = csvData.map(csvDatum => csvDatum.Team_Name);
+        var team = csvData.map(csvDatum => (csvDatum.Team_Name).toLowerCase());
         var state = csvData.map(csvDatum => csvDatum.state);
 
         var x_min = d3.min(x_data) * 0.85;
@@ -273,7 +273,7 @@ function loadChart() {
             .attr("y", (d, i) => yScale(y_data[i]))
             // .attr("r", 5)
             // .attr('xlink:href', "https://prosports-stats.herokuapp.com/team_img/" + team[i].toLowerCase())
-                        .attr('xlink:href', (d,i) => ("https://prosports-stats.herokuapp.com/team_img/" + team[i].toLowerCase())
+                        .attr('xlink:href', (d,i) => ("https://prosports-stats.herokuapp.com/team_img/" + team[i].replace("'", ""))
                             // "https://prosports-stats.herokuapp.com/team_img/"+ team[i].toLowerCase()
                         // console.log(team[i].toLowerCase())
                         // console.log(d)
@@ -290,7 +290,7 @@ function loadChart() {
                 div.transition(t)
                     .duration(50)
                     .style("opacity", 1);
-                div.html("<img class='tooltip_logo' src='https://prosports-stats.herokuapp.com/team_img/"+ team[i].toLowerCase() + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
+                div.html("<img class='tooltip_logo' src='https://prosports-stats.herokuapp.com/team_img/"+ team[i].replace("'", "") + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
                 // div.html("<img class='tooltip_logo' src='/team_img/"+ team[i] + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
    
                 + x_val + formatter(x_data[i])
@@ -429,7 +429,7 @@ function loadChart() {
                     div.transition(t)
                         .duration(50)
                         .style("opacity", 1);
-                    div.html("<img class='tooltip_logo' src='../static/images/"+ team[i] + ".png'/>" +team[i] + " (" + year[i] + ")" + "<br/>"
+                    div.html("<img class='tooltip_logo' src='https://prosports-stats.herokuapp.com/team_img/" + team[i].replace("'", "") + "'/>" +team[i] + " (" + year[i] + ")" + "<br/>"
                         + x_val + formatter(x_data[i])
                         + x_unit + "<br/>"
                         + y_val + y_data[i] + y_unit)
