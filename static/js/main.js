@@ -199,7 +199,6 @@ function loadChart() {
             .attr("class", "d3-tip")
             .style("opacity", 0);
 
-
         // chartGroup.selectAll("circle")
         //     .data(csvData)
         //     .enter()
@@ -262,18 +261,17 @@ function loadChart() {
         //     });
 
 
-
         chartGroup.selectAll("circle")
             .data(csvData)
             .enter()
             .append("image")
-            // .attr("class", "dotCircle")
+            .attr("class", "dotImg")
             // .style("fill", (d, i) => colorer(sport[i]))
             .attr("x", (d, i) => xScale(x_data[i]))
             .attr("y", (d, i) => yScale(y_data[i]))
             // .attr("r", 5)
             // .attr('xlink:href', "https://prosports-stats.herokuapp.com/team_img/" + team[i].toLowerCase())
-                        .attr('xlink:href', (d,i) => ("https://prosports-stats.herokuapp.com/team_img/" + team[i].replace("'", ""))
+            .attr('xlink:href', (d,i) => ("https://prosports-stats.herokuapp.com/team_img/" + team[i].replace("'", ""))
                             // "https://prosports-stats.herokuapp.com/team_img/"+ team[i].toLowerCase()
                         // console.log(team[i].toLowerCase())
                         // console.log(d)
@@ -292,7 +290,7 @@ function loadChart() {
                     .style("opacity", 1);
                 div.html("<img class='tooltip_logo' src='https://prosports-stats.herokuapp.com/team_img/"+ team[i].replace("'", "") + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
                 // div.html("<img class='tooltip_logo' src='/team_img/"+ team[i] + "'/>" + team[i] + " (" + year[i] + ")" + "<br/>"
-   
+  
                 + x_val + formatter(x_data[i])
                     + x_unit + "<br/>"
                     + y_val + y_data[i] + y_unit)
@@ -423,7 +421,7 @@ function loadChart() {
             var yAxis = d3.axisLeft(yScale).ticks(10);
            
             chartGroup.select("#y_axis_line").transition(t).call(yAxis);
-            chartGroup.selectAll("circle").data(y_data)
+            chartGroup.selectAll(".dotImg").data(y_data)
                 .on('mouseover', function (d, i) {
                     d3.select(this).transition(t);
                     div.transition(t)
@@ -443,7 +441,7 @@ function loadChart() {
 
 
 
-            chartGroup.selectAll(".dotCircle").transition(t)
+            chartGroup.selectAll(".dotImg").transition(t)
                 .attr("cy", (d, i) => yScale(y_data[i]));
 
             // chartGroup.selectAll(".dotText").transition(t)
